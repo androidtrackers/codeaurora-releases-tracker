@@ -3,6 +3,9 @@ Android releases
 
 | Date | Tag / Build ID | Chipset | Manifest | Android Version|
 |:-----|:---------------|:--------|:---------|:---------------|
+| October 17, 2018 | LA.UM.6.1.1-06800-sdm660.0 | sdm660\_64 |LA.UM.6.1.1-06800-sdm660.0.xml| 07.01.01 |
+| October 17, 2018 | LA.BR.1.2.9-06010-8x09.0 | msm8909 |LA.BR.1.2.9-06010-8x09.0.xml| 07.01.02 |
+| October 17, 2018 | LA.UM.6.8.r1-07500-SDM710.0 | sdm710 |LA.UM.6.8.r1-07500-SDM710.0.xml| 08.01.00 |
 | October 16, 2018 | LA.UM.7.8.r1-03600-SDM710.0 | sdm710 |LA.UM.7.8.r1-03600-SDM710.0.xml| 09.00.00 |
 | October 16, 2018 | LA.UM.5.5.r1-09000-8x96.0-1 | msm8996 |LA.UM.5.5.r1-09000-8x96.0-1.xml| 07.01.02 |
 | October 16, 2018 | LA.UM.6.8.r2-02500-SDM710.0 | sdm710 |LA.UM.6.8.r2-02500-SDM710.0.xml| 08.01.00 |
@@ -4980,3 +4983,5 @@ Android releases
 | August 08, 2012 | M8960AAAAANLYA17301J | msm8960 | M8960AAAAANLYA17301J.xml| 04.01.01|
 | August 08, 2012 | M8625SSNSKMLYA1220 | msm8625 | M8625SSNSKMLYA1220.xml| 04.01.01|
 | August 08, 2012 | M8260AAABQNLZA313040 | msm8660\_surf | M8260AAABQNLZA313040.xml| 04.01.01|
+
+
