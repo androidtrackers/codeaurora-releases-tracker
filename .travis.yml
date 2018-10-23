@@ -1,0 +1,15 @@
+sudo: required
+language: python
+python:
+  - "3.6"
+
+before_install:
+  - sudo apt-get install -y pandoc
+addons:
+  apt:
+    update: true
+
+script:
+  - wget -q https://github.com/yshalsager/telegram.sh/raw/master/telegram && chmod +x telegram
+  - chmod +x sync.sh
+  - ./sync.sh
