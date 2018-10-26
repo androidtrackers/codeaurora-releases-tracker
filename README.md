@@ -3,6 +3,9 @@ Android releases
 
 | Date | Tag / Build ID | Chipset | Manifest | Android Version|
 |:-----|:---------------|:--------|:---------|:---------------|
+| October 26, 2018 | LA.UM.6.6.2.r1-06200-89xx.0 | msm8953\_64 |LA.UM.6.6.2.r1-06200-89xx.0.xml| 08.01.00 |
+| October 26, 2018 | LA.UM.6.8.r3-02400-SDM710.0 | sdm710 |LA.UM.6.8.r3-02400-SDM710.0.xml| 08.01.00 |
+| October 26, 2018 | LA.UM.7.4.r1-03800-8x98.0 | msm8998 |LA.UM.7.4.r1-03800-8x98.0.xml| 09.00.00 |
 | October 25, 2018 | LA.UM.7.6.2.r1-03700-89xx.0 | msm8937\_64 |LA.UM.7.6.2.r1-03700-89xx.0.xml| 09.00.00 |
 | October 25, 2018 | LA.UM.7.6.r1-03100-89xx.0 | msm8953\_64 |LA.UM.7.6.r1-03100-89xx.0.xml| 09.00.00 |
 | October 25, 2018 | LA.UM.6.7.r3-01600-8x09.0 | msm8909go |LA.UM.6.7.r3-01600-8x09.0.xml| 08.01.00 |
