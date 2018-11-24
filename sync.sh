@@ -20,7 +20,7 @@ cat changes | while read line; do
 	chipset=$(echo $line | cut -d '|' -f4)
 	manifest=$(echo $line | cut -d '|' -f5)
 	android=$(echo $line | cut -d '|' -f6)
-	./telegram -t $bottoken -c @CAFReleases -M "New CAF release detected!
+	python telegram.py -t $bottoken -c @CAFReleases -M "New CAF release detected!
 	Chipset:*$chipset*
 	Android:*$android* 
 	Tag:*$tag*
