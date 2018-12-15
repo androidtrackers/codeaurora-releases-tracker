@@ -3,6 +3,7 @@ Android releases
 
 | Date | Tag / Build ID | Chipset | Manifest | Android Version|
 |:-----|:---------------|:--------|:---------|:---------------|
+| December 15, 2018 | LA.UM.6.8.1.r2-00600-QCS605.0 | qcs605 |LA.UM.6.8.1.r2-00600-QCS605.0.xml| 08.01.00 |
 | December 14, 2018 | LA.UM.7.6.2.r1-04600-89xx.0 | msm8953\_64 |LA.UM.7.6.2.r1-04600-89xx.0.xml| 09.00.00 |
 | December 13, 2018 | LA.UM.7.4.r1-04200-8x98.0 | msm8998 |LA.UM.7.4.r1-04200-8x98.0.xml| 09.00.00 |
 | December 13, 2018 | LA.BR.1.2.9-06510-8x09.0 | msm8909 |LA.BR.1.2.9-06510-8x09.0.xml| 07.01.02 |
