@@ -3,6 +3,8 @@ Android releases
 
 | Date | Tag / Build ID | Chipset | Manifest | Android Version|
 |:-----|:---------------|:--------|:---------|:---------------|
+| January 18, 2019 | LA.UM.7.2.c1-00200-sdm660.0 | sdm660\_64 |LA.UM.7.2.c1-00200-sdm660.0.xml| 09.00.00 |
+| January 17, 2019 | LA.UM.7.6.2.r1-05700-89xx.0 | msm8953\_64 |LA.UM.7.6.2.r1-05700-89xx.0.xml| 09.00.00 |
 | January 16, 2019 | LA.UM.7.3.r1-06700-sdm845.0 | sdm845 |LA.UM.7.3.r1-06700-sdm845.0.xml| 09.00.00 |
 | January 16, 2019 | LA.UM.7.8.r1-04600-SDM710.0 | sdm710 |LA.UM.7.8.r1-04600-SDM710.0.xml| 09.00.00 |
 | January 14, 2019 | LA.HB.1.1.8-02710-8x96.0 | msm8996 |LA.HB.1.1.8-02710-8x96.0.xml| 07.00.00 |
