@@ -21,7 +21,7 @@ with open('README.md', 'w') as o:
     for th in data.find_all('th'):
         o.write("|" + str(th.text).strip())
     o.write("|" + '\n')
-    o.write("|---|---|---|---|" + '\n')
+    o.write("|---|---|---|---|---|" + '\n')
     for row in data.find_all('tr')[1:]:
         for cell in row.find_all('td'):
             o.write("|" + str(cell.text).strip())
@@ -67,7 +67,7 @@ with open('README_changes.md', 'r') as c:
             print("Telegram Error")
 
 # commit and push
-system("git add branches tags && git -c \"user.name=XiaomiFirmwareUpdater\" "
+system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
        "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
    ""git push -q https://{1}@github.com/androidtrackers/codeaurora-releases-tracker.git HEAD:master"
        .format(today, GIT_OAUTH_TOKEN))
