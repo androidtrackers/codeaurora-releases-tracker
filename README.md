@@ -1,5 +1,7 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|April 10, 2019|LAW.BR.2.0-04810-8x09w.0|msm8909w|LAW.BR.2.0-04810-8x09w.0.xml|07.01.01|
+|April 09, 2019|LA.UM.7.6.r1-04500-89xx.0|msm8953_64|LA.UM.7.6.r1-04500-89xx.0.xml|09.00.00|
 |April 09, 2019|LA.UM.7.7.r1-03400-8x09.0|msm8909go|LA.UM.7.7.r1-03400-8x09.0.xml|09.00.00|
 |April 09, 2019|LA.UM.7.5.r1-04500-8x96.0|msm8996|LA.UM.7.5.r1-04500-8x96.0.xml|09.00.00|
 |April 06, 2019|LA.UM.6.6.2.r1-07000-89xx.0|msm8953_64|LA.UM.6.6.2.r1-07000-89xx.0.xml|08.01.00|
