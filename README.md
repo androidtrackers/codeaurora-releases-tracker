@@ -1,5 +1,6 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|August 22, 2019|LA.UM.7.8.r1-06900-SDM710.0|sdm710|LA.UM.7.8.r1-06900-SDM710.0.xml|09.00.00|
 |August 21, 2019|LA.UM.7.1.r1-16300-sm8150.0|msmnile|LA.UM.7.1.r1-16300-sm8150.0.xml|09.00.00|
 |August 21, 2019|LA.UM.7.3.r1-08200-sdm845.0|sdm845|LA.UM.7.3.r1-08200-sdm845.0.xml|09.00.00|
 |August 21, 2019|LA.UM.7.11.r1-03400-NICOBAR.0|trinket|LA.UM.7.11.r1-03400-NICOBAR.0.xml|09.00.00|
