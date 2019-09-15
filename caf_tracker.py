@@ -1,11 +1,11 @@
 import difflib
-from datetime import date
+from datetime import datetime
 from os import environ, rename, path, system
 
 from bs4 import BeautifulSoup
 from requests import get, post
 
-today = str(date.today())
+today = str(datetime.today()).split('.')[0]
 telegram_chat = "@CAFReleases"
 bottoken = environ['bottoken']
 GIT_OAUTH_TOKEN = environ['XFU']
