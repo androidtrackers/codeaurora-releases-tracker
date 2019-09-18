@@ -8,7 +8,7 @@
 |September 17, 2019|LA.AU.0.0.2.c1-06110-gen3meta.0|msmnile_au|LA.AU.0.0.2.c1-06110-gen3meta.0.xml|10.00.00|
 |September 17, 2019|LA.UM.6.6.r1-12000-89xx.0|msm8953_64|LA.UM.6.6.r1-12000-89xx.0.xml|08.01.00|
 |September 17, 2019|LA.UM.8.2.r1-04000-sdm660.0|sdm660_64|LA.UM.8.2.r1-04000-sdm660.0.xml|10.00.00|
-|September 16, 2019|LA.UM.8.9.r1-04100-RENNELL.0|atoll|LA.UM.8.9.r1-04100-RENNELL.0.xml|10.00.00|
+|September 16, 2019|LA.UM.8.9.r1-04101-RENNELL.0|atoll|LA.UM.8.9.r1-04101-RENNELL.0.xml|10.00.00|
 |September 16, 2019|LA.UM.7.6.2.r2-00300-89xx.0|msm8937_64|LA.UM.7.6.2.r2-00300-89xx.0.xml|09.00.00|
 |September 16, 2019|LA.UM.7.2.r2-02200-8x98.0|msm8998|LA.UM.7.2.r2-02200-8x98.0.xml|09.00.00|
 |September 15, 2019|LA.UM.6.1.1-11200-sdm660.0|sdm660_64|LA.UM.6.1.1-11200-sdm660.0.xml|07.01.01|
