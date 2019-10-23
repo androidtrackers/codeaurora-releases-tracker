@@ -1,5 +1,7 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|October 23, 2019|LA.AU.0.1.1.r1-01000-gen3meta.0|msmnile_au|LA.AU.0.1.1.r1-01000-gen3meta.0.xml|10.00.00|
+|October 23, 2019|LA.UM.8.3.r1-06300-sdm845.0|sdm845|LA.UM.8.3.r1-06300-sdm845.0.xml|10.00.00|
 |October 23, 2019|LA.HB.1.1.8-05010-8x96.0|msm8996|LA.HB.1.1.8-05010-8x96.0.xml|07.00.00|
 |October 22, 2019|LA.UM.7.8.r3-02000-SDM710.0|sdm710|LA.UM.7.8.r3-02000-SDM710.0.xml|09.00.00|
 |October 22, 2019|LA.UM.7.9.r1-08600-sm6150.0|sm6150|LA.UM.7.9.r1-08600-sm6150.0.xml|08.00.00|
