@@ -1,5 +1,7 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|November 01, 2019|LA.UM.7.2.r2-03300-8x98.0|msm8998|LA.UM.7.2.r2-03300-8x98.0.xml|09.00.00|
+|November 01, 2019|LA.UM.6.7.c26-00400-8x09.0|msm8909|LA.UM.6.7.c26-00400-8x09.0.xml|08.01.00|
 |November 01, 2019|LA.UM.8.2.r1-04800-sdm660.0|sdm660_64|LA.UM.8.2.r1-04800-sdm660.0.xml|10.00.00|
 |October 31, 2019|LA.UM.6.2.c25-00600-sdm660.0|sdm660_64|LA.UM.6.2.c25-00600-sdm660.0.xml|08.01.00|
 |October 31, 2019|LA.UM.8.1.r1-10700-sm8150.0|msmnile|LA.UM.8.1.r1-10700-sm8150.0.xml|10.00.00|
