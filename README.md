@@ -1,5 +1,12 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|January 23, 2020|LA.UM.7.2.r3-00400-sdm660.0|sdm660_64|LA.UM.7.2.r3-00400-sdm660.0.xml|09.00.00|
+|January 22, 2020|LA.AU.0.1.1.r1-02100-gen3meta.0|msmnile_au|LA.AU.0.1.1.r1-02100-gen3meta.0.xml|10.00.00|
+|January 22, 2020|LA.AU.0.1.1.r1-02100-gen3meta.0|sm6150_au|LA.AU.0.1.1.r1-02100-gen3meta.0.xml|10.00.00|
+|January 22, 2020|LA.AU.0.1.1.r1-02100-gen3meta.0|sdmshrike_au|LA.AU.0.1.1.r1-02100-gen3meta.0.xml|10.00.00|
+|January 22, 2020|LA.AU.0.1.0.r1-02300-gen3meta.0|msmnile_au|LA.AU.0.1.0.r1-02300-gen3meta.0.xml|10.00.00|
+|January 22, 2020|LA.AU.0.1.0.r1-02300-gen3meta.0|sm6150_au|LA.AU.0.1.0.r1-02300-gen3meta.0.xml|10.00.00|
+|January 22, 2020|LA.AU.0.1.0.r1-02300-gen3meta.0|sdmshrike_au|LA.AU.0.1.0.r1-02300-gen3meta.0.xml|10.00.00|
 |January 22, 2020|LA.UM.8.2.r2-00600-sdm660.0|sdm660_64|LA.UM.8.2.r2-00600-sdm660.0.xml|10.00.00|
 |January 21, 2020|LA.AU.0.1.0.r2-02900-sa8155_gvmq.0|msmnile_gvmq|LA.AU.0.1.0.r2-02900-sa8155_gvmq.0.xml|10.00.00|
 |January 21, 2020|LA.UM.7.11.r1-04700-NICOBAR.0|trinket|LA.UM.7.11.r1-04700-NICOBAR.0.xml|09.00.00|
