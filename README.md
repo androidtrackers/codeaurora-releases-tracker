@@ -1,5 +1,6 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|February 23, 2020|LAW.BR.4.0-27600-89xx.0|msm8937_32go|LAW.BR.4.0-27600-89xx.0.xml|08.01.00|
 |February 22, 2020|LA.UM.8.8.r1-06800-SDM710.0|sdm710|LA.UM.8.8.r1-06800-SDM710.0.xml|10.00.00|
 |February 22, 2020|LA.UM.8.3.r1-07300-sdm845.0|sdm845|LA.UM.8.3.r1-07300-sdm845.0.xml|10.00.00|
 |February 20, 2020|LA.UM.8.11.r1-02600-NICOBAR.0|trinket|LA.UM.8.11.r1-02600-NICOBAR.0.xml|10.00.00|
