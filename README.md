@@ -1,5 +1,12 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|March 23, 2020|LA.UM.7.3-76200-sdm845.0|sdm845|LA.UM.7.3-76200-sdm845.0.xml|09.00.00|
+|March 23, 2020|LA.AU.0.1.1.r1-03100-gen3meta.0|msmnile_au|LA.AU.0.1.1.r1-03100-gen3meta.0.xml|10.00.00|
+|March 23, 2020|LA.AU.0.1.1.r1-03100-gen3meta.0|sm6150_au|LA.AU.0.1.1.r1-03100-gen3meta.0.xml|10.00.00|
+|March 23, 2020|LA.AU.0.1.1.r1-03100-gen3meta.0|sdmshrike_au|LA.AU.0.1.1.r1-03100-gen3meta.0.xml|10.00.00|
+|March 23, 2020|LA.AU.0.1.0.r1-03200-gen3meta.0|msmnile_au|LA.AU.0.1.0.r1-03200-gen3meta.0.xml|10.00.00|
+|March 23, 2020|LA.AU.0.1.0.r1-03200-gen3meta.0|sm6150_au|LA.AU.0.1.0.r1-03200-gen3meta.0.xml|10.00.00|
+|March 23, 2020|LA.AU.0.1.0.r1-03200-gen3meta.0|sdmshrike_au|LA.AU.0.1.0.r1-03200-gen3meta.0.xml|10.00.00|
 |March 23, 2020|LA.UM.8.4.1.r1-01000-8x98.0|msm8998|LA.UM.8.4.1.r1-01000-8x98.0.xml|10.00.00|
 |March 21, 2020|LA.HB.1.1.5.r2-01800-8x96.0|msm8996|LA.HB.1.1.5.r2-01800-8x96.0.xml|07.00.00|
 |March 20, 2020|LA.UM.7.2.r3-00700-sdm660.0|sdm660_64|LA.UM.7.2.r3-00700-sdm660.0.xml|09.00.00|
