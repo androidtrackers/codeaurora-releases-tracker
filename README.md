@@ -1,5 +1,7 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|April 24, 2020|LA.UM.6.6.c27-01300-89xx.0|msm8953_64|LA.UM.6.6.c27-01300-89xx.0.xml|08.01.00|
+|April 22, 2020|LA.UM.8.2.r2-01300-sdm660.0|sdm660_64|LA.UM.8.2.r2-01300-sdm660.0.xml|10.00.00|
 |April 21, 2020|LA.UM.7.2.r3-00900-sdm660.0|sdm660_64|LA.UM.7.2.r3-00900-sdm660.0.xml|09.00.00|
 |April 16, 2020|LA.UM.8.12.r1-10400-sm8250.0|kona|LA.UM.8.12.r1-10400-sm8250.0.xml|10.00.00|
 |April 16, 2020|LA.BR.1.3.7.c25-08800-8976.0|msm8952_64|LA.BR.1.3.7.c25-08800-8976.0.xml|08.01.00|
