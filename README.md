@@ -1,5 +1,6 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|April 29, 2020|LA.UM.8.4.1.r1-01700-8x98.0|msm8998|LA.UM.8.4.1.r1-01700-8x98.0.xml|10.00.00|
 |April 28, 2020|LA.UM.8.6.2.r1-07100-89xx.0|msm8953_64|LA.UM.8.6.2.r1-07100-89xx.0.xml|10.00.00|
 |April 28, 2020|LA.UM.8.13.r1-08000-SAIPAN.0|lito|LA.UM.8.13.r1-08000-SAIPAN.0.xml|10.00.00|
 |April 27, 2020|LAW.BR.2.0-05110-8x09w.0|msm8909w|LAW.BR.2.0-05110-8x09w.0.xml|07.01.01|
