@@ -1,5 +1,12 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|April 29, 2020|LA.UM.8.4.r1-05400-8x98.0|msm8998|LA.UM.8.4.r1-05400-8x98.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.2.r1-06500-sdm660.0|sdm660_64|LA.UM.8.2.r1-06500-sdm660.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.8.r1-07300-SDM710.0|sdm710|LA.UM.8.8.r1-07300-SDM710.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.4.r1-05400-8x98.0|msm8998|LA.UM.8.4.r1-05400-8x98.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.6.r1-04300-89xx.0|msm8953_64|LA.UM.8.6.r1-04300-89xx.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.9.r1-08900-SM6xx.0|atoll|LA.UM.8.9.r1-08900-SM6xx.0.xml|10.00.00|
+|April 29, 2020|LA.UM.8.9.r1-08900-SM6xx.0|sm6150|LA.UM.8.9.r1-08900-SM6xx.0.xml|10.00.00|
 |April 29, 2020|LA.UM.8.4.1.r1-01700-8x98.0|msm8998|LA.UM.8.4.1.r1-01700-8x98.0.xml|10.00.00|
 |April 28, 2020|LA.UM.8.6.2.r1-07100-89xx.0|msm8953_64|LA.UM.8.6.2.r1-07100-89xx.0.xml|10.00.00|
 |April 28, 2020|LA.UM.8.13.r1-08000-SAIPAN.0|lito|LA.UM.8.13.r1-08000-SAIPAN.0.xml|10.00.00|
