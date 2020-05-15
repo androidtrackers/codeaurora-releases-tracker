@@ -1,5 +1,10 @@
 |Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+|May 15, 2020|LA.AU.0.1.0.r1-03400-gen3meta.0|msmnile_au|LA.AU.0.1.0.r1-03400-gen3meta.0.xml|10.00.00|
+|May 15, 2020|LA.AU.0.1.0.r1-03400-gen3meta.0|sm6150_au|LA.AU.0.1.0.r1-03400-gen3meta.0.xml|10.00.00|
+|May 15, 2020|LA.AU.0.1.0.r1-03400-gen3meta.0|sdmshrike_au|LA.AU.0.1.0.r1-03400-gen3meta.0.xml|10.00.00|
+|May 15, 2020|LA.UM.6.8.1.c1-09400-QCS605.0|qcs605|LA.UM.6.8.1.c1-09400-QCS605.0.xml|08.01.00|
+|May 15, 2020|LA.UM.8.8.1.r1-03100-QCS605.0|qcs605|LA.UM.8.8.1.r1-03100-QCS605.0.xml|10.00.00|
 |May 14, 2020|LA.AU.0.1.1.r1-03800-gen3meta.0|msmnile_au|LA.AU.0.1.1.r1-03800-gen3meta.0.xml|10.00.00|
 |May 14, 2020|LA.AU.0.1.1.r1-03800-gen3meta.0|sm6150_au|LA.AU.0.1.1.r1-03800-gen3meta.0.xml|10.00.00|
 |May 14, 2020|LA.AU.0.1.1.r1-03800-gen3meta.0|sdmshrike_au|LA.AU.0.1.1.r1-03800-gen3meta.0.xml|10.00.00|
