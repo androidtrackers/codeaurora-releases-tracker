@@ -1,73 +1,133 @@
-import difflib
+import json
+import re
 from datetime import datetime
-from os import environ, rename, path, system
+from os import environ, system
+from pathlib import Path
+from time import sleep
 
 from bs4 import BeautifulSoup
 from requests import get, post
 
-today = str(datetime.today()).split('.')[0]
-telegram_chat = "@CAFReleases"
+# telegram_chat = "@CAFReleases"
+telegram_chat = "-1001238231370"
 bottoken = environ['bottoken']
 GIT_OAUTH_TOKEN = environ['XFU']
 
-url = 'https://wiki.codeaurora.org/xwiki/bin/QAEP/release'
-response = get(url)
-page = BeautifulSoup(response.content, 'html.parser')
-data = page.find("table")
+URLS = ['https://wiki.codeaurora.org/xwiki/bin/QAEP/release',
+        'https://wiki.codeaurora.org/xwiki/bin/QLBEP/release']
 
-if path.exists('README.md'):
-    rename('README.md', 'README_old.md')
-with open('README.md', 'w') as o:
-    for th in data.find_all('th'):
-        o.write("|" + str(th.text).strip())
-    o.write("|" + '\n')
-    o.write("|---|---|---|---|---|" + '\n')
-    for row in data.find_all('tr')[1:]:
-        for cell in row.find_all('td'):
-            o.write("|" + str(cell.text).strip())
-        o.write("|" + '\n')
 
-# diff
-with open('README_old.md', 'r') as old, open('README.md', 'r') as new:
-    o = old.readlines()
-    n = new.readlines()
-diff = difflib.unified_diff(o, n, fromfile='README_old.md', tofile='README.md')
-changes = []
-for line in diff:
-    if line.startswith('+'):
-        changes.append(str(line))
-new = ''.join(changes[1:]).replace("+", "")
-with open('README_changes.md', 'w') as o:
-    o.write(new)
+class Scraper:
+    def __init__(self, url):
+        self.url = url
+        self.table = BeautifulSoup(get(self.url).content, 'html.parser').find("table")
+        self.name = '_'.join(self.url.split('/')[5:])
+        self.head = [th.text.strip() for th in self.table.find_all('th')]
+        self.data = {}
+        self.to_json()
 
-# post to tg
-with open('README_changes.md', 'r') as c:
-    for line in c:
-        info = line.split("|")
-        date = info[1]
-        tag = info[2]
-        chipset = info[3]
-        manifest = info[4]
-        android = info[5]
-        manifest_url = "https://source.codeaurora.org/quic/la/platform/manifest/tree/" + manifest + "?h=" + tag
-        telegram_message = "New CAF release detected!: \nChipset: *{0}* \nAndroid: *{1}* \n*Tag:* `{2}` \n" \
-                           "Manifest: [Here]({3}) \nDate: {4}".format(chipset, android, tag, manifest_url, date)
-        params = (
-            ('chat_id', telegram_chat),
-            ('text', telegram_message),
-            ('parse_mode', "Markdown"),
-            ('disable_web_page_preview', "yes")
-        )
-        telegram_url = "https://api.telegram.org/bot" + bottoken + "/sendMessage"
-        telegram_req = post(telegram_url, params=params)
-        telegram_status = telegram_req.status_code
-        if telegram_status == 200:
-            print("{0}: Telegram Message sent".format(tag))
-        else:
-            print("Telegram Error")
+    def to_json(self):
+        for row in self.table.find_all('tr')[1:]:
+            cells = row.find_all('td')
+            self.data.update({
+                cells[1].text.strip(): {
+                    title: cell.text.strip() for title, cell in zip(self.head, cells)
+                }
+            })
+        return self.data
 
-# commit and push
-system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
-       "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
-   ""git push -q https://{1}@github.com/androidtrackers/codeaurora-releases-tracker.git HEAD:master"
-       .format(today, GIT_OAUTH_TOKEN))
+    def to_markdown(self):
+        markdown = '|'.join(i for i in self.head) + '|\n'
+        markdown += '|' + ''.join('---|' for _ in range(len(self.head))) + '\n'
+        for item in self.data.keys():
+            markdown += '|'.join(i for i in self.data[item].values()) + '|\n'
+        return markdown
+
+
+def diff(old, new):
+    return [new.get(item) for item in new.keys() if item not in old.keys()]
+
+
+def get_security_patch(tag):
+    page = BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
+                             f"tree/core/version_defaults.mk?h={tag}").content, "html.parser").get_text()
+    info = re.search(r'(?:PLATFORM_SECURITY_PATCH := )(\d{4}-\d{2}-\d{2})', page).group(1)
+    return info
+
+
+def generate_telegram_message(update):
+    tag = update.get('Tag / Build ID')
+    manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
+    message = f"New CAF release detected!: \n" \
+              f"Chipset: *{update.get('Chipset')}* \n" \
+              f"*Tag:* `{tag}` \n"
+    if "Android Version" in update.keys():
+        message += f"Android: *{update.get('Android Version')}* \n" \
+                   f"Security Patch: *{get_security_patch(tag)}*\n"
+    message += f"Manifest: [Here]({manifest_url}) \n" \
+               f"Date: {update.get('Date')}"
+    return message
+
+
+def send_telegram_message(telegram_message, chat):
+    params = (
+        ('chat_id', chat),
+        ('text', telegram_message),
+        ('parse_mode', "Markdown"),
+        ('disable_web_page_preview', "yes")
+    )
+    telegram_url = "https://api.telegram.org/bot" + bottoken + "/sendMessage"
+    response = post(telegram_url, params=params)
+    if not response.status_code == 200:
+        print(f"Response: {response.reason}")
+    sleep(3)
+
+
+def post_updates(changes, chat):
+    for update in changes:
+        telegram_message = generate_telegram_message(update)
+        send_telegram_message(telegram_message, chat)
+
+
+def write_markdown(file, content):
+    with open(file, 'w') as out:
+        out.write(content)
+
+
+def write_json(file, content):
+    with open(file, 'w') as out:
+        json.dump(content, out, indent=1)
+
+
+def read_json(file):
+    with open(file, 'r') as json_file:
+        return json.load(json_file)
+
+
+def git_command_push():
+    # commit and push
+    system(
+        f'git add *.md *.json && git -c "user.name=XiaomiFirmwareUpdater" -c '
+        f'"user.email=xiaomifirmwareupdater@gmail.com" commit -m '
+        f'"[skip ci] sync: {datetime.today().strftime("%d-%m-%Y")}" && '
+        f'git push -q https://{GIT_OAUTH_TOKEN}@github.com/androidtrackers/'
+        f'codeaurora-releases-tracker.git HEAD:master')
+
+
+def main():
+    for url in URLS:
+        scraper = Scraper(url)
+        print(f"Working on {scraper.name}")
+        file = Path(f"{scraper.name}.json")
+        if file.exists():
+            file.rename(f'{file}.bak')
+        write_json(file, scraper.data)
+        write_markdown(f'{file.stem}.md', scraper.to_markdown())
+        changes = diff(read_json(f'{file}.bak'), scraper.data)
+        if changes:
+            post_updates(changes, telegram_chat)
+        git_command_push()
+
+
+if __name__ == '__main__':
+    main()
