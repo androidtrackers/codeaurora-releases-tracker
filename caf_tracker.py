@@ -126,7 +126,7 @@ def main():
         changes = diff(read_json(f'{file}.bak'), scraper.data)
         if changes:
             post_updates(changes, telegram_chat)
-        git_command_push()
+    git_command_push()
 
 
 if __name__ == '__main__':
