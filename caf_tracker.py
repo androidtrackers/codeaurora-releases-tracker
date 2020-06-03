@@ -48,21 +48,29 @@ def diff(old, new):
 
 
 def get_security_patch(tag):
-    page = BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
-                             f"tree/core/version_defaults.mk?h={tag}").content, "html.parser").get_text()
-    info = re.search(r'(?:PLATFORM_SECURITY_PATCH := )(\d{4}-\d{2}-\d{2})', page).group(1)
-    return info
+    return re.search(r'(?:PLATFORM_SECURITY_PATCH := )(\d{4}-\d{2}-\d{2})',
+                     BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
+                                       f"tree/core/version_defaults.mk?h={tag}").content,
+                                   "html.parser").get_text()).group(1)
+
+
+def get_build_id(tag):
+    return re.search(r'(?:BUILD_ID=)(.*)',
+                     BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
+                                       f"tree/core/build_id.mk?h={tag}").content,
+                                   "html.parser").get_text()).group(1)
 
 
 def generate_telegram_message(update):
     tag = update.get('Tag / Build ID')
     manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
-    message = f"New CAF release detected!: \n" \
+    message = f"New CAF release detected!\n" \
               f"Chipset: *{update.get('Chipset')}* \n" \
               f"*Tag:* `{tag}` \n"
     if "Android Version" in update.keys():
         message += f"Android: *{update.get('Android Version')}* \n" \
-                   f"Security Patch: *{get_security_patch(tag)}*\n"
+                   f"Security Patch: *{get_security_patch(tag)}*\n" \
+                   f"Build ID: *{get_build_id(tag)}*\n"
     message += f"Manifest: [Here]({manifest_url}) \n" \
                f"Date: {update.get('Date')}"
     return message
