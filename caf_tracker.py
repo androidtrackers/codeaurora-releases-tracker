@@ -8,8 +8,7 @@ from time import sleep
 from bs4 import BeautifulSoup
 from requests import get, post
 
-# telegram_chat = "@CAFReleases"
-telegram_chat = "-1001238231370"
+telegram_chat = "@CAFReleases"
 bottoken = environ['bottoken']
 GIT_OAUTH_TOKEN = environ['XFU']
 
