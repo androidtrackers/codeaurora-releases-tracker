@@ -61,10 +61,18 @@ def get_build_id(tag):
                                    "html.parser").get_text()).group(1)
 
 
-def get_kernel_version(manifest_url):
-    return re.search(r'(?:refs/heads/)(kernel.*)(?:\">)',
-                     BeautifulSoup(get(manifest_url).content,
-                                   "html.parser").get_text()).group(1)
+def get_kernel_version(manifest_url, tag):
+    kernel_repo = re.search(r'(?:name=\")(kernel/.*)(?:\" revision.*refs/heads/kernel)',
+                            BeautifulSoup(get(manifest_url).content,
+                                          "html.parser").get_text()).group(1)
+    regex = re.search(r'(?:VERSION = )(\d+)(?:\nPATCHLEVEL = )(\d+)(?:\nSUBLEVEL = )(\d+)',
+                      BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/{kernel_repo}/"
+                                        f"tree/Makefile?h={tag}").content,
+                                    "html.parser").get_text())
+    try:
+        return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)}"
+    except IndexError:
+        return "Unknown"
 
 
 def generate_telegram_message(update):
@@ -77,7 +85,7 @@ def generate_telegram_message(update):
         message += f"Android: *{update.get('Android Version')}* \n" \
                    f"Security Patch: *{get_security_patch(tag)}*\n" \
                    f"Build ID: *{get_build_id(tag)}*\n" \
-                   f"Kernel Version: *{get_kernel_version(manifest_url)}* \n"
+                   f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
     message += f"Manifest: [Here]({manifest_url}) \n" \
                f"Date: {update.get('Date')}"
     return message
