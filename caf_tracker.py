@@ -61,6 +61,12 @@ def get_build_id(tag):
                                    "html.parser").get_text()).group(1)
 
 
+def get_kernel_version(manifest_url):
+    return re.search(r'(?:refs/heads/)(kernel.*)(?:\">)',
+                     BeautifulSoup(get(manifest_url).content,
+                                   "html.parser").get_text()).group(1)
+
+
 def generate_telegram_message(update):
     tag = update.get('Tag / Build ID')
     manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
@@ -70,7 +76,8 @@ def generate_telegram_message(update):
     if "Android Version" in update.keys():
         message += f"Android: *{update.get('Android Version')}* \n" \
                    f"Security Patch: *{get_security_patch(tag)}*\n" \
-                   f"Build ID: *{get_build_id(tag)}*\n"
+                   f"Build ID: *{get_build_id(tag)}*\n" \
+                   f"Kernel Version: *{get_kernel_version(manifest_url)}* \n"
     message += f"Manifest: [Here]({manifest_url}) \n" \
                f"Date: {update.get('Date')}"
     return message
