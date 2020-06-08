@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.3.1.r1-07700-qcs405.0": {
+  "Date": "June 08, 2020",
+  "Tag / Build ID": "LE.UM.3.3.1.r1-07700-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.3.3.1.r1-07700-qcs405.0.xml"
+ },
  "CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ": {
   "Date": "June 07, 2020",
   "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ",
