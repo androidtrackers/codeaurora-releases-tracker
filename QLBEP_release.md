@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 07, 2020|CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ.xml|
 June 06, 2020|LE.UM.4.2.3.r1-03000-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-03000-QCS610.0.xml|
 May 31, 2020|LE.UM.2.3.6-79900-9x07|mdm9607-poky|LE.UM.2.3.6-79900-9x07.xml|
 May 29, 2020|LE.UM.4.2.2.r1-01400-SDX55|sdxprairie|LE.UM.4.2.2.r1-01400-SDX55.xml|
