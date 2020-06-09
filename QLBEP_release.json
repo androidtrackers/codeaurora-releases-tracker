@@ -1,4 +1,16 @@
 {
+ "LE.AU_EAP.1.0-51400-eap-fsl": {
+  "Date": "June 09, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0-51400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0-51400-eap-fsl.xml"
+ },
+ "LE.UM.4.1.1.r1-00200-sa515m": {
+  "Date": "June 09, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1.r1-00200-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.r1-00200-sa515m.xml"
+ },
  "LNX.LE.5.3-76861-9x40": {
   "Date": "June 08, 2020",
   "Tag / Build ID": "LNX.LE.5.3-76861-9x40",

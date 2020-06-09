@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 09, 2020|LE.AU_EAP.1.0-51400-eap-fsl|eap-imx|LE.AU_EAP.1.0-51400-eap-fsl.xml|
+June 09, 2020|LE.UM.4.1.1.r1-00200-sa515m|sa515m|LE.UM.4.1.1.r1-00200-sa515m.xml|
 June 08, 2020|LNX.LE.5.3-76861-9x40|mdm9640|LNX.LE.5.3-76861-9x40.xml|
 June 08, 2020|LE.UM.3.3.1.r1-07700-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-07700-qcs405.0.xml|
 June 07, 2020|CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-00600-QCAAUTOHOSTHZ.xml|
