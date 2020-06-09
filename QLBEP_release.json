@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3-76861-9x40": {
+  "Date": "June 08, 2020",
+  "Tag / Build ID": "LNX.LE.5.3-76861-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3-76861-9x40.xml"
+ },
  "LE.UM.3.3.1.r1-07700-qcs405.0": {
   "Date": "June 08, 2020",
   "Tag / Build ID": "LE.UM.3.3.1.r1-07700-qcs405.0",
