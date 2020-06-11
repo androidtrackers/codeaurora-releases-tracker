@@ -1,4 +1,18 @@
 {
+ "LA.UM.5.5.c25-05500-8x96.0": {
+  "Date": "June 11, 2020",
+  "Tag / Build ID": "LA.UM.5.5.c25-05500-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.UM.5.5.c25-05500-8x96.0.xml",
+  "Android Version": "07.01.02"
+ },
+ "LA.UM.7.8.c3-38500-QCS605.0": {
+  "Date": "June 11, 2020",
+  "Tag / Build ID": "LA.UM.7.8.c3-38500-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.7.8.c3-38500-QCS605.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.UM.6.7.c26-02300-8x09.0": {
   "Date": "June 11, 2020",
   "Tag / Build ID": "LA.UM.6.7.c26-02300-8x09.0",

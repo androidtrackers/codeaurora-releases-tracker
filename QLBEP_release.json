@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.2.2.r1-02000-SDX55": {
+  "Date": "June 11, 2020",
+  "Tag / Build ID": "LE.UM.4.2.2.r1-02000-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.2.2.r1-02000-SDX55.xml"
+ },
+ "LE.UM.2.3.3.r1-06800-QCS605.0": {
+  "Date": "June 11, 2020",
+  "Tag / Build ID": "LE.UM.2.3.3.r1-06800-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.r1-06800-QCS605.0.xml"
+ },
  "LV.HB.1.1.5-14410-8x96.0": {
   "Date": "June 10, 2020",
   "Tag / Build ID": "LV.HB.1.1.5-14410-8x96.0",
