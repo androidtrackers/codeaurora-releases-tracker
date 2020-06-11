@@ -48,10 +48,13 @@ def diff(old, new):
 
 
 def get_security_patch(tag):
-    return re.search(r'(?:PLATFORM_SECURITY_PATCH := )(\d{4}-\d{2}-\d{2})',
-                     BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
-                                       f"tree/core/version_defaults.mk?h={tag}").content,
-                                   "html.parser").get_text()).group(1)
+    try:
+        return re.search(r'(?:PLATFORM_SECURITY_PATCH := )(\d{4}-\d{2}-\d{2})',
+                         BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
+                                           f"tree/core/version_defaults.mk?h={tag}").content,
+                                       "html.parser").get_text()).group(1)
+    except AttributeError:
+        return
 
 
 def get_build_id(tag):
@@ -62,15 +65,15 @@ def get_build_id(tag):
 
 
 def get_kernel_version(manifest_url, tag):
-    kernel_repo = re.search(r'(?:name=\")(kernel/.*)(?:\" revision.*refs/heads/kernel)',
+    kernel_repo = re.search(r'name=\"(kernel/msm-[0-9.]+)\".*upstream=\"(?:refs/heads/)?(.*)\"/?>',
                             BeautifulSoup(get(manifest_url).content,
-                                          "html.parser").get_text()).group(1)
+                                          "html.parser").get_text())
     regex = re.search(r'(?:VERSION = )(\d+)(?:\nPATCHLEVEL = )(\d+)(?:\nSUBLEVEL = )(\d+)',
-                      BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/{kernel_repo}/"
+                      BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/{kernel_repo.group(1)}/"
                                         f"tree/Makefile?h={tag}").content,
                                     "html.parser").get_text())
     try:
-        return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)}"
+        return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)} ({kernel_repo.group(2)})"
     except IndexError:
         return "Unknown"
 
@@ -82,9 +85,11 @@ def generate_telegram_message(update):
               f"Chipset: *{update.get('Chipset')}* \n" \
               f"*Tag:* `{tag}` \n"
     if "Android Version" in update.keys():
-        message += f"Android: *{update.get('Android Version')}* \n" \
-                   f"Security Patch: *{get_security_patch(tag)}*\n" \
-                   f"Build ID: *{get_build_id(tag)}*\n" \
+        message += f"Android: *{update.get('Android Version')}* \n"
+        security_patch = get_security_patch(tag)
+        if security_patch:
+            message += f"Security Patch: *{get_security_patch(tag)}*\n"
+        message += f"Build ID: *{get_build_id(tag)}*\n" \
                    f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
     message += f"Manifest: [Here]({manifest_url}) \n" \
                f"Date: {update.get('Date')}"
