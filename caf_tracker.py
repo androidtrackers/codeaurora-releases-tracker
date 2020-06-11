@@ -136,7 +136,7 @@ def git_command_push():
     system(
         f'git add *.md *.json && git -c "user.name=XiaomiFirmwareUpdater" -c '
         f'"user.email=xiaomifirmwareupdater@gmail.com" commit -m '
-        f'"[skip ci] sync: {datetime.today().strftime("%d-%m-%Y")}" && '
+        f'"[skip ci] sync: {datetime.today().strftime("%d-%m-%Y %H:%M:%S")}" && '
         f'git push -q https://{GIT_OAUTH_TOKEN}@github.com/androidtrackers/'
         f'codeaurora-releases-tracker.git HEAD:master')
 
