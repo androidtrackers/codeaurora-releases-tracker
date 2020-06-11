@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.1.0.r2-02000-qtiquingvm.0": {
+  "Date": "June 10, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-02000-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-02000-qtiquingvm.0.xml"
+ },
+ "LE.UM.4.2.2.r1-01800-SDX55": {
+  "Date": "June 10, 2020",
+  "Tag / Build ID": "LE.UM.4.2.2.r1-01800-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.2.2.r1-01800-SDX55.xml"
+ },
  "LE.AU_EAP.1.0-51400-eap-fsl": {
   "Date": "June 09, 2020",
   "Tag / Build ID": "LE.AU_EAP.1.0-51400-eap-fsl",
