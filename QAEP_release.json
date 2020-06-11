@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.7.c26-02300-8x09.0": {
+  "Date": "June 11, 2020",
+  "Tag / Build ID": "LA.UM.6.7.c26-02300-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.6.7.c26-02300-8x09.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.BR.1.3.7.c25-09100-8976.0": {
   "Date": "June 10, 2020",
   "Tag / Build ID": "LA.BR.1.3.7.c25-09100-8976.0",
