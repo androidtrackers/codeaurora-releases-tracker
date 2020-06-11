@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 10, 2020|LV.HB.1.1.5-14410-8x96.0|8x96autogvmgh|LV.HB.1.1.5-14410-8x96.0.xml|
 June 10, 2020|LV.AU.0.1.0.r2-02000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-02000-qtiquingvm.0.xml|
 June 10, 2020|LE.UM.4.2.2.r1-01800-SDX55|sdxprairie|LE.UM.4.2.2.r1-01800-SDX55.xml|
 June 09, 2020|LE.AU_EAP.1.0-51400-eap-fsl|eap-imx|LE.AU_EAP.1.0-51400-eap-fsl.xml|

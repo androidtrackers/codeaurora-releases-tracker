@@ -1,4 +1,10 @@
 {
+ "LV.HB.1.1.5-14410-8x96.0": {
+  "Date": "June 10, 2020",
+  "Tag / Build ID": "LV.HB.1.1.5-14410-8x96.0",
+  "Chipset": "8x96autogvmgh",
+  "Manifest": "LV.HB.1.1.5-14410-8x96.0.xml"
+ },
  "LV.AU.0.1.0.r2-02000-qtiquingvm.0": {
   "Date": "June 10, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-02000-qtiquingvm.0",
