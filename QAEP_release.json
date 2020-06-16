@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.1.0.r2-05300-sa8155_gvmq.0": {
+  "Date": "June 16, 2020",
+  "Tag / Build ID": "LA.AU.0.1.0.r2-05300-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.0.1.0.r2-05300-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.13.r1-08800-SAIPAN.0": {
   "Date": "June 15, 2020",
   "Tag / Build ID": "LA.UM.8.13.r1-08800-SAIPAN.0",
