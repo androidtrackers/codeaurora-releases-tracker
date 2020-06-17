@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 17, 2020|LE.UM.3.2.3-38400-SA2150p|sa2150p|LE.UM.3.2.3-38400-SA2150p.xml|
+June 17, 2020|LE.AU_EAP.1.0-51600-eap-fsl|eap-imx|LE.AU_EAP.1.0-51600-eap-fsl.xml|
 June 15, 2020|LE.UM.4.3.3.r1-00400-SDX55|sdxprairie|LE.UM.4.3.3.r1-00400-SDX55.xml|
 June 14, 2020|LE.UM.3.4.2-01200-9x07|mdm9607-poky|LE.UM.3.4.2-01200-9x07.xml|
 June 12, 2020|LE.UM.3.3.1.c1-19600-qcs405.0|vt-64-qsap|LE.UM.3.3.1.c1-19600-qcs405.0.xml|
