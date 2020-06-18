@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.2.r2-05500-8x98.0": {
+  "Date": "June 17, 2020",
+  "Tag / Build ID": "LA.UM.7.2.r2-05500-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.7.2.r2-05500-8x98.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LAW.BR.4.0-30500-89xx.0": {
   "Date": "June 17, 2020",
   "Tag / Build ID": "LAW.BR.4.0-30500-89xx.0",
