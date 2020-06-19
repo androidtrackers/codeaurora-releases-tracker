@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 19, 2020|LNX.LE.5.3.2.2-88134-9x40|mdm9640|LNX.LE.5.3.2.2-88134-9x40.xml|
 June 19, 2020|LE.UM.2.3.2-10400-SDX24|sdxpoorwills|LE.UM.2.3.2-10400-SDX24.xml|
 June 19, 2020|LE.UM.2.3.6.c1-17200-9x07|mdm9607-poky|LE.UM.2.3.6.c1-17200-9x07.xml|
 June 18, 2020|LE.UM.4.1.1.r1-00300-sa515m|sa515m|LE.UM.4.1.1.r1-00300-sa515m.xml|
