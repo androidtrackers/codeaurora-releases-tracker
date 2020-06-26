@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.1.r1-04000-QCS404.0": {
+  "Date": "June 26, 2020",
+  "Tag / Build ID": "LE.UM.4.2.1.r1-04000-QCS404.0",
+  "Chipset": "qcs404-rb1-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.4.2.1.r1-04000-QCS404.0.xml"
+ },
  "LE.UM.4.2.2.r1-02100-SDX55": {
   "Date": "June 25, 2020",
   "Tag / Build ID": "LE.UM.4.2.2.r1-02100-SDX55",

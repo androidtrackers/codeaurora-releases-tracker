@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 26, 2020|LE.UM.4.2.1.r1-04000-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-04000-QCS404.0.xml|
 June 25, 2020|LE.UM.4.2.2.r1-02100-SDX55|sdxprairie|LE.UM.4.2.2.r1-02100-SDX55.xml|
 June 25, 2020|LE.UM.3.2.3.c1-02500-SA2150p|sa2150p|LE.UM.3.2.3.c1-02500-SA2150p.xml|
 June 25, 2020|LE.UM.3.2.1.c1-02400-sa415m|sa415m|LE.UM.3.2.1.c1-02400-sa415m.xml|
