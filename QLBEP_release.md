@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 29, 2020|LE.UM.1.3.2.r1-05000-9x50|mdm9650-2k|LE.UM.1.3.2.r1-05000-9x50.xml|
+June 29, 2020|LE.AU_FSL.1.0-73700-eap-fsl|eap-imx|LE.AU_FSL.1.0-73700-eap-fsl.xml|
+June 29, 2020|LE.UM.3.3.1.r1-08200-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-08200-qcs405.0.xml|
 June 29, 2020|LE.UM.1.3-09600-SDX20|sdx20|LE.UM.1.3-09600-SDX20.xml|
 June 26, 2020|LE.UM.4.2.1.r1-04000-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-04000-QCS404.0.xml|
 June 25, 2020|LE.UM.4.2.2.r1-02100-SDX55|sdxprairie|LE.UM.4.2.2.r1-02100-SDX55.xml|
