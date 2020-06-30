@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.1.0.r1-10100-gen3meta.0": {
+  "Date": "June 30, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r1-10100-gen3meta.0",
+  "Chipset": "sa8155agl",
+  "Manifest": "LV.AU.0.1.0.r1-10100-gen3meta.0.xml"
+ },
  "LE.UM.4.3.3.r1-00500-SDX55": {
   "Date": "June 29, 2020",
   "Tag / Build ID": "LE.UM.4.3.3.r1-00500-SDX55",
