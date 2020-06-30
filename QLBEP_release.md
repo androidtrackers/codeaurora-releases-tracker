@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 30, 2020|LE.UM.4.2.3.r1-03900-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-03900-QCS610.0.xml|
 June 30, 2020|LV.AU.0.1.0.r1-10100-gen3meta.0|sa8155agl|LV.AU.0.1.0.r1-10100-gen3meta.0.xml|
 June 29, 2020|LE.UM.4.3.3.r1-00500-SDX55|sdxprairie|LE.UM.4.3.3.r1-00500-SDX55.xml|
 June 29, 2020|LE.UM.1.3.2.r1-05000-9x50|mdm9650-2k|LE.UM.1.3.2.r1-05000-9x50.xml|

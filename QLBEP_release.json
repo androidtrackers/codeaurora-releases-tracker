@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-03900-QCS610.0": {
+  "Date": "June 30, 2020",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-03900-QCS610.0",
+  "Chipset": "qcs610-odk-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-03900-QCS610.0.xml"
+ },
  "LV.AU.0.1.0.r1-10100-gen3meta.0": {
   "Date": "June 30, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r1-10100-gen3meta.0",
