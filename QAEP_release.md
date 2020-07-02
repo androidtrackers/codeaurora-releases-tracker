@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 02, 2020|LA.UM.8.9.r1-09500-SM6xx.0|sm6150|LA.UM.8.9.r1-09500-SM6xx.0.xml|10.00.00|
+July 02, 2020|LA.UM.8.1.r1-15400-sm8150.0|msmnile|LA.UM.8.1.r1-15400-sm8150.0.xml|10.00.00|
 July 02, 2020|LA.UM.8.12.r1-12700-sm8250.0|kona|LA.UM.8.12.r1-12700-sm8250.0.xml|10.00.00|
 June 30, 2020|LAW.BR.3.0-20200-8x09w.0|msm8909w|LAW.BR.3.0-20200-8x09w.0.xml|08.01.00|
 June 29, 2020|LAW.BR.3.0.c3-03700-8x09w.0|msm8909w|LAW.BR.3.0.c3-03700-8x09w.0.xml|08.01.00|
