@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 03, 2020|LV.HB.0.0.1.c2-06410-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-06410-8x96_cv2x.0.xml|
 July 02, 2020|LE.BR.1.3.1-14910-9x50|mdm9650|LE.BR.1.3.1-14910-9x50.xml|
 July 02, 2020|LE.UM.4.3.2.r1-01100-9x07|mdm9607|LE.UM.4.3.2.r1-01100-9x07.xml|
 June 30, 2020|LE.UM.4.2.3.r1-03900-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-03900-QCS610.0.xml|
