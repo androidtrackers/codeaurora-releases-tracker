@@ -1,4 +1,10 @@
 {
+ "LE.BR.1.3.1-14910-9x50": {
+  "Date": "July 02, 2020",
+  "Tag / Build ID": "LE.BR.1.3.1-14910-9x50",
+  "Chipset": "mdm9650",
+  "Manifest": "LE.BR.1.3.1-14910-9x50.xml"
+ },
  "LE.UM.4.3.2.r1-01100-9x07": {
   "Date": "July 02, 2020",
   "Tag / Build ID": "LE.UM.4.3.2.r1-01100-9x07",
