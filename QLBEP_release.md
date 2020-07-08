@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 08, 2020|LE.UM.1.2.c3-01500-9x07|mdm9607-poky|LE.UM.1.2.c3-01500-9x07.xml|
 July 03, 2020|LV.HB.0.0.1.c2-06410-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-06410-8x96_cv2x.0.xml|
 July 02, 2020|LE.BR.1.3.1-14910-9x50|mdm9650|LE.BR.1.3.1-14910-9x50.xml|
 July 02, 2020|LE.UM.4.3.2.r1-01100-9x07|mdm9607|LE.UM.4.3.2.r1-01100-9x07.xml|

@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.2.c3-01500-9x07": {
+  "Date": "July 08, 2020",
+  "Tag / Build ID": "LE.UM.1.2.c3-01500-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.1.2.c3-01500-9x07.xml"
+ },
  "LV.HB.0.0.1.c2-06410-8x96_cv2x.0": {
   "Date": "July 03, 2020",
   "Tag / Build ID": "LV.HB.0.0.1.c2-06410-8x96_cv2x.0",

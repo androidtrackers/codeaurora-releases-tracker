@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 08, 2020|LA.UM.8.2.1.r1-05000-sdm660.0|sdm660_64|LA.UM.8.2.1.r1-05000-sdm660.0.xml|10.00.00|
 July 07, 2020|LA.UM.8.11.1.r1-00300-QCM6125.0|trinket|LA.UM.8.11.1.r1-00300-QCM6125.0.xml|10.00.00|
 July 07, 2020|LA.UM.7.2.r1-09000-sdm660.0|sdm660_64|LA.UM.7.2.r1-09000-sdm660.0.xml|09.00.00|
 July 05, 2020|LA.UM.8.3.r1-08100-sdm845.0|sdm845|LA.UM.8.3.r1-08100-sdm845.0.xml|10.00.00|
