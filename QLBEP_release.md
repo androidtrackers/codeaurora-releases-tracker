@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 11, 2020|LU.UM.1.2.1.r1-08900-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-08900-QRB5165.0.xml|
 July 10, 2020|LE.UM.3.2.1.c1-02800-sa415m|sa415m|LE.UM.3.2.1.c1-02800-sa415m.xml|
 July 10, 2020|LE.UM.3.2.3.c1-03100-SA2150p|sa2150p|LE.UM.3.2.3.c1-03100-SA2150p.xml|
 July 10, 2020|LE.AU_EAP.1.0.c1-02900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-02900-eap-fsl.xml|
