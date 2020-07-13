@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 13, 2020|LE.UM.1.3.r6-07200-8x17|apq8017-qsap|LE.UM.1.3.r6-07200-8x17.xml|
 July 12, 2020|LU.UM.1.2.1.r1-09000-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-09000-QRB5165.0.xml|
 July 11, 2020|LU.UM.1.2.1.r1-08900-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-08900-QRB5165.0.xml|
 July 10, 2020|LE.UM.3.2.1.c1-02800-sa415m|sa415m|LE.UM.3.2.1.c1-02800-sa415m.xml|
