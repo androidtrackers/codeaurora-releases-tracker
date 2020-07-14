@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 14, 2020|LA.BR.1.2.9.c25-04300-8x16.0|msm8916_64|LA.BR.1.2.9.c25-04300-8x16.0.xml|07.01.01|
 July 13, 2020|LA.AU.0.1.0.r1-04100-gen3meta.0|sdmshrike_au|LA.AU.0.1.0.r1-04100-gen3meta.0.xml|10.00.00|
 July 11, 2020|LA.UM.6.2.c26-04000-sdm660.0|sdm660_64|LA.UM.6.2.c26-04000-sdm660.0.xml|08.01.00|
 July 10, 2020|LA.UM.6.7.c25-02500-8x09.0|msm8909|LA.UM.6.7.c25-02500-8x09.0.xml|08.01.00|
