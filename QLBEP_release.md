@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 15, 2020|LE.UM.2.3.6-84500-9x07|LE.UM.2.3.6|LE.UM.2.3.6-84500-9x07.xml|
 July 14, 2020|LE.UM.4.3.3.r1-00600-SDX55|sdxprairie|LE.UM.4.3.3.r1-00600-SDX55.xml|
 July 14, 2020|LE.UM.3.4.2-01300-9x07|mdm9607-poky|LE.UM.3.4.2-01300-9x07.xml|
 July 13, 2020|LE.UM.1.3.r6-07200-8x17|apq8017-qsap|LE.UM.1.3.r6-07200-8x17.xml|

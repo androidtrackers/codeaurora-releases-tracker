@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.6-84500-9x07": {
+  "Date": "July 15, 2020",
+  "Tag / Build ID": "LE.UM.2.3.6-84500-9x07",
+  "Chipset": "LE.UM.2.3.6",
+  "Manifest": "LE.UM.2.3.6-84500-9x07.xml"
+ },
  "LE.UM.4.3.3.r1-00600-SDX55": {
   "Date": "July 14, 2020",
   "Tag / Build ID": "LE.UM.4.3.3.r1-00600-SDX55",
