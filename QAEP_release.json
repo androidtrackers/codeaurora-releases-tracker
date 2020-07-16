@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.3.r1-09300-sdm845.0": {
+  "Date": "July 16, 2020",
+  "Tag / Build ID": "LA.UM.7.3.r1-09300-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.7.3.r1-09300-sdm845.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LAW.BR.4.0-30700-89xx.0": {
   "Date": "July 16, 2020",
   "Tag / Build ID": "LAW.BR.4.0-30700-89xx.0",
