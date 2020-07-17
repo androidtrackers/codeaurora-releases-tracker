@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.1.1.r1-04800-gen3meta.0": {
+  "Date": "July 17, 2020",
+  "Tag / Build ID": "LA.AU.0.1.1.r1-04800-gen3meta.0",
+  "Chipset": "sdmshrike_au",
+  "Manifest": "LA.AU.0.1.1.r1-04800-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.7.3.r1-09300-sdm845.0": {
   "Date": "July 16, 2020",
   "Tag / Build ID": "LA.UM.7.3.r1-09300-sdm845.0",

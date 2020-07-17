@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 17, 2020|LA.AU.0.1.1.r1-04800-gen3meta.0|sdmshrike_au|LA.AU.0.1.1.r1-04800-gen3meta.0.xml|10.00.00|
 July 16, 2020|LA.UM.7.3.r1-09300-sdm845.0|sdm845|LA.UM.7.3.r1-09300-sdm845.0.xml|09.00.00|
 July 16, 2020|LAW.BR.4.0-30700-89xx.0|msm8937_32go|LAW.BR.4.0-30700-89xx.0.xml|08.01.00|
 July 15, 2020|LAW.BR.2.0-05310-8x09w.0|msm8909w|LAW.BR.2.0-05310-8x09w.0.xml|07.01.01|
