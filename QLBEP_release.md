@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 28, 2020|LV.AU.0.1.0.r1-11500-gen3meta.0|sa8155agl|LV.AU.0.1.0.r1-11500-gen3meta.0.xml|
 July 27, 2020|LE.BR.1.2.1.1-65600-9x07|mdm9607|LE.BR.1.2.1.1-65600-9x07.xml|
 July 23, 2020|LE.UM.3.2.1.c1-03300-sa415m|sa415m|LE.UM.3.2.1.c1-03300-sa415m.xml|
 July 23, 2020|LE.UM.3.2.3-43600-SA2150p|sa2150p|LE.UM.3.2.3-43600-SA2150p.xml|
