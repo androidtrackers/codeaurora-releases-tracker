@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSLS.1.0-01200-QCAAUTOHOSTHZ": {
+  "Date": "July 29, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSLS.1.0-01200-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.1.0-01200-QCAAUTOHOSTHZ.xml"
+ },
  "LV.AU.0.1.0.r1-11500-gen3meta.0": {
   "Date": "July 28, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r1-11500-gen3meta.0",
