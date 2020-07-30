@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 30, 2020|BTHOST_AU.LA.3.0.r20.2-00500-QCA6574AUARMSDIOHZ|connx_sdk|BTHOST_AU.LA.3.0.r20.2-00500-QCA6574AUARMSDIOHZ.xml|
 July 30, 2020|LE.UM.2.3.2-10600-SDX24|sdxpoorwills|LE.UM.2.3.2-10600-SDX24.xml|
 July 29, 2020|LE.UM.4.3.3.r1-00700-SDX55|sdxprairie|LE.UM.4.3.3.r1-00700-SDX55.xml|
 July 29, 2020|LE.UM.4.3.2.r1-01600-9x07|mdm9607|LE.UM.4.3.2.r1-01600-9x07.xml|

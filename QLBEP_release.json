@@ -1,4 +1,10 @@
 {
+ "BTHOST_AU.LA.3.0.r20.2-00500-QCA6574AUARMSDIOHZ": {
+  "Date": "July 30, 2020",
+  "Tag / Build ID": "BTHOST_AU.LA.3.0.r20.2-00500-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.0.r20.2-00500-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.UM.2.3.2-10600-SDX24": {
   "Date": "July 30, 2020",
   "Tag / Build ID": "LE.UM.2.3.2-10600-SDX24",
