@@ -1,4 +1,16 @@
 {
+ "WLANHOST_AU.LA.3.1.r20.2-00500-QCA6574AUARMSDIOHZ": {
+  "Date": "July 30, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LA.3.1.r20.2-00500-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.3.1.r20.2-00500-QCA6574AUARMSDIOHZ.xml"
+ },
+ "BTHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ": {
+  "Date": "July 30, 2020",
+  "Tag / Build ID": "BTHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.AU_EAP.1.0-56400-eap-fsl": {
   "Date": "July 30, 2020",
   "Tag / Build ID": "LE.AU_EAP.1.0-56400-eap-fsl",
