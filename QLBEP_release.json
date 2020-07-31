@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.c1-15700-sa515m": {
+  "Date": "July 31, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1.c1-15700-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c1-15700-sa515m.xml"
+ },
  "LV.AU.0.1.0.r2-02400-qtiquingvm.0": {
   "Date": "July 30, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-02400-qtiquingvm.0",
