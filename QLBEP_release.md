@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 31, 2020|LE.UM.4.1.1.c3-00600-sa515m|sa515m|LE.UM.4.1.1.c3-00600-sa515m.xml|
+July 31, 2020|LE.AU_EAP.1.0.c2-00900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c2-00900-eap-fsl.xml|
 July 31, 2020|LE.UM.4.1.1.c1-15700-sa515m|sa515m|LE.UM.4.1.1.c1-15700-sa515m.xml|
 July 30, 2020|LV.AU.0.1.0.r2-02400-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-02400-qtiquingvm.0.xml|
 July 30, 2020|WLANHOST_AU.LA.3.0.r20.2-00600-QCA6574AUARMSDIOHZ|connx_sdk|WLANHOST_AU.LA.3.0.r20.2-00600-QCA6574AUARMSDIOHZ.xml|
