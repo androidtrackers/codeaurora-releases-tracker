@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 05, 2020|01.58|LE.UM.1.2|01.58.xml|
 August 03, 2020|LE.UM.1.3-09700-SDX20|sdx20|LE.UM.1.3-09700-SDX20.xml|
 August 03, 2020|LE.UM.3.2.1.c1-03700-sa415m|sa415m|LE.UM.3.2.1.c1-03700-sa415m.xml|
 August 03, 2020|LE.UM.3.2.3.c1-03500-SA2150p|sa2150p|LE.UM.3.2.3.c1-03500-SA2150p.xml|

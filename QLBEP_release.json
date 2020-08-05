@@ -1,4 +1,10 @@
 {
+ "01.58": {
+  "Date": "August 05, 2020",
+  "Tag / Build ID": "01.58",
+  "Chipset": "LE.UM.1.2",
+  "Manifest": "01.58.xml"
+ },
  "LE.UM.1.3-09700-SDX20": {
   "Date": "August 03, 2020",
   "Tag / Build ID": "LE.UM.1.3-09700-SDX20",
