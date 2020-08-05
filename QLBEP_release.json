@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.2.2.r1-02300-SDX55": {
+  "Date": "August 05, 2020",
+  "Tag / Build ID": "LE.UM.4.2.2.r1-02300-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.2.2.r1-02300-SDX55.xml"
+ },
+ "LE.UM.5.2.1.r1-00500-qcs405.0": {
+  "Date": "August 05, 2020",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-00500-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-00500-qcs405.0.xml"
+ },
  "LE.UM.1.2-24400-9x07": {
   "Date": "August 05, 2020",
   "Tag / Build ID": "LE.UM.1.2-24400-9x07",
