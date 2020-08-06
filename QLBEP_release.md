@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 06, 2020|LE.UM.4.4.1.r1-00300-QRB5165.1|QRB5165.1|LE.UM.4.4.1.r1-00300-QRB5165.1.xml|
 August 05, 2020|LE.UM.4.2.2.r1-02300-SDX55|sdxprairie|LE.UM.4.2.2.r1-02300-SDX55.xml|
 August 05, 2020|LE.UM.5.2.1.r1-00500-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-00500-qcs405.0.xml|
 August 05, 2020|LE.UM.1.2-24400-9x07|LE.UM.1.2|LE.UM.1.2-24400-9x07.xml|
