@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1-04810-sa515m": {
+  "Date": "August 07, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1-04810-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1-04810-sa515m.xml"
+ },
  "LE.UM.3.2.3-44900-SA2150p": {
   "Date": "August 07, 2020",
   "Tag / Build ID": "LE.UM.3.2.3-44900-SA2150p",
