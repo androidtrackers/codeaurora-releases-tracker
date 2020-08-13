@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 13, 2020|LE.AU_FSL.1.0-79200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-79200-eap-imx-cv2x.xml|
+August 13, 2020|LE.UM.1.3.2.r1-05700-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-05700-9150-cv2x.xml|
 August 12, 2020|LE.UM.1.1-92600-9x07|mdm9607|LE.UM.1.1-92600-9x07.xml|
 August 11, 2020|LE.UM.4.3.3.r1-00900-SDX55|sdxprairie|LE.UM.4.3.3.r1-00900-SDX55.xml|
 August 08, 2020|LE.UM.4.4.1.r1-01000-QRB5165.0|QRB5165.1|LE.UM.4.4.1.r1-01000-QRB5165.0.xml|
