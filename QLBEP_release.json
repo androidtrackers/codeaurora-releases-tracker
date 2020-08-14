@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-04700-QCS610.0": {
+  "Date": "August 14, 2020",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-04700-QCS610.0",
+  "Chipset": "qcs610-odk-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-04700-QCS610.0.xml"
+ },
  "LE.AU_FSL.1.0-79200-eap-imx-cv2x": {
   "Date": "August 13, 2020",
   "Tag / Build ID": "LE.AU_FSL.1.0-79200-eap-imx-cv2x",
