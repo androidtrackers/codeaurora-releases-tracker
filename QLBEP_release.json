@@ -1,4 +1,10 @@
 {
+ "LE.BR.1.2.1-05000-9x07": {
+  "Date": "August 17, 2020",
+  "Tag / Build ID": "LE.BR.1.2.1-05000-9x07",
+  "Chipset": "LE.BR.1.2.1",
+  "Manifest": "LE.BR.1.2.1-05000-9x07.xml"
+ },
  "LE.UM.4.2.3.r1-04700-QCS610.0": {
   "Date": "August 14, 2020",
   "Tag / Build ID": "LE.UM.4.2.3.r1-04700-QCS610.0",

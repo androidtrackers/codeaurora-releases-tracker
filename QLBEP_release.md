@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 17, 2020|LE.BR.1.2.1-05000-9x07|LE.BR.1.2.1|LE.BR.1.2.1-05000-9x07.xml|
 August 14, 2020|LE.UM.4.2.3.r1-04700-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-04700-QCS610.0.xml|
 August 13, 2020|LE.AU_FSL.1.0-79200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-79200-eap-imx-cv2x.xml|
 August 13, 2020|LE.UM.1.3.2.r1-05700-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-05700-9150-cv2x.xml|
