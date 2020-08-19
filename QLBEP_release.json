@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.2.r1-02400-SDX55": {
+  "Date": "August 19, 2020",
+  "Tag / Build ID": "LE.UM.4.2.2.r1-02400-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.2.2.r1-02400-SDX55.xml"
+ },
  "LV.AU.0.1.0.r3-00600-qtiquingvm.0": {
   "Date": "August 19, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r3-00600-qtiquingvm.0",
