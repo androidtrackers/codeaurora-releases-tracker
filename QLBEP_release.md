@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 19, 2020|LV.AU.0.1.0.r3-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r3-00600-qtiquingvm.0.xml|
 August 18, 2020|LE.UM.2.3.2-10900-SDX24|sdxprairie|LE.UM.2.3.2-10900-SDX24.xml|
 August 17, 2020|LE.BR.1.2.1-05000-9x07|LE.BR.1.2.1|LE.BR.1.2.1-05000-9x07.xml|
 August 14, 2020|LE.UM.4.2.3.r1-04700-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-04700-QCS610.0.xml|
