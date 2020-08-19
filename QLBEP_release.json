@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.2-10900-SDX24": {
+  "Date": "August 18, 2020",
+  "Tag / Build ID": "LE.UM.2.3.2-10900-SDX24",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.2.3.2-10900-SDX24.xml"
+ },
  "LE.BR.1.2.1-05000-9x07": {
   "Date": "August 17, 2020",
   "Tag / Build ID": "LE.BR.1.2.1-05000-9x07",
