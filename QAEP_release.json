@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.2.r3-01400-sdm660.0": {
+  "Date": "August 20, 2020",
+  "Tag / Build ID": "LA.UM.7.2.r3-01400-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.7.2.r3-01400-sdm660.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.UM.8.2.r1-07200-sdm660.0": {
   "Date": "August 20, 2020",
   "Tag / Build ID": "LA.UM.8.2.r1-07200-sdm660.0",
