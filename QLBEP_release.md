@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 22, 2020|LE.BR.1.3.1-15010-9x50|mdm9650|LE.BR.1.3.1-15010-9x50.xml|
 August 21, 2020|LV.AU.0.1.0.r2-03300-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-03300-qtiquingvm.0.xml|
 August 20, 2020|LE.UM.3.4.2-01400-9x07|mdm9607-poky|LE.UM.3.4.2-01400-9x07.xml|
 August 19, 2020|LE.UM.1.3.r5-43100-9x50|mdm9650-poky|LE.UM.1.3.r5-43100-9x50.xml|
