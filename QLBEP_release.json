@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.4-09100-SA2150p": {
+  "Date": "August 24, 2020",
+  "Tag / Build ID": "LE.UM.4.2.4-09100-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.4.2.4-09100-SA2150p.xml"
+ },
  "LV.AU.0.1.0.r2-03400-qtiquingvm.0": {
   "Date": "August 22, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-03400-qtiquingvm.0",
