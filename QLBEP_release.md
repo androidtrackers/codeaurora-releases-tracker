@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 24, 2020|LV.AU.0.1.0.r2-03500-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-03500-qtiquingvm.0.xml|
 August 24, 2020|LV.HB.0.0.1.c2-06510-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-06510-8x96_cv2x.0.xml|
 August 24, 2020|LV.AU.0.1.0.r3-00800-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r3-00800-qtiquingvm.0.xml|
 August 24, 2020|LE.UM.4.2.4-09100-SA2150p|sa2150p|LE.UM.4.2.4-09100-SA2150p.xml|

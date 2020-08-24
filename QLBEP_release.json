@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.1.0.r2-03500-qtiquingvm.0": {
+  "Date": "August 24, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-03500-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-03500-qtiquingvm.0.xml"
+ },
  "LV.HB.0.0.1.c2-06510-8x96_cv2x.0": {
   "Date": "August 24, 2020",
   "Tag / Build ID": "LV.HB.0.0.1.c2-06510-8x96_cv2x.0",
