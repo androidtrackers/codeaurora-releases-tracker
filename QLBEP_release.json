@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3.2.2-88136-9x40": {
+  "Date": "August 25, 2020",
+  "Tag / Build ID": "LNX.LE.5.3.2.2-88136-9x40",
+  "Chipset": "LNX.LE.5.3.2.2",
+  "Manifest": "LNX.LE.5.3.2.2-88136-9x40.xml"
+ },
  "LV.AU.0.1.0.r2-03500-qtiquingvm.0": {
   "Date": "August 24, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-03500-qtiquingvm.0",
