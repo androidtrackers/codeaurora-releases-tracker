@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 25, 2020|LV.AU.0.1.0.r2-03600-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-03600-qtiquingvm.0.xml|
 August 25, 2020|LNX.LE.5.3.2.2-88136-9x40|LNX.LE.5.3.2.2|LNX.LE.5.3.2.2-88136-9x40.xml|
 August 24, 2020|LV.AU.0.1.0.r2-03500-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-03500-qtiquingvm.0.xml|
 August 24, 2020|LV.HB.0.0.1.c2-06510-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-06510-8x96_cv2x.0.xml|
