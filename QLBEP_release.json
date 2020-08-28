@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.3.2.r1-01800-9x07": {
+  "Date": "August 28, 2020",
+  "Tag / Build ID": "LE.UM.4.3.2.r1-01800-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.UM.4.3.2.r1-01800-9x07.xml"
+ },
+ "LV.AU.0.1.0.r3-00900-qtiquingvm.0": {
+  "Date": "August 28, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r3-00900-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r3-00900-qtiquingvm.0.xml"
+ },
  "LE.UM.4.3.3.r1-01100-SDX55": {
   "Date": "August 26, 2020",
   "Tag / Build ID": "LE.UM.4.3.3.r1-01100-SDX55",
