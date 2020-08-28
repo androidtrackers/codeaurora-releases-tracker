@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 28, 2020|LE.UM.4.1.1-05110-sa515m|sa515m|LE.UM.4.1.1-05110-sa515m.xml|
 August 28, 2020|LE.UM.4.3.2.r1-01800-9x07|mdm9607|LE.UM.4.3.2.r1-01800-9x07.xml|
 August 28, 2020|LV.AU.0.1.0.r3-00900-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r3-00900-qtiquingvm.0.xml|
 August 26, 2020|LE.UM.4.3.3.r1-01100-SDX55|sdxprairie|LE.UM.4.3.3.r1-01100-SDX55.xml|
