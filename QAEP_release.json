@@ -1,4 +1,11 @@
 {
+ "LA.HB.1.1.5-14210-8x96.0": {
+  "Date": "August 31, 2020",
+  "Tag / Build ID": "LA.HB.1.1.5-14210-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-14210-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.AU.0.1.0.r3-00800-gen3_gvmgh.0": {
   "Date": "August 31, 2020",
   "Tag / Build ID": "LA.AU.0.1.0.r3-00800-gen3_gvmgh.0",
