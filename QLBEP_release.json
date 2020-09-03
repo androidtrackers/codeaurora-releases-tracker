@@ -1,4 +1,16 @@
 {
+ "LE.UM.1.3-10000-SDX20": {
+  "Date": "September 03, 2020",
+  "Tag / Build ID": "LE.UM.1.3-10000-SDX20",
+  "Chipset": "sdx20",
+  "Manifest": "LE.UM.1.3-10000-SDX20.xml"
+ },
+ "LE.UM.1.1-92900-9x07": {
+  "Date": "September 03, 2020",
+  "Tag / Build ID": "LE.UM.1.1-92900-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.UM.1.1-92900-9x07.xml"
+ },
  "LE.UM.4.1.1.c1-19400-sa515m": {
   "Date": "August 31, 2020",
   "Tag / Build ID": "LE.UM.4.1.1.c1-19400-sa515m",
