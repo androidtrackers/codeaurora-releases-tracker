@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 03, 2020|LE.UM.2.3.6.c1-18600-9x07|mdm9607-poky|LE.UM.2.3.6.c1-18600-9x07.xml|
 September 03, 2020|LE.UM.1.3-10000-SDX20|sdx20|LE.UM.1.3-10000-SDX20.xml|
 September 03, 2020|LE.UM.1.1-92900-9x07|mdm9607|LE.UM.1.1-92900-9x07.xml|
 August 31, 2020|LE.UM.4.1.1.c1-19400-sa515m|sa515m|LE.UM.4.1.1.c1-19400-sa515m.xml|
