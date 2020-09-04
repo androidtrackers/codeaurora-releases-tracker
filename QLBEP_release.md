@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 04, 2020|LE.UM.1.3.r8-01000-9x50|mdm9650-poky|LE.UM.1.3.r8-01000-9x50.xml|
 September 03, 2020|LE.UM.2.3.2-11000-SDX24|sdxprairie|LE.UM.2.3.2-11000-SDX24.xml|
 September 03, 2020|LV.AU.0.1.0.r3-01000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r3-01000-qtiquingvm.0.xml|
 September 03, 2020|LE.UM.2.3.6.c1-18600-9x07|mdm9607-poky|LE.UM.2.3.6.c1-18600-9x07.xml|
