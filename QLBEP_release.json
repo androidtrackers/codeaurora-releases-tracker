@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.1.0.r3-01000-qtiquingvm.0": {
+  "Date": "September 03, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r3-01000-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r3-01000-qtiquingvm.0.xml"
+ },
  "LE.UM.2.3.6.c1-18600-9x07": {
   "Date": "September 03, 2020",
   "Tag / Build ID": "LE.UM.2.3.6.c1-18600-9x07",
