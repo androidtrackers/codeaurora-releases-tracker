@@ -1,4 +1,18 @@
 {
+ "LA.UM.7.3.r1-09400-sdm845.0": {
+  "Date": "September 07, 2020",
+  "Tag / Build ID": "LA.UM.7.3.r1-09400-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.7.3.r1-09400-sdm845.0.xml",
+  "Android Version": "09.00.00"
+ },
+ "LA.AU.1.2.2.r1-00400-gen3meta.0": {
+  "Date": "September 07, 2020",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-00400-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.2.2.r1-00400-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.8.1.r1-03900-QCS605.0": {
   "Date": "September 05, 2020",
   "Tag / Build ID": "LA.UM.8.8.1.r1-03900-QCS605.0",
