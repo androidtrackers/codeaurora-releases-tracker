@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.9.1.r1-00400-QCS610.0": {
+  "Date": "September 08, 2020",
+  "Tag / Build ID": "LA.UM.8.9.1.r1-00400-QCS610.0",
+  "Chipset": "sm6150",
+  "Manifest": "LA.UM.8.9.1.r1-00400-QCS610.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.7.3.r1-09400-sdm845.0": {
   "Date": "September 07, 2020",
   "Tag / Build ID": "LA.UM.7.3.r1-09400-sdm845.0",
