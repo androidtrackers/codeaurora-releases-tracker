@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 11, 2020|LE.AU_EAP.1.0.c3-01300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-01300-eap-fsl.xml|
 September 11, 2020|LE.UM.4.1.1.c1-20800-sa515m|sa515m|LE.UM.4.1.1.c1-20800-sa515m.xml|
 September 11, 2020|LE.UM.2.3.3.r1-08800-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.r1-08800-QCS605.0.xml|
 September 08, 2020|LE.UM.4.3.3.r1-01300-SDX55|sdxprairie|LE.UM.4.3.3.r1-01300-SDX55.xml|
