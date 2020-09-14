@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.4.1.r1-02300-8x98.0": {
+  "Date": "September 14, 2020",
+  "Tag / Build ID": "LA.UM.8.4.1.r1-02300-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.8.4.1.r1-02300-8x98.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.BR.1.3.6.c25-11100-8976.0": {
   "Date": "September 14, 2020",
   "Tag / Build ID": "LA.BR.1.3.6.c25-11100-8976.0",
