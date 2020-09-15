@@ -1,4 +1,28 @@
 {
+ "LE.UM.3.4.2-01600-9x07": {
+  "Date": "September 15, 2020",
+  "Tag / Build ID": "LE.UM.3.4.2-01600-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.3.4.2-01600-9x07.xml"
+ },
+ "LE.AU_EAP.1.0.c1-06500-eap-fsl": {
+  "Date": "September 15, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-06500-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-06500-eap-fsl.xml"
+ },
+ "LE.UM.3.2.3.c1-07000-SA2150p": {
+  "Date": "September 15, 2020",
+  "Tag / Build ID": "LE.UM.3.2.3.c1-07000-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c1-07000-SA2150p.xml"
+ },
+ "LE.UM.3.2.1.c1-05300-sa415m": {
+  "Date": "September 15, 2020",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-05300-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-05300-sa415m.xml"
+ },
  "LU.UM.1.2.1.r1-12400-QRB5165.0": {
   "Date": "September 13, 2020",
   "Tag / Build ID": "LU.UM.1.2.1.r1-12400-QRB5165.0",

@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 15, 2020|LE.UM.3.4.2-01600-9x07|mdm9607-poky|LE.UM.3.4.2-01600-9x07.xml|
+September 15, 2020|LE.AU_EAP.1.0.c1-06500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-06500-eap-fsl.xml|
+September 15, 2020|LE.UM.3.2.3.c1-07000-SA2150p|sa2150p|LE.UM.3.2.3.c1-07000-SA2150p.xml|
+September 15, 2020|LE.UM.3.2.1.c1-05300-sa415m|sa415m|LE.UM.3.2.1.c1-05300-sa415m.xml|
 September 13, 2020|LU.UM.1.2.1.r1-12400-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-12400-QRB5165.0.xml|
 September 13, 2020|LE.UM.2.3.6.c2-00900-9x07|LE.UM.2.3.6.c2|LE.UM.2.3.6.c2-00900-9x07.xml|
 September 11, 2020|LE.AU_EAP.1.0.c3-01300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-01300-eap-fsl.xml|
