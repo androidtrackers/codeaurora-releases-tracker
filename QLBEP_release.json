@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r1-01000-qcs405.0": {
+  "Date": "September 16, 2020",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-01000-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-01000-qcs405.0.xml"
+ },
  "LE.UM.3.4.2-01600-9x07": {
   "Date": "September 15, 2020",
   "Tag / Build ID": "LE.UM.3.4.2-01600-9x07",
