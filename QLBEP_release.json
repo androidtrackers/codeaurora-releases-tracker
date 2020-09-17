@@ -1,4 +1,274 @@
 {
+ "LV.AU.0.1.0.r2-04300-qtiquingvm.0": {
+  "Date": "October 22, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-04300-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-04300-qtiquingvm.0.xml"
+ },
+ "LE.UM.1.3.r9-03100-9x50": {
+  "Date": "October 20, 2020",
+  "Tag / Build ID": "LE.UM.1.3.r9-03100-9x50",
+  "Chipset": "mdm9650-poky",
+  "Manifest": "LE.UM.1.3.r9-03100-9x50.xml"
+ },
+ "LE.UM.1.2.c5-00700-9x07": {
+  "Date": "October 17, 2020",
+  "Tag / Build ID": "LE.UM.1.2.c5-00700-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.1.2.c5-00700-9x07.xml"
+ },
+ "LE.UM.1.3.r5-45600-9x50": {
+  "Date": "October 15, 2020",
+  "Tag / Build ID": "LE.UM.1.3.r5-45600-9x50",
+  "Chipset": "mdm9650-poky",
+  "Manifest": "LE.UM.1.3.r5-45600-9x50.xml"
+ },
+ "LE.UM.3.4.2-01700-9x07": {
+  "Date": "October 14, 2020",
+  "Tag / Build ID": "LE.UM.3.4.2-01700-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.3.4.2-01700-9x07.xml"
+ },
+ "LV.AU.0.1.0.r4-01400-sa8155_gvmo.0": {
+  "Date": "October 12, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r4-01400-sa8155_gvmo.0",
+  "Chipset": "opsy-sa8155agl",
+  "Manifest": "LV.AU.0.1.0.r4-01400-sa8155_gvmo.0.xml"
+ },
+ "LE.UM.2.3.2-11300-SDX24": {
+  "Date": "October 12, 2020",
+  "Tag / Build ID": "LE.UM.2.3.2-11300-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-11300-SDX24.xml"
+ },
+ "LE.UM.2.3.3.r1-09100-QCS605.0": {
+  "Date": "October 12, 2020",
+  "Tag / Build ID": "LE.UM.2.3.3.r1-09100-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.r1-09100-QCS605.0.xml"
+ },
+ "LE.UM.1.2-31800-9x07": {
+  "Date": "October 11, 2020",
+  "Tag / Build ID": "LE.UM.1.2-31800-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.1.2-31800-9x07.xml"
+ },
+ "LE.UM.1.3.r8-01200-9x50": {
+  "Date": "October 07, 2020",
+  "Tag / Build ID": "LE.UM.1.3.r8-01200-9x50",
+  "Chipset": "mdm9650-poky",
+  "Manifest": "LE.UM.1.3.r8-01200-9x50.xml"
+ },
+ "LE.UM.2.3.6-93900-9x07": {
+  "Date": "October 05, 2020",
+  "Tag / Build ID": "LE.UM.2.3.6-93900-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.2.3.6-93900-9x07.xml"
+ },
+ "LNX.LE.4.2-50985-9x35": {
+  "Date": "October 05, 2020",
+  "Tag / Build ID": "LNX.LE.4.2-50985-9x35",
+  "Chipset": "mdm9635",
+  "Manifest": "LNX.LE.4.2-50985-9x35.xml"
+ },
+ "LE.UM.5.2.2.r1-00500-SXR2130.0": {
+  "Date": "October 04, 2020",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-00500-SXR2130.0",
+  "Chipset": "sxr2130-mtp-console-base-nosecurity-debug",
+  "Manifest": "LE.UM.5.2.2.r1-00500-SXR2130.0.xml"
+ },
+ "LE.UM.4.2.3.r1-05400-QCS610.0": {
+  "Date": "October 01, 2020",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-05400-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-05400-QCS610.0.xml"
+ },
+ "CHSS.LNX_FSLR.1.0.r1-02400-QCAAUTOHOSTHZ": {
+  "Date": "October 01, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-02400-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLR.1.0.r1-02400-QCAAUTOHOSTHZ.xml"
+ },
+ "LE.AU_EAP.1.0-62900-eap-fsl": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0-62900-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0-62900-eap-fsl.xml"
+ },
+ "LE.UM.4.1.1-05710-sa515m": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1-05710-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1-05710-sa515m.xml"
+ },
+ "LE.UM.3.2.3-00810-SA2150p": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.UM.3.2.3-00810-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3-00810-SA2150p.xml"
+ },
+ "LE.UM.1.3-10200-SDX20": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.UM.1.3-10200-SDX20",
+  "Chipset": "sdx20",
+  "Manifest": "LE.UM.1.3-10200-SDX20.xml"
+ },
+ "LE.UM.2.3.2-11200-SDX24": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.UM.2.3.2-11200-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-11200-SDX24.xml"
+ },
+ "LE.UM.5.2.1.r1-01100-qcs405.0": {
+  "Date": "September 30, 2020",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-01100-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-01100-qcs405.0.xml"
+ },
+ "BTHOST_AU.LA.3.0.r20.2-01300-QCA6574AUARMSDIOHZ": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "BTHOST_AU.LA.3.0.r20.2-01300-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.0.r20.2-01300-QCA6574AUARMSDIOHZ.xml"
+ },
+ "WLANHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.3.1.r20.2-01000-QCA6574AUARMSDIOHZ.xml"
+ },
+ "WLANHOST_AU.LA.3.0.r20.2-01100-QCA6574AUARMSDIOHZ": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LA.3.0.r20.2-01100-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.3.0.r20.2-01100-QCA6574AUARMSDIOHZ.xml"
+ },
+ "BTHOST_AU.LA.3.1.r20.2-01300-QCA6574AUARMSDIOHZ": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "BTHOST_AU.LA.3.1.r20.2-01300-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.1.r20.2-01300-QCA6574AUARMSDIOHZ.xml"
+ },
+ "WLANHost_AU.LE.2.1.r20.2-02300-QCA6574AUARMSDIOHZ": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "WLANHost_AU.LE.2.1.r20.2-02300-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHost_AU.LE.2.1.r20.2-02300-QCA6574AUARMSDIOHZ.xml"
+ },
+ "LE.AU_EAP.1.0.c3-01400-eap-fsl": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c3-01400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c3-01400-eap-fsl.xml"
+ },
+ "LE.UM.4.1.1.c1-21700-sa515m": {
+  "Date": "September 29, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1.c1-21700-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c1-21700-sa515m.xml"
+ },
+ "LV.AU.0.1.0.r1-15900-gen3meta.0": {
+  "Date": "September 28, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r1-15900-gen3meta.0",
+  "Chipset": "sa8155agl",
+  "Manifest": "LV.AU.0.1.0.r1-15900-gen3meta.0.xml"
+ },
+ "LE.UM.4.3.2.r1-02000-9x07": {
+  "Date": "September 28, 2020",
+  "Tag / Build ID": "LE.UM.4.3.2.r1-02000-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.UM.4.3.2.r1-02000-9x07.xml"
+ },
+ "LE.AU_EAP.1.0.c4-00300-eap-fsl": {
+  "Date": "September 28, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c4-00300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c4-00300-eap-fsl.xml"
+ },
+ "LE.UM.3.2.1.c2-00500-sa415m": {
+  "Date": "September 27, 2020",
+  "Tag / Build ID": "LE.UM.3.2.1.c2-00500-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c2-00500-sa415m.xml"
+ },
+ "LV.HB.1.1.5-15610-8x96.0": {
+  "Date": "September 25, 2020",
+  "Tag / Build ID": "LV.HB.1.1.5-15610-8x96.0",
+  "Chipset": "8x96autogvmgh",
+  "Manifest": "LV.HB.1.1.5-15610-8x96.0.xml"
+ },
+ "LE.UM.1.3.r8-01100-9x50": {
+  "Date": "September 24, 2020",
+  "Tag / Build ID": "LE.UM.1.3.r8-01100-9x50",
+  "Chipset": "mdm9650-poky",
+  "Manifest": "LE.UM.1.3.r8-01100-9x50.xml"
+ },
+ "LNX.LE.5.2-75399-9x40": {
+  "Date": "September 23, 2020",
+  "Tag / Build ID": "LNX.LE.5.2-75399-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.2-75399-9x40.xml"
+ },
+ "LE.UM.4.3.3.r1-01400-SDX55": {
+  "Date": "September 23, 2020",
+  "Tag / Build ID": "LE.UM.4.3.3.r1-01400-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.3.3.r1-01400-SDX55.xml"
+ },
+ "LE.UM.4.1.1-05510-sa515m": {
+  "Date": "September 22, 2020",
+  "Tag / Build ID": "LE.UM.4.1.1-05510-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1-05510-sa515m.xml"
+ },
+ "LE.UM.3.2.3-00610-SA2150p": {
+  "Date": "September 22, 2020",
+  "Tag / Build ID": "LE.UM.3.2.3-00610-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3-00610-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0-62400-eap-fsl": {
+  "Date": "September 22, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0-62400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0-62400-eap-fsl.xml"
+ },
+ "CHSS.LNX_FSLR.1.0.r1-01900-QCAAUTOHOSTHZ": {
+  "Date": "September 21, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-01900-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLR.1.0.r1-01900-QCAAUTOHOSTHZ.xml"
+ },
+ "CHSS.LNX_FSL.2.2-03110-QCA6574AUARMSDIOHZ": {
+  "Date": "September 21, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSL.2.2-03110-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.2.2-03110-QCA6574AUARMSDIOHZ.xml"
+ },
+ "LV.AU.0.1.0.r3-01200-qtiquingvm.0": {
+  "Date": "September 20, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r3-01200-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r3-01200-qtiquingvm.0.xml"
+ },
+ "LV.AU.0.1.0.r3-01100-qtiquingvm.0": {
+  "Date": "September 18, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r3-01100-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r3-01100-qtiquingvm.0.xml"
+ },
+ "LNX.LE.5.3-76907-9x40": {
+  "Date": "September 18, 2020",
+  "Tag / Build ID": "LNX.LE.5.3-76907-9x40",
+  "Chipset": "LNX.LE.5.3",
+  "Manifest": "LNX.LE.5.3-76907-9x40.xml"
+ },
+ "LE.UM.4.2.2.r1-02800-SDX55": {
+  "Date": "September 17, 2020",
+  "Tag / Build ID": "LE.UM.4.2.2.r1-02800-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.2.2.r1-02800-SDX55.xml"
+ },
  "LV.AU.0.1.0.r1-15200-gen3meta.0": {
   "Date": "September 16, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r1-15200-gen3meta.0",
