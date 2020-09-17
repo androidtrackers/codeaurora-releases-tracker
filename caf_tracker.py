@@ -65,34 +65,36 @@ def get_build_id(tag):
 
 
 def get_kernel_version(manifest_url, tag):
-    kernel_repo = re.search(r'name=\"(kernel/msm-[0-9.]+)\".*upstream=\"(?:refs/heads/)?(.*)\"/?>',
-                            BeautifulSoup(get(manifest_url).content,
-                                          "html.parser").get_text())
-    regex = re.search(r'(?:VERSION = )(\d+)(?:\nPATCHLEVEL = )(\d+)(?:\nSUBLEVEL = )(\d+)',
-                      BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/{kernel_repo.group(1)}/"
-                                        f"tree/Makefile?h={tag}").content,
-                                    "html.parser").get_text())
     try:
+        kernel_repo = re.search(r'name=\"(kernel/msm-[0-9.]+)\".*upstream=\"(?:refs/heads/)?(.*)\"/?>',
+                                BeautifulSoup(get(manifest_url).content,
+                                              "html.parser").get_text())
+        regex = re.search(r'(?:VERSION = )(\d+)(?:\nPATCHLEVEL = )(\d+)(?:\nSUBLEVEL = )(\d+)',
+                          BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/{kernel_repo.group(1)}/"
+                                            f"tree/Makefile?h={tag}").content,
+                                        "html.parser").get_text())
         return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)} ({kernel_repo.group(2)})"
-    except IndexError:
+    except (IndexError, AttributeError):
         return "Unknown"
 
 
 def generate_telegram_message(update):
     tag = update.get('Tag / Build ID')
-    manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
     message = f"New CAF release detected!\n" \
               f"Chipset: *{update.get('Chipset')}* \n" \
               f"*Tag:* `{tag}` \n"
     if "Android Version" in update.keys():
+        manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}" if not update.get(
+            'Android Version').startswith(
+            '11') else f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{update.get('Manifest')}"
         message += f"Android: *{update.get('Android Version')}* \n"
         security_patch = get_security_patch(tag)
         if security_patch:
             message += f"Security Patch: *{get_security_patch(tag)}*\n"
         message += f"Build ID: *{get_build_id(tag)}*\n" \
                    f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
-    message += f"Manifest: [Here]({manifest_url}) \n" \
-               f"Date: {update.get('Date')}"
+        message += f"Manifest: [Here]({manifest_url}) \n"
+    message += f"Date: {update.get('Date')}"
     return message
 
 
@@ -113,6 +115,7 @@ def send_telegram_message(telegram_message, chat):
 def post_updates(changes, chat):
     for update in changes:
         telegram_message = generate_telegram_message(update)
+        print(telegram_message)
         send_telegram_message(telegram_message, chat)
 
 
@@ -153,7 +156,7 @@ def main():
         changes = diff(read_json(f'{file}.bak'), scraper.data)
         if changes:
             post_updates(changes, telegram_chat)
-    git_command_push()
+    # git_command_push()
 
 
 if __name__ == '__main__':
