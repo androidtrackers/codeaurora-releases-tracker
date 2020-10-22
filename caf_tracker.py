@@ -58,10 +58,13 @@ def get_security_patch(tag):
 
 
 def get_build_id(tag):
-    return re.search(r'(?:BUILD_ID=)(.*)',
-                     BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
-                                       f"tree/core/build_id.mk?h={tag}").content,
-                                   "html.parser").get_text()).group(1)
+    try:
+        return re.search(r'(?:BUILD_ID=)(.*)',
+                         BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/platform/build/"
+                                           f"tree/core/build_id.mk?h={tag}").content,
+                                       "html.parser").get_text()).group(1)
+    except AttributeError:
+        pass
 
 
 def get_kernel_version(manifest_url, tag):
@@ -91,8 +94,12 @@ def generate_telegram_message(update):
         security_patch = get_security_patch(tag)
         if security_patch:
             message += f"Security Patch: *{get_security_patch(tag)}*\n"
-        message += f"Build ID: *{get_build_id(tag)}*\n" \
-                   f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
+        build_id = get_build_id(tag)
+        if build_id:
+            message += f"Build ID: *{get_build_id(tag)}*\n"
+        kernel_version = get_kernel_version(manifest_url, tag)
+        if kernel_version:
+            message += f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
         message += f"Manifest: [Here]({manifest_url}) \n"
     message += f"Date: {update.get('Date')}"
     return message
@@ -156,7 +163,7 @@ def main():
         changes = diff(read_json(f'{file}.bak'), scraper.data)
         if changes:
             post_updates(changes, telegram_chat)
-    # git_command_push()
+    git_command_push()
 
 
 if __name__ == '__main__':
