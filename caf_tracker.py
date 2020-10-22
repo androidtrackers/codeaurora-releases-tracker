@@ -6,7 +6,7 @@ from pathlib import Path
 from time import sleep
 
 from bs4 import BeautifulSoup
-from requests import get, post
+from requests import get, post, head
 
 telegram_chat = "@CAFReleases"
 bottoken = environ['bottoken']
@@ -78,18 +78,30 @@ def get_kernel_version(manifest_url, tag):
                                         "html.parser").get_text())
         return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)} ({kernel_repo.group(2)})"
     except (IndexError, AttributeError):
-        return "Unknown"
+        pass
 
 
 def generate_telegram_message(update):
+    manifest_url = ""
     tag = update.get('Tag / Build ID')
     message = f"New CAF release detected!\n" \
               f"Chipset: *{update.get('Chipset')}* \n" \
               f"*Tag:* `{tag}` \n"
-    if "Android Version" in update.keys():
-        manifest_url = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}" if not update.get(
-            'Android Version').startswith(
-            '11') else f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{update.get('Manifest')}"
+    manifest = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
+    android_version = update.get('Android Version')
+    if head(manifest).ok:
+        manifest_url = manifest
+        message += f"Manifest: [Platform]({manifest})"
+        if android_version.startswith('11'):
+            system_manifest = f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{update.get('Manifest')}"
+            vendor_manifest = f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/{update.get('Manifest')}"
+            if head(system_manifest).ok:
+                message += f" | [System]({system_manifest})"
+            if head(vendor_manifest).ok:
+                message += f" | [Vendor]({vendor_manifest})"
+                manifest_url = vendor_manifest
+            message += "\n"
+    if android_version:
         message += f"Android: *{update.get('Android Version')}* \n"
         security_patch = get_security_patch(tag)
         if security_patch:
@@ -100,7 +112,9 @@ def generate_telegram_message(update):
         kernel_version = get_kernel_version(manifest_url, tag)
         if kernel_version:
             message += f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
-        message += f"Manifest: [Here]({manifest_url}) \n"
+    else:
+        message += f"Manifest: [Here](https://source.codeaurora.org/quic/le/le/" \
+                   f"manifest/tree/{update.get('Manifest')}?h={tag}) \n"
     message += f"Date: {update.get('Date')}"
     return message
 
