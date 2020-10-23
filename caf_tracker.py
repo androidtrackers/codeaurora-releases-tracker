@@ -109,12 +109,12 @@ def generate_telegram_message(update):
         build_id = get_build_id(tag)
         if build_id:
             message += f"Build ID: *{get_build_id(tag)}*\n"
-        kernel_version = get_kernel_version(manifest_url, tag)
-        if kernel_version:
-            message += f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
     else:
-        message += f"Manifest: [Here](https://source.codeaurora.org/quic/le/le/" \
-                   f"manifest/tree/{update.get('Manifest')}?h={tag}) \n"
+        manifest_url = f"https://source.codeaurora.org/quic/le/le/manifest/tree/{update.get('Manifest')}?h={tag}"
+        message += f"Manifest: [Here]({manifest_url}) \n"
+    kernel_version = get_kernel_version(manifest_url, tag)
+    if kernel_version:
+        message += f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
     message += f"Date: {update.get('Date')}"
     return message
 
