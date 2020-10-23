@@ -100,7 +100,7 @@ def generate_telegram_message(update):
             if head(vendor_manifest).ok:
                 message += f" | [Vendor]({vendor_manifest})"
                 manifest_url = vendor_manifest
-            message += "\n"
+        message += "\n"
     if android_version:
         message += f"Android: *{update.get('Android Version')}* \n"
         security_patch = get_security_patch(tag)
