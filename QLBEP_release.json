@@ -1,4 +1,22 @@
 {
+ "LE.UM.3.2.1.c1-06000-sa415m": {
+  "Date": "October 25, 2020",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-06000-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-06000-sa415m.xml"
+ },
+ "LE.UM.3.2.3.c1-09300-SA2150p": {
+  "Date": "October 25, 2020",
+  "Tag / Build ID": "LE.UM.3.2.3.c1-09300-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c1-09300-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0.c1-08700-eap-fsl": {
+  "Date": "October 25, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-08700-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-08700-eap-fsl.xml"
+ },
  "LE.UM.1.1-93700-9x07": {
   "Date": "October 23, 2020",
   "Tag / Build ID": "LE.UM.1.1-93700-9x07",

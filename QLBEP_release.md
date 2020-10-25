@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 25, 2020|LE.UM.3.2.1.c1-06000-sa415m|sa415m|LE.UM.3.2.1.c1-06000-sa415m.xml|
+October 25, 2020|LE.UM.3.2.3.c1-09300-SA2150p|sa2150p|LE.UM.3.2.3.c1-09300-SA2150p.xml|
+October 25, 2020|LE.AU_EAP.1.0.c1-08700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-08700-eap-fsl.xml|
 October 23, 2020|LE.UM.1.1-93700-9x07|mdm9607-poky|LE.UM.1.1-93700-9x07.xml|
 October 22, 2020|LV.AU.0.1.0.r2-04300-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-04300-qtiquingvm.0.xml|
 October 20, 2020|LE.UM.1.3.r9-03100-9x50|mdm9650-poky|LE.UM.1.3.r9-03100-9x50.xml|
