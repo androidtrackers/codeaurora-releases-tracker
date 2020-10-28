@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 28, 2020|LE.AU_FSL.1.0-86200-eap-fsl|eap-imx|LE.AU_FSL.1.0-86200-eap-fsl.xml|
 October 28, 2020|LE.UM.4.4.1.r2-00800-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-00800-QRB5165.0.xml|
 October 27, 2020|LE.UM.4.3.3.r1-01500-SDX55|sdxprairie|LE.UM.4.3.3.r1-01500-SDX55.xml|
 October 26, 2020|LE.UM.4.3.2.r1-02100-9x07|mdm9607|LE.UM.4.3.2.r1-02100-9x07.xml|
