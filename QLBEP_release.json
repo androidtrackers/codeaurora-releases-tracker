@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-00800-QRB5165.0": {
+  "Date": "October 28, 2020",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-00800-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-00800-QRB5165.0.xml"
+ },
  "LE.UM.4.3.3.r1-01500-SDX55": {
   "Date": "October 27, 2020",
   "Tag / Build ID": "LE.UM.4.3.3.r1-01500-SDX55",
