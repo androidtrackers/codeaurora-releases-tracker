@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.3.r1-01500-SDX55": {
+  "Date": "October 27, 2020",
+  "Tag / Build ID": "LE.UM.4.3.3.r1-01500-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.3.3.r1-01500-SDX55.xml"
+ },
  "LE.UM.4.3.2.r1-02100-9x07": {
   "Date": "October 26, 2020",
   "Tag / Build ID": "LE.UM.4.3.2.r1-02100-9x07",
