@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 29, 2020|LA.UM.9.6.2.r1-02800-89xx.0|msm8953_64|LA.UM.9.6.2.r1-02800-89xx.0.xml|11.00.00|
 October 29, 2020|LA.UM.9.15.1.r1-00400-KAMORTA.0|bengal|LA.UM.9.15.1.r1-00400-KAMORTA.0.xml|10.00.00|
 October 29, 2020|LA.UM.8.15.r1-07300-KAMORTA.0|bengal|LA.UM.8.15.r1-07300-KAMORTA.0.xml|10.00.00|
 October 29, 2020|LA.UM.9.15.r1-01800-KAMORTA.0|bengal|LA.UM.9.15.r1-01800-KAMORTA.0.xml|11.00.00|
