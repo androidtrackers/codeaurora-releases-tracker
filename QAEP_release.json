@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.15.r1-01800-KAMORTA.0": {
+  "Date": "October 29, 2020",
+  "Tag / Build ID": "LA.UM.9.15.r1-01800-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-01800-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.12.r1-08900-SMxx50.0": {
+  "Date": "October 29, 2020",
+  "Tag / Build ID": "LA.UM.9.12.r1-08900-SMxx50.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.r1-08900-SMxx50.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.11.0.r1-07000-qssi.0": {
   "Date": "October 28, 2020",
   "Tag / Build ID": "LA.QSSI.11.0.r1-07000-qssi.0",
