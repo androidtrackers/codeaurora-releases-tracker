@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 04, 2020|LE.UM.4.2.1.r1-04600-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-04600-QCS404.0.xml|
 October 30, 2020|LU.UM.1.2.1.r1-15600-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-15600-QRB5165.0.xml|
 October 29, 2020|LE.UM.1.3.2.r1-06200-9x50|mdm9650-2k|LE.UM.1.3.2.r1-06200-9x50.xml|
 October 28, 2020|LE.AU_FSL.1.0-86200-eap-fsl|eap-imx|LE.AU_FSL.1.0-86200-eap-fsl.xml|
