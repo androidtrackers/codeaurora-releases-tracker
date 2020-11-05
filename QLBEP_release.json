@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.1.0.r2-04800-qtiquingvm.0": {
+  "Date": "November 04, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-04800-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-04800-qtiquingvm.0.xml"
+ },
  "LE.UM.4.1.1.c1-26700-sa515m": {
   "Date": "November 04, 2020",
   "Tag / Build ID": "LE.UM.4.1.1.c1-26700-sa515m",

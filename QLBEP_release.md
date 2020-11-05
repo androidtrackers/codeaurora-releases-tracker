@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 04, 2020|LV.AU.0.1.0.r2-04800-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-04800-qtiquingvm.0.xml|
 November 04, 2020|LE.UM.4.1.1.c1-26700-sa515m|sa515m|LE.UM.4.1.1.c1-26700-sa515m.xml|
 November 04, 2020|LE.AU_EAP.1.0.c3-05800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-05800-eap-fsl.xml|
 November 04, 2020|LE.UM.4.2.1.r1-04600-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-04600-QCS404.0.xml|
