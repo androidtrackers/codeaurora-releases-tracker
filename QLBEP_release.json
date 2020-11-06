@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.3-10500-SDX20": {
+  "Date": "November 06, 2020",
+  "Tag / Build ID": "LE.UM.1.3-10500-SDX20",
+  "Chipset": "sdx20",
+  "Manifest": "LE.UM.1.3-10500-SDX20.xml"
+ },
  "LV.AU.0.1.0.r2-04800-qtiquingvm.0": {
   "Date": "November 04, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-04800-qtiquingvm.0",
