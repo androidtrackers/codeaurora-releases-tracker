@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 09, 2020|LA.BR.1.2.5.c25-04300-8x09.0|msm8909|LA.BR.1.2.5.c25-04300-8x09.0.xml|05.01.00|
+November 09, 2020|LA.QSSI.11.0.r1-07500-qssi.0|qssi|LA.QSSI.11.0.r1-07500-qssi.0.xml|11.00.00|
 November 09, 2020|LA.UM.6.6.c29-01700-89xx.0|msm8953_64|LA.UM.6.6.c29-01700-89xx.0.xml|08.01.00|
 November 06, 2020|LA.UM.8.8.1.r1-04100-QCS605.0|qcs605|LA.UM.8.8.1.r1-04100-QCS605.0.xml|10.00.00|
 November 06, 2020|LA.UM.8.15.r2-02000-KAMORTA.0|bengal|LA.UM.8.15.r2-02000-KAMORTA.0.xml|10.00.00|
