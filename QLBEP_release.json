@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.2.r1-02200-9x07": {
+  "Date": "November 11, 2020",
+  "Tag / Build ID": "LE.UM.4.3.2.r1-02200-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.UM.4.3.2.r1-02200-9x07.xml"
+ },
  "LE.UM.4.1.1-06410-sa515m": {
   "Date": "November 10, 2020",
   "Tag / Build ID": "LE.UM.4.1.1-06410-sa515m",
