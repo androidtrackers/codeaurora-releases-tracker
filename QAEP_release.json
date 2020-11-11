@@ -1,4 +1,11 @@
 {
+ "LAW.BR.2.0-05410-8x09w.0": {
+  "Date": "November 11, 2020",
+  "Tag / Build ID": "LAW.BR.2.0-05410-8x09w.0",
+  "Chipset": "msm8909w",
+  "Manifest": "LAW.BR.2.0-05410-8x09w.0.xml",
+  "Android Version": "07.01.01"
+ },
  "LAW.BR.5.1-02300-89xx.0": {
   "Date": "November 11, 2020",
   "Tag / Build ID": "LAW.BR.5.1-02300-89xx.0",
