@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 14, 2020|LE.UM.5.2.2.r1-00900-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-00900-SXR2130.0.xml|
 November 12, 2020|LE.BR.1.3.1-15110-9x50|mdm9650|LE.BR.1.3.1-15110-9x50.xml|
 November 12, 2020|LE.BR.1.2.1.1-67400-9x07|mdm9607|LE.BR.1.2.1.1-67400-9x07.xml|
 November 12, 2020|LE.UM.3.4.1.r1-05700-8x09.0|open-q-212a-homehub-multimedia-fullstack-perf|LE.UM.3.4.1.r1-05700-8x09.0.xml|
