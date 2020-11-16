@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 16, 2020|LE.UM.3.4.2-01800-9x07|mdm9607-poky|LE.UM.3.4.2-01800-9x07.xml|
 November 15, 2020|LE.UM.3.2.1.c2-01200-sa415m|sa415m|LE.UM.3.2.1.c2-01200-sa415m.xml|
 November 15, 2020|LE.AU_EAP.1.0.c4-01000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-01000-eap-fsl.xml|
 November 14, 2020|LE.UM.5.2.2.r1-00900-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-00900-SXR2130.0.xml|
