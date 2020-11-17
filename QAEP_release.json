@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.2.r1-01400-gen3meta.0": {
+  "Date": "November 17, 2020",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-01400-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.2.2.r1-01400-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.15.r1-07400-KAMORTA.0": {
   "Date": "November 17, 2020",
   "Tag / Build ID": "LA.UM.8.15.r1-07400-KAMORTA.0",
