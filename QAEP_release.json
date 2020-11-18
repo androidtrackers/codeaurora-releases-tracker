@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.3-01800-sa8155_gvmq.0": {
+  "Date": "November 18, 2020",
+  "Tag / Build ID": "LA.AU.1.2.3-01800-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.2.3-01800-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.1.2.2.r1-01400-gen3meta.0": {
   "Date": "November 17, 2020",
   "Tag / Build ID": "LA.AU.1.2.2.r1-01400-gen3meta.0",

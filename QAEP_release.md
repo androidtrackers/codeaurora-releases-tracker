@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 18, 2020|LA.AU.1.2.3-01800-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.2.3-01800-sa8155_gvmq.0.xml|10.00.00|
 November 17, 2020|LA.AU.1.2.2.r1-01400-gen3meta.0|msmnile_au|LA.AU.1.2.2.r1-01400-gen3meta.0.xml|10.00.00|
 November 17, 2020|LA.UM.8.15.r1-07400-KAMORTA.0|bengal|LA.UM.8.15.r1-07400-KAMORTA.0.xml|10.00.00|
 November 16, 2020|LA.UM.7.2.r3-02000-sdm660.0|sdm660_64|LA.UM.7.2.r3-02000-sdm660.0.xml|09.00.00|
