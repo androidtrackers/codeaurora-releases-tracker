@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 19, 2020|LE.UM.5.2.1.r1-01900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-01900-qcs405.0.xml|
 November 18, 2020|LV.AU.0.1.0.r2-05000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05000-qtiquingvm.0.xml|
 November 18, 2020|LE.BR.1.2.1.1.c1-01500-9x07|mdm9607|LE.BR.1.2.1.1.c1-01500-9x07.xml|
 November 17, 2020|LE.UM.2.3.2-11500-SDX24|sdxpoorwills|LE.UM.2.3.2-11500-SDX24.xml|
