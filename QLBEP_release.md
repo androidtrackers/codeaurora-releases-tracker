@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 20, 2020|LV.AU.0.1.0.r5-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r5-00600-qtiquingvm.0.xml|
 November 19, 2020|LV.AU.0.1.0.r5-00400-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r5-00400-qtiquingvm.0.xml|
 November 19, 2020|LE.UM.5.2.1.r1-01900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-01900-qcs405.0.xml|
 November 18, 2020|LV.AU.0.1.0.r2-05000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05000-qtiquingvm.0.xml|
