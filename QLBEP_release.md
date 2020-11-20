@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 20, 2020|LE.UM.4.1.1-06910-sa515m|sa515m|LE.UM.4.1.1-06910-sa515m.xml|
+November 20, 2020|LE.UM.3.2.3-02310-SA2150p|sa2150p|LE.UM.3.2.3-02310-SA2150p.xml|
+November 20, 2020|LE.UM.2.3.6-98600-9x07|LE.UM.2.3.6|LE.UM.2.3.6-98600-9x07.xml|
 November 20, 2020|LV.AU.0.1.0.r5-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r5-00600-qtiquingvm.0.xml|
 November 19, 2020|LV.AU.0.1.0.r5-00400-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r5-00400-qtiquingvm.0.xml|
 November 19, 2020|LE.UM.5.2.1.r1-01900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-01900-qcs405.0.xml|
