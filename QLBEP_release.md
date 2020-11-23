@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 23, 2020|LNX.LE.5.3.2.2-88139-9x40|LNX.LE.5.3.2.2|LNX.LE.5.3.2.2-88139-9x40.xml|
 November 20, 2020|LE.UM.4.1.1-06910-sa515m|sa515m|LE.UM.4.1.1-06910-sa515m.xml|
 November 20, 2020|LE.UM.3.2.3-02310-SA2150p|sa2150p|LE.UM.3.2.3-02310-SA2150p.xml|
 November 20, 2020|LE.UM.2.3.6-98600-9x07|LE.UM.2.3.6|LE.UM.2.3.6-98600-9x07.xml|
