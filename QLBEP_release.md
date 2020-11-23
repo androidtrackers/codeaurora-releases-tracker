@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 23, 2020|LE.UM.4.1.1.c3-01300-sa515m|sa515m|LE.UM.4.1.1.c3-01300-sa515m.xml|
 November 23, 2020|LE.AU_EAP.1.0.c2-01400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c2-01400-eap-fsl.xml|
 November 23, 2020|LE.UM.4.2.3.r1-05900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-05900-QCS610.0.xml|
 November 23, 2020|LE.UM.1.2.c6-00700-9x07|mdm9607-poky|LE.UM.1.2.c6-00700-9x07.xml|
