@@ -1,4 +1,11 @@
 {
+ "LA.HB.1.1.5-14510-8x96.0": {
+  "Date": "November 25, 2020",
+  "Tag / Build ID": "LA.HB.1.1.5-14510-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-14510-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.QSSI.11.0.r1-07800-qssi.0": {
   "Date": "November 24, 2020",
   "Tag / Build ID": "LA.QSSI.11.0.r1-07800-qssi.0",
