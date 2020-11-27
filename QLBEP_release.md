@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 27, 2020|WLANHOST_AU.LE.2.1.r20.3-01100-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LE.2.1.r20.3-01100-QCAAUTOHOSTHZ.xml|
+November 27, 2020|WLANHOST_AU.LA.3.1.r20.3-00800-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.3.1.r20.3-00800-QCAAUTOHOSTHZ.xml|
+November 27, 2020|LV.AU.0.1.0.r2-05300-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05300-qtiquingvm.0.xml|
 November 26, 2020|LE.UM.4.3.3.r1-02100-SDX55|sdxprairie|LE.UM.4.3.3.r1-02100-SDX55.xml|
 November 25, 2020|LE.UM.2.3.6.c2-01300-9x07|mdm9607-poky|LE.UM.2.3.6.c2-01300-9x07.xml|
 November 25, 2020|LE.UM.4.3.2.r1-02300-9x07|mdm9607|LE.UM.4.3.2.r1-02300-9x07.xml|

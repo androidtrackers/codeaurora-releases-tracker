@@ -1,4 +1,22 @@
 {
+ "WLANHOST_AU.LE.2.1.r20.3-01100-QCAAUTOHOSTHZ": {
+  "Date": "November 27, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LE.2.1.r20.3-01100-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LE.2.1.r20.3-01100-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.3.1.r20.3-00800-QCAAUTOHOSTHZ": {
+  "Date": "November 27, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LA.3.1.r20.3-00800-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.3.1.r20.3-00800-QCAAUTOHOSTHZ.xml"
+ },
+ "LV.AU.0.1.0.r2-05300-qtiquingvm.0": {
+  "Date": "November 27, 2020",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-05300-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-05300-qtiquingvm.0.xml"
+ },
  "LE.UM.4.3.3.r1-02100-SDX55": {
   "Date": "November 26, 2020",
   "Tag / Build ID": "LE.UM.4.3.3.r1-02100-SDX55",
