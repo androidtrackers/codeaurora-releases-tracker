@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.15.1.r1-01200-KAMORTA.0": {
+  "Date": "November 28, 2020",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-01200-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.1.r1-01200-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.2.r1-01300-SDMxx0.0": {
   "Date": "November 27, 2020",
   "Tag / Build ID": "LA.UM.9.2.r1-01300-SDMxx0.0",
