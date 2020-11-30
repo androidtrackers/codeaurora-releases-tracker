@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 29, 2020|LE.UM.2.3.6.c2-01400-9x07|mdm9607-poky|LE.UM.2.3.6.c2-01400-9x07.xml|
+November 29, 2020|CHSS.LNX_FSLR.1.0.r1-03600-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-03600-QCAAUTOHOSTHZ.xml|
 November 29, 2020|BTHOST_AU.LA.3.1.r20.3-01300-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.3.1.r20.3-01300-QCAAUTOHOSTHZ.xml|
 November 29, 2020|LE.AU_EAP.1.0-69000-eap-fsl|eap-imx|LE.AU_EAP.1.0-69000-eap-fsl.xml|
 November 28, 2020|LV.AU.0.1.0.r2-05400-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05400-qtiquingvm.0.xml|
