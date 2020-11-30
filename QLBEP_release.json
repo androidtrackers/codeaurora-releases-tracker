@@ -1,4 +1,10 @@
 {
+ "BTHOST_AU.LA.3.1.r20.3-01300-QCAAUTOHOSTHZ": {
+  "Date": "November 29, 2020",
+  "Tag / Build ID": "BTHOST_AU.LA.3.1.r20.3-01300-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.1.r20.3-01300-QCAAUTOHOSTHZ.xml"
+ },
  "LE.AU_EAP.1.0-69000-eap-fsl": {
   "Date": "November 29, 2020",
   "Tag / Build ID": "LE.AU_EAP.1.0-69000-eap-fsl",
