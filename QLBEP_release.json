@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.4.2.r1-01400-SDX55": {
+  "Date": "November 30, 2020",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-01400-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-01400-SDX55.xml"
+ },
+ "LE.UM.4.4.1.r2-01300-QRB5165.0": {
+  "Date": "November 30, 2020",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-01300-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-01300-QRB5165.0.xml"
+ },
  "LE.UM.2.3.6.c2-01400-9x07": {
   "Date": "November 29, 2020",
   "Tag / Build ID": "LE.UM.2.3.6.c2-01400-9x07",
