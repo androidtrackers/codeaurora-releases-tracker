@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 02, 2020|LA.UM.8.13.r1-11000-SAIPAN.0|lito|LA.UM.8.13.r1-11000-SAIPAN.0.xml|10.00.00|
 December 02, 2020|LA.BR.1.3.7.c25-11100-8976.0|msm8952_64|LA.BR.1.3.7.c25-11100-8976.0.xml|08.01.00|
 December 02, 2020|LA.UM.5.7.c25-05600-8x98.0|msm8998|LA.UM.5.7.c25-05600-8x98.0.xml|07.01.01|
 December 02, 2020|LA.UM.9.15.r1-02000-KAMORTA.0|bengal|LA.UM.9.15.r1-02000-KAMORTA.0.xml|11.00.00|
