@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSLS.1.0-01500-QCAAUTOHOSTHZ": {
+  "Date": "December 02, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSLS.1.0-01500-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.1.0-01500-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LE.2.1.r20.3-01300-QCAAUTOHOSTHZ": {
+  "Date": "December 02, 2020",
+  "Tag / Build ID": "WLANHOST_AU.LE.2.1.r20.3-01300-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LE.2.1.r20.3-01300-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.4.4.2.r1-01400-SDX55": {
   "Date": "November 30, 2020",
   "Tag / Build ID": "LE.UM.4.4.2.r1-01400-SDX55",
