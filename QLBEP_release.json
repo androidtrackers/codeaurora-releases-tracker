@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-01400-QRB5165.0": {
+  "Date": "December 02, 2020",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-01400-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-01400-QRB5165.0.xml"
+ },
  "CHSS.LNX_FSLS.1.0-01500-QCAAUTOHOSTHZ": {
   "Date": "December 02, 2020",
   "Tag / Build ID": "CHSS.LNX_FSLS.1.0-01500-QCAAUTOHOSTHZ",
