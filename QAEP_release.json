@@ -1,4 +1,53 @@
 {
+ "LA.UM.8.11.r1-04800-NICOBAR.0": {
+  "Date": "December 03, 2020",
+  "Tag / Build ID": "LA.UM.8.11.r1-04800-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.11.r1-04800-NICOBAR.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.QSSI.11.0.r1-07900-qssi.0": {
+  "Date": "December 03, 2020",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-07900-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-07900-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.15.r1-07500-KAMORTA.0": {
+  "Date": "December 03, 2020",
+  "Tag / Build ID": "LA.UM.8.15.r1-07500-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.8.15.r1-07500-KAMORTA.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.6.6.c26-03500-89xx.0": {
+  "Date": "December 03, 2020",
+  "Tag / Build ID": "LA.UM.6.6.c26-03500-89xx.0",
+  "Chipset": "msm8937_64",
+  "Manifest": "LA.UM.6.6.c26-03500-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.UM.5.5.c25-06600-8x96.0": {
+  "Date": "December 03, 2020",
+  "Tag / Build ID": "LA.UM.5.5.c25-06600-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.UM.5.5.c25-06600-8x96.0.xml",
+  "Android Version": "07.01.02"
+ },
+ "LA.UM.6.7.c27-04500-8x09.0": {
+  "Date": "December 02, 2020",
+  "Tag / Build ID": "LA.UM.6.7.c27-04500-8x09.0",
+  "Chipset": "msm8909go",
+  "Manifest": "LA.UM.6.7.c27-04500-8x09.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.UM.7.7.c26-03200-8x09.0": {
+  "Date": "December 02, 2020",
+  "Tag / Build ID": "LA.UM.7.7.c26-03200-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.7.7.c26-03200-8x09.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.UM.5.6.c27-01600-8x53.0": {
   "Date": "December 02, 2020",
   "Tag / Build ID": "LA.UM.5.6.c27-01600-8x53.0",

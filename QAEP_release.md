@@ -1,5 +1,12 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 03, 2020|LA.UM.8.11.r1-04800-NICOBAR.0|trinket|LA.UM.8.11.r1-04800-NICOBAR.0.xml|10.00.00|
+December 03, 2020|LA.QSSI.11.0.r1-07900-qssi.0|qssi|LA.QSSI.11.0.r1-07900-qssi.0.xml|11.00.00|
+December 03, 2020|LA.UM.8.15.r1-07500-KAMORTA.0|bengal|LA.UM.8.15.r1-07500-KAMORTA.0.xml|10.00.00|
+December 03, 2020|LA.UM.6.6.c26-03500-89xx.0|msm8937_64|LA.UM.6.6.c26-03500-89xx.0.xml|08.01.00|
+December 03, 2020|LA.UM.5.5.c25-06600-8x96.0|msm8996|LA.UM.5.5.c25-06600-8x96.0.xml|07.01.02|
+December 02, 2020|LA.UM.6.7.c27-04500-8x09.0|msm8909go|LA.UM.6.7.c27-04500-8x09.0.xml|08.01.00|
+December 02, 2020|LA.UM.7.7.c26-03200-8x09.0|msm8909|LA.UM.7.7.c26-03200-8x09.0.xml|09.00.00|
 December 02, 2020|LA.UM.5.6.c27-01600-8x53.0|msm8953_64|LA.UM.5.6.c27-01600-8x53.0.xml|07.01.02|
 December 02, 2020|LA.UM.8.13.r1-11000-SAIPAN.0|lito|LA.UM.8.13.r1-11000-SAIPAN.0.xml|10.00.00|
 December 02, 2020|LA.BR.1.3.7.c25-11100-8976.0|msm8952_64|LA.BR.1.3.7.c25-11100-8976.0.xml|08.01.00|
