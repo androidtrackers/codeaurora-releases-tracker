@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.3.r1-08800-sdm845.0": {
+  "Date": "December 10, 2020",
+  "Tag / Build ID": "LA.UM.8.3.r1-08800-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.8.3.r1-08800-sdm845.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.QSSI.11.0.r1-08300-qssi.0": {
+  "Date": "December 10, 2020",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-08300-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-08300-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.7.2.r2-06800-8x98.0": {
   "Date": "December 09, 2020",
   "Tag / Build ID": "LA.UM.7.2.r2-06800-8x98.0",
