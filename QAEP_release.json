@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.8.1.r3-03300-QCS605.0": {
+  "Date": "December 10, 2020",
+  "Tag / Build ID": "LA.UM.6.8.1.r3-03300-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.6.8.1.r3-03300-QCS605.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.AU.0.1.0.r3-01800-gen3_gvmgh.0": {
   "Date": "December 10, 2020",
   "Tag / Build ID": "LA.AU.0.1.0.r3-01800-gen3_gvmgh.0",
