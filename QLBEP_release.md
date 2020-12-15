@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 15, 2020|LE.UM.4.1.1-07510-sa515m|sa515m|LE.UM.4.1.1-07510-sa515m.xml|
+December 15, 2020|LE.AU_EAP.1.0-70800-eap-fsl|eap-imx|LE.AU_EAP.1.0-70800-eap-fsl.xml|
 December 14, 2020|LE.UM.1.3-10700-SDX20|sdx20|LE.UM.1.3-10700-SDX20.xml|
 December 14, 2020|LE.UM.3.4.2-01900-9x07|mdm9607-poky|LE.UM.3.4.2-01900-9x07.xml|
 December 14, 2020|LE.BR.1.2.1.1.c1-02500-9x07|mdm9607|LE.BR.1.2.1.1.c1-02500-9x07.xml|
