@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 14, 2020|LE.UM.1.3-10700-SDX20|sdx20|LE.UM.1.3-10700-SDX20.xml|
 December 14, 2020|LE.UM.3.4.2-01900-9x07|mdm9607-poky|LE.UM.3.4.2-01900-9x07.xml|
 December 14, 2020|LE.BR.1.2.1.1.c1-02500-9x07|mdm9607|LE.BR.1.2.1.1.c1-02500-9x07.xml|
 December 14, 2020|LE.UM.2.3.7-20400-sda845.0|sda845-robot|LE.UM.2.3.7-20400-sda845.0.xml|
