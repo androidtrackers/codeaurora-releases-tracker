@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 16, 2020|LV.AU.0.1.0.r5-01500-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r5-01500-qtiquingvm.0.xml|
 December 15, 2020|LE.UM.3.2.3-02810-SA2150p|sa2150p|LE.UM.3.2.3-02810-SA2150p.xml|
 December 15, 2020|LE.UM.4.1.1-07510-sa515m|sa515m|LE.UM.4.1.1-07510-sa515m.xml|
 December 15, 2020|LE.AU_EAP.1.0-70800-eap-fsl|eap-imx|LE.AU_EAP.1.0-70800-eap-fsl.xml|
