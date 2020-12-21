@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.11.1.c1-00400-SA6125.0": {
+  "Date": "December 21, 2020",
+  "Tag / Build ID": "LA.UM.8.11.1.c1-00400-SA6125.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.11.1.c1-00400-SA6125.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.8.9.r1-11200-SM6xx.0": {
+  "Date": "December 21, 2020",
+  "Tag / Build ID": "LA.UM.8.9.r1-11200-SM6xx.0",
+  "Chipset": "sm6150",
+  "Manifest": "LA.UM.8.9.r1-11200-SM6xx.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.12.2.r1-00600-QCS8250.0": {
   "Date": "December 20, 2020",
   "Tag / Build ID": "LA.UM.8.12.2.r1-00600-QCS8250.0",
