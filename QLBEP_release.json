@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-06100-QCS610.0": {
+  "Date": "December 21, 2020",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-06100-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-06100-QCS610.0.xml"
+ },
  "CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ": {
   "Date": "December 21, 2020",
   "Tag / Build ID": "CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ",
