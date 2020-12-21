@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ": {
+  "Date": "December 21, 2020",
+  "Tag / Build ID": "CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ.xml"
+ },
+ "LE.BR.1.2.1.1.c1-02600-9x07": {
+  "Date": "December 21, 2020",
+  "Tag / Build ID": "LE.BR.1.2.1.1.c1-02600-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.BR.1.2.1.1.c1-02600-9x07.xml"
+ },
  "LE.BR.1.3.1-15310-9x50": {
   "Date": "December 18, 2020",
   "Tag / Build ID": "LE.BR.1.3.1-15310-9x50",

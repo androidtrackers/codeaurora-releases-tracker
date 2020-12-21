@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 21, 2020|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ.xml|
+December 21, 2020|LE.BR.1.2.1.1.c1-02600-9x07|mdm9607|LE.BR.1.2.1.1.c1-02600-9x07.xml|
 December 18, 2020|LE.BR.1.3.1-15310-9x50|mdm9650|LE.BR.1.3.1-15310-9x50.xml|
 December 16, 2020|LE.UM.4.1.1.c1-31600-sa515m|sa515m|LE.UM.4.1.1.c1-31600-sa515m.xml|
 December 16, 2020|LE.AU_EAP.1.0.c3-09900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-09900-eap-fsl.xml|
