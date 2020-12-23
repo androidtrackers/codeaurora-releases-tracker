@@ -1,4 +1,16 @@
 {
+ "LE.EDGE.1.0-30800-sm8250.0": {
+  "Date": "December 23, 2020",
+  "Tag / Build ID": "LE.EDGE.1.0-30800-sm8250.0",
+  "Chipset": "sm8250-aedk",
+  "Manifest": "LE.EDGE.1.0-30800-sm8250.0.xml"
+ },
+ "LNX.LE.5.3.c4-98005-9x40": {
+  "Date": "December 23, 2020",
+  "Tag / Build ID": "LNX.LE.5.3.c4-98005-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3.c4-98005-9x40.xml"
+ },
  "LE.UM.3.3.1.r1-09300-qcs405.0": {
   "Date": "December 22, 2020",
   "Tag / Build ID": "LE.UM.3.3.1.r1-09300-qcs405.0",

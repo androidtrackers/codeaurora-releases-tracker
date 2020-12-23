@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 23, 2020|LE.EDGE.1.0-30800-sm8250.0|sm8250-aedk|LE.EDGE.1.0-30800-sm8250.0.xml|
+December 23, 2020|LNX.LE.5.3.c4-98005-9x40|mdm9640|LNX.LE.5.3.c4-98005-9x40.xml|
 December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
 December 22, 2020|LE.UM.4.4.2.r1-02200-SDX55|sdxprairie|LE.UM.4.4.2.r1-02200-SDX55.xml|
 December 21, 2020|LE.UM.4.2.3.r1-06100-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06100-QCS610.0.xml|
