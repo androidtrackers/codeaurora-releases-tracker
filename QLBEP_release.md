@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
+December 22, 2020|LE.UM.4.4.2.r1-02200-SDX55|sdxprairie|LE.UM.4.4.2.r1-02200-SDX55.xml|
 December 21, 2020|LE.UM.4.2.3.r1-06100-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06100-QCS610.0.xml|
 December 21, 2020|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ.xml|
 December 21, 2020|LE.BR.1.2.1.1.c1-02600-9x07|mdm9607|LE.BR.1.2.1.1.c1-02600-9x07.xml|
