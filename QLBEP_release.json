@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-01600-QRB5165.0": {
+  "Date": "December 24, 2020",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-01600-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-01600-QRB5165.0.xml"
+ },
  "QRB5165": {
   "Date": "December 24, 2020",
   "Tag / Build ID": "QRB5165",

@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 24, 2020|LE.UM.4.4.1.r2-01600-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-01600-QRB5165.0.xml|
 December 24, 2020|QRB5165|QRB5165|QRB5165.xml|
 December 23, 2020|LE.UM.1.1-94800-9x07|mdm9607-poky|LE.UM.1.1-94800-9x07.xml|
 December 23, 2020|LE.UM.2.3.2-11600-SDX24|sdxpoorwills|LE.UM.2.3.2-11600-SDX24.xml|
