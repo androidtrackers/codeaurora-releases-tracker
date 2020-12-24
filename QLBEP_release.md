@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 24, 2020|QRB5165|QRB5165|QRB5165.xml|
+December 23, 2020|LE.UM.1.1-94800-9x07|mdm9607-poky|LE.UM.1.1-94800-9x07.xml|
+December 23, 2020|LE.UM.2.3.2-11600-SDX24|sdxpoorwills|LE.UM.2.3.2-11600-SDX24.xml|
 December 23, 2020|LE.EDGE.1.0-30800-sm8250.0|sm8250-aedk|LE.EDGE.1.0-30800-sm8250.0.xml|
 December 23, 2020|LNX.LE.5.3.c4-98005-9x40|mdm9640|LNX.LE.5.3.c4-98005-9x40.xml|
 December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
