@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 29, 2020|LV.AU.0.1.0.r2-05900-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05900-qtiquingvm.0.xml|
+December 29, 2020|LE.UM.5.2.2.r1-01200-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-01200-SXR2130.0.xml|
 December 28, 2020|LE.UM.3.2.2.r1-08100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-08100-sdm845.0.xml|
 December 24, 2020|LE.UM.4.2.3.r1-06200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06200-QCS610.0.xml|
 December 24, 2020|LE.UM.4.4.1.r2-01600-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-01600-QRB5165.0.xml|
