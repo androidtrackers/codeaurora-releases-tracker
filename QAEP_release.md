@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 29, 2020|LA.UM.9.15.1.r1-01700-KAMORTA.0|bengal|LA.UM.9.15.1.r1-01700-KAMORTA.0.xml|11.00.00|
 December 27, 2020|LA.QSSI.11.0.r1-08800-qssi.0|qssi|LA.QSSI.11.0.r1-08800-qssi.0.xml|11.00.00|
 December 24, 2020|LA.UM.8.11.1.c1-00500-SA6125.0|trinket|LA.UM.8.11.1.c1-00500-SA6125.0.xml|10.00.00|
 December 23, 2020|LA.UM.7.8.r1-10200-SDM710.0|sdm710|LA.UM.7.8.r1-10200-SDM710.0.xml|09.00.00|
