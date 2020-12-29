@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 28, 2020|LE.UM.3.2.2.r1-08100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-08100-sdm845.0.xml|
 December 24, 2020|LE.UM.4.2.3.r1-06200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06200-QCS610.0.xml|
 December 24, 2020|LE.UM.4.4.1.r2-01600-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-01600-QRB5165.0.xml|
 December 24, 2020|QRB5165|QRB5165|QRB5165.xml|

@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.2.r1-08100-sdm845.0": {
+  "Date": "December 28, 2020",
+  "Tag / Build ID": "LE.UM.3.2.2.r1-08100-sdm845.0",
+  "Chipset": "sdm845-robot",
+  "Manifest": "LE.UM.3.2.2.r1-08100-sdm845.0.xml"
+ },
  "LE.UM.4.2.3.r1-06200-QCS610.0": {
   "Date": "December 24, 2020",
   "Tag / Build ID": "LE.UM.4.2.3.r1-06200-QCS610.0",
