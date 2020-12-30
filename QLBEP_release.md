@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 30, 2020|LE.AU_EAP.1.0.c1-12400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-12400-eap-fsl.xml|
 December 29, 2020|LV.AU.0.1.0.r2-05900-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-05900-qtiquingvm.0.xml|
 December 29, 2020|LE.UM.5.2.2.r1-01200-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-01200-SXR2130.0.xml|
 December 28, 2020|LE.UM.3.2.2.r1-08100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-08100-sdm845.0.xml|

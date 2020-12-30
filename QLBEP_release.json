@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c1-12400-eap-fsl": {
+  "Date": "December 30, 2020",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-12400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-12400-eap-fsl.xml"
+ },
  "LV.AU.0.1.0.r2-05900-qtiquingvm.0": {
   "Date": "December 29, 2020",
   "Tag / Build ID": "LV.AU.0.1.0.r2-05900-qtiquingvm.0",
