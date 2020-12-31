@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 30, 2020|LV.AU.1.1.1.r1-00900-gen3meta.0|gen3meta|LV.AU.1.1.1.r1-00900-gen3meta.0.xml|
 December 30, 2020|LE.UM.3.2.3.c1-13100-SA2150p|sa2150p|LE.UM.3.2.3.c1-13100-SA2150p.xml|
 December 30, 2020|LE.UM.3.2.1.c1-07400-sa415m|sa415m|LE.UM.3.2.1.c1-07400-sa415m.xml|
 December 30, 2020|LE.AU_EAP.1.0.c1-12400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-12400-eap-fsl.xml|
