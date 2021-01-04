@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.13.r1-11100-SAIPAN.0": {
+  "Date": "January 03, 2021",
+  "Tag / Build ID": "LA.UM.8.13.r1-11100-SAIPAN.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.13.r1-11100-SAIPAN.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.8.r1-08400-SDM710.0": {
   "Date": "December 31, 2020",
   "Tag / Build ID": "LA.UM.8.8.r1-08400-SDM710.0",
