@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.11.0.r1-09100-qssi.0": {
+  "Date": "January 05, 2021",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-09100-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-09100-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.11.r1-02600-NICOBAR.0": {
+  "Date": "January 05, 2021",
+  "Tag / Build ID": "LA.UM.9.11.r1-02600-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.9.11.r1-02600-NICOBAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.13.r1-11100-SAIPAN.0": {
   "Date": "January 03, 2021",
   "Tag / Build ID": "LA.UM.8.13.r1-11100-SAIPAN.0",
