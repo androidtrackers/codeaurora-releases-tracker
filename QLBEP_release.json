@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.1.1.r1-01100-gen3meta.0": {
+  "Date": "January 05, 2021",
+  "Tag / Build ID": "LV.AU.1.1.1.r1-01100-gen3meta.0",
+  "Chipset": "gen3meta",
+  "Manifest": "LV.AU.1.1.1.r1-01100-gen3meta.0.xml"
+ },
  "LV.AU.1.1.1.r1-00900-gen3meta.0": {
   "Date": "December 30, 2020",
   "Tag / Build ID": "LV.AU.1.1.1.r1-00900-gen3meta.0",
