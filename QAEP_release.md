@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 07, 2021|LA.UM.8.8.1.r1-04300-QCS605.0|qcs605|LA.UM.8.8.1.r1-04300-QCS605.0.xml|10.00.00|
 January 05, 2021|LA.UM.8.2.1.r1-06200-sdm660.0|sdm660_64|LA.UM.8.2.1.r1-06200-sdm660.0.xml|10.00.00|
 January 05, 2021|LA.QSSI.11.0.r1-09100-qssi.0|qssi|LA.QSSI.11.0.r1-09100-qssi.0.xml|11.00.00|
 January 05, 2021|LA.UM.9.11.r1-02600-NICOBAR.0|trinket|LA.UM.9.11.r1-02600-NICOBAR.0.xml|11.00.00|
