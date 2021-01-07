@@ -4,6 +4,7 @@ from datetime import datetime
 from os import environ, system
 from pathlib import Path
 from time import sleep
+from requests.exceptions import MissingSchema
 
 from bs4 import BeautifulSoup
 from requests import get, post, head
@@ -96,7 +97,7 @@ def get_kernel_version(manifest_url, tag):
                                             f"tree/Makefile?h={tag}").content,
                                         "html.parser").get_text())
         return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)} ({kernel_repo.group(2)})"
-    except (IndexError, AttributeError):
+    except (IndexError, AttributeError, MissingSchema):
         pass
 
 
