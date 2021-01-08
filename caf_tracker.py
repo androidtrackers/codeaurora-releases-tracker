@@ -4,6 +4,7 @@ from datetime import datetime
 from os import environ, system
 from pathlib import Path
 from time import sleep
+from requests.exceptions import MissingSchema
 
 from bs4 import BeautifulSoup
 from requests import get, post, head
@@ -66,6 +67,25 @@ def get_build_id(tag):
     except AttributeError:
         pass
 
+def get_system_manifest(tag):
+    try:
+        vendor_hint = re.search(r'(AU_LINUX[^;\n]+)(\d{2})',
+                        BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/"
+                                          f"{tag}.xml").content,
+                                       "html.parser").get_text()).group(0)
+        if tag.endswith('KAMORTA.0'):
+            vendor_hint = vendor_hint[+46:-31]
+        else:
+            vendor_hint = vendor_hint[-3:]
+
+        regex = '[^;\n]+'
+        manifest_xml = re.findall(regex + vendor_hint + regex,
+                        BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/").content,
+                                       "html.parser").get_text())[0][+10:-19]
+        return f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{manifest_xml}"
+
+    except (IndexError, AttributeError):
+        return
 
 def get_kernel_version(manifest_url, tag):
     try:
@@ -77,7 +97,7 @@ def get_kernel_version(manifest_url, tag):
                                             f"tree/Makefile?h={tag}").content,
                                         "html.parser").get_text())
         return f"{regex.group(1)}.{regex.group(2)}.{regex.group(3)} ({kernel_repo.group(2)})"
-    except (IndexError, AttributeError):
+    except (IndexError, AttributeError, MissingSchema):
         pass
 
 
@@ -89,20 +109,28 @@ def generate_telegram_message(update):
               f"*Tag:* `{tag}` \n"
     manifest = f"https://source.codeaurora.org/quic/la/platform/manifest/tree/{update.get('Manifest')}?h={tag}"
     android_version = update.get('Android Version')
-    if head(manifest).ok:
-        manifest_url = manifest
-        message += f"Manifest: [Platform]({manifest})"
-        if android_version.startswith('11'):
-            system_manifest = f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{update.get('Manifest')}"
-            vendor_manifest = f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/{update.get('Manifest')}"
-            if head(system_manifest).ok:
-                message += f" | [System]({system_manifest})"
-            if head(vendor_manifest).ok:
-                message += f" | [Vendor]({vendor_manifest})"
-                manifest_url = vendor_manifest
-        message += "\n"
+    try:
+        if head(manifest).ok:
+            manifest_url = manifest
+            message += f"Manifest: [Platform]({manifest})"
+        elif android_version.startswith('11'):
+            if update.get('Chipset').startswith('qssi'):
+                system_manifest = f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/{update.get('Manifest')}"
+                if head(system_manifest).ok:
+                    manifest_url = system_manifest
+                    message += f"Manifest: [System]({system_manifest})"
+            else:
+                system_manifest = get_system_manifest(tag)
+                vendor_manifest = f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/{update.get('Manifest')}"
+                if head(vendor_manifest).ok:
+                    message += f"Manifest: [Vendor]({vendor_manifest})"
+                if head(system_manifest).ok:
+                    message += f" | [System]({system_manifest})"
+                    manifest_url = vendor_manifest
+    except AttributeError:
+        pass
     if android_version:
-        message += f"Android: *{update.get('Android Version')}* \n"
+        message += f"\nAndroid: *{update.get('Android Version')}* \n"
         security_patch = get_security_patch(tag)
         if security_patch:
             message += f"Security Patch: *{get_security_patch(tag)}*\n"
