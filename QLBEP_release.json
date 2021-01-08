@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c3-10700-eap-fsl": {
+  "Date": "January 08, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c3-10700-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c3-10700-eap-fsl.xml"
+ },
  "LV.AU.1.1.1.r1-01300-gen3meta.0": {
   "Date": "January 07, 2021",
   "Tag / Build ID": "LV.AU.1.1.1.r1-01300-gen3meta.0",
