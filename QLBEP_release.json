@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.3.r1-02300-SDX55": {
+  "Date": "January 15, 2021",
+  "Tag / Build ID": "LE.UM.4.3.3.r1-02300-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.3.3.r1-02300-SDX55.xml"
+ },
  "LV.AU.0.1.0.r5-02000-gen3meta.0": {
   "Date": "January 13, 2021",
   "Tag / Build ID": "LV.AU.0.1.0.r5-02000-gen3meta.0",
