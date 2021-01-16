@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.1.1.r1-01800-gen3meta.0": {
+  "Date": "January 15, 2021",
+  "Tag / Build ID": "LV.AU.1.1.1.r1-01800-gen3meta.0",
+  "Chipset": "sa8155agl",
+  "Manifest": "LV.AU.1.1.1.r1-01800-gen3meta.0.xml"
+ },
  "LV.AU.0.1.0.r2-06600-qtiquingvm.0": {
   "Date": "January 15, 2021",
   "Tag / Build ID": "LV.AU.0.1.0.r2-06600-qtiquingvm.0",
