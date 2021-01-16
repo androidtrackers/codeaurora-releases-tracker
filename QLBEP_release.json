@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r1-03000-qcs405.0": {
+  "Date": "January 15, 2021",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-03000-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-03000-qcs405.0.xml"
+ },
  "LV.AU.1.1.1.r1-01800-gen3meta.0": {
   "Date": "January 15, 2021",
   "Tag / Build ID": "LV.AU.1.1.1.r1-01800-gen3meta.0",
