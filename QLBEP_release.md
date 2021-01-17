@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 17, 2021|LE.UM.2.3.3.r1-09700-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.r1-09700-QCS605.0.xml|
 January 15, 2021|LE.UM.5.2.1.r1-03000-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-03000-qcs405.0.xml|
 January 15, 2021|LV.AU.1.1.1.r1-01800-gen3meta.0|sa8155agl|LV.AU.1.1.1.r1-01800-gen3meta.0.xml|
 January 15, 2021|LV.AU.0.1.0.r2-06600-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-06600-qtiquingvm.0.xml|

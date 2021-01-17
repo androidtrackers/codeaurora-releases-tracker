@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.3.r1-09700-QCS605.0": {
+  "Date": "January 17, 2021",
+  "Tag / Build ID": "LE.UM.2.3.3.r1-09700-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.r1-09700-QCS605.0.xml"
+ },
  "LE.UM.5.2.1.r1-03000-qcs405.0": {
   "Date": "January 15, 2021",
   "Tag / Build ID": "LE.UM.5.2.1.r1-03000-qcs405.0",
