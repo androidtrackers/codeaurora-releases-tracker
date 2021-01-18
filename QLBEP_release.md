@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 18, 2021|LE.UM.1.3-10800-SDX20|sdx20|LE.UM.1.3-10800-SDX20.xml|
 January 17, 2021|LE.UM.1.2.c7-00900-9x07|mdm9607-poky|LE.UM.1.2.c7-00900-9x07.xml|
 January 17, 2021|LE.UM.2.3.3.r1-09700-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.r1-09700-QCS605.0.xml|
 January 15, 2021|LE.UM.5.2.1.r1-03000-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-03000-qcs405.0.xml|
