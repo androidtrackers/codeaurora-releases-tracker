@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 21, 2021|LAW.BR.5.1.r1-00700-89xx.0|sdm429w_law|LAW.BR.5.1.r1-00700-89xx.0.xml|10.00.00|
 January 19, 2021|LA.AU.1.2.2.r1-01800-gen3meta.0|msmnile_au|LA.AU.1.2.2.r1-01800-gen3meta.0.xml|10.00.00|
 January 18, 2021|LA.UM.8.15.r2-02400-KAMORTA.0|bengal|LA.UM.8.15.r2-02400-KAMORTA.0.xml|10.00.00|
 January 16, 2021|LA.UM.8.9.1.r1-01400-QCS610.0|sm6150|LA.UM.8.9.1.r1-01400-QCS610.0.xml|10.00.00|
