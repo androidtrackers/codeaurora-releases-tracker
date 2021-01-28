@@ -1,4 +1,22 @@
 {
+ "LV.AU.0.1.0.r2-06800-qtiquingvm.0": {
+  "Date": "January 28, 2021",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-06800-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-06800-qtiquingvm.0.xml"
+ },
+ "LE.UM.4.1.1.c4-00300-sa515m": {
+  "Date": "January 28, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c4-00300-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c4-00300-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c6-00200-eap-fsl": {
+  "Date": "January 28, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c6-00200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c6-00200-eap-fsl.xml"
+ },
  "LE.UM.1.2-42600-9x07": {
   "Date": "January 26, 2021",
   "Tag / Build ID": "LE.UM.1.2-42600-9x07",
