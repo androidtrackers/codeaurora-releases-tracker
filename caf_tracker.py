@@ -142,11 +142,15 @@ def generate_telegram_message(update):
                 message += f"Build ID: *{build_id}*\n"
         except AttributeError:
             pass
+    elif tag.startswith('LE.BR.' or 'LNX.LE.'):
+        manifest_url = f"https://source.codeaurora.org/quic/le/manifest/tree/{update.get('Manifest')}?h={tag}"
+        message += f"Manifest: [Here]({manifest_url}) \n"
     else:
         manifest_url = f"https://source.codeaurora.org/quic/le/le/manifest/tree/{update.get('Manifest')}?h={tag}"
-        message += f"Manifest: [Here]({manifest_url}) \n"
+        if head(manifest_url).ok:
+            message += f"Manifest: [Here]({manifest_url}) \n"
 
-    
+
     kernel_version = get_kernel_version(manifest_url, tag)
     if kernel_version:
         message += f"Kernel Version: *{get_kernel_version(manifest_url, tag)}* \n"
