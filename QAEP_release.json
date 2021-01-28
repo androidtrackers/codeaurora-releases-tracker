@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.3.r1-00700-sdm845.0": {
+  "Date": "January 28, 2021",
+  "Tag / Build ID": "LA.UM.9.3.r1-00700-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.9.3.r1-00700-sdm845.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.r1-12800-LAHAINA.0": {
   "Date": "January 27, 2021",
   "Tag / Build ID": "LA.UM.9.14.r1-12800-LAHAINA.0",
