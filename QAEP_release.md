@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 31, 2021|LA.UM.8.13.r1-11200-SAIPAN.0|lito|LA.UM.8.13.r1-11200-SAIPAN.0.xml|10.00.00|
 January 29, 2021|LAW.BR.5.1.r1-01200-89xx.0|sdm429w_law|LAW.BR.5.1.r1-01200-89xx.0.xml|10.00.00|
 January 29, 2021|LA.UM.9.2.1.r1-06000-sdm660.0|sdm660_64|LA.UM.9.2.1.r1-06000-sdm660.0.xml|11.00.00|
 January 29, 2021|LA.HB.1.1.5-14810-8x96.0|msm8996|LA.HB.1.1.5-14810-8x96.0.xml|07.00.00|
