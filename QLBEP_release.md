@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 02, 2021|LE.UM.5.2.1.r1-03300-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-03300-qcs405.0.xml|
 January 30, 2021|LE.UM.5.2.2.r1-02500-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-02500-SXR2130.0.xml|
 January 29, 2021|LE.UM.5.2.2.r1-02400-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-02400-SXR2130.0.xml|
 January 28, 2021|LE.UM.3.2.1.c1-09100-sa415m|sa415m|LE.UM.3.2.1.c1-09100-sa415m.xml|

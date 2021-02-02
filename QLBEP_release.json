@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r1-03300-qcs405.0": {
+  "Date": "February 02, 2021",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-03300-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-03300-qcs405.0.xml"
+ },
  "LE.UM.5.2.2.r1-02500-SXR2130.0": {
   "Date": "January 30, 2021",
   "Tag / Build ID": "LE.UM.5.2.2.r1-02500-SXR2130.0",
