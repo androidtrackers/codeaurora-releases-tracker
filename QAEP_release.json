@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0.c1-02300-89xx.0": {
+  "Date": "February 03, 2021",
+  "Tag / Build ID": "LAW.BR.4.0.c1-02300-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-02300-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.8.2.1.r1-06300-sdm660.0": {
   "Date": "February 02, 2021",
   "Tag / Build ID": "LA.UM.8.2.1.r1-06300-sdm660.0",
