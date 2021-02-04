@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 04, 2021|LE.UM.4.1.1.c3-01700-sa515m|sa515m|LE.UM.4.1.1.c3-01700-sa515m.xml|
+February 04, 2021|LE.AU_EAP.1.0.c2-01600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c2-01600-eap-fsl.xml|
 February 04, 2021|LE.UM.2.3.2-11900-SDX24|sdxpoorwills|LE.UM.2.3.2-11900-SDX24.xml|
 February 03, 2021|LE.UM.2.3.3.r1-10500-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.r1-10500-QCS605.0.xml|
 February 02, 2021|LE.UM.5.2.1.r1-03300-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-03300-qcs405.0.xml|
