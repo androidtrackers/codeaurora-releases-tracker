@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 09, 2021|LV.AU.0.1.0.r2-07000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-07000-qtiquingvm.0.xml|
 February 09, 2021|BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ.xml|
 February 09, 2021|WLANHOST_AU.LA.3.1.r20.3-01500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.3.1.r20.3-01500-QCAAUTOHOSTHZ.xml|
 February 09, 2021|LV.HB.1.1.3-08710-8x96.0|8x96autogvmquin|LV.HB.1.1.3-08710-8x96.0.xml|

@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.1.0.r2-07000-qtiquingvm.0": {
+  "Date": "February 09, 2021",
+  "Tag / Build ID": "LV.AU.0.1.0.r2-07000-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.1.0.r2-07000-qtiquingvm.0.xml"
+ },
  "BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ": {
   "Date": "February 09, 2021",
   "Tag / Build ID": "BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ",
