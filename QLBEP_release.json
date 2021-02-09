@@ -1,4 +1,10 @@
 {
+ "LV.HB.1.1.3-08710-8x96.0": {
+  "Date": "February 09, 2021",
+  "Tag / Build ID": "LV.HB.1.1.3-08710-8x96.0",
+  "Chipset": "8x96autogvmquin",
+  "Manifest": "LV.HB.1.1.3-08710-8x96.0.xml"
+ },
  "LE.UM.2.3.2-12000-SDX24": {
   "Date": "February 05, 2021",
   "Tag / Build ID": "LE.UM.2.3.2-12000-SDX24",
