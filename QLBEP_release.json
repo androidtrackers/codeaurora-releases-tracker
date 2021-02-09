@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.2.2.r1-02600-SXR2130.0": {
+  "Date": "February 09, 2021",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-02600-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-02600-SXR2130.0.xml"
+ },
+ "LE.UM.4.3.1.r1-03300-genericarmv8-64.0": {
+  "Date": "February 09, 2021",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-03300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-user",
+  "Manifest": "LE.UM.4.3.1.r1-03300-genericarmv8-64.0.xml"
+ },
  "LV.AU.0.1.0.r2-07000-qtiquingvm.0": {
   "Date": "February 09, 2021",
   "Tag / Build ID": "LV.AU.0.1.0.r2-07000-qtiquingvm.0",
