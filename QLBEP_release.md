@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 09, 2021|BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.3.1.r20.3-01800-QCAAUTOHOSTHZ.xml|
+February 09, 2021|WLANHOST_AU.LA.3.1.r20.3-01500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.3.1.r20.3-01500-QCAAUTOHOSTHZ.xml|
 February 09, 2021|LV.HB.1.1.3-08710-8x96.0|8x96autogvmquin|LV.HB.1.1.3-08710-8x96.0.xml|
 February 05, 2021|LE.UM.2.3.2-12000-SDX24|sdxpoorwills|LE.UM.2.3.2-12000-SDX24.xml|
 February 05, 2021|LE.UM.2.3.6.c1-21100-9x07|mdm9607-poky|LE.UM.2.3.6.c1-21100-9x07.xml|
