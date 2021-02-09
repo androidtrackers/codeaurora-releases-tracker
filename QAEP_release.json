@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.8.1.r3-03500-QCS605.0": {
+  "Date": "February 09, 2021",
+  "Tag / Build ID": "LA.UM.6.8.1.r3-03500-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.6.8.1.r3-03500-QCS605.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.8.15.r1-08000-KAMORTA.0": {
   "Date": "February 09, 2021",
   "Tag / Build ID": "LA.UM.8.15.r1-08000-KAMORTA.0",
