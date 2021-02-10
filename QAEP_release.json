@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.15.r1-02200-KAMORTA.0": {
+  "Date": "February 10, 2021",
+  "Tag / Build ID": "LA.UM.9.15.r1-02200-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-02200-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.5.7.c25-06100-8x98.0": {
   "Date": "February 09, 2021",
   "Tag / Build ID": "LA.UM.5.7.c25-06100-8x98.0",
