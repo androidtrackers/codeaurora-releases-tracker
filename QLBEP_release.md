@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 09, 2021|LE.UM.5.2.3.r1-02400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-02400-SDX12.xml|
 February 09, 2021|LE.UM.5.2.2.r1-02600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-02600-SXR2130.0.xml|
 February 09, 2021|LE.UM.4.3.1.r1-03300-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03300-genericarmv8-64.0.xml|
 February 09, 2021|LV.AU.0.1.0.r2-07000-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-07000-qtiquingvm.0.xml|
