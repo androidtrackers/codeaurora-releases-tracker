@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 11, 2021|LE.UM.4.2.3.r1-06500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06500-QCS610.0.xml|
 February 11, 2021|LE.UM.4.4.2.r1-02700-SDX55|sdxprairie|LE.UM.4.4.2.r1-02700-SDX55.xml|
 February 10, 2021|LE.UM.3.2.1.c2-02100-sa415m|sa415m|LE.UM.3.2.1.c2-02100-sa415m.xml|
 February 10, 2021|LE.AU_EAP.1.0.c4-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-02000-eap-fsl.xml|
