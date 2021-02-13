@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 13, 2021|LA.UM.7.7.c26-03800-8x09.0|msm8909|LA.UM.7.7.c26-03800-8x09.0.xml|09.00.00|
 February 13, 2021|LA.UM.8.1.r1-16900-sm8150.0|msmnile|LA.UM.8.1.r1-16900-sm8150.0.xml|10.00.00|
 February 12, 2021|LAW.BR.2.0-05510-8x09w.0|msm8909w|LAW.BR.2.0-05510-8x09w.0.xml|07.01.01|
 February 12, 2021|LA.UM.7.2.r2-07100-8x98.0|msm8998|LA.UM.7.2.r2-07100-8x98.0.xml|09.00.00|
