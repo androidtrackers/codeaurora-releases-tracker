@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 15, 2021|LA.UM.8.11.1.r1-01400-QCM6125.0|trinket|LA.UM.8.11.1.r1-01400-QCM6125.0.xml|10.00.00|
 February 15, 2021|LA.BR.1.3.7.c25-12100-8976.0|msm8952_64|LA.BR.1.3.7.c25-12100-8976.0.xml|08.01.00|
 February 15, 2021|LA.UM.7.6.2.c25-02400-89xx.0|msm8937_64|LA.UM.7.6.2.c25-02400-89xx.0.xml|09.00.00|
 February 15, 2021|LA.UM.8.6.c26-02400-89xx.0|msm8953_64|LA.UM.8.6.c26-02400-89xx.0.xml|10.00.00|
