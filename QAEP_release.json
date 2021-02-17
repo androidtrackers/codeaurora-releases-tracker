@@ -1,4 +1,18 @@
 {
+ "LA.AU.0.1.0.r3-02600-gen3_gvmgh.0": {
+  "Date": "February 17, 2021",
+  "Tag / Build ID": "LA.AU.0.1.0.r3-02600-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.0.1.0.r3-02600-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.14.r1-13700-LAHAINA.0": {
+  "Date": "February 17, 2021",
+  "Tag / Build ID": "LA.UM.9.14.r1-13700-LAHAINA.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-13700-LAHAINA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.11.1.r1-01400-QCM6125.0": {
   "Date": "February 15, 2021",
   "Tag / Build ID": "LA.UM.8.11.1.r1-01400-QCM6125.0",
