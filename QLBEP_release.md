@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 17, 2021|LE.UM.1.3-10900-SDX20|sdx20|LE.UM.1.3-10900-SDX20.xml|
 February 16, 2021|LNX.LE.5.3.c1-81260-9x40|LNX.LE.5.3.c1|LNX.LE.5.3.c1-81260-9x40.xml|
 February 16, 2021|LE.UM.2.3.6-02500-9x07|mdm9607-poky|LE.UM.2.3.6-02500-9x07.xml|
 February 16, 2021|LE.UM.2.3.6.c3-00800-9x07|mdm9607-poky|LE.UM.2.3.6.c3-00800-9x07.xml|
