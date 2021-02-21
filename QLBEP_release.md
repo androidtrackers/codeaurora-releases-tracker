@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 20, 2021|LE.UM.5.2.2.r1-02800-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-02800-SXR2130.0.xml|
 February 20, 2021|LE.UM.4.3.1.r1-03400-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03400-genericarmv8-64.0.xml|
 February 17, 2021|LE.UM.1.3-10900-SDX20|sdx20|LE.UM.1.3-10900-SDX20.xml|
 February 16, 2021|LNX.LE.5.3.c1-81260-9x40|LNX.LE.5.3.c1|LNX.LE.5.3.c1-81260-9x40.xml|
