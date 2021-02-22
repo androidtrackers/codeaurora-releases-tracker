@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 21, 2021|LE.UM.3.2.1.c1-12200-sa415m|sa415m|LE.UM.3.2.1.c1-12200-sa415m.xml|
+February 21, 2021|LE.UM.3.2.3.c1-18600-SA2150p|sa2150p|LE.UM.3.2.3.c1-18600-SA2150p.xml|
+February 21, 2021|LE.AU_EAP.1.0.c1-17800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-17800-eap-fsl.xml|
 February 20, 2021|LE.UM.5.2.2.r1-02800-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-02800-SXR2130.0.xml|
 February 20, 2021|LE.UM.4.3.1.r1-03400-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03400-genericarmv8-64.0.xml|
 February 17, 2021|LE.UM.1.3-10900-SDX20|sdx20|LE.UM.1.3-10900-SDX20.xml|
