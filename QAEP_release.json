@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.11.r1-05000-NICOBAR.0": {
+  "Date": "February 22, 2021",
+  "Tag / Build ID": "LA.UM.8.11.r1-05000-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.11.r1-05000-NICOBAR.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.QSSI.11.0.r1-10000-qssi.0": {
   "Date": "February 18, 2021",
   "Tag / Build ID": "LA.QSSI.11.0.r1-10000-qssi.0",
