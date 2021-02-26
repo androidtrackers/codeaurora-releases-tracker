@@ -1,4 +1,22 @@
 {
+ "LE.UM.1.3.2.r1-06900-9150-cv2x": {
+  "Date": "February 26, 2021",
+  "Tag / Build ID": "LE.UM.1.3.2.r1-06900-9150-cv2x",
+  "Chipset": "mdm9150-cv2x-poky",
+  "Manifest": "LE.UM.1.3.2.r1-06900-9150-cv2x.xml"
+ },
+ "LE.AU_FSL.1.0-99200-eap-imx-cv2x": {
+  "Date": "February 26, 2021",
+  "Tag / Build ID": "LE.AU_FSL.1.0-99200-eap-imx-cv2x",
+  "Chipset": "eap-imx-cv2x",
+  "Manifest": "LE.AU_FSL.1.0-99200-eap-imx-cv2x.xml"
+ },
+ "LNX.LE.5.3.c5-99020-9x40": {
+  "Date": "February 26, 2021",
+  "Tag / Build ID": "LNX.LE.5.3.c5-99020-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3.c5-99020-9x40.xml"
+ },
  "LE.UM.5.2.2.r1-03300-SXR2130.0": {
   "Date": "February 25, 2021",
   "Tag / Build ID": "LE.UM.5.2.2.r1-03300-SXR2130.0",

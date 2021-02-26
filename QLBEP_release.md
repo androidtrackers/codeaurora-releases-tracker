@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 26, 2021|LE.UM.1.3.2.r1-06900-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-06900-9150-cv2x.xml|
+February 26, 2021|LE.AU_FSL.1.0-99200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-99200-eap-imx-cv2x.xml|
+February 26, 2021|LNX.LE.5.3.c5-99020-9x40|mdm9640|LNX.LE.5.3.c5-99020-9x40.xml|
 February 25, 2021|LE.UM.5.2.2.r1-03300-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-03300-SXR2130.0.xml|
 February 24, 2021|LE.UM.1.1-96200-9x07|mdm9607-poky|LE.UM.1.1-96200-9x07.xml|
 February 24, 2021|LE.UM.4.4.2.r1-02800-SDX55|sdxprairie|LE.UM.4.4.2.r1-02800-SDX55.xml|
