@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.16.r1-03800-MANNAR.0": {
+  "Date": "February 25, 2021",
+  "Tag / Build ID": "LA.UM.9.16.r1-03800-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-03800-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.3.r1-01000-sdm845.0": {
+  "Date": "February 25, 2021",
+  "Tag / Build ID": "LA.UM.9.3.r1-01000-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.9.3.r1-01000-sdm845.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.9.1.r1-01700-QCS610.0": {
   "Date": "February 25, 2021",
   "Tag / Build ID": "LA.UM.8.9.1.r1-01700-QCS610.0",
