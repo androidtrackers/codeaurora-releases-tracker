@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.11.1.c1-01300-SA6125.0": {
+  "Date": "February 26, 2021",
+  "Tag / Build ID": "LA.UM.8.11.1.c1-01300-SA6125.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.11.1.c1-01300-SA6125.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.11.1.r1-01600-QCM6125.0": {
   "Date": "February 26, 2021",
   "Tag / Build ID": "LA.UM.8.11.1.r1-01600-QCM6125.0",
