@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 28, 2021|LE.UM.5.2.3.r1-02700-SDX12|sdxnightjar|LE.UM.5.2.3.r1-02700-SDX12.xml|
 February 26, 2021|LE.UM.5.3.2.r1-01800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-01800-SDX65.0.xml|
 February 26, 2021|LE.UM.1.3.2.r1-06900-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-06900-9150-cv2x.xml|
 February 26, 2021|LE.AU_FSL.1.0-99200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-99200-eap-imx-cv2x.xml|
