@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.3.2.c1-00800-9150-cv2x": {
+  "Date": "March 02, 2021",
+  "Tag / Build ID": "LE.UM.1.3.2.c1-00800-9150-cv2x",
+  "Chipset": "mdm9150-cv2x-poky",
+  "Manifest": "LE.UM.1.3.2.c1-00800-9150-cv2x.xml"
+ },
  "LV.HB.1.1.5.c1-01100-8x96.0": {
   "Date": "March 01, 2021",
   "Tag / Build ID": "LV.HB.1.1.5.c1-01100-8x96.0",
