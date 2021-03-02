@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 01, 2021|LV.HB.1.1.5.c1-01100-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-01100-8x96.0.xml|
 February 28, 2021|LE.UM.5.2.3.r1-02700-SDX12|sdxnightjar|LE.UM.5.2.3.r1-02700-SDX12.xml|
 February 26, 2021|LE.UM.5.3.2.r1-01800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-01800-SDX65.0.xml|
 February 26, 2021|LE.UM.1.3.2.r1-06900-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-06900-9150-cv2x.xml|
