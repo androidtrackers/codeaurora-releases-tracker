@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 03, 2021|LE.UM.5.2.1.r1-04000-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-04000-qcs405.0.xml|
 March 02, 2021|LE.UM.1.2.c6-01100-9x07|mdm9607-poky|LE.UM.1.2.c6-01100-9x07.xml|
 March 02, 2021|LE.UM.1.3.2.c1-00800-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.c1-00800-9150-cv2x.xml|
 March 01, 2021|LV.HB.1.1.5.c1-01100-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-01100-8x96.0.xml|
