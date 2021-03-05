@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 04, 2021|LE.UM.4.4.1.r2-02100-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-02100-QRB5165.0.xml|
 March 04, 2021|LE.UM.3.2.1.c1-14100-sa415m|sa415m|LE.UM.3.2.1.c1-14100-sa415m.xml|
 March 04, 2021|LE.UM.3.2.3.c1-20500-SA2150p|sa2150p|LE.UM.3.2.3.c1-20500-SA2150p.xml|
 March 04, 2021|LU.UM.1.2.1.r1-23200-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-23200-QRB5165.0.xml|
