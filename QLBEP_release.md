@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 07, 2021|LE.UM.4.4.1.r2-02300-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-02300-QRB5165.0.xml|
 March 07, 2021|LE.UM.4.4.2.r1-03100-SDX55|sdxprairie|LE.UM.4.4.2.r1-03100-SDX55.xml|
 March 05, 2021|LE.UM.4.3.1.r1-03500-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03500-genericarmv8-64.0.xml|
 March 05, 2021|LE.UM.4.4.2.r1-03000-SDX55|sdxprairie|LE.UM.4.4.2.r1-03000-SDX55.xml|
