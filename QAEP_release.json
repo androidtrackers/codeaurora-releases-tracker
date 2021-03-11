@@ -1,4 +1,18 @@
 {
+ "LA.UM.7.2.c6-09000-sdm660.0": {
+  "Date": "March 11, 2021",
+  "Tag / Build ID": "LA.UM.7.2.c6-09000-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.7.2.c6-09000-sdm660.0.xml",
+  "Android Version": "09.00.00"
+ },
+ "LA.QSSI.11.0.r99-00400.01-qssi.0": {
+  "Date": "March 01, 2021",
+  "Tag / Build ID": "LA.QSSI.11.0.r99-00400.01-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r99-00400.01-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.16.r2-00800-MANNAR.0": {
   "Date": "March 11, 2021",
   "Tag / Build ID": "LA.UM.9.16.r2-00800-MANNAR.0",
@@ -81,13 +95,6 @@
   "Tag / Build ID": "LA.UM.9.11.r1-03200-NICOBAR.0-1",
   "Chipset": "trinket",
   "Manifest": "LA.UM.9.11.r1-03200-NICOBAR.0-1.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r99-00400.01-qssi.0": {
-  "Date": "March 01, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r99-00400.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r99-00400.01-qssi.0.xml",
   "Android Version": "11.00.00"
  },
  "LA.UM.9.14.r1-14500-LAHAINA.0": {
