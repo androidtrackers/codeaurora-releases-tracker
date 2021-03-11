@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.8.r1-03800-SDM710.0": {
+  "Date": "March 11, 2021",
+  "Tag / Build ID": "LA.UM.9.8.r1-03800-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.9.8.r1-03800-SDM710.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.13.r1-11400-SAIPAN.0": {
   "Date": "March 10, 2021",
   "Tag / Build ID": "LA.UM.8.13.r1-11400-SAIPAN.0",
