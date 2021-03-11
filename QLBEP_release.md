@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 10, 2021|LE.UM.2.3.2-12100-SDX24|sdxpoorwills|LE.UM.2.3.2-12100-SDX24.xml|
 March 10, 2021|LE.UM.3.2.2.r1-10200-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-10200-sdm845.0.xml|
 March 09, 2021|LE.BR.1.3.1-15610-9x50|mdm9650|LE.BR.1.3.1-15610-9x50.xml|
 March 07, 2021|LE.UM.4.4.1.r2-02300-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-02300-QRB5165.0.xml|

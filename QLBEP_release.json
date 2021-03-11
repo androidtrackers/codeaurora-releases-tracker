@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.2-12100-SDX24": {
+  "Date": "March 10, 2021",
+  "Tag / Build ID": "LE.UM.2.3.2-12100-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-12100-SDX24.xml"
+ },
  "LE.UM.3.2.2.r1-10200-sdm845.0": {
   "Date": "March 10, 2021",
   "Tag / Build ID": "LE.UM.3.2.2.r1-10200-sdm845.0",
