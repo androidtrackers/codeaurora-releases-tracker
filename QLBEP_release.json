@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-02400-QRB5165.0": {
+  "Date": "March 12, 2021",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-02400-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-02400-QRB5165.0.xml"
+ },
  "LE.UM.2.3.2-12100-SDX24": {
   "Date": "March 10, 2021",
   "Tag / Build ID": "LE.UM.2.3.2-12100-SDX24",
