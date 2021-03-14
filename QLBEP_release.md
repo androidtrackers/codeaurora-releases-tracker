@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 14, 2021|LE.AU_EAP.1.0.c3-17800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-17800-eap-fsl.xml|
 March 12, 2021|LE.UM.4.4.1.r2-02400-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-02400-QRB5165.0.xml|
 March 10, 2021|LE.UM.2.3.2-12100-SDX24|sdxpoorwills|LE.UM.2.3.2-12100-SDX24.xml|
 March 10, 2021|LE.UM.3.2.2.r1-10200-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-10200-sdm845.0.xml|
