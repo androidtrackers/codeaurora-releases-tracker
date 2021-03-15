@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 15, 2021|LA.UM.9.2.r1-02700-SDMxx0.0|sdm660_64|LA.UM.9.2.r1-02700-SDMxx0.0.xml|11.00.00|
 March 15, 2021|LA.UM.9.15.1.r1-02400-KAMORTA.0|bengal|LA.UM.9.15.1.r1-02400-KAMORTA.0.xml|11.00.00|
 March 15, 2021|LA.UM.8.12.2.r1-01100-QCS8250.0|kona|LA.UM.8.12.2.r1-01100-QCS8250.0.xml|10.00.00|
 March 14, 2021|LA.UM.7.8.r1-10400-SDM710.0|sdm710|LA.UM.7.8.r1-10400-SDM710.0.xml|09.00.00|
