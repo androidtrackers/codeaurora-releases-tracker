@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.3-11100-SDX20": {
+  "Date": "March 16, 2021",
+  "Tag / Build ID": "LE.UM.1.3-11100-SDX20",
+  "Chipset": "sdx20",
+  "Manifest": "LE.UM.1.3-11100-SDX20.xml"
+ },
  "LE.UM.1.3.r8-01400-9x50": {
   "Date": "March 16, 2021",
   "Tag / Build ID": "LE.UM.1.3.r8-01400-9x50",

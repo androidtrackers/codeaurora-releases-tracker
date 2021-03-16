@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 16, 2021|LE.UM.1.3-11100-SDX20|sdx20|LE.UM.1.3-11100-SDX20.xml|
 March 16, 2021|LE.UM.1.3.r8-01400-9x50|mdm9650-poky|LE.UM.1.3.r8-01400-9x50.xml|
 March 15, 2021|LE.UM.3.2.1.c2-02600-sa415m|sa415m|LE.UM.3.2.1.c2-02600-sa415m.xml|
 March 15, 2021|LE.AU_EAP.1.0.c4-02500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-02500-eap-fsl.xml|
