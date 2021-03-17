@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 17, 2021|LE.UM.4.2.3.r1-06900-QCS610.1|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06900-QCS610.1.xml|
 March 16, 2021|LNX.LE.5.3.c6-00000-9x40|LNX.LE.5.3.c6|LNX.LE.5.3.c6-00000-9x40.xml|
 March 16, 2021|LE.UM.1.3-11100-SDX20|sdx20|LE.UM.1.3-11100-SDX20.xml|
 March 16, 2021|LE.UM.1.3.r8-01400-9x50|mdm9650-poky|LE.UM.1.3.r8-01400-9x50.xml|
