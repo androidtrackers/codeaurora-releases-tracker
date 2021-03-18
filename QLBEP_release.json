@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.1.r1-03700-genericarmv8-64.0": {
+  "Date": "March 17, 2021",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-03700-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-user",
+  "Manifest": "LE.UM.4.3.1.r1-03700-genericarmv8-64.0.xml"
+ },
  "LE.UM.4.4.2.r1-03300-SDX55": {
   "Date": "March 17, 2021",
   "Tag / Build ID": "LE.UM.4.4.2.r1-03300-SDX55",
