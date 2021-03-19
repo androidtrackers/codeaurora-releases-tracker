@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.8.r1-08800-SDM710.0": {
+  "Date": "March 19, 2021",
+  "Tag / Build ID": "LA.UM.8.8.r1-08800-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.8.8.r1-08800-SDM710.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.QSSI.11.0.r99-00400.01-qssi.0": {
   "Date": "March 01, 2021",
   "Tag / Build ID": "LA.QSSI.11.0.r99-00400.01-qssi.0",
