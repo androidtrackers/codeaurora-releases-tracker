@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3-76988-9x40": {
+  "Date": "March 22, 2021",
+  "Tag / Build ID": "LNX.LE.5.3-76988-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3-76988-9x40.xml"
+ },
  "LE.UM.4.3.1.r1-03700-genericarmv8-64.0": {
   "Date": "March 17, 2021",
   "Tag / Build ID": "LE.UM.4.3.1.r1-03700-genericarmv8-64.0",
