@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 23, 2021|LE.AU_EAP.1.0.c3-20100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-20100-eap-fsl.xml|
 March 22, 2021|LNX.LE.5.3-76988-9x40|mdm9640|LNX.LE.5.3-76988-9x40.xml|
 March 17, 2021|LE.UM.4.3.1.r1-03700-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03700-genericarmv8-64.0.xml|
 March 17, 2021|LE.UM.4.4.2.r1-03300-SDX55|sdxprairie|LE.UM.4.4.2.r1-03300-SDX55.xml|
