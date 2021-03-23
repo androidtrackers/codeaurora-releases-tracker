@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 23, 2021|LAW.BR.5.1.r1-02500-89xx.0|sdm429w_law|LAW.BR.5.1.r1-02500-89xx.0.xml|11.00.00|
 March 22, 2021|LA.AU.1.2.2.r1-02600-gen3meta.0|sm6150_au|LA.AU.1.2.2.r1-02600-gen3meta.0.xml|10.00.00|
 March 22, 2021|LA.UM.9.14.r1-15100-LAHAINA.0|lahaina|LA.UM.9.14.r1-15100-LAHAINA.0.xml|11.00.00|
 March 21, 2021|LA.UM.9.16.r1-04300-MANNAR.0|holi|LA.UM.9.16.r1-04300-MANNAR.0.xml|11.00.00|
