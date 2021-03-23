@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 23, 2021|LE.UM.4.1.1.c4-01100-sa515m|sa515m|LE.UM.4.1.1.c4-01100-sa515m.xml|
+March 23, 2021|LE.UM.4.1.1.c1-41700-sa515m|sa515m|LE.UM.4.1.1.c1-41700-sa515m.xml|
+March 23, 2021|LE.AU_EAP.1.0.c6-01000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c6-01000-eap-fsl.xml|
 March 23, 2021|LE.AU_EAP.1.0.c3-20100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-20100-eap-fsl.xml|
 March 22, 2021|LNX.LE.5.3-76988-9x40|mdm9640|LNX.LE.5.3-76988-9x40.xml|
 March 17, 2021|LE.UM.4.3.1.r1-03700-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03700-genericarmv8-64.0.xml|
