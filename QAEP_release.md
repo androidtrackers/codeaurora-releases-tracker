@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 29, 2021|LA.UM.9.11.r1-03600-NICOBAR.0|trinket|LA.UM.9.11.r1-03600-NICOBAR.0.xml|11.00.00|
 March 27, 2021|LA.UM.9.3.r1-01400-sdm845.0|sdm845|LA.UM.9.3.r1-01400-sdm845.0.xml|11.00.00|
 March 27, 2021|LA.UM.9.3.r1-01500-sdm845.0|sdm845|LA.UM.9.3.r1-01500-sdm845.0.xml|11.00.00|
 March 26, 2021|LA.UM.9.14.r1-15400-LAHAINA.0|lahaina|LA.UM.9.14.r1-15400-LAHAINA.0.xml|11.00.00|
