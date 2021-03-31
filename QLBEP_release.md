@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 31, 2021|LE.UM.4.2.4-31600-SA2150p|sa2150p|LE.UM.4.2.4-31600-SA2150p.xml|
 March 28, 2021|LE.UM.3.2.1.c1-16100-sa415m|sa415m|LE.UM.3.2.1.c1-16100-sa415m.xml|
 March 28, 2021|LE.UM.3.2.3.c1-22500-SA2150p|sa2150p|LE.UM.3.2.3.c1-22500-SA2150p.xml|
 March 28, 2021|LE.AU_EAP.1.0.c1-21400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-21400-eap-fsl.xml|
