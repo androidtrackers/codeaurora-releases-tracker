@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.12.r1-11000-SMxx50.0": {
+  "Date": "April 01, 2021",
+  "Tag / Build ID": "LA.UM.9.12.r1-11000-SMxx50.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.r1-11000-SMxx50.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.r1-02400-KAMORTA.0": {
   "Date": "April 01, 2021",
   "Tag / Build ID": "LA.UM.9.15.r1-02400-KAMORTA.0",
