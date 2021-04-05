@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-07000-QCS610.0": {
+  "Date": "April 05, 2021",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-07000-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-07000-QCS610.0.xml"
+ },
  "LE.UM.4.1.1.c5-00300-sa515m": {
   "Date": "April 02, 2021",
   "Tag / Build ID": "LE.UM.4.1.1.c5-00300-sa515m",
