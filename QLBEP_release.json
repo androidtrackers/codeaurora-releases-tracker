@@ -1,4 +1,10 @@
 {
+ "LV.HB.0.0.1.c2-07110-8x96_cv2x.0": {
+  "Date": "April 06, 2021",
+  "Tag / Build ID": "LV.HB.0.0.1.c2-07110-8x96_cv2x.0",
+  "Chipset": "8x96autocv2x",
+  "Manifest": "LV.HB.0.0.1.c2-07110-8x96_cv2x.0.xml"
+ },
  "LE.UM.4.2.3.r1-07000-QCS610.0": {
   "Date": "April 05, 2021",
   "Tag / Build ID": "LE.UM.4.2.3.r1-07000-QCS610.0",
