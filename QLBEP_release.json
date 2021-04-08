@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-02900-QRB5165.0": {
+  "Date": "April 07, 2021",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-02900-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-02900-QRB5165.0.xml"
+ },
  "LV.HB.0.0.1.c2-07110-8x96_cv2x.0": {
   "Date": "April 06, 2021",
   "Tag / Build ID": "LV.HB.0.0.1.c2-07110-8x96_cv2x.0",
