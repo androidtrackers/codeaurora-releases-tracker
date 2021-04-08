@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 08, 2021|LE.UM.1.2.c3-02800-9x07|mdm9607-poky|LE.UM.1.2.c3-02800-9x07.xml|
 April 07, 2021|LE.UM.4.4.1.r2-02900-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-02900-QRB5165.0.xml|
 April 06, 2021|LV.HB.0.0.1.c2-07110-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-07110-8x96_cv2x.0.xml|
 April 05, 2021|LE.UM.4.2.3.r1-07000-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-07000-QCS610.0.xml|
