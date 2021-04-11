@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.1.r1-17100-sm8150.0": {
+  "Date": "April 11, 2021",
+  "Tag / Build ID": "LA.UM.8.1.r1-17100-sm8150.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.8.1.r1-17100-sm8150.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.5.5.c25-07600-8x96.0": {
   "Date": "April 09, 2021",
   "Tag / Build ID": "LA.UM.5.5.c25-07600-8x96.0",
