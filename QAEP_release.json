@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.7.c26-05200-8x09.0": {
+  "Date": "April 14, 2021",
+  "Tag / Build ID": "LA.UM.6.7.c26-05200-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.6.7.c26-05200-8x09.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.8.15.r1-08200-KAMORTA.0": {
   "Date": "April 12, 2021",
   "Tag / Build ID": "LA.UM.8.15.r1-08200-KAMORTA.0",
