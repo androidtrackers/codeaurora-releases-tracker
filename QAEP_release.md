@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 14, 2021|LA.UM.7.6.2.c26-00900-89xx.0|msm8953_64|LA.UM.7.6.2.c26-00900-89xx.0.xml|09.00.00|
+April 14, 2021|LA.UM.7.7.c26-04300-8x09.0|msm8909|LA.UM.7.7.c26-04300-8x09.0.xml|09.00.00|
 April 14, 2021|LA.QSSI.11.0.r1-11400-qssi.0|qssi|LA.QSSI.11.0.r1-11400-qssi.0.xml|11.00.00|
 April 14, 2021|LA.UM.6.6.c30-03400-89xx.0|msm8937_64|LA.UM.6.6.c30-03400-89xx.0.xml|08.01.00|
 April 14, 2021|LA.UM.7.2.r2-08200-8x98.0|msm8998|LA.UM.7.2.r2-08200-8x98.0.xml|09.00.00|
