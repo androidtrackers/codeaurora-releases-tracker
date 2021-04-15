@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 15, 2021|LE.UM.5.2.3.r1-03500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-03500-SDX12.xml|
+April 15, 2021|LE.UM.3.4.2.r1-02300-9x07|mdm9607-poky|LE.UM.3.4.2.r1-02300-9x07.xml|
 April 13, 2021|LE.UM.4.4.1.r2-03100-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-03100-QRB5165.0.xml|
 April 12, 2021|LE.UM.4.3.1.r1-03800-genericarmv8-64.0|genericarmv8|LE.UM.4.3.1.r1-03800-genericarmv8-64.0.xml|
 April 12, 2021|LE.UM.4.4.2.r1-03500-SDX55|sdxprairie|LE.UM.4.4.2.r1-03500-SDX55.xml|
