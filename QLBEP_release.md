@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 15, 2021|LE.UM.2.3.6-09000-9x07|mdm9607-poky|LE.UM.2.3.6-09000-9x07.xml|
 April 15, 2021|LV.HB.1.1.5.c1-01700-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-01700-8x96.0.xml|
 April 15, 2021|LE.UM.5.2.3.r1-03500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-03500-SDX12.xml|
 April 15, 2021|LE.UM.3.4.2.r1-02300-9x07|mdm9607-poky|LE.UM.3.4.2.r1-02300-9x07.xml|
