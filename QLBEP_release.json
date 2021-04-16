@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.2.r1-03800-SXR2130.0": {
+  "Date": "April 16, 2021",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-03800-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-03800-SXR2130.0.xml"
+ },
  "LNX.LE.5.3.2.2.c1-02000-9x40": {
   "Date": "April 16, 2021",
   "Tag / Build ID": "LNX.LE.5.3.2.2.c1-02000-9x40",
