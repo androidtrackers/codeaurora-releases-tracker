@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.12.3-06000-sm8250.0": {
+  "Date": "April 20, 2021",
+  "Tag / Build ID": "LA.UM.8.12.3-06000-sm8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.3-06000-sm8250.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.0.1.0.r3-03100-gen3_gvmgh.0": {
   "Date": "April 20, 2021",
   "Tag / Build ID": "LA.AU.0.1.0.r3-03100-gen3_gvmgh.0",
