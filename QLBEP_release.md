@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 21, 2021|LE.UM.4.1.1.c1-45300-sa515m|sa515m|LE.UM.4.1.1.c1-45300-sa515m.xml|
+April 21, 2021|LE.AU_EAP.1.0.c3-23500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-23500-eap-fsl.xml|
 April 21, 2021|LE.UM.5.2.3.r1-03800-SDX12|sdxnightjar|LE.UM.5.2.3.r1-03800-SDX12.xml|
 April 21, 2021|LE.UM.4.2.1.r1-07500-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-07500-QCS404.0.xml|
 April 16, 2021|LE.UM.4.3.3.r1-03300-SDX55|sdxprairie|LE.UM.4.3.3.r1-03300-SDX55.xml|
