@@ -20,7 +20,8 @@ URLS = ['https://wiki.codeaurora.org/xwiki/bin/QAEP/release',
 class Scraper:
     def __init__(self, url):
         self.url = url
-        self.table = BeautifulSoup(get(self.url).content, 'html.parser').find("table")
+        self.table = BeautifulSoup(
+            get(self.url).content, 'html.parser').find("table")
         self.name = '_'.join(self.url.split('/')[5:])
         self.head = [th.text.strip() for th in self.table.find_all('th')]
         self.data = {}
@@ -71,18 +72,34 @@ def get_build_id(tag):
 def get_system_manifest(tag):
     try:
         vendor_hint = re.search(r'(AU_LINUX[^;\n]+)(\d{2})',
-                        BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/"
-                                          f"{tag}.xml").content,
-                                       "html.parser").get_text()).group(0)
+                                BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/vendor/manifest/tree/"
+                                                  f"{tag}.xml").content,
+                                              "html.parser").get_text()).group(0)
+        length = len(vendor_hint)
+        flag = 0
         if tag.endswith('KAMORTA.0'):
-            vendor_hint = vendor_hint[+46:-31]
-        else:
+            if(vendor_hint[+49:-31]):
+                if(vendor_hint[+49:-31] != '.00'):
+                    flag = 1
+                    vendor_hint = vendor_hint[+46:-34]
+            else:
+                vendor_hint = vendor_hint[+46:-31]
+        elif (length < 50):
             vendor_hint = vendor_hint[-3:]
+        elif(vendor_hint[-3:] != '.00'):
+            flag = 1
+            vendor_hint = vendor_hint[-6:-3]
+        else:
+            vendor_hint = vendor_hint[-6:-3]
 
         regex = '[^;\n]+'
-        return re.findall(regex + vendor_hint + regex,
-                        BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/").content,
-                                       "html.parser").get_text())[0][+10:-23]
+        system = re.findall(regex + vendor_hint + regex,
+                            BeautifulSoup(get(f"https://source.codeaurora.org/quic/la/la/system/manifest/tree/").content,
+                                          "html.parser").get_text())
+        if flag:
+            return system[1][+10:-23]
+        else:
+            return system[0][+10:-23]
 
     except (IndexError, AttributeError):
         return
@@ -142,14 +159,13 @@ def generate_telegram_message(update):
                 message += f"Build ID: *{build_id}*\n"
         except AttributeError:
             pass
-    elif tag.startswith('LE.BR.' or 'LNX.LE.'):
+    elif tag.startswith('LE.BR.') or tag.startswith('LNX.LE.'):
         manifest_url = f"https://source.codeaurora.org/quic/le/manifest/tree/{update.get('Manifest')}?h={tag}"
         message += f"Manifest: [Here]({manifest_url}) \n"
     else:
         manifest_url = f"https://source.codeaurora.org/quic/le/le/manifest/tree/{update.get('Manifest')}?h={tag}"
         if head(manifest_url).ok:
             message += f"Manifest: [Here]({manifest_url}) \n"
-
 
     kernel_version = get_kernel_version(manifest_url, tag)
     if kernel_version:
