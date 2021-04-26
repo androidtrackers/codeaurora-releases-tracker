@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.11.0.r1-11400.02-qssi.0": {
+  "Date": "April 26, 2021",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-11400.02-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-11400.02-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.12.2.r1-01300-QCS8250.0": {
+  "Date": "April 26, 2021",
+  "Tag / Build ID": "LA.UM.8.12.2.r1-01300-QCS8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.2.r1-01300-QCS8250.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.7.2.c6-09200-sdm660.0": {
   "Date": "April 23, 2021",
   "Tag / Build ID": "LA.UM.7.2.c6-09200-sdm660.0",
