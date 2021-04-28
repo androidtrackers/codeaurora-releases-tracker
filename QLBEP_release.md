@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 28, 2021|LE.BR.1.2.1-06900-9x07|mdm9607|LE.BR.1.2.1-06900-9x07.xml|
 April 28, 2021|LU.UM.1.2.1.r1-25200-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-25200-QRB5165.0.xml|
 April 27, 2021|LV.HB.1.1.5.c1-02500-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-02500-8x96.0.xml|
 April 27, 2021|LE.UM.5.3.2.r1-02900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-02900-SDX65.0.xml|
