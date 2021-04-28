@@ -1,4 +1,11 @@
 {
+ "LAW.BR.5.1.r1-03600-89xx.0": {
+  "Date": "April 28, 2021",
+  "Tag / Build ID": "LAW.BR.5.1.r1-03600-89xx.0",
+  "Chipset": "sdm429w_law",
+  "Manifest": "LAW.BR.5.1.r1-03600-89xx.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LAW.BR.5.1.r1-03500-89xx.0": {
   "Date": "April 27, 2021",
   "Tag / Build ID": "LAW.BR.5.1.r1-03500-89xx.0",
