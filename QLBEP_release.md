@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 05, 2021|LE.AU_EAP.1.0.c10-01700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-01700-eap-fsl.xml|
 May 05, 2021|LE.UM.5.2.1.r1-05200-qcs405.0|vt-64|LE.UM.5.2.1.r1-05200-qcs405.0.xml|
 May 04, 2021|LE.UM.3.2.1.c2-03700-sa415m|sa415m|LE.UM.3.2.1.c2-03700-sa415m.xml|
 May 04, 2021|LE.AU_EAP.1.0.c4-03300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-03300-eap-fsl.xml|
