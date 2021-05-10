@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.2.r1-02900-gen3meta.0": {
+  "Date": "May 10, 2021",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-02900-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.2.2.r1-02900-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.HB.1.1.5-15210-8x96.0": {
   "Date": "May 10, 2021",
   "Tag / Build ID": "LA.HB.1.1.5-15210-8x96.0",
