@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 11, 2021|LA.UM.8.11.r1-05200-NICOBAR.0|trinket|LA.UM.8.11.r1-05200-NICOBAR.0.xml|10.00.00|
 May 10, 2021|LA.AU.1.2.2.r1-02900-gen3meta.0|msmnile_au|LA.AU.1.2.2.r1-02900-gen3meta.0.xml|10.00.00|
 May 10, 2021|LA.HB.1.1.5-15210-8x96.0|msm8996|LA.HB.1.1.5-15210-8x96.0.xml|07.00.00|
 May 10, 2021|LA.BR.1.2.5.c25-05700-8x09.0|msm8909|LA.BR.1.2.5.c25-05700-8x09.0.xml|05.01.00|
