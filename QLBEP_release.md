@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 13, 2021|LE.UM.1.3.r8-02100-9x50|mdm9650-poky|LE.UM.1.3.r8-02100-9x50.xml|
+May 13, 2021|LE.UM.4.1.1.c5-01000-sa515m|sa515m|LE.UM.4.1.1.c5-01000-sa515m.xml|
+May 13, 2021|LE.AU_EAP.1.0.c7-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c7-01100-eap-fsl.xml|
 May 11, 2021|LE.UM.4.4.2.r1-03800-SDX55|sdxprairie|LE.UM.4.4.2.r1-03800-SDX55.xml|
 May 11, 2021|LE.UM.4.4.2.r1-03700-SDX55|sdxprairie|LE.UM.4.4.2.r1-03700-SDX55.xml|
 May 11, 2021|LE.UM.4.2.3.r1-07600-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-07600-QCS610.0.xml|

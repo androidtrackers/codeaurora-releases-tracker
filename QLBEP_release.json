@@ -1,4 +1,22 @@
 {
+ "LE.UM.1.3.r8-02100-9x50": {
+  "Date": "May 13, 2021",
+  "Tag / Build ID": "LE.UM.1.3.r8-02100-9x50",
+  "Chipset": "mdm9650-poky",
+  "Manifest": "LE.UM.1.3.r8-02100-9x50.xml"
+ },
+ "LE.UM.4.1.1.c5-01000-sa515m": {
+  "Date": "May 13, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c5-01000-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c5-01000-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c7-01100-eap-fsl": {
+  "Date": "May 13, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c7-01100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c7-01100-eap-fsl.xml"
+ },
  "LE.UM.4.4.2.r1-03800-SDX55": {
   "Date": "May 11, 2021",
   "Tag / Build ID": "LE.UM.4.4.2.r1-03800-SDX55",
