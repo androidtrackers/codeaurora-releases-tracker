@@ -1,5 +1,15 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 21, 2021|LE.UM.5.3.2.r1-03000-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-03000-SDX65.0.xml|
+May 21, 2021|LE.UM.2.3.6.c1-23400-9x07|mdm9607-poky|LE.UM.2.3.6.c1-23400-9x07.xml|
+May 21, 2021|LE.EDGE.1.0-45000-sm8250.0|sm8250-aedk|LE.EDGE.1.0-45000-sm8250.0.xml|
+May 19, 2021|LE.UM.2.3.2-12300-SDX24|sdxpoorwills|LE.UM.2.3.2-12300-SDX24.xml|
+May 19, 2021|LE.UM.1.3.r9-03900-9x50|mdm9650-poky|LE.UM.1.3.r9-03900-9x50.xml|
+May 19, 2021|LE.UM.4.4.2.r1-03900-SDX55|sdxprairie|LE.UM.4.4.2.r1-03900-SDX55.xml|
+May 18, 2021|LE.UM.4.2.4-36800-SA2150p|sa2150p|LE.UM.4.2.4-36800-SA2150p.xml|
+May 18, 2021|LE.UM.1.3.2.r1-07000-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-07000-9150-cv2x.xml|
+May 17, 2021|LE.UM.1.3.2.r1-07000-9x50|mdm9650-2k|LE.UM.1.3.2.r1-07000-9x50.xml|
+May 17, 2021|LE.BR.1.3.1-15810-9x50|mdm9650|LE.BR.1.3.1-15810-9x50.xml|
 May 13, 2021|LE.UM.1.3.r8-02100-9x50|mdm9650-poky|LE.UM.1.3.r8-02100-9x50.xml|
 May 13, 2021|LE.UM.4.1.1.c5-01000-sa515m|sa515m|LE.UM.4.1.1.c5-01000-sa515m.xml|
 May 13, 2021|LE.AU_EAP.1.0.c7-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c7-01100-eap-fsl.xml|
