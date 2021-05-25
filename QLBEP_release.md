@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 24, 2021|LE.UM.4.3.1.r1-03900-genericarmv8-64.0|genericarmv8-vm-user|LE.UM.4.3.1.r1-03900-genericarmv8-64.0.xml|
+May 24, 2021|LE.BR.1.2.1.1-70300-9x07|mdm9607|LE.BR.1.2.1.1-70300-9x07.xml|
+May 24, 2021|LE.UM.1.3.2.r1-07100-9x50|mdm9650-2k|LE.UM.1.3.2.r1-07100-9x50.xml|
 May 21, 2021|LE.UM.5.3.2.r1-03000-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-03000-SDX65.0.xml|
 May 21, 2021|LE.UM.2.3.6.c1-23400-9x07|mdm9607-poky|LE.UM.2.3.6.c1-23400-9x07.xml|
 May 21, 2021|LE.EDGE.1.0-45000-sm8250.0|sm8250-aedk|LE.EDGE.1.0-45000-sm8250.0.xml|

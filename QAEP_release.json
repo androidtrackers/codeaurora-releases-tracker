@@ -1,4 +1,25 @@
 {
+ "LAW.BR.5.1.r1-04100-89xx.0": {
+  "Date": "May 24, 2021",
+  "Tag / Build ID": "LAW.BR.5.1.r1-04100-89xx.0",
+  "Chipset": "sdm429w_law",
+  "Manifest": "LAW.BR.5.1.r1-04100-89xx.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.QSSI.11.0.r1-12100-qssi.0": {
+  "Date": "May 24, 2021",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-12100-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-12100-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.2.r1-03200-SDMxx0.0": {
+  "Date": "May 24, 2021",
+  "Tag / Build ID": "LA.UM.9.2.r1-03200-SDMxx0.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.9.2.r1-03200-SDMxx0.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.6.c26-03500-89xx.0": {
   "Date": "May 23, 2021",
   "Tag / Build ID": "LA.UM.8.6.c26-03500-89xx.0",
