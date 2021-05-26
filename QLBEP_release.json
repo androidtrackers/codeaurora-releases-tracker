@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.LA.3.1.r21.1-00600-QCAAUTOHOSTHZ": {
+  "Date": "May 26, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LA.3.1.r21.1-00600-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.3.1.r21.1-00600-QCAAUTOHOSTHZ.xml"
+ },
  "BTHOST_AU.LA.4.1.r21.1-00800-QCAAUTOHOSTHZ": {
   "Date": "May 26, 2021",
   "Tag / Build ID": "BTHOST_AU.LA.4.1.r21.1-00800-QCAAUTOHOSTHZ",
