@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 27, 2021|LA.UM.9.3.r1-02100-sdm845.0|sdm845|LA.UM.9.3.r1-02100-sdm845.0.xml|11.00.00|
 May 26, 2021|LA.AU.0.2.0.r4-00900-gen3meta.0|sm6150_au|LA.AU.0.2.0.r4-00900-gen3meta.0.xml|10.00.00|
 May 26, 2021|LA.UM.9.14.r1-16700-LAHAINA.0|lahaina|LA.UM.9.14.r1-16700-LAHAINA.0.xml|11.00.00|
 May 25, 2021|LA.UM.9.16.r1-05700-MANNAR.0|holi|LA.UM.9.16.r1-05700-MANNAR.0.xml|11.00.00|
