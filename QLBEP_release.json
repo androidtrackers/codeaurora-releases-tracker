@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.2-12400-SDX24": {
+  "Date": "May 28, 2021",
+  "Tag / Build ID": "LE.UM.2.3.2-12400-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-12400-SDX24.xml"
+ },
  "CHSS.LNX_FSLR.1.0.r1-03700-QCAAUTOHOSTHZ": {
   "Date": "May 27, 2021",
   "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-03700-QCAAUTOHOSTHZ",
