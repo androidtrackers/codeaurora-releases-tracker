@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSLR.1.0.r1-03700-QCAAUTOHOSTHZ": {
+  "Date": "May 27, 2021",
+  "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-03700-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLR.1.0.r1-03700-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.4.4.1.r3-02400-QRB5165.0": {
   "Date": "May 27, 2021",
   "Tag / Build ID": "LE.UM.4.4.1.r3-02400-QRB5165.0",
