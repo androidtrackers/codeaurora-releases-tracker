@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSLS.4.14-02310-QCA6574AUARMSDIOHZ": {
+  "Date": "May 28, 2021",
+  "Tag / Build ID": "CHSS.LNX_FSLS.4.14-02310-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.4.14-02310-QCA6574AUARMSDIOHZ.xml"
+ },
  "LV.AU.0.2.0.r1-14400-sa6155.0": {
   "Date": "May 28, 2021",
   "Tag / Build ID": "LV.AU.0.2.0.r1-14400-sa6155.0",
