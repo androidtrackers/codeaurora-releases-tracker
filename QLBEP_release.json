@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0-06310-sa6155.0": {
+  "Date": "May 31, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0-06310-sa6155.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.0.2.0-06310-sa6155.0.xml"
+ },
  "LE.UM.1.1-97800-9x07": {
   "Date": "May 28, 2021",
   "Tag / Build ID": "LE.UM.1.1-97800-9x07",
