@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 31, 2021|LV.AU.0.2.0-06410-sa6155.0|sa6155agl|LV.AU.0.2.0-06410-sa6155.0.xml|
 May 31, 2021|LE.UM.1.3.r6-07800-8x17|apq8017-qsap|LE.UM.1.3.r6-07800-8x17.xml|
 May 31, 2021|LV.AU.0.2.0-06310-sa6155.0|sa6155agl|LV.AU.0.2.0-06310-sa6155.0.xml|
 May 28, 2021|LE.UM.1.1-97800-9x07|mdm9607-poky|LE.UM.1.1-97800-9x07.xml|
