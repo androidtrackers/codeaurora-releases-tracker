@@ -1,4 +1,10 @@
 {
+ "LV.HB.1.1.5.c1-03000-8x96.0": {
+  "Date": "June 01, 2021",
+  "Tag / Build ID": "LV.HB.1.1.5.c1-03000-8x96.0",
+  "Chipset": "8x96autogvmgh",
+  "Manifest": "LV.HB.1.1.5.c1-03000-8x96.0.xml"
+ },
  "LE.BR.1.2.1-07400-9x07": {
   "Date": "June 01, 2021",
   "Tag / Build ID": "LE.BR.1.2.1-07400-9x07",
