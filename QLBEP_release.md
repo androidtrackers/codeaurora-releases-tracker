@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 01, 2021|LE.BR.1.2.1-07400-9x07|mdm9607|LE.BR.1.2.1-07400-9x07.xml|
 June 01, 2021|LV.AU.0.2.0.r1-14700-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-14700-gen3meta.0.xml|
 May 31, 2021|LV.AU.0.2.0-06410-sa6155.0|sa6155agl|LV.AU.0.2.0-06410-sa6155.0.xml|
 May 31, 2021|LE.UM.1.3.r6-07800-8x17|apq8017-qsap|LE.UM.1.3.r6-07800-8x17.xml|
