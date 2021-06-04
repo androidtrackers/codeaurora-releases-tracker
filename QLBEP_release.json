@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r1-15100-gen3meta.0": {
+  "Date": "June 03, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r1-15100-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.0.2.0.r1-15100-gen3meta.0.xml"
+ },
  "LE.UM.5.4.2.r1-00100-QCS610.0": {
   "Date": "June 03, 2021",
   "Tag / Build ID": "LE.UM.5.4.2.r1-00100-QCS610.0",
