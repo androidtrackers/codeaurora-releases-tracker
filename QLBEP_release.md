@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 04, 2021|LE.UM.1.2.c7-03400-9x07|mdm9607-poky|LE.UM.1.2.c7-03400-9x07.xml|
 June 03, 2021|LV.AU.0.2.0.r1-15100-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-15100-gen3meta.0.xml|
 June 03, 2021|LE.UM.5.4.2.r1-00100-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-00100-QCS610.0.xml|
 June 03, 2021|LE.UM.5.2.2.r1-04300-SXR2130.0|sxr2130-mtp-xreality-xr-debug|LE.UM.5.2.2.r1-04300-SXR2130.0.xml|
