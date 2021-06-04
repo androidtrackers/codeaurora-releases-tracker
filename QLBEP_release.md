@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 04, 2021|UC.UM.1.0-00800-sa8155.0|qcs8155|UC.UM.1.0-00800-sa8155.0.xml|
 June 04, 2021|LV.AU.0.2.0.r3-01400-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.0.r3-01400-qtiquingvm.0.xml|
 June 04, 2021|LE.UM.1.2.c7-03400-9x07|mdm9607-poky|LE.UM.1.2.c7-03400-9x07.xml|
 June 03, 2021|LV.AU.0.2.0.r1-15100-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-15100-gen3meta.0.xml|
