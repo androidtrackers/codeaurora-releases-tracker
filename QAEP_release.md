@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 07, 2021|LA.AU.0.2.1.r3-07300-gen3meta.0|msmnile_au|LA.AU.0.2.1.r3-07300-gen3meta.0.xml|10.00.00|
 June 07, 2021|LA.UM.7.6.2.c26-01300-89xx.0|msm8953_64|LA.UM.7.6.2.c26-01300-89xx.0.xml|09.00.00|
 June 07, 2021|LA.UM.9.15.1.r1-03300-KAMORTA.0|bengal|LA.UM.9.15.1.r1-03300-KAMORTA.0.xml|11.00.00|
 June 07, 2021|LA.UM.8.1.r1-17400-sm8150.0|msmnile|LA.UM.8.1.r1-17400-sm8150.0.xml|10.00.00|
