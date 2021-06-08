@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 08, 2021|LE.UM.3.2.2.r1-11500-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-11500-sdm845.0.xml|
 June 06, 2021|LV.AU.0.2.0.r1-15300-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-15300-gen3meta.0.xml|
 June 05, 2021|LE.UM.5.4.2.r1-00200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-00200-QCS610.0.xml|
 June 04, 2021|UC.UM.1.0-00800-sa8155.0|qcs8155|UC.UM.1.0-00800-sa8155.0.xml|
