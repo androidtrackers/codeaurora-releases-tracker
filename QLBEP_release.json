@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSL.2.2-03410-QCA6574AUARMSDIOHZ": {
+  "Date": "June 09, 2021",
+  "Tag / Build ID": "CHSS.LNX_FSL.2.2-03410-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.2.2-03410-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.UM.3.2.1.c2-04700-sa415m": {
   "Date": "June 09, 2021",
   "Tag / Build ID": "LE.UM.3.2.1.c2-04700-sa415m",
