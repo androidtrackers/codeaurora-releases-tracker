@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.2.r1-04200-SDX55": {
+  "Date": "June 11, 2021",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-04200-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-04200-SDX55.xml"
+ },
  "CHSS.LNX_FSL.2.2-03410-QCA6574AUARMSDIOHZ": {
   "Date": "June 09, 2021",
   "Tag / Build ID": "CHSS.LNX_FSL.2.2-03410-QCA6574AUARMSDIOHZ",
