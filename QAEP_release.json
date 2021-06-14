@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.r1-16900-LAHAINA.0": {
+  "Date": "June 14, 2021",
+  "Tag / Build ID": "LA.UM.9.14.r1-16900-LAHAINA.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-16900-LAHAINA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.6.7.c26-05700-8x09.0": {
   "Date": "June 14, 2021",
   "Tag / Build ID": "LA.UM.6.7.c26-05700-8x09.0",

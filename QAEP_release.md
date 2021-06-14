@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 14, 2021|LA.UM.9.14.r1-16900-LAHAINA.0|lahaina|LA.UM.9.14.r1-16900-LAHAINA.0.xml|11.00.00|
 June 14, 2021|LA.UM.6.7.c26-05700-8x09.0|msm8909|LA.UM.6.7.c26-05700-8x09.0.xml|08.01.00|
 June 14, 2021|LA.UM.8.2.1.c25-01000-sdm660.0|sdm660_64|LA.UM.8.2.1.c25-01000-sdm660.0.xml|10.00.00|
 June 14, 2021|LA.QSSI.11.0.r1-12300-qssi.0|qssi|LA.QSSI.11.0.r1-12300-qssi.0.xml|11.00.00|
