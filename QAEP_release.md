@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 15, 2021|LA.UM.8.11.1.r1-01900-QCM6125.0|trinket|LA.UM.8.11.1.r1-01900-QCM6125.0.xml|10.00.00|
 June 15, 2021|LA.UM.7.7.c26-05100-8x09.0|msm8909|LA.UM.7.7.c26-05100-8x09.0.xml|09.00.00|
 June 14, 2021|LA.UM.8.4.c25-01800-8x98.0|msm8998|LA.UM.8.4.c25-01800-8x98.0.xml|10.00.00|
 June 14, 2021|LA.UM.6.6.c26-04900-89xx.0|msm8937_64|LA.UM.6.6.c26-04900-89xx.0.xml|08.01.00|
