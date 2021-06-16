@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.6.3.r1-03800-89xx.0": {
+  "Date": "June 16, 2021",
+  "Tag / Build ID": "LA.UM.9.6.3.r1-03800-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LA.UM.9.6.3.r1-03800-89xx.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.16.r1-05900-MANNAR.QSSI12.0": {
+  "Date": "June 16, 2021",
+  "Tag / Build ID": "LA.UM.9.16.r1-05900-MANNAR.QSSI12.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-05900-MANNAR.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.16.r1-05900-MANNAR.0": {
   "Date": "June 16, 2021",
   "Tag / Build ID": "LA.UM.9.16.r1-05900-MANNAR.0",
