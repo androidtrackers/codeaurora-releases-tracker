@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 17, 2021|LE.UM.4.3.2.r1-03000-9x07|mdm9607-poky|LE.UM.4.3.2.r1-03000-9x07.xml|
 June 17, 2021|LV.AU.0.2.0.r5-00300-gen3meta.0|sa81x5agl|LV.AU.0.2.0.r5-00300-gen3meta.0.xml|
 June 16, 2021|CHSS.LNX_FSL.2.1-05010-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.1-05010-QCA6574AUARMSDIOHZ.xml|
 June 16, 2021|LE.UM.5.2.3.r1-04200-SDX12|sdxnightjar|LE.UM.5.2.3.r1-04200-SDX12.xml|
