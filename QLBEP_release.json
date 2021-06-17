@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r5-00300-gen3meta.0": {
+  "Date": "June 17, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r5-00300-gen3meta.0",
+  "Chipset": "sa81x5agl",
+  "Manifest": "LV.AU.0.2.0.r5-00300-gen3meta.0.xml"
+ },
  "CHSS.LNX_FSL.2.1-05010-QCA6574AUARMSDIOHZ": {
   "Date": "June 16, 2021",
   "Tag / Build ID": "CHSS.LNX_FSL.2.1-05010-QCA6574AUARMSDIOHZ",
