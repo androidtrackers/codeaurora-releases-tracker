@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.2.0.r1-00500-gen3_gvmgh.0": {
+  "Date": "June 20, 2021",
+  "Tag / Build ID": "LA.AU.0.2.0.r1-00500-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.0.2.0.r1-00500-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.6.2.r1-04700-89xx.0": {
   "Date": "June 19, 2021",
   "Tag / Build ID": "LA.UM.9.6.2.r1-04700-89xx.0",
