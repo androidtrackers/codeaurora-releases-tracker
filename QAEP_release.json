@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.9.1.r1-02300-QCS610.0": {
+  "Date": "June 21, 2021",
+  "Tag / Build ID": "LA.UM.8.9.1.r1-02300-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LA.UM.8.9.1.r1-02300-QCS610.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.3.r1-02300-sdm845.0": {
   "Date": "June 21, 2021",
   "Tag / Build ID": "LA.UM.9.3.r1-02300-sdm845.0",
