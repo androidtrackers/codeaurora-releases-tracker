@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 23, 2021|LE.UM.5.4.2.r1-00500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-00500-QCS610.0.xml|
 June 21, 2021|LU.UM.1.2.1.r1-26200-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-26200-QRB5165.0.xml|
 June 21, 2021|LU.UM.1.2.1.r1-26100-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-26100-QRB5165.0.xml|
 June 21, 2021|LE.UM.3.2.3.c1-32100-SA2150p|sa2150p|LE.UM.3.2.3.c1-32100-SA2150p.xml|
