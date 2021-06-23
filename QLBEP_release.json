@@ -1,4 +1,10 @@
 {
+ "LE.BR.1.2.1-08100-9x07": {
+  "Date": "June 23, 2021",
+  "Tag / Build ID": "LE.BR.1.2.1-08100-9x07",
+  "Chipset": "mdm9607",
+  "Manifest": "LE.BR.1.2.1-08100-9x07.xml"
+ },
  "LE.EDGE.1.0.c1-03900-sm8250.0": {
   "Date": "June 23, 2021",
   "Tag / Build ID": "LE.EDGE.1.0.c1-03900-sm8250.0",

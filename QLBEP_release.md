@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 23, 2021|LE.BR.1.2.1-08100-9x07|mdm9607|LE.BR.1.2.1-08100-9x07.xml|
 June 23, 2021|LE.EDGE.1.0.c1-03900-sm8250.0|sm8250-aedk|LE.EDGE.1.0.c1-03900-sm8250.0.xml|
 June 23, 2021|LE.UM.5.4.2.r1-00500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-00500-QCS610.0.xml|
 June 21, 2021|LU.UM.1.2.1.r1-26200-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-26200-QRB5165.0.xml|
