@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.1.c4-04100-sa515m": {
+  "Date": "June 24, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c4-04100-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c4-04100-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c6-03000-eap-fsl": {
+  "Date": "June 24, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c6-03000-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c6-03000-eap-fsl.xml"
+ },
  "LE.UM.4.4.2.r1-04400-SDX55": {
   "Date": "June 24, 2021",
   "Tag / Build ID": "LE.UM.4.4.2.r1-04400-SDX55",
