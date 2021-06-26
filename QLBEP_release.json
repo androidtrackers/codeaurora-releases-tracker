@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.c4-04400-sa515m": {
+  "Date": "June 25, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c4-04400-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c4-04400-sa515m.xml"
+ },
  "LE.UM.4.1.1.c4-04100-sa515m": {
   "Date": "June 24, 2021",
   "Tag / Build ID": "LE.UM.4.1.1.c4-04100-sa515m",

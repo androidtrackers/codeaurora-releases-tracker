@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.2.r1-03400-gen3meta.0": {
+  "Date": "June 25, 2021",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-03400-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.2.2.r1-03400-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.8.1.r2-01000-QCS605.0": {
   "Date": "June 24, 2021",
   "Tag / Build ID": "LA.UM.8.8.1.r2-01000-QCS605.0",
