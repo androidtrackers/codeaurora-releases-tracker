@@ -1,4 +1,52 @@
 {
+ "LE.UM.4.1.1.c9-05800-sa515m": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c9-05800-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c9-05800-sa515m.xml"
+ },
+ "LE.UM.3.2.3.c6-08900-SA2150p": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.UM.3.2.3.c6-08900-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c6-08900-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0.c10-08200-eap-fsl": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c10-08200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c10-08200-eap-fsl.xml"
+ },
+ "LE.UM.4.4.1.r3-03600-QRB5165.0": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.UM.4.4.1.r3-03600-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r3-03600-QRB5165.0.xml"
+ },
+ "LE.UM.3.2.1.c4-00200-sa415m": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.UM.3.2.1.c4-00200-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c4-00200-sa415m.xml"
+ },
+ "LE.AU_EAP.1.0.c11-00200-eap-fsl": {
+  "Date": "June 30, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c11-00200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c11-00200-eap-fsl.xml"
+ },
+ "LE.UM.5.2.1.r1-05800-qcs405.0": {
+  "Date": "June 29, 2021",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-05800-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-05800-qcs405.0.xml"
+ },
+ "LE.UM.5.3.2.r1-03500-SDX65.0": {
+  "Date": "June 29, 2021",
+  "Tag / Build ID": "LE.UM.5.3.2.r1-03500-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.5.3.2.r1-03500-SDX65.0.xml"
+ },
  "LE.UM.1.2.c3-04000-9x07": {
   "Date": "June 29, 2021",
   "Tag / Build ID": "LE.UM.1.2.c3-04000-9x07",

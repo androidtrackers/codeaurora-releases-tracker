@@ -1,5 +1,13 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 30, 2021|LE.UM.4.1.1.c9-05800-sa515m|sa515m|LE.UM.4.1.1.c9-05800-sa515m.xml|
+June 30, 2021|LE.UM.3.2.3.c6-08900-SA2150p|sa2150p|LE.UM.3.2.3.c6-08900-SA2150p.xml|
+June 30, 2021|LE.AU_EAP.1.0.c10-08200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-08200-eap-fsl.xml|
+June 30, 2021|LE.UM.4.4.1.r3-03600-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-03600-QRB5165.0.xml|
+June 30, 2021|LE.UM.3.2.1.c4-00200-sa415m|sa415m|LE.UM.3.2.1.c4-00200-sa415m.xml|
+June 30, 2021|LE.AU_EAP.1.0.c11-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c11-00200-eap-fsl.xml|
+June 29, 2021|LE.UM.5.2.1.r1-05800-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-05800-qcs405.0.xml|
+June 29, 2021|LE.UM.5.3.2.r1-03500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-03500-SDX65.0.xml|
 June 29, 2021|LE.UM.1.2.c3-04000-9x07|mdm9607|LE.UM.1.2.c3-04000-9x07.xml|
 June 28, 2021|LE.UM.4.3.1.r1-04000-genericarmv8-64.0|lgenericarmv8-vm-debug|LE.UM.4.3.1.r1-04000-genericarmv8-64.0.xml|
 June 27, 2021|LE.UM.1.1-98400-9x07|mdm9607-poky|LE.UM.1.1-98400-9x07.xml|
