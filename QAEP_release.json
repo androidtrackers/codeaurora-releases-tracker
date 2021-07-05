@@ -1,4 +1,25 @@
 {
+ "LA.HB.1.1.5-15610-8x96.0": {
+  "Date": "July 05, 2021",
+  "Tag / Build ID": "LA.HB.1.1.5-15610-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-15610-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
+ "LA.QSSI.11.0.r1-12400.02-qssi.0": {
+  "Date": "July 05, 2021",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-12400.02-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-12400.02-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.13.r1-11700-SAIPAN.0": {
+  "Date": "July 05, 2021",
+  "Tag / Build ID": "LA.UM.8.13.r1-11700-SAIPAN.0",
+  "Chipset": "lito",
+  "Manifest": "LA.UM.8.13.r1-11700-SAIPAN.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.14.1.r1-02400-QCM6490.0": {
   "Date": "July 02, 2021",
   "Tag / Build ID": "LA.UM.9.14.1.r1-02400-QCM6490.0",
