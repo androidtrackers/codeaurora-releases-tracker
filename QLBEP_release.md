@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 16, 2021|LNX.LE.5.3-00032-9x40|mdm9640|LNX.LE.5.3-00032-9x40.xml|
 July 14, 2021|LE.UM.1.3-11500-SDX20|sdx20|LE.UM.1.3-11500-SDX20.xml|
 July 14, 2021|LE.UM.4.1.1.r2-00100-sa515m|sa515m|LE.UM.4.1.1.r2-00100-sa515m.xml|
 July 14, 2021|LE.AU_EAP.1.0.r2-00100-eap-fsl|eap-imx|LE.AU_EAP.1.0.r2-00100-eap-fsl.xml|
