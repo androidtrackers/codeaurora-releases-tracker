@@ -1,4 +1,32 @@
 {
+ "LA.UM.9.15.1.r1-03800-KAMORTA.0": {
+  "Date": "July 20, 2021",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-03800-KAMORTA.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.1.r1-03800-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.15.r1-02900.02-KAMORTA.QSSI12.0": {
+  "Date": "July 20, 2021",
+  "Tag / Build ID": "LA.UM.9.15.r1-02900.02-KAMORTA.QSSI12.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-02900.02-KAMORTA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.16.r2-01600-MANNAR.0": {
+  "Date": "July 20, 2021",
+  "Tag / Build ID": "LA.UM.9.16.r2-01600-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r2-01600-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.11.r1-04500.01-NICOBAR.QSSI12.0": {
+  "Date": "July 19, 2021",
+  "Tag / Build ID": "LA.UM.9.11.r1-04500.01-NICOBAR.QSSI12.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.9.11.r1-04500.01-NICOBAR.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LAW.BR.3.0.c3-08200-8x09w.0": {
   "Date": "July 19, 2021",
   "Tag / Build ID": "LAW.BR.3.0.c3-08200-8x09w.0",
