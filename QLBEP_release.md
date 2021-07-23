@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 23, 2021|LV.AU.0.2.0.r1-19200-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-19200-gen3meta.0.xml|
 July 20, 2021|LE.UM.1.3-11700-SDX20|sdx20|LE.UM.1.3-11700-SDX20.xml|
 July 19, 2021|LE.UM.4.2.1.r1-08200-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-08200-QCS404.0.xml|
 July 16, 2021|UC.UM.1.0-01500-sa8155.0|qcs8155|UC.UM.1.0-01500-sa8155.0.xml|
