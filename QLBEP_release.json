@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.3.1.r1-04200-genericarmv8-64.0": {
+  "Date": "July 27, 2021",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-04200-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.4.3.1.r1-04200-genericarmv8-64.0.xml"
+ },
+ "LE.UM.4.4.2.r1-05100-SDX55": {
+  "Date": "July 26, 2021",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-05100-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-05100-SDX55.xml"
+ },
  "LV.AU.0.2.0.r1-19200-gen3meta.0": {
   "Date": "July 23, 2021",
   "Tag / Build ID": "LV.AU.0.2.0.r1-19200-gen3meta.0",
