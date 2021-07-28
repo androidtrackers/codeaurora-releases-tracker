@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 27, 2021|LE.UM.1.3.r5-54900-9x50|mdm9650-poky|LE.UM.1.3.r5-54900-9x50.xml|
 July 27, 2021|LE.UM.4.3.1.r1-04200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04200-genericarmv8-64.0.xml|
 July 26, 2021|LE.UM.4.4.2.r1-05100-SDX55|sdxprairie|LE.UM.4.4.2.r1-05100-SDX55.xml|
 July 23, 2021|LV.AU.0.2.0.r1-19200-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-19200-gen3meta.0.xml|
