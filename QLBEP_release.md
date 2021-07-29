@@ -1,5 +1,10 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 29, 2021|LE.UM.5.2.3.r1-05000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-05000-SDX12.xml|
+July 29, 2021|LV.AU.0.2.0.r1-19500-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-19500-gen3meta.0.xml|
+July 28, 2021|LE.UM.4.1.1.c1-56000-sa515m|sa515m|LE.UM.4.1.1.c1-56000-sa515m.xml|
+July 28, 2021|LE.AU_EAP.1.0.c3-33600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-33600-eap-fsl.xml|
+July 28, 2021|CHSS.LNX_FSLS.1.0-01700-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLS.1.0-01700-QCAAUTOHOSTHZ.xml|
 July 27, 2021|LE.UM.1.3.r5-54900-9x50|mdm9650-poky|LE.UM.1.3.r5-54900-9x50.xml|
 July 27, 2021|LE.UM.4.3.1.r1-04200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04200-genericarmv8-64.0.xml|
 July 26, 2021|LE.UM.4.4.2.r1-05100-SDX55|sdxprairie|LE.UM.4.4.2.r1-05100-SDX55.xml|
