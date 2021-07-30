@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 30, 2021|LE.UM.5.2.2.r1-04600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-04600-SXR2130.0.xml|
+July 30, 2021|LE.UM.5.4.1.r1-01800-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-01800-QRB2210.0.xml|
+July 29, 2021|LE.UM.5.3.2.r1-04000-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-04000-SDX65.0.xml|
 July 29, 2021|LE.UM.5.2.3.r1-05000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-05000-SDX12.xml|
 July 29, 2021|LV.AU.0.2.0.r1-19500-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-19500-gen3meta.0.xml|
 July 28, 2021|LE.UM.4.1.1.c1-56000-sa515m|sa515m|LE.UM.4.1.1.c1-56000-sa515m.xml|
