@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 01, 2021|LE.UM.5.4.2.r1-01100-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-01100-QCS610.0.xml|
 July 30, 2021|LE.UM.5.2.2.r1-04600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-04600-SXR2130.0.xml|
 July 30, 2021|LE.UM.5.4.1.r1-01800-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-01800-QRB2210.0.xml|
 July 29, 2021|LE.UM.5.3.2.r1-04000-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-04000-SDX65.0.xml|
