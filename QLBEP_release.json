@@ -1,4 +1,10 @@
 {
+ "LU.UM.2.4.1.r1-00700-QRB5165.0": {
+  "Date": "August 02, 2021",
+  "Tag / Build ID": "LU.UM.2.4.1.r1-00700-QRB5165.0",
+  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.2.4.1.r1-00700-QRB5165.0.xml"
+ },
  "LE.UM.1.2.c8-00400-9x07": {
   "Date": "August 02, 2021",
   "Tag / Build ID": "LE.UM.1.2.c8-00400-9x07",
