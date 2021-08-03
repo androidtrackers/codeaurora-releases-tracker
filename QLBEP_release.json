@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r1-19700-gen3meta.0": {
+  "Date": "August 02, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r1-19700-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.0.2.0.r1-19700-gen3meta.0.xml"
+ },
  "LU.UM.2.4.1.r1-00700-QRB5165.0": {
   "Date": "August 02, 2021",
   "Tag / Build ID": "LU.UM.2.4.1.r1-00700-QRB5165.0",
