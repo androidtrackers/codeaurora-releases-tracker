@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.1.c1-28800-sa415m": {
+  "Date": "August 04, 2021",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-28800-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-28800-sa415m.xml"
+ },
  "LE.UM.1.2.c8-00500-9x07": {
   "Date": "August 04, 2021",
   "Tag / Build ID": "LE.UM.1.2.c8-00500-9x07",
