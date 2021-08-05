@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.3.c6-12300-SA2150p": {
+  "Date": "August 04, 2021",
+  "Tag / Build ID": "LE.UM.3.2.3.c6-12300-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c6-12300-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0.c10-11500-eap-fsl": {
+  "Date": "August 04, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c10-11500-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c10-11500-eap-fsl.xml"
+ },
  "LE.UM.3.2.1.c1-28800-sa415m": {
   "Date": "August 04, 2021",
   "Tag / Build ID": "LE.UM.3.2.1.c1-28800-sa415m",

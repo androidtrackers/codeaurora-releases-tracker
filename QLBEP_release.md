@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 04, 2021|LE.UM.3.2.3.c6-12300-SA2150p|sa2150p|LE.UM.3.2.3.c6-12300-SA2150p.xml|
+August 04, 2021|LE.AU_EAP.1.0.c10-11500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-11500-eap-fsl.xml|
 August 04, 2021|LE.UM.3.2.1.c1-28800-sa415m|sa415m|LE.UM.3.2.1.c1-28800-sa415m.xml|
 August 04, 2021|LE.UM.1.2.c8-00500-9x07|mdm9607-poky|LE.UM.1.2.c8-00500-9x07.xml|
 August 03, 2021|LE.AU_EAP.1.0.c1-34000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-34000-eap-fsl.xml|
