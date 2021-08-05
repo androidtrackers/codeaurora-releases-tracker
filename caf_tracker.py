@@ -227,6 +227,8 @@ def main():
         file = Path(f"{scraper.name}.json")
         if file.exists():
             file.rename(f'{file}.bak')
+        if not scraper.data:
+            continue
         write_json(file, scraper.data)
         write_markdown(f'{file.stem}.md', scraper.to_markdown())
         changes = diff(read_json(f'{file}.bak'), scraper.data)
