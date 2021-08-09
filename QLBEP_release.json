@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3.2.2-88170-9x40": {
+  "Date": "August 09, 2021",
+  "Tag / Build ID": "LNX.LE.5.3.2.2-88170-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3.2.2-88170-9x40.xml"
+ },
  "LE.UM.4.4.2.r1-05200-SDX55": {
   "Date": "August 05, 2021",
   "Tag / Build ID": "LE.UM.4.4.2.r1-05200-SDX55",

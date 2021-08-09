@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 09, 2021|LNX.LE.5.3.2.2-88170-9x40|mdm9640|LNX.LE.5.3.2.2-88170-9x40.xml|
 August 05, 2021|LE.UM.4.4.2.r1-05200-SDX55|sdxprairie|LE.UM.4.4.2.r1-05200-SDX55.xml|
 August 05, 2021|LE.UM.4.3.1.r1-04100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04100-genericarmv8-64.0.xml|
 August 05, 2021|LV.AU.0.2.0.r1-20100-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-20100-gen3meta.0.xml|
