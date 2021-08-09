@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 09, 2021|LA.UM.9.15.r1-03200-KAMORTA.0|bengal|LA.UM.9.15.r1-03200-KAMORTA.0.xml|11.00.00|
 August 09, 2021|LA.UM.8.2.1.c25-01400-sdm660.0|sdm660_64|LA.UM.8.2.1.c25-01400-sdm660.0.xml|10.00.00|
 August 09, 2021|LA.AU.1.1.1.r1-03200-sa6155.0|sm6150_au|LA.AU.1.1.1.r1-03200-sa6155.0.xml|08.00.00|
 August 09, 2021|LA.UM.9.1.r1-10900-SMxxx0.0|msmnile|LA.UM.9.1.r1-10900-SMxxx0.0.xml|11.00.00|
