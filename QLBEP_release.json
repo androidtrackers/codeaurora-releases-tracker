@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c4-05300-eap-fsl": {
+  "Date": "August 11, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c4-05300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c4-05300-eap-fsl.xml"
+ },
  "LE.UM.5.4.1.r1-02400-QRB2210.0": {
   "Date": "August 11, 2021",
   "Tag / Build ID": "LE.UM.5.4.1.r1-02400-QRB2210.0",
