@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.r2-01700-MANNAR.0": {
+  "Date": "August 12, 2021",
+  "Tag / Build ID": "LA.UM.9.16.r2-01700-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r2-01700-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.8.2.r1-02000-QCS605.0": {
   "Date": "August 12, 2021",
   "Tag / Build ID": "LA.UM.8.8.2.r1-02000-QCS605.0",
