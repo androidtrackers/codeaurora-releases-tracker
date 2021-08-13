@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 13, 2021|LE.AU_EAP.1.0.c1-36300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-36300-eap-fsl.xml|
 August 13, 2021|WLANHOST_AU.LE.2.1.r21.2-00700-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LE.2.1.r21.2-00700-QCAAUTOHOSTHZ.xml|
 August 12, 2021|UC.UM.1.0-02100-sa8155.0|qcs8155|UC.UM.1.0-02100-sa8155.0.xml|
 August 12, 2021|LE.UM.5.2.3.r1-05100-SDX12|sdxnightjar|LE.UM.5.2.3.r1-05100-SDX12.xml|

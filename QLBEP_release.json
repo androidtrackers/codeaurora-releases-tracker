@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c1-36300-eap-fsl": {
+  "Date": "August 13, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-36300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-36300-eap-fsl.xml"
+ },
  "WLANHOST_AU.LE.2.1.r21.2-00700-QCAAUTOHOSTHZ": {
   "Date": "August 13, 2021",
   "Tag / Build ID": "WLANHOST_AU.LE.2.1.r21.2-00700-QCAAUTOHOSTHZ",
