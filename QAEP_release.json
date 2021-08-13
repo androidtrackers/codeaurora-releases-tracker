@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.7.c26-05600-8x09.0": {
+  "Date": "August 13, 2021",
+  "Tag / Build ID": "LA.UM.7.7.c26-05600-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.7.7.c26-05600-8x09.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.UM.9.16.r1-06900-MANNAR.QSSI12.0": {
   "Date": "August 13, 2021",
   "Tag / Build ID": "LA.UM.9.16.r1-06900-MANNAR.QSSI12.0",
