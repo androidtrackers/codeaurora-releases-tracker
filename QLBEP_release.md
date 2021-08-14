@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 13, 2021|BTHOST_AU.LA.3.1.r21.2-00500-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.3.1.r21.2-00500-QCAAUTOHOSTHZ.xml|
 August 13, 2021|BTHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ.xml|
 August 13, 2021|LE.UM.3.2.1.c1-31300-sa415m|sa415m|LE.UM.3.2.1.c1-31300-sa415m.xml|
 August 13, 2021|LE.AU_EAP.1.0.c1-36300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-36300-eap-fsl.xml|
