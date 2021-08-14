@@ -1,4 +1,10 @@
 {
+ "BTHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ": {
+  "Date": "August 13, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.3.2.1.c1-31300-sa415m": {
   "Date": "August 13, 2021",
   "Tag / Build ID": "LE.UM.3.2.1.c1-31300-sa415m",
