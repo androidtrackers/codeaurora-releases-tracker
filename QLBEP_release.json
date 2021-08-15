@@ -1,4 +1,10 @@
 {
+ "UC.UM.1.0-02200-sa8155.0": {
+  "Date": "August 15, 2021",
+  "Tag / Build ID": "UC.UM.1.0-02200-sa8155.0",
+  "Chipset": "qcs8155",
+  "Manifest": "UC.UM.1.0-02200-sa8155.0.xml"
+ },
  "WLANHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ": {
   "Date": "August 13, 2021",
   "Tag / Build ID": "WLANHOST_AU.LA.3.1.r21.2-00400-QCAAUTOHOSTHZ",
