@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 17, 2021|LE.UM.4.3.1.r1-04300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04300-genericarmv8-64.0.xml|
 August 16, 2021|LE.BR.1.3.1-16210-9x50|mdm9650|LE.BR.1.3.1-16210-9x50.xml|
 August 16, 2021|LE.UM.5.2.3.r1-05200-SDX12|sdxnightjar|LE.UM.5.2.3.r1-05200-SDX12.xml|
 August 15, 2021|UC.UM.1.0-02200-sa8155.0|qcs8155|UC.UM.1.0-02200-sa8155.0.xml|
