@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 18, 2021|LV.AU.0.2.0.r3-01900-qtiquingvm.0|qtiquingvm|LV.AU.0.2.0.r3-01900-qtiquingvm.0.xml|
 August 18, 2021|LE.UM.1.3.r9-04000-9x50|mdm9650-poky|LE.UM.1.3.r9-04000-9x50.xml|
 August 17, 2021|LE.UM.4.3.1.r1-04300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04300-genericarmv8-64.0.xml|
 August 16, 2021|LE.BR.1.3.1-16210-9x50|mdm9650|LE.BR.1.3.1-16210-9x50.xml|

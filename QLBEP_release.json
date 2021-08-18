@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r3-01900-qtiquingvm.0": {
+  "Date": "August 18, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r3-01900-qtiquingvm.0",
+  "Chipset": "qtiquingvm",
+  "Manifest": "LV.AU.0.2.0.r3-01900-qtiquingvm.0.xml"
+ },
  "LE.UM.1.3.r9-04000-9x50": {
   "Date": "August 18, 2021",
   "Tag / Build ID": "LE.UM.1.3.r9-04000-9x50",
