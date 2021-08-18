@@ -1,4 +1,16 @@
 {
+ "LE.AU_EAP.1.0.r2-00200-eap-fsl": {
+  "Date": "August 18, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.r2-00200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.r2-00200-eap-fsl.xml"
+ },
+ "LE.UM.4.1.1.r2-00600-sa515m": {
+  "Date": "August 18, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.r2-00600-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.r2-00600-sa515m.xml"
+ },
  "LV.AU.0.2.0.r3-01900-qtiquingvm.0": {
   "Date": "August 18, 2021",
   "Tag / Build ID": "LV.AU.0.2.0.r3-01900-qtiquingvm.0",

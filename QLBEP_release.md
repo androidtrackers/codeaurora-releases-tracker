@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 18, 2021|LE.AU_EAP.1.0.r2-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.r2-00200-eap-fsl.xml|
+August 18, 2021|LE.UM.4.1.1.r2-00600-sa515m|sa515m|LE.UM.4.1.1.r2-00600-sa515m.xml|
 August 18, 2021|LV.AU.0.2.0.r3-01900-qtiquingvm.0|qtiquingvm|LV.AU.0.2.0.r3-01900-qtiquingvm.0.xml|
 August 18, 2021|LE.UM.1.3.r9-04000-9x50|mdm9650-poky|LE.UM.1.3.r9-04000-9x50.xml|
 August 17, 2021|LE.UM.4.3.1.r1-04300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04300-genericarmv8-64.0.xml|
