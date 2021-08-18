@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r5-01500-gen3meta.0": {
+  "Date": "August 18, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r5-01500-gen3meta.0",
+  "Chipset": "opsy-sa81x5",
+  "Manifest": "LV.AU.0.2.0.r5-01500-gen3meta.0.xml"
+ },
  "LE.AU_EAP.1.0.r2-00200-eap-fsl": {
   "Date": "August 18, 2021",
   "Tag / Build ID": "LE.AU_EAP.1.0.r2-00200-eap-fsl",
