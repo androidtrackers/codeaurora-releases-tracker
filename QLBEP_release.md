@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 20, 2021|LE.UM.4.3.3.r1-04600-SDX55|sdxprairie|LE.UM.4.3.3.r1-04600-SDX55.xml|
 August 19, 2021|LU.UM.1.2.1.r1-27500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-27500-QRB5165.0.xml|
 August 18, 2021|LV.AU.0.2.0.r5-01500-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-01500-gen3meta.0.xml|
 August 18, 2021|LE.AU_EAP.1.0.r2-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.r2-00200-eap-fsl.xml|

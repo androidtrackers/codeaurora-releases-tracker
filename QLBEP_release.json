@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.3.r1-04600-SDX55": {
+  "Date": "August 20, 2021",
+  "Tag / Build ID": "LE.UM.4.3.3.r1-04600-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.3.3.r1-04600-SDX55.xml"
+ },
  "LU.UM.1.2.1.r1-27500-QRB5165.0": {
   "Date": "August 19, 2021",
   "Tag / Build ID": "LU.UM.1.2.1.r1-27500-QRB5165.0",
