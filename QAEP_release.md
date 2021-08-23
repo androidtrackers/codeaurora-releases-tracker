@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 23, 2021|LA.UM.8.13.r1-11800-SAIPAN.0|lito|LA.UM.8.13.r1-11800-SAIPAN.0.xml|10.00.00|
 August 18, 2021|LA.UM.9.1.r1-10900.02-SMxxx0.QSSI12.0|msmnile|LA.UM.9.1.r1-10900.02-SMxxx0.QSSI12.0.xml|11.00.00|
 August 18, 2021|LA.UM.9.15.r1-03200.04-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-03200.04-KAMORTA.QSSI12.0.xml|11.00.00|
 August 18, 2021|LA.UM.9.15.1.r1-04100-KAMORTA.0|bengal_32go|LA.UM.9.15.1.r1-04100-KAMORTA.0.xml|11.00.00|
