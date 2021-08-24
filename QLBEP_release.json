@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.6.c2-05100-9x07": {
+  "Date": "August 24, 2021",
+  "Tag / Build ID": "LE.UM.2.3.6.c2-05100-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.2.3.6.c2-05100-9x07.xml"
+ },
  "LE.UM.1.3.2.r1-07600-9150-cv2x": {
   "Date": "August 22, 2021",
   "Tag / Build ID": "LE.UM.1.3.2.r1-07600-9150-cv2x",
