@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.4-46700-SA2150p": {
+  "Date": "August 24, 2021",
+  "Tag / Build ID": "LE.UM.4.2.4-46700-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.4.2.4-46700-SA2150p.xml"
+ },
  "LE.UM.2.3.6.c2-05100-9x07": {
   "Date": "August 24, 2021",
   "Tag / Build ID": "LE.UM.2.3.6.c2-05100-9x07",
