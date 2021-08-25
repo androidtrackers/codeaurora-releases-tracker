@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 24, 2021|LE.UM.4.4.2.r1-05300-SDX55|sdxprairie|LE.UM.4.4.2.r1-05300-SDX55.xml|
 August 24, 2021|LE.UM.1.3-11900-SDX20|sdx20|LE.UM.1.3-11900-SDX20.xml|
 August 24, 2021|LE.UM.4.2.4-46700-SA2150p|sa2150p|LE.UM.4.2.4-46700-SA2150p.xml|
 August 24, 2021|LE.UM.2.3.6.c2-05100-9x07|mdm9607-poky|LE.UM.2.3.6.c2-05100-9x07.xml|
