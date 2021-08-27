@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSLS.4.14-02510-QCA6574AUARMSDIOHZ": {
+  "Date": "August 27, 2021",
+  "Tag / Build ID": "CHSS.LNX_FSLS.4.14-02510-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.4.14-02510-QCA6574AUARMSDIOHZ.xml"
+ },
+ "LE.UM.5.2.3.r1-05400-SDX12": {
+  "Date": "August 27, 2021",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-05400-SDX12",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-05400-SDX12.xml"
+ },
  "LE.UM.4.1.1.c7-05500-sa515m": {
   "Date": "August 25, 2021",
   "Tag / Build ID": "LE.UM.4.1.1.c7-05500-sa515m",

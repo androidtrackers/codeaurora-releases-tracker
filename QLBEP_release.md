@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 27, 2021|CHSS.LNX_FSLS.4.14-02510-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02510-QCA6574AUARMSDIOHZ.xml|
+August 27, 2021|LE.UM.5.2.3.r1-05400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-05400-SDX12.xml|
 August 25, 2021|LE.UM.4.1.1.c7-05500-sa515m|sa515m|LE.UM.4.1.1.c7-05500-sa515m.xml|
 August 25, 2021|LE.UM.3.2.3.c5-04700-SA2150p|sa2150p|LE.UM.3.2.3.c5-04700-SA2150p.xml|
 August 24, 2021|LE.UM.4.4.2.r1-05300-SDX55|sdxprairie|LE.UM.4.4.2.r1-05300-SDX55.xml|
