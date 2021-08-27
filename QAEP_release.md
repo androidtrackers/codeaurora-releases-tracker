@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 26, 2021|LA.UM.8.12.c3-42600-sm8250.0|kona|LA.UM.8.12.c3-42600-sm8250.0.xml|10.00.00|
 August 26, 2021|LA.UM.9.11.r1-04700-NICOBAR.0|trinket|LA.UM.9.11.r1-04700-NICOBAR.0.xml|11.00.00|
 August 26, 2021|LA.UM.9.16.r1-07100-MANNAR.0|holi|LA.UM.9.16.r1-07100-MANNAR.0.xml|11.00.00|
 August 26, 2021|LA.AU.1.3.4-00500-gen3meta.0|msmnile_au|LA.AU.1.3.4-00500-gen3meta.0.xml|10.00.00|
