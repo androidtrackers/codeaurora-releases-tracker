@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 29, 2021|LE.UM.2.3.6.c2-05300-9x07|mdm9607-poky|LE.UM.2.3.6.c2-05300-9x07.xml|
 August 29, 2021|LNX.LE.5.3.c4-98035-9x40|mdm9640|LNX.LE.5.3.c4-98035-9x40.xml|
 August 29, 2021|LNX.LE.5.3.c6-00008-9x40|mdm9640|LNX.LE.5.3.c6-00008-9x40.xml|
 August 28, 2021|LU.UM.1.2.1.r1-27600-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-27600-QRB5165.0.xml|
