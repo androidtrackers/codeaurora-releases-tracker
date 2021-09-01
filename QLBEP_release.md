@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 01, 2021|LE.UM.4.1.1.c9-12700-sa515m|sa515m|LE.UM.4.1.1.c9-12700-sa515m.xml|
+September 01, 2021|LE.UM.3.2.3.c6-15500-SA2150p|sa2150p|LE.UM.3.2.3.c6-15500-SA2150p.xml|
+September 01, 2021|LE.AU_EAP.1.0.c10-14800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-14800-eap-fsl.xml|
 September 01, 2021|LNX.LE.5.3.c6-00009-9x40|mdm9640|LNX.LE.5.3.c6-00009-9x40.xml|
 September 01, 2021|LNX.LE.5.3.c4-98038-9x40|mdm9640|LNX.LE.5.3.c4-98038-9x40.xml|
 September 01, 2021|LE.UM.2.3.2-12500-SDX24|sdxpoorwills|LE.UM.2.3.2-12500-SDX24.xml|
