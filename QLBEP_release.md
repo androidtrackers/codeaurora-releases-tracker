@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 01, 2021|LE.UM.2.3.2-12500-SDX24|sdxpoorwills|LE.UM.2.3.2-12500-SDX24.xml|
 August 31, 2021|LE.UM.5.2.1.r1-06900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-06900-qcs405.0.xml|
 August 31, 2021|LE.UM.5.3.2.r1-04200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-04200-SDX65.0.xml|
 August 29, 2021|LE.UM.1.1-99500-9x07|mdm9607-poky|LE.UM.1.1-99500-9x07.xml|
