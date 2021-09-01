@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 01, 2021|LNX.LE.5.3.c6-00009-9x40|mdm9640|LNX.LE.5.3.c6-00009-9x40.xml|
 September 01, 2021|LNX.LE.5.3.c4-98038-9x40|mdm9640|LNX.LE.5.3.c4-98038-9x40.xml|
 September 01, 2021|LE.UM.2.3.2-12500-SDX24|sdxpoorwills|LE.UM.2.3.2-12500-SDX24.xml|
 August 31, 2021|LE.UM.5.2.1.r1-06900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-06900-qcs405.0.xml|
