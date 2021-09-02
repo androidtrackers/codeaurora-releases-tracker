@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 02, 2021|LA.UM.9.12.r1-12800.01-SMxx50.QSSI12.0|kona|LA.UM.9.12.r1-12800.01-SMxx50.QSSI12.0.xml|11.00.00|
 September 02, 2021|LA.UM.8.12.2.r1-02000-QCS8250.0|kona|LA.UM.8.12.2.r1-02000-QCS8250.0.xml|10.00.00|
 September 02, 2021|LA.UM.9.14.r1-18200-LAHAINA.QSSI12.0|lahaina|LA.UM.9.14.r1-18200-LAHAINA.QSSI12.0.xml|11.00.00|
 September 02, 2021|LA.HB.1.1.5-16210-8x96.0|msm8996|LA.HB.1.1.5-16210-8x96.0.xml|07.00.00|
