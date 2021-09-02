@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.1.r1-11100-SMxxx0.0": {
+  "Date": "August 31, 2021",
+  "Tag / Build ID": "LA.UM.9.1.r1-11100-SMxxx0.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.9.1.r1-11100-SMxxx0.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.6.2.c27-00900-89xx.0": {
   "Date": "September 01, 2021",
   "Tag / Build ID": "LA.UM.8.6.2.c27-00900-89xx.0",
@@ -33,13 +40,6 @@
   "Chipset": "msmnile_gvmq",
   "Manifest": "LA.AU.1.3.2.r3-00700-sa8155_gvmq.0.xml",
   "Android Version": "10.00.00"
- },
- "LA.UM.9.1.r1-11100-SMxxx0.0": {
-  "Date": "August 31, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11100-SMxxx0.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11100-SMxxx0.0.xml",
-  "Android Version": "11.00.00"
  },
  "LA.UM.9.12.r1-12800-SMxx50.0": {
   "Date": "August 31, 2021",
