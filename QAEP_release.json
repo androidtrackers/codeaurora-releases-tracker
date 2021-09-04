@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.2.0.r1-01300-gen3_gvmgh.0": {
+  "Date": "September 04, 2021",
+  "Tag / Build ID": "LA.AU.0.2.0.r1-01300-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.0.2.0.r1-01300-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.8.r1-09100-SDM710.0": {
   "Date": "September 03, 2021",
   "Tag / Build ID": "LA.UM.8.8.r1-09100-SDM710.0",
