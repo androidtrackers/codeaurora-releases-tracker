@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 06, 2021|LA.UM.9.14.1.r1-03800-QCM6490.0|lahaina|LA.UM.9.14.1.r1-03800-QCM6490.0.xml|11.00.00|
 September 04, 2021|LA.AU.0.2.0.r1-01500-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-01500-gen3_gvmgh.0.xml|10.00.00|
 September 04, 2021|LA.AU.0.2.0.r1-01300-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-01300-gen3_gvmgh.0.xml|10.00.00|
 September 03, 2021|LA.UM.8.8.r1-09100-SDM710.0|sdm710|LA.UM.8.8.r1-09100-SDM710.0.xml|10.00.00|
