@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r1-01300-gen3meta.0": {
+  "Date": "September 06, 2021",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-01300-gen3meta.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.0.2.2.r1-01300-gen3meta.0.xml"
+ },
  "LNX.LE.5.3.c4-98040-9x40": {
   "Date": "September 05, 2021",
   "Tag / Build ID": "LNX.LE.5.3.c4-98040-9x40",
