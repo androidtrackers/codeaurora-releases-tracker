@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.1.1.c25-01400-sdm660.0": {
+  "Date": "September 07, 2021",
+  "Tag / Build ID": "LA.UM.6.1.1.c25-01400-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.6.1.1.c25-01400-sdm660.0.xml",
+  "Android Version": "07.01.01"
+ },
  "LAW.BR.4.0.c1-06000-89xx.0": {
   "Date": "September 06, 2021",
   "Tag / Build ID": "LAW.BR.4.0.c1-06000-89xx.0",
