@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c3-37300-eap-fsl": {
+  "Date": "September 07, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c3-37300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c3-37300-eap-fsl.xml"
+ },
  "LNX.LE.5.3.2.2-88175-9x40": {
   "Date": "September 07, 2021",
   "Tag / Build ID": "LNX.LE.5.3.2.2-88175-9x40",
