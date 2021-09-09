@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 09, 2021|LE.UM.5.4.2.r1-01600-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-01600-QCS610.0.xml|
 September 08, 2021|LNX.LE.5.3.2.2-88177-9x40|mdm9640|LNX.LE.5.3.2.2-88177-9x40.xml|
 September 08, 2021|LE.UM.4.3.1.r1-04400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-04400-genericarmv8-64.0.xml|
 September 07, 2021|LE.UM.4.1.1.c1-60500-sa515m|sa515m|LE.UM.4.1.1.c1-60500-sa515m.xml|
