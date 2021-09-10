@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.2.r3-00900-sa8295_gvmq.0": {
+  "Date": "September 09, 2021",
+  "Tag / Build ID": "LA.AU.1.3.2.r3-00900-sa8295_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.3.2.r3-00900-sa8295_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0": {
   "Date": "September 09, 2021",
   "Tag / Build ID": "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0",
