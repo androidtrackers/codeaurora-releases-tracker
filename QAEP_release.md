@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 16, 2021|LA.UM.9.11.r1-04700.02-NICOBAR.QSSI12.0|trinket|LA.UM.9.11.r1-04700.02-NICOBAR.QSSI12.0.xml|11.00.00|
 September 15, 2021|LA.UM.6.6.c29-03200-89xx.0|msm8953_64|LA.UM.6.6.c29-03200-89xx.0.xml|08.01.00|
 September 15, 2021|LA.UM.9.6.2.c25-00800-89xx.0|msm8953_64|LA.UM.9.6.2.c25-00800-89xx.0.xml|11.00.00|
 September 15, 2021|LA.UM.9.16.r1-07400-MANNAR.0|holi|LA.UM.9.16.r1-07400-MANNAR.0.xml|11.00.00|
