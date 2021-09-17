@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.1.r1-00200-gen3meta.0": {
+  "Date": "September 17, 2021",
+  "Tag / Build ID": "LV.AU.1.2.1.r1-00200-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r1-00200-gen3meta.0.xml"
+ },
  "LE.UM.1.2.c5-04200-9x07": {
   "Date": "September 17, 2021",
   "Tag / Build ID": "LE.UM.1.2.c5-04200-9x07",
