@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.1.r1-05000-genericarmv8-64.0": {
+  "Date": "September 21, 2021",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-05000-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.4.3.1.r1-05000-genericarmv8-64.0.xml"
+ },
  "LE.UM.4.2.3.r1-08700-QCS610.0": {
   "Date": "September 17, 2021",
   "Tag / Build ID": "LE.UM.4.2.3.r1-08700-QCS610.0",
