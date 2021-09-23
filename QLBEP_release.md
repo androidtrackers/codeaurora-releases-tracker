@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 22, 2021|LU.UM.2.4.1.r1-01000-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01000-QRB5165.0.xml|
 September 22, 2021|LE.UM.4.4.1.r2-03900-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-03900-QRB5165.0.xml|
 September 21, 2021|LE.UM.4.3.1.r1-05000-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05000-genericarmv8-64.0.xml|
 September 17, 2021|LE.UM.4.2.3.r1-08700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-08700-QCS610.0.xml|
