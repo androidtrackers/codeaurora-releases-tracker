@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 23, 2021|LE.AU_EAP.1.0.r2-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.r2-00400-eap-fsl.xml|
 September 23, 2021|UC.UM.1.0.r1-00200-sa8155.0|qcs8155|UC.UM.1.0.r1-00200-sa8155.0.xml|
 September 22, 2021|LU.UM.2.4.1.r1-01000-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01000-QRB5165.0.xml|
 September 22, 2021|LE.UM.4.4.1.r2-03900-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-03900-QRB5165.0.xml|
