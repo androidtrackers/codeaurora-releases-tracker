@@ -1,4 +1,10 @@
 {
+ "UC.UM.1.0.r1-00200-sa8155.0": {
+  "Date": "September 23, 2021",
+  "Tag / Build ID": "UC.UM.1.0.r1-00200-sa8155.0",
+  "Chipset": "qcs8155",
+  "Manifest": "UC.UM.1.0.r1-00200-sa8155.0.xml"
+ },
  "LU.UM.2.4.1.r1-01000-QRB5165.0": {
   "Date": "September 22, 2021",
   "Tag / Build ID": "LU.UM.2.4.1.r1-01000-QRB5165.0",
