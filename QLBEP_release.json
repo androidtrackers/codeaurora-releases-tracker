@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.r2-00800-sa515m": {
+  "Date": "September 24, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.r2-00800-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.r2-00800-sa515m.xml"
+ },
  "LV.HB.1.1.5.c2-00400-8x96.0": {
   "Date": "September 24, 2021",
   "Tag / Build ID": "LV.HB.1.1.5.c2-00400-8x96.0",
