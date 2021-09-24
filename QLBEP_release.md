@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 24, 2021|LV.HB.1.1.5.c2-00400-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c2-00400-8x96.0.xml|
 September 23, 2021|LE.UM.3.2.3.r1-00500-SA2150p|sa515m|LE.UM.3.2.3.r1-00500-SA2150p.xml|
 September 23, 2021|LE.AU_EAP.1.0.r2-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.r2-00400-eap-fsl.xml|
 September 23, 2021|UC.UM.1.0.r1-00200-sa8155.0|qcs8155|UC.UM.1.0.r1-00200-sa8155.0.xml|
