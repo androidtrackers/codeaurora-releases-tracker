@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.4.1.r1-03600-QRB2210.0": {
+  "Date": "September 25, 2021",
+  "Tag / Build ID": "LE.UM.5.4.1.r1-03600-QRB2210.0",
+  "Chipset": "QRB2210",
+  "Manifest": "LE.UM.5.4.1.r1-03600-QRB2210.0.xml"
+ },
  "UC.UM.1.0.r1-00500-sa8155.0": {
   "Date": "September 25, 2021",
   "Tag / Build ID": "UC.UM.1.0.r1-00500-sa8155.0",
