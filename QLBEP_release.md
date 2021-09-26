@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 26, 2021|LE.UM.5.4.1.r1-03700-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-03700-QRB2210.0.xml|
 September 26, 2021|LV.AU.0.2.2.r2-00500-qtiquingvm.0|qtiquingvm|LV.AU.0.2.2.r2-00500-qtiquingvm.0.xml|
 September 25, 2021|LE.UM.5.4.1.r1-03600-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-03600-QRB2210.0.xml|
 September 25, 2021|UC.UM.1.0.r1-00500-sa8155.0|qcs8155|UC.UM.1.0.r1-00500-sa8155.0.xml|
