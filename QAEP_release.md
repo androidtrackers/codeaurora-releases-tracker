@@ -1,6 +1,5 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
-September 29, 2021|LA.AU.1.3.2.r3-01000-sa8295_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r3-01000-sa8295_gvmq.0.xml|10.00.00|
 September 29, 2021|LAW.BR.5.1.r1-07700-89xx.0|sdm429w_law|LAW.BR.5.1.r1-07700-89xx.0.xml|11.00.00|
 September 29, 2021|LA.UM.9.16.r1-07600-MANNAR.0|holi|LA.UM.9.16.r1-07600-MANNAR.0.xml|11.00.00|
 September 29, 2021|LA.UM.5.5.c25-08200-8x96.0|msm8996|LA.UM.5.5.c25-08200-8x96.0.xml|07.01.02|
