@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 29, 2021|LAW.BR.5.1.r1-07700-89xx.0|sdm429w_law|LAW.BR.5.1.r1-07700-89xx.0.xml|11.00.00|
+September 29, 2021|LA.UM.9.16.r1-07600-MANNAR.0|holi|LA.UM.9.16.r1-07600-MANNAR.0.xml|11.00.00|
+September 29, 2021|LA.UM.5.5.c25-08200-8x96.0|msm8996|LA.UM.5.5.c25-08200-8x96.0.xml|07.01.02|
 September 28, 2021|LA.UM.8.4.1.c25-00800-8x98.0|msm8998|LA.UM.8.4.1.c25-00800-8x98.0.xml|10.00.00|
 September 28, 2021|LA.AU.1.3.4.r1-00700-gen3meta.0|msmnile_au|LA.AU.1.3.4.r1-00700-gen3meta.0.xml|10.00.00|
 September 28, 2021|LA.UM.9.15.r1-03900-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-03900-KAMORTA.QSSI12.0.xml|11.00.00|
