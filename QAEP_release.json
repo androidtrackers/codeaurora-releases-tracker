@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0": {
+  "Date": "September 29, 2021",
+  "Tag / Build ID": "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LAW.BR.5.1.r1-07700-89xx.0": {
   "Date": "September 29, 2021",
   "Tag / Build ID": "LAW.BR.5.1.r1-07700-89xx.0",
