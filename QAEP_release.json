@@ -1,4 +1,11 @@
 {
+ "LE.UM.1.3-12100-SDX20-2": {
+  "Date": "September 29, 2021",
+  "Tag / Build ID": "LE.UM.1.3-12100-SDX20-2",
+  "Chipset": "sdx20",
+  "Manifest": "LE.UM.1.3-12100-SDX20-2.xml",
+  "Android Version": ""
+ },
  "LA.UM.7.2.c6-10600-sdm660.0": {
   "Date": "September 29, 2021",
   "Tag / Build ID": "LA.UM.7.2.c6-10600-sdm660.0",
