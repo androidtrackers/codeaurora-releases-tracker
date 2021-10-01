@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 01, 2021|LE.AU_EAP.1.0.c10-18000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-18000-eap-fsl.xml|
 October 01, 2021|LNX.LE.5.3.2.2-88187-9x40|mdm9640|LNX.LE.5.3.2.2-88187-9x40.xml|
 September 29, 2021|LE.UM.4.4.2.r1-05800-SDX55-1|sdxprairie|LE.UM.4.4.2.r1-05800-SDX55-1.xml|
 September 29, 2021|LE.UM.1.3-12100-SDX20-2|sdx20|LE.UM.1.3-12100-SDX20-2.xml|
