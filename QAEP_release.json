@@ -1,4 +1,11 @@
 {
+ "LA.HB.1.1.5-16310-8x96.0": {
+  "Date": "October 03, 2021",
+  "Tag / Build ID": "LA.HB.1.1.5-16310-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-16310-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.UM.7.8.r1-11200-SDM710.0": {
   "Date": "September 30, 2021",
   "Tag / Build ID": "LA.UM.7.8.r1-11200-SDM710.0",
