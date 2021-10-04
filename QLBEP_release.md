@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 04, 2021|LE.UM.4.4.2.r1-05900-SDX55|sdxprairie|LE.UM.4.4.2.r1-05900-SDX55.xml|
 October 01, 2021|LE.UM.4.1.1.c9-16400-sa515m|sa515m|LE.UM.4.1.1.c9-16400-sa515m.xml|
 October 01, 2021|LE.UM.3.2.3.c6-20000-SA2150p|sa2150p|LE.UM.3.2.3.c6-20000-SA2150p.xml|
 October 01, 2021|LE.AU_EAP.1.0.c10-18000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-18000-eap-fsl.xml|
