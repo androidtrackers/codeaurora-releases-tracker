@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.2.r1-06200-SDX55": {
+  "Date": "October 07, 2021",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-06200-SDX55",
+  "Chipset": "LE.UM.4.4.2.r1",
+  "Manifest": "LE.UM.4.4.2.r1-06200-SDX55.xml"
+ },
  "LE.UM.5.2.3.r1-07100-SDX12": {
   "Date": "October 07, 2021",
   "Tag / Build ID": "LE.UM.5.2.3.r1-07100-SDX12",
