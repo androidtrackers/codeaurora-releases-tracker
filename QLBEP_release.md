@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 08, 2021|LE.UM.1.3.r9-04100-9x50|mdm9650-poky|LE.UM.1.3.r9-04100-9x50.xml|
 October 07, 2021|LE.UM.4.4.2.r1-06200-SDX55|LE.UM.4.4.2.r1|LE.UM.4.4.2.r1-06200-SDX55.xml|
 October 07, 2021|LE.UM.5.2.3.r1-07100-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07100-SDX12.xml|
 October 04, 2021|LE.UM.2.3.6.c1-25500-9x07|mdm9607-poky|LE.UM.2.3.6.c1-25500-9x07.xml|
