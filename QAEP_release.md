@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 08, 2021|LAW.BR.5.1.r1-07800-89xx.0|sdm429w_law|LAW.BR.5.1.r1-07800-89xx.0.xml|11.00.00|
 October 07, 2021|LA.UM.8.11.1.r1-02100-QCM6125.0|trinket|LA.UM.8.11.1.r1-02100-QCM6125.0.xml|10.00.00|
 October 07, 2021|LA.UM.9.15.r1-04100-KAMORTA.0|bengal|LA.UM.9.15.r1-04100-KAMORTA.0.xml|11.00.00|
 October 06, 2021|LA.QSSI.11.0.r1-13500-qssi.0|qssi|LA.QSSI.11.0.r1-13500-qssi.0.xml|11.00.00|
