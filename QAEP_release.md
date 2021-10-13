@@ -1,9 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 12, 2021|LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0.xml|11.00.00|
 October 13, 2021|LA.AU.0.2.0.r1-01800-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-01800-gen3_gvmgh.0.xml|10.00.00|
 October 12, 2021|LA.UM.9.1.r1-11200.01-SMxxx0.QSSI12.0|msmnile|LA.UM.9.1.r1-11200.01-SMxxx0.QSSI12.0.xml|11.00.00|
 October 12, 2021|LA.UM.9.16.r1-07800-MANNAR.0|holi|LA.UM.9.16.r1-07800-MANNAR.0.xml|11.00.00|
-October 12, 2021|LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0.xml|11.00.00|
 October 12, 2021|LA.UM.8.12.2.r1-02200-QCS8250.0|kona|LA.UM.8.12.2.r1-02200-QCS8250.0.xml|10.00.00|
 October 11, 2021|LA.UM.7.2.r2-10500-8x98.0|msm8998|LA.UM.7.2.r2-10500-8x98.0.xml|09.00.00|
 October 11, 2021|LA.UM.8.2.r2-04900-sdm660.0|sdm660_64|LA.UM.8.2.r2-04900-sdm660.0.xml|10.00.00|
