@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 14, 2021|LA.UM.7.7.c26-06200-8x09.0|msm8909|LA.UM.7.7.c26-06200-8x09.0.xml|09.00.00|
 October 14, 2021|LAW.BR.4.0.c1-06400-89xx.0|msm8937_32go|LAW.BR.4.0.c1-06400-89xx.0.xml|08.01.00|
 October 14, 2021|LA.UM.8.9.1.r1-03200-QCS610.0|sm6150|LA.UM.8.9.1.r1-03200-QCS610.0.xml|10.00.00|
 October 14, 2021|LA.UM.9.16.r2-02500-MANNAR.0|holi|LA.UM.9.16.r2-02500-MANNAR.0.xml|11.00.00|
