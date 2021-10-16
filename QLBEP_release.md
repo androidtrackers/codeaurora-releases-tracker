@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 16, 2021|LE.UM.5.3.2.r1-05100-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05100-SDX65.0.xml|
 October 14, 2021|LE.UM.4.4.1.r3-06200-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06200-QRB5165.0.xml|
 October 12, 2021|LE.UM.4.4.1.r3-06100-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06100-QRB5165.0.xml|
 October 11, 2021|LE.UM.1.3.r9-04200-9x50|mdm9650-poky|LE.UM.1.3.r9-04200-9x50.xml|
