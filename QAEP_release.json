@@ -1,4 +1,11 @@
 {
+ "LA.UM.5.5.c25-08500-8x96.0": {
+  "Date": "October 18, 2021",
+  "Tag / Build ID": "LA.UM.5.5.c25-08500-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.UM.5.5.c25-08500-8x96.0.xml",
+  "Android Version": "07.01.02"
+ },
  "LA.UM.8.2.1.c25-02100-sdm660.0": {
   "Date": "October 18, 2021",
   "Tag / Build ID": "LA.UM.8.2.1.c25-02100-sdm660.0",

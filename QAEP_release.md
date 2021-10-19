@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 18, 2021|LA.UM.5.5.c25-08500-8x96.0|msm8996|LA.UM.5.5.c25-08500-8x96.0.xml|07.01.02|
 October 18, 2021|LA.UM.8.2.1.c25-02100-sdm660.0|sdm660_64|LA.UM.8.2.1.c25-02100-sdm660.0.xml|10.00.00|
 October 18, 2021|LA.UM.5.7.c25-07600-8x98.0|msm8998|LA.UM.5.7.c25-07600-8x98.0.xml|07.01.01|
 October 18, 2021|LA.UM.8.4.c25-03600-8x98.0|msm8998|LA.UM.8.4.c25-03600-8x98.0.xml|10.00.00|
