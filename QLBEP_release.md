@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 20, 2021|LV.AU.0.2.0.r1-21700-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-21700-gen3meta.0.xml|
 October 20, 2021|LV.AU.0.2.2.r2-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.2.2.r2-00600-qtiquingvm.0.xml|
 October 19, 2021|LE.UM.5.2.3.r1-07400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07400-SDX12.xml|
 October 16, 2021|LE.UM.5.3.2.r1-05100-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05100-SDX65.0.xml|

@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r1-21700-gen3meta.0": {
+  "Date": "October 20, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r1-21700-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.0.2.0.r1-21700-gen3meta.0.xml"
+ },
  "LV.AU.0.2.2.r2-00600-qtiquingvm.0": {
   "Date": "October 20, 2021",
   "Tag / Build ID": "LV.AU.0.2.2.r2-00600-qtiquingvm.0",
