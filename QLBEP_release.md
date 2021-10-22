@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 22, 2021|LE.UM.4.3.3.r1-05600-SDX55|sdxprairie|LE.UM.4.3.3.r1-05600-SDX55.xml|
 October 21, 2021|LE.UM.4.2.1.r1-09300-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-09300-QCS404.0.xml|
 October 20, 2021|LV.AU.0.2.0.r1-21700-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-21700-gen3meta.0.xml|
 October 20, 2021|LV.AU.0.2.2.r2-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.2.2.r2-00600-qtiquingvm.0.xml|
