@@ -1,12 +1,13 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 24, 2021|LE.UM.4.3.3.r1-05700-SDX55|sdxprairie|LE.UM.4.3.3.r1-05700-SDX55.xml|
+October 14, 2021|LE.UM.4.4.1.r3-06200-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06200-QRB5165.0.xml|
 October 22, 2021|LE.UM.4.3.3.r1-05600-SDX55|sdxprairie|LE.UM.4.3.3.r1-05600-SDX55.xml|
 October 21, 2021|LE.UM.4.2.1.r1-09300-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-09300-QCS404.0.xml|
 October 20, 2021|LV.AU.0.2.0.r1-21700-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-21700-gen3meta.0.xml|
 October 20, 2021|LV.AU.0.2.2.r2-00600-qtiquingvm.0|qtiquingvm|LV.AU.0.2.2.r2-00600-qtiquingvm.0.xml|
 October 19, 2021|LE.UM.5.2.3.r1-07400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07400-SDX12.xml|
 October 16, 2021|LE.UM.5.3.2.r1-05100-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05100-SDX65.0.xml|
-October 14, 2021|LE.UM.4.4.1.r3-06200-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06200-QRB5165.0.xml|
 October 12, 2021|LE.UM.4.4.1.r3-06100-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06100-QRB5165.0.xml|
 October 11, 2021|LE.UM.1.3.r9-04200-9x50|mdm9650-poky|LE.UM.1.3.r9-04200-9x50.xml|
 October 11, 2021|LV.AU.1.2.1.r1-01100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-01100-gen3meta.0.xml|

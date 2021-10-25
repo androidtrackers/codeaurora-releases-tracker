@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.3.3.r1-05700-SDX55": {
+  "Date": "October 24, 2021",
+  "Tag / Build ID": "LE.UM.4.3.3.r1-05700-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.3.3.r1-05700-SDX55.xml"
+ },
+ "LE.UM.4.4.1.r3-06200-QRB5165.0": {
+  "Date": "October 14, 2021",
+  "Tag / Build ID": "LE.UM.4.4.1.r3-06200-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r3-06200-QRB5165.0.xml"
+ },
  "LE.UM.4.3.3.r1-05600-SDX55": {
   "Date": "October 22, 2021",
   "Tag / Build ID": "LE.UM.4.3.3.r1-05600-SDX55",
@@ -34,12 +46,6 @@
   "Tag / Build ID": "LE.UM.5.3.2.r1-05100-SDX65.0",
   "Chipset": "sdxlemur-mbb-nogplv3-debug",
   "Manifest": "LE.UM.5.3.2.r1-05100-SDX65.0.xml"
- },
- "LE.UM.4.4.1.r3-06200-QRB5165.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LE.UM.4.4.1.r3-06200-QRB5165.0",
-  "Chipset": "QRB5165",
-  "Manifest": "LE.UM.4.4.1.r3-06200-QRB5165.0.xml"
  },
  "LE.UM.4.4.1.r3-06100-QRB5165.0": {
   "Date": "October 12, 2021",
