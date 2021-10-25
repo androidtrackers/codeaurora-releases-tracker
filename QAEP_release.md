@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 25, 2021|LA.UM.8.8.1.r1-05300-QCS605.0|qcs605|LA.UM.8.8.1.r1-05300-QCS605.0.xml|10.00.00|
 October 25, 2021|LA.AU.1.3.4.r1-00800-gen3meta.0|sm6150_au|LA.AU.1.3.4.r1-00800-gen3meta.0.xml|10.00.00|
 October 25, 2021|LA.UM.9.15.1.r1-04700-KAMORTA.0|bengal_32go|LA.UM.9.15.1.r1-04700-KAMORTA.0.xml|11.00.00|
 October 24, 2021|LA.UM.8.9.r1-12500-SM6xx.0|atoll|LA.UM.8.9.r1-12500-SM6xx.0.xml|10.00.00|
