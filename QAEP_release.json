@@ -1,4 +1,18 @@
 {
+ "LA.AU.1.3.4.r1-00800-gen3meta.0": {
+  "Date": "October 25, 2021",
+  "Tag / Build ID": "LA.AU.1.3.4.r1-00800-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.3.4.r1-00800-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.15.1.r1-04700-KAMORTA.0": {
+  "Date": "October 25, 2021",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-04700-KAMORTA.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.1.r1-04700-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.9.r1-12500-SM6xx.0": {
   "Date": "October 24, 2021",
   "Tag / Build ID": "LA.UM.8.9.r1-12500-SM6xx.0",

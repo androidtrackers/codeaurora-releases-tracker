@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 25, 2021|LV.AU.1.2.1.r1-02300-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-02300-gen3meta.0.xml|
 October 24, 2021|LE.UM.4.3.3.r1-05700-SDX55|sdxprairie|LE.UM.4.3.3.r1-05700-SDX55.xml|
 October 14, 2021|LE.UM.4.4.1.r3-06200-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-06200-QRB5165.0.xml|
 October 22, 2021|LE.UM.4.3.3.r1-05600-SDX55|sdxprairie|LE.UM.4.3.3.r1-05600-SDX55.xml|
