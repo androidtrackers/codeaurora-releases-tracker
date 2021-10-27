@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 27, 2021|LV.AU.0.2.0.r1-22000-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22000-gen3meta.0.xml|
 October 26, 2021|LE.UM.3.2.1.c1-38200-sa415m|sa415m|LE.UM.3.2.1.c1-38200-sa415m.xml|
 October 26, 2021|LE.UM.2.3.6-28000-9x07|mdm9607-poky|LE.UM.2.3.6-28000-9x07.xml|
 October 26, 2021|LE.AU_EAP.1.0.c1-43200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-43200-eap-fsl.xml|
