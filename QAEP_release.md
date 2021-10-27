@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 27, 2021|LA.UM.9.15.2.r1-01000-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.2.r1-01000-KAMORTA.QSSI12.0.xml|11.00.00|
 October 27, 2021|LA.UM.9.15.r1-04200.01-KAMORTA.0|bengal|LA.UM.9.15.r1-04200.01-KAMORTA.0.xml|11.00.00|
 October 27, 2021|LA.UM.9.16.r1-07900-MANNAR.0|holi|LA.UM.9.16.r1-07900-MANNAR.0.xml|11.00.00|
 October 26, 2021|LA.UM.8.6.2.c28-00900-89xx.0|msm8937_64|LA.UM.8.6.2.c28-00900-89xx.0.xml|10.00.00|
