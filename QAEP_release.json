@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0": {
+  "Date": "October 29, 2021",
+  "Tag / Build ID": "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.11.r1-04900-NICOBAR.QSSI12.0": {
   "Date": "October 28, 2021",
   "Tag / Build ID": "LA.UM.9.11.r1-04900-NICOBAR.QSSI12.0",
