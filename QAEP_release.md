@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 23, 2021|LA.UM.5.6.c27-03300-8x53.0|msm8953_64|LA.UM.5.6.c27-03300-8x53.0.xml|07.01.02|
 October 29, 2021|LA.AU.1.3.2.r3-01300-sa8295_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r3-01300-sa8295_gvmq.0.xml|10.00.00|
 October 29, 2021|LA.QSSI.12.0.r1-04900.03-qssi.0|qssi|LA.QSSI.12.0.r1-04900.03-qssi.0.xml|11.00.00|
 October 29, 2021|LA.AU.0.3.1.r3-00300-sa8155_gvmq.0|msmnile_gvmq|LA.AU.0.3.1.r3-00300-sa8155_gvmq.0.xml|10.00.00|
@@ -23,7 +24,6 @@ October 25, 2021|LA.AU.1.3.4.r1-00800-gen3meta.0|sm6150_au|LA.AU.1.3.4.r1-00800-
 October 25, 2021|LA.UM.9.15.1.r1-04700-KAMORTA.0|bengal_32go|LA.UM.9.15.1.r1-04700-KAMORTA.0.xml|11.00.00|
 October 24, 2021|LA.UM.8.9.r1-12500-SM6xx.0|atoll|LA.UM.8.9.r1-12500-SM6xx.0.xml|10.00.00|
 October 24, 2021|LA.UM.9.2.1.r1-08700-sdm660.0|sdm660_64|LA.UM.9.2.1.r1-08700-sdm660.0.xml|11.00.00|
-October 23, 2021|LA.UM.5.6.c27-03300-8x53.0|msm8953_64|LA.UM.5.6.c27-03300-8x53.0.xml|07.01.02|
 October 22, 2021|LA.UM.6.6.c30-05100-89xx.0|msm8937_64|LA.UM.6.6.c30-05100-89xx.0.xml|08.01.00|
 October 22, 2021|LA.UM.9.6.2.c25-01100-89xx.0|msm8953_64|LA.UM.9.6.2.c25-01100-89xx.0.xml|11.00.00|
 October 22, 2021|LA.UM.8.6.2.c27-01200-89xx.0|msm8953_64|LA.UM.8.6.2.c27-01200-89xx.0.xml|10.00.00|
