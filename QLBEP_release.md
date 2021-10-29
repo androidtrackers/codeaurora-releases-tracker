@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 29, 2021|LV.AU.1.2.1.r1-03100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-03100-gen3meta.0.xml|
 October 28, 2021|LE.UM.4.3.1.r1-05200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05200-genericarmv8-64.0.xml|
 October 28, 2021|LE.UM.4.4.2.r1-06300-SDX55|sdxprairie|LE.UM.4.4.2.r1-06300-SDX55.xml|
 October 27, 2021|CHSS.LNX_FSL.5.0-00400-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.5.0-00400-QCA6574AUARMSDIOHZ.xml|
