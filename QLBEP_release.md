@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 30, 2021|LE.UM.5.3.2.r1-05300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05300-SDX65.0.xml|
 October 29, 2021|LE.UM.2.3.6-28300-9x07|mdm9607-poky|LE.UM.2.3.6-28300-9x07.xml|
 October 29, 2021|LE.UM.5.2.2.r1-05400-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05400-SXR2130.0.xml|
 October 29, 2021|LV.AU.1.2.1.r1-03100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-03100-gen3meta.0.xml|
