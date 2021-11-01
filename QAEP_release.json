@@ -1,4 +1,11 @@
 {
+ "LA.UM.10.9.1.r1-00300-QCS610.0": {
+  "Date": "November 01, 2021",
+  "Tag / Build ID": "LA.UM.10.9.1.r1-00300-QCS610.0",
+  "Chipset": "sm6150",
+  "Manifest": "LA.UM.10.9.1.r1-00300-QCS610.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.0.2.0.r1-02100-gen3_gvmgh.0": {
   "Date": "October 30, 2021",
   "Tag / Build ID": "LA.AU.0.2.0.r1-02100-gen3_gvmgh.0",
