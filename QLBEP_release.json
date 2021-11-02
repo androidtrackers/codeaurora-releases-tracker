@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r4-05400-sa6155.0": {
+  "Date": "November 02, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r4-05400-sa6155.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.0.2.0.r4-05400-sa6155.0.xml"
+ },
  "LE.UM.4.3.2.r1-03200-9x07": {
   "Date": "November 01, 2021",
   "Tag / Build ID": "LE.UM.4.3.2.r1-03200-9x07",
