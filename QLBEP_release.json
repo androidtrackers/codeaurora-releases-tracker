@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-09000-QCS610.0": {
+  "Date": "November 02, 2021",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-09000-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-09000-QCS610.0.xml"
+ },
  "LV.AU.0.2.0.r4-05400-sa6155.0": {
   "Date": "November 02, 2021",
   "Tag / Build ID": "LV.AU.0.2.0.r4-05400-sa6155.0",
