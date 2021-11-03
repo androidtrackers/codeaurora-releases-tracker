@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.1.r1-04400-QCM6490.0": {
+  "Date": "November 03, 2021",
+  "Tag / Build ID": "LA.UM.9.14.1.r1-04400-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.r1-04400-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.11.0.r1-13700-qssi.0": {
   "Date": "November 02, 2021",
   "Tag / Build ID": "LA.QSSI.11.0.r1-13700-qssi.0",
