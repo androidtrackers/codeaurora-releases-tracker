@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 04, 2021|LV.AU.1.2.1.r1-04100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-04100-gen3meta.0.xml|
+November 04, 2021|WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ.xml|
 November 02, 2021|LE.UM.6.2.3.r1-00200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-00200-SDX65.0.xml|
 November 02, 2021|LE.UM.4.2.3.r1-09000-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09000-QCS610.0.xml|
 November 02, 2021|LV.AU.0.2.0.r4-05400-sa6155.0|sa6155agl|LV.AU.0.2.0.r4-05400-sa6155.0.xml|

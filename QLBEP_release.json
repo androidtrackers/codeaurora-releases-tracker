@@ -1,4 +1,16 @@
 {
+ "LV.AU.1.2.1.r1-04100-gen3meta.0": {
+  "Date": "November 04, 2021",
+  "Tag / Build ID": "LV.AU.1.2.1.r1-04100-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r1-04100-gen3meta.0.xml"
+ },
+ "WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ": {
+  "Date": "November 04, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.6.2.3.r1-00200-SDX65.0": {
   "Date": "November 02, 2021",
   "Tag / Build ID": "LE.UM.6.2.3.r1-00200-SDX65.0",
