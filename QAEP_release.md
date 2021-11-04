@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 04, 2021|LA.AU.0.3.1.r3-00400-sa8155_gvmq.0|msmnile_gvmq|LA.AU.0.3.1.r3-00400-sa8155_gvmq.0.xml|10.00.00|
 November 03, 2021|LA.UM.9.11.r1-04900-NICOBAR.0|trinket|LA.UM.9.11.r1-04900-NICOBAR.0.xml|11.00.00|
 November 03, 2021|LA.UM.8.8.2.r1-02400-QCS605.0|qcs605|LA.UM.8.8.2.r1-02400-QCS605.0.xml|10.00.00|
 November 03, 2021|LA.UM.9.16.r2-02700-MANNAR.0|holi|LA.UM.9.16.r2-02700-MANNAR.0.xml|11.00.00|
