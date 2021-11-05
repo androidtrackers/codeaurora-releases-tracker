@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 05, 2021|LV.AU.0.2.2.r2-00900-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-00900-qtiquingvm.0.xml|
+November 05, 2021|LU.UM.1.2.1.r1-30300-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30300-QRB5165.0.xml|
 November 04, 2021|LV.AU.1.2.1.r1-04100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-04100-gen3meta.0.xml|
 November 04, 2021|WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-00700-QCAAUTOHOSTHZ.xml|
 November 02, 2021|LE.UM.6.2.3.r1-00200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-00200-SDX65.0.xml|

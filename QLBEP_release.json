@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.2.2.r2-00900-qtiquingvm.0": {
+  "Date": "November 05, 2021",
+  "Tag / Build ID": "LV.AU.0.2.2.r2-00900-qtiquingvm.0",
+  "Chipset": "qtiquingvm-headless",
+  "Manifest": "LV.AU.0.2.2.r2-00900-qtiquingvm.0.xml"
+ },
+ "LU.UM.1.2.1.r1-30300-QRB5165.0": {
+  "Date": "November 05, 2021",
+  "Tag / Build ID": "LU.UM.1.2.1.r1-30300-QRB5165.0",
+  "Chipset": "qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.1.2.1.r1-30300-QRB5165.0.xml"
+ },
  "LV.AU.1.2.1.r1-04100-gen3meta.0": {
   "Date": "November 04, 2021",
   "Tag / Build ID": "LV.AU.1.2.1.r1-04100-gen3meta.0",
