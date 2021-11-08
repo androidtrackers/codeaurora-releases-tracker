@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 08, 2021|LE.UM.3.2.1.c6-00200-sa415m|sa415m|LE.UM.3.2.1.c6-00200-sa415m.xml|
+November 07, 2021|LE.AU_EAP.1.0.c12-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-00200-eap-fsl.xml|
 November 05, 2021|LU.UM.2.4.1.r1-01400-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01400-QRB5165.0.xml|
 November 05, 2021|LV.AU.0.2.2.r2-00900-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-00900-qtiquingvm.0.xml|
 November 05, 2021|LU.UM.1.2.1.r1-30300-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30300-QRB5165.0.xml|
