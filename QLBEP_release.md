@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 08, 2021|LE.UM.4.4.1.r2-05200-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05200-QRB5165.0.xml|
+November 08, 2021|LE.EDGE.1.0-62400-sm8250.0|sm8250-aedk|LE.EDGE.1.0-62400-sm8250.0.xml|
 November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
 November 08, 2021|LE.UM.3.2.1.c6-00200-sa415m|sa415m|LE.UM.3.2.1.c6-00200-sa415m.xml|
 November 07, 2021|LE.AU_EAP.1.0.c12-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-00200-eap-fsl.xml|
