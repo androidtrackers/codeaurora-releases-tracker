@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c4-07300-eap-fsl": {
+  "Date": "November 10, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c4-07300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c4-07300-eap-fsl.xml"
+ },
  "LE.UM.1.1-01100-9x07": {
   "Date": "November 09, 2021",
   "Tag / Build ID": "LE.UM.1.1-01100-9x07",

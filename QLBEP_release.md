@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 10, 2021|LE.AU_EAP.1.0.c4-07300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-07300-eap-fsl.xml|
 November 09, 2021|LE.UM.1.1-01100-9x07|mdm9607|LE.UM.1.1-01100-9x07.xml|
 November 09, 2021|LE.UM.4.4.1.r2-05100-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05100-QRB5165.0.xml|
 November 08, 2021|LE.UM.4.4.1.r2-05200-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05200-QRB5165.0.xml|
