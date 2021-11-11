@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.1.r1-09300-QCS404.0": {
+  "Date": "October 21, 2021",
+  "Tag / Build ID": "LE.UM.4.2.1.r1-09300-QCS404.0",
+  "Chipset": "qcs404-rb1-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.4.2.1.r1-09300-QCS404.0.xml"
+ },
  "LE.UM.4.4.1.r2-05300-QRB5165.0": {
   "Date": "November 10, 2021",
   "Tag / Build ID": "LE.UM.4.4.1.r2-05300-QRB5165.0",
@@ -232,12 +238,6 @@
   "Tag / Build ID": "LE.UM.4.3.3.r1-05600-SDX55",
   "Chipset": "sdxprairie",
   "Manifest": "LE.UM.4.3.3.r1-05600-SDX55.xml"
- },
- "LE.UM.4.2.1.r1-09300-QCS404.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LE.UM.4.2.1.r1-09300-QCS404.0",
-  "Chipset": "qcs404-rb1-robotics-fullstack-noselinux-debug",
-  "Manifest": "LE.UM.4.2.1.r1-09300-QCS404.0.xml"
  },
  "LV.AU.0.2.0.r1-21700-gen3meta.0": {
   "Date": "October 20, 2021",
