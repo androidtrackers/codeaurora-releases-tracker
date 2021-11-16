@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 16, 2021|LE.BR.1.2.1-11100-9x07|mdm9607|LE.BR.1.2.1-11100-9x07.xml|
 November 11, 2021|LE.UM.2.3.6.c2-06600-9x07|mdm9607-poky|LE.UM.2.3.6.c2-06600-9x07.xml|
 October 21, 2021|LE.UM.4.2.1.r1-09300-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-09300-QCS404.0.xml|
 November 10, 2021|LE.UM.4.4.1.r2-05300-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05300-QRB5165.0.xml|
