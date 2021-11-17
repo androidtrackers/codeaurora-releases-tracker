@@ -1,4 +1,18 @@
 {
+ "LAW.BR.3.0-26300-8x09w.0": {
+  "Date": "November 17, 2021",
+  "Tag / Build ID": "LAW.BR.3.0-26300-8x09w.0",
+  "Chipset": "msm8909w",
+  "Manifest": "LAW.BR.3.0-26300-8x09w.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LAW.BR.3.0.c3-09600-8x09w.0": {
+  "Date": "November 17, 2021",
+  "Tag / Build ID": "LAW.BR.3.0.c3-09600-8x09w.0",
+  "Chipset": "msm8909w",
+  "Manifest": "LAW.BR.3.0.c3-09600-8x09w.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.QSSI.11.0.r1-13800-qssi.0": {
   "Date": "November 17, 2021",
   "Tag / Build ID": "LA.QSSI.11.0.r1-13800-qssi.0",
