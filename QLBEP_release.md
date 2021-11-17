@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 17, 2021|UC.UM.1.0.r1-01200-sa8155.0|qcs8155|UC.UM.1.0.r1-01200-sa8155.0.xml|
 November 17, 2021|LE.UM.2.3.2-12800-SDX24|sdxpoorwills|LE.UM.2.3.2-12800-SDX24.xml|
 November 16, 2021|LV.AU.0.2.0.r1-22500-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22500-gen3meta.0.xml|
 November 16, 2021|LU.UM.1.2.1.r1-30500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30500-QRB5165.0.xml|
