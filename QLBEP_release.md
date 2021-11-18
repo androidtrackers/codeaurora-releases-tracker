@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 18, 2021|UC.UM.1.0.r1-01100-sa8155.0|qcs8155|UC.UM.1.0.r1-01100-sa8155.0.xml|
 November 17, 2021|LE.UM.3.2.3.c11-03100-SA2150p|sa2150p|LE.UM.3.2.3.c11-03100-SA2150p.xml|
 November 17, 2021|LE.UM.4.1.1.c10-03900-sa515m|sa515m|LE.UM.4.1.1.c10-03900-sa515m.xml|
 November 17, 2021|UC.UM.1.0.r1-01200-sa8155.0|qcs8155|UC.UM.1.0.r1-01200-sa8155.0.xml|

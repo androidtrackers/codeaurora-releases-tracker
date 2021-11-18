@@ -1,4 +1,10 @@
 {
+ "UC.UM.1.0.r1-01100-sa8155.0": {
+  "Date": "November 18, 2021",
+  "Tag / Build ID": "UC.UM.1.0.r1-01100-sa8155.0",
+  "Chipset": "qcs8155",
+  "Manifest": "UC.UM.1.0.r1-01100-sa8155.0.xml"
+ },
  "LE.UM.3.2.3.c11-03100-SA2150p": {
   "Date": "November 17, 2021",
   "Tag / Build ID": "LE.UM.3.2.3.c11-03100-SA2150p",
