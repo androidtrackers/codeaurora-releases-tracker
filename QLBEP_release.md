@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 18, 2021|LE.UM.5.2.3.r1-07500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07500-SDX12.xml|
 November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
 November 18, 2021|UC.UM.1.0.r1-01100-sa8155.0|qcs8155|UC.UM.1.0.r1-01100-sa8155.0.xml|
 November 17, 2021|LE.UM.3.2.3.c11-03100-SA2150p|sa2150p|LE.UM.3.2.3.c11-03100-SA2150p.xml|
