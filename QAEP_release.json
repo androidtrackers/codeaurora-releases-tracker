@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.3.1.r2-04700-gen3meta.0": {
+  "Date": "November 21, 2021",
+  "Tag / Build ID": "LA.AU.0.3.1.r2-04700-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.0.3.1.r2-04700-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.15.r1-05000-KAMORTA.0": {
   "Date": "November 20, 2021",
   "Tag / Build ID": "LA.UM.9.15.r1-05000-KAMORTA.0",
