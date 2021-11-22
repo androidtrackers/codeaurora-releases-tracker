@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.0.r5-02400-gen3meta.0": {
+  "Date": "November 22, 2021",
+  "Tag / Build ID": "LV.AU.0.2.0.r5-02400-gen3meta.0",
+  "Chipset": "opsy-sa81x5",
+  "Manifest": "LV.AU.0.2.0.r5-02400-gen3meta.0.xml"
+ },
  "LV.AU.1.2.1.r1-04500-gen3meta.0": {
   "Date": "November 19, 2021",
   "Tag / Build ID": "LV.AU.1.2.1.r1-04500-gen3meta.0",
