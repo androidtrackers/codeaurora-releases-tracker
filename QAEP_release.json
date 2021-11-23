@@ -1,4 +1,11 @@
 {
+ "QCS610": {
+  "Date": "November 23, 2021",
+  "Tag / Build ID": "QCS610",
+  "Chipset": "sm6150",
+  "Manifest": "QCS610.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.1.3.3.r1-02200-gen3meta.0": {
   "Date": "November 22, 2021",
   "Tag / Build ID": "LA.AU.1.3.3.r1-02200-gen3meta.0",
