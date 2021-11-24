@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 23, 2021|LA.UM.8.9.1.r1-03400-QCS610.0|sm6150|LA.UM.8.9.1.r1-03400-QCS610.0.xml|10.00.00|
 November 23, 2021|QCS610|sm6150|QCS610.xml|10.00.00|
 November 22, 2021|LA.AU.1.3.3.r1-02200-gen3meta.0|msmnile_au|LA.AU.1.3.3.r1-02200-gen3meta.0.xml|10.00.00|
 November 22, 2021|LA.UM.7.2.c26-04600-sdm660.0|sdm660_64|LA.UM.7.2.c26-04600-sdm660.0.xml|09.00.00|
