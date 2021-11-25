@@ -1,4 +1,11 @@
 {
+ "LA.UM.5.7.c25-08100-8x98.0": {
+  "Date": "November 24, 2021",
+  "Tag / Build ID": "LA.UM.5.7.c25-08100-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.5.7.c25-08100-8x98.0.xml",
+  "Android Version": "07.01.01"
+ },
  "LA.UM.9.16.r1-08300.01-MANNAR.0": {
   "Date": "November 24, 2021",
   "Tag / Build ID": "LA.UM.9.16.r1-08300.01-MANNAR.0",
