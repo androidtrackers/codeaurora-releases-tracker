@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.1.r1-17800-sm8150.0": {
+  "Date": "November 27, 2021",
+  "Tag / Build ID": "LA.UM.8.1.r1-17800-sm8150.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.8.1.r1-17800-sm8150.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0": {
   "Date": "November 26, 2021",
   "Tag / Build ID": "LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0",
