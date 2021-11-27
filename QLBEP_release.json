@@ -1,4 +1,22 @@
 {
+ "LE.AU_EAP.1.0.c1-46200-eap-fsl": {
+  "Date": "November 26, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-46200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-46200-eap-fsl.xml"
+ },
+ "LE.UM.4.1.1.c1-67500-sa515m": {
+  "Date": "November 26, 2021",
+  "Tag / Build ID": "LE.UM.4.1.1.c1-67500-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c1-67500-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c3-45200-eap-fsl": {
+  "Date": "November 26, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c3-45200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c3-45200-eap-fsl.xml"
+ },
  "LE.UM.5.2.3.r1-07600-SDX12": {
   "Date": "November 24, 2021",
   "Tag / Build ID": "LE.UM.5.2.3.r1-07600-SDX12",

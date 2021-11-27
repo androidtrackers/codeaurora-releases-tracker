@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 26, 2021|LE.AU_EAP.1.0.c1-46200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-46200-eap-fsl.xml|
+November 26, 2021|LE.UM.4.1.1.c1-67500-sa515m|sa515m|LE.UM.4.1.1.c1-67500-sa515m.xml|
+November 26, 2021|LE.AU_EAP.1.0.c3-45200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-45200-eap-fsl.xml|
 November 24, 2021|LE.UM.5.2.3.r1-07600-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07600-SDX12.xml|
 November 24, 2021|LE.UM.1.1-01400-9x07|mdm9607|LE.UM.1.1-01400-9x07.xml|
 November 22, 2021|LV.AU.0.2.0.r5-02400-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-02400-gen3meta.0.xml|
