@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 28, 2021|LE.UM.5.3.2.r1-05500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05500-SDX65.0.xml|
 November 26, 2021|LE.UM.3.2.1.c1-41300-sa415m|sa415m|LE.UM.3.2.1.c1-41300-sa415m.xml|
 November 26, 2021|LE.AU_EAP.1.0.c1-46200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-46200-eap-fsl.xml|
 November 26, 2021|LE.UM.4.1.1.c1-67500-sa515m|sa515m|LE.UM.4.1.1.c1-67500-sa515m.xml|
