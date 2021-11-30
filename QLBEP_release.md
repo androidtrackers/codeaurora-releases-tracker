@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 30, 2021|LE.UM.4.4.2.r1-06500-SDX55|sdxprairie|LE.UM.4.4.2.r1-06500-SDX55.xml|
 November 29, 2021|LE.UM.4.1.1.c11-00200-sa515m|sa515m|LE.UM.4.1.1.c11-00200-sa515m.xml|
 November 29, 2021|LE.AU_EAP.1.0.c13-00300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-00300-eap-fsl.xml|
 November 28, 2021|LE.UM.4.3.1.r1-05300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05300-genericarmv8-64.0.xml|
