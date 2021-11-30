@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.4.r1-01200-gen3meta.0": {
+  "Date": "November 30, 2021",
+  "Tag / Build ID": "LA.AU.1.3.4.r1-01200-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.3.4.r1-01200-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.10.3.r1-00500-sdm845.0": {
   "Date": "November 29, 2021",
   "Tag / Build ID": "LA.UM.10.3.r1-00500-sdm845.0",
