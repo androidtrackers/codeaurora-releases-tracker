@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0": {
+  "Date": "December 01, 2021",
+  "Tag / Build ID": "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.11.r1-05800-NICOBAR.0": {
   "Date": "December 01, 2021",
   "Tag / Build ID": "LA.UM.8.11.r1-05800-NICOBAR.0",

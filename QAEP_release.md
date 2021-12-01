@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 01, 2021|LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0.xml|11.00.00|
 December 01, 2021|LA.UM.8.11.r1-05800-NICOBAR.0|trinket|LA.UM.8.11.r1-05800-NICOBAR.0.xml|10.00.00|
 December 01, 2021|LA.UM.8.8.c25-00600-SDM710.0|sdm710|LA.UM.8.8.c25-00600-SDM710.0.xml|10.00.00|
 November 30, 2021|LAW.BR.4.0.c1-06900-89xx.0|msm8937_32go|LAW.BR.4.0.c1-06900-89xx.0.xml|08.01.00|
