@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 01, 2021|LE.UM.5.3.2.r1-05600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05600-SDX65.0.xml|
 December 01, 2021|LE.UM.5.4.2.r1-02700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-02700-QCS610.0.xml|
 November 30, 2021|LE.UM.4.4.2.r1-06500-SDX55|sdxprairie|LE.UM.4.4.2.r1-06500-SDX55.xml|
 November 29, 2021|LE.UM.4.1.1.c11-00200-sa515m|sa515m|LE.UM.4.1.1.c11-00200-sa515m.xml|
