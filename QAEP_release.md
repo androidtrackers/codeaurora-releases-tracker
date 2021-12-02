@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 02, 2021|LA.QSSI.11.0.r1-14100-qssi.0|qssi|LA.QSSI.11.0.r1-14100-qssi.0.xml|11.00.00|
+December 02, 2021|LA.UM.9.15.2.r1-01500-KAMORTA.QSSI12.0|bengal_32go|LA.UM.9.15.2.r1-01500-KAMORTA.QSSI12.0.xml|11.00.00|
+December 02, 2021|LA.UM.9.16.r2-03000-MANNAR.0|holi|LA.UM.9.16.r2-03000-MANNAR.0.xml|11.00.00|
 December 01, 2021|LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0.xml|11.00.00|
 December 01, 2021|LA.UM.8.11.r1-05800-NICOBAR.0|trinket|LA.UM.8.11.r1-05800-NICOBAR.0.xml|10.00.00|
 December 01, 2021|LA.UM.8.8.c25-00600-SDM710.0|sdm710|LA.UM.8.8.c25-00600-SDM710.0.xml|10.00.00|
