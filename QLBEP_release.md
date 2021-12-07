@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 07, 2021|LE.UM.4.4.2.r1-06700-SDX55|sdxprairie|LE.UM.4.4.2.r1-06700-SDX55.xml|
 December 02, 2021|LE.UM.5.2.2.r1-05700-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05700-SXR2130.0.xml|
 December 02, 2021|LE.UM.1.2.c7-06400-9x07|mdm9607|LE.UM.1.2.c7-06400-9x07.xml|
 December 01, 2021|LE.UM.5.2.2.r1-05600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05600-SXR2130.0.xml|
