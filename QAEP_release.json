@@ -6,6 +6,13 @@
   "Manifest": "LA.UM.9.6.3.r1-05400-89xx.0.xml",
   "Android Version": "11.00.00"
  },
+ "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0": {
+  "Date": "December 09, 2021",
+  "Tag / Build ID": "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.0.3.1.r4-03700-sa8155_gvmq.0": {
   "Date": "December 08, 2021",
   "Tag / Build ID": "LA.AU.0.3.1.r4-03700-sa8155_gvmq.0",
