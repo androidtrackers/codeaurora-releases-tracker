@@ -1,4 +1,10 @@
 {
+ "LU.UM.1.2.1.r1-30500-QRB5165.0": {
+  "Date": "November 16, 2021",
+  "Tag / Build ID": "LU.UM.1.2.1.r1-30500-QRB5165.0",
+  "Chipset": "qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.1.2.1.r1-30500-QRB5165.0.xml"
+ },
  "LE.UM.5.2.2.r1-05700-SXR2130.0": {
   "Date": "December 02, 2021",
   "Tag / Build ID": "LE.UM.5.2.2.r1-05700-SXR2130.0",
@@ -172,12 +178,6 @@
   "Tag / Build ID": "LV.AU.0.2.0.r1-22500-gen3meta.0",
   "Chipset": "sa81x5",
   "Manifest": "LV.AU.0.2.0.r1-22500-gen3meta.0.xml"
- },
- "LU.UM.1.2.1.r1-30500-QRB5165.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LU.UM.1.2.1.r1-30500-QRB5165.0",
-  "Chipset": "qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug",
-  "Manifest": "LU.UM.1.2.1.r1-30500-QRB5165.0.xml"
  },
  "LE.UM.5.3.2.r1-05400-SDX65.0": {
   "Date": "November 16, 2021",
