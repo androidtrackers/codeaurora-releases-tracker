@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 11, 2021|LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0.xml|11.00.00|
 December 08, 2021|LA.UM.9.6.3.r1-05400-89xx.0|msm8937_32go|LA.UM.9.6.3.r1-05400-89xx.0.xml|11.00.00|
 December 09, 2021|LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0|bengal_32go|LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0.xml|11.00.00|
 December 08, 2021|LA.AU.0.3.1.r4-03700-sa8155_gvmq.0|msmnile_gvmq|LA.AU.0.3.1.r4-03700-sa8155_gvmq.0.xml|10.00.00|
