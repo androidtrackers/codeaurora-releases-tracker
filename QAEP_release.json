@@ -1,4 +1,18 @@
 {
+ "LAW.BR.4.0-44600-89xx.0": {
+  "Date": "November 30, 2021",
+  "Tag / Build ID": "LAW.BR.4.0-44600-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-44600-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.QSSI.12.0.r1-05300.04-qssi.0": {
+  "Date": "December 13, 2021",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-05300.04-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-05300.04-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0": {
   "Date": "December 11, 2021",
   "Tag / Build ID": "LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0",
@@ -179,13 +193,6 @@
   "Tag / Build ID": "LAW.BR.4.0.c1-06900-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0.c1-06900-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LAW.BR.4.0-44600-89xx.0": {
-  "Date": "November 30, 2021",
-  "Tag / Build ID": "LAW.BR.4.0-44600-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LAW.BR.4.0-44600-89xx.0.xml",
   "Android Version": "08.01.00"
  },
  "LA.AU.1.3.4.r1-01200-gen3meta.0": {
