@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 14, 2021|LE.UM.5.2.1.r2-00600-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00600-qcs405.0.xml|
 December 14, 2021|LV.AU.0.2.0.r1-22900-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22900-gen3meta.0.xml|
 December 12, 2021|LE.UM.2.3.6-31900-9x07|mdm9607-poky|LE.UM.2.3.6-31900-9x07.xml|
 December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
