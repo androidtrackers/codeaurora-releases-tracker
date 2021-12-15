@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m.xml|
+December 15, 2021|LE.AU_EAP.1.0.c9-13700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-13700-eap-fsl.xml|
+December 15, 2021|LE.UM.5.2.1.r2-00700-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00700-qcs405.0.xml|
 December 15, 2021|LE.UM.4.2.3.r1-09900-QCS610|qcs610|LE.UM.4.2.3.r1-09900-QCS610.xml|
 December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
 December 14, 2021|LE.UM.5.2.1.r2-00600-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00600-qcs405.0.xml|
