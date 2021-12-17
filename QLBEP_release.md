@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 17, 2021|LE.UM.4.3.1.r1-05400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05400-genericarmv8-64.0.xml|
 December 17, 2021|LE.UM.5.2.3.r1-08000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08000-SDX12.xml|
 December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m.xml|
 December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
