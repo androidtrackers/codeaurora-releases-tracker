@@ -1,15 +1,16 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 17, 2021|LE.UM.5.2.3.r1-08000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08000-SDX12.xml|
+December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m.xml|
+December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
 December 16, 2021|LE.UM.4.1.1.c9-26100-sa515m|sa515m|LE.UM.4.1.1.c9-26100-sa515m.xml|
 December 16, 2021|LE.UM.5.3.2.r1-05800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05800-SDX65.0.xml|
 December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
 December 15, 2021|LE.UM.5.2.1.r2-00700-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00700-qcs405.0.xml|
 December 16, 2021|LE.UM.3.2.3.c6-28600-SA2150p|sa2150p|LE.UM.3.2.3.c6-28600-SA2150p.xml|
 December 16, 2021|LE.AU_EAP.1.0.c10-27500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-27500-eap-fsl.xml|
-December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m.xml|
 December 15, 2021|LE.AU_EAP.1.0.c9-13700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-13700-eap-fsl.xml|
 December 15, 2021|LE.UM.4.2.3.r1-09900-QCS610|qcs610|LE.UM.4.2.3.r1-09900-QCS610.xml|
-December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
 December 14, 2021|LE.UM.5.2.1.r2-00600-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00600-qcs405.0.xml|
 December 14, 2021|LV.AU.0.2.0.r1-22900-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22900-gen3meta.0.xml|
 December 12, 2021|LE.UM.2.3.6-31900-9x07|mdm9607-poky|LE.UM.2.3.6-31900-9x07.xml|
