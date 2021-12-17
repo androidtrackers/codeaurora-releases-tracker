@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 16, 2021|LE.UM.3.2.3.c6-28600-SA2150p|sa2150p|LE.UM.3.2.3.c6-28600-SA2150p.xml|
+November 05, 2021|LU.UM.2.4.1.r1-01400-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01400-QRB5165.0.xml|
 December 15, 2021|LE.UM.5.2.1.r2-00700-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00700-qcs405.0.xml|
 December 12, 2021|LE.UM.2.3.6-31900-9x07|mdm9607-poky|LE.UM.2.3.6-31900-9x07.xml|
 December 17, 2021|LE.UM.4.3.1.r1-05400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05400-genericarmv8-64.0.xml|
@@ -9,7 +11,6 @@ December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-1310
 December 16, 2021|LE.UM.4.1.1.c9-26100-sa515m|sa515m|LE.UM.4.1.1.c9-26100-sa515m.xml|
 December 16, 2021|LE.UM.5.3.2.r1-05800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05800-SDX65.0.xml|
 December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
-December 16, 2021|LE.UM.3.2.3.c6-28600-SA2150p|sa2150p|LE.UM.3.2.3.c6-28600-SA2150p.xml|
 December 16, 2021|LE.AU_EAP.1.0.c10-27500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-27500-eap-fsl.xml|
 December 15, 2021|LE.AU_EAP.1.0.c9-13700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-13700-eap-fsl.xml|
 December 15, 2021|LE.UM.4.2.3.r1-09900-QCS610|qcs610|LE.UM.4.2.3.r1-09900-QCS610.xml|
@@ -59,7 +60,6 @@ November 08, 2021|LE.EDGE.1.0-62400-sm8250.0|sm8250-aedk|LE.EDGE.1.0-62400-sm825
 November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
 November 08, 2021|LE.UM.3.2.1.c6-00200-sa415m|sa415m|LE.UM.3.2.1.c6-00200-sa415m.xml|
 November 07, 2021|LE.AU_EAP.1.0.c12-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-00200-eap-fsl.xml|
-November 05, 2021|LU.UM.2.4.1.r1-01400-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01400-QRB5165.0.xml|
 November 05, 2021|LV.AU.0.2.2.r2-00900-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-00900-qtiquingvm.0.xml|
 November 05, 2021|LU.UM.1.2.1.r1-30300-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30300-QRB5165.0.xml|
 November 04, 2021|LV.AU.1.2.1.r1-04100-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-04100-gen3meta.0.xml|

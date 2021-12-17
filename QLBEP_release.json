@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.3.c6-28600-SA2150p": {
+  "Date": "December 16, 2021",
+  "Tag / Build ID": "LE.UM.3.2.3.c6-28600-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c6-28600-SA2150p.xml"
+ },
+ "LU.UM.2.4.1.r1-01400-QRB5165.0": {
+  "Date": "November 05, 2021",
+  "Tag / Build ID": "LU.UM.2.4.1.r1-01400-QRB5165.0",
+  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.2.4.1.r1-01400-QRB5165.0.xml"
+ },
  "LE.UM.5.2.1.r2-00700-qcs405.0": {
   "Date": "December 15, 2021",
   "Tag / Build ID": "LE.UM.5.2.1.r2-00700-qcs405.0",
@@ -52,12 +64,6 @@
   "Tag / Build ID": "LE.UM.4.2.3.r1-09900-QCS610.0",
   "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
   "Manifest": "LE.UM.4.2.3.r1-09900-QCS610.0.xml"
- },
- "LE.UM.3.2.3.c6-28600-SA2150p": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LE.UM.3.2.3.c6-28600-SA2150p",
-  "Chipset": "sa2150p",
-  "Manifest": "LE.UM.3.2.3.c6-28600-SA2150p.xml"
  },
  "LE.AU_EAP.1.0.c10-27500-eap-fsl": {
   "Date": "December 16, 2021",
@@ -352,12 +358,6 @@
   "Tag / Build ID": "LE.AU_EAP.1.0.c12-00200-eap-fsl",
   "Chipset": "eap-imx",
   "Manifest": "LE.AU_EAP.1.0.c12-00200-eap-fsl.xml"
- },
- "LU.UM.2.4.1.r1-01400-QRB5165.0": {
-  "Date": "November 05, 2021",
-  "Tag / Build ID": "LU.UM.2.4.1.r1-01400-QRB5165.0",
-  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
-  "Manifest": "LU.UM.2.4.1.r1-01400-QRB5165.0.xml"
  },
  "LV.AU.0.2.2.r2-00900-qtiquingvm.0": {
   "Date": "November 05, 2021",
