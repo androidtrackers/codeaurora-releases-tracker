@@ -5,6 +5,24 @@
   "Chipset": "sa515m",
   "Manifest": "LE.UM.4.1.1.c9-26100-sa515m.xml"
  },
+ "LE.UM.5.3.2.r1-05800-SDX65.0": {
+  "Date": "December 16, 2021",
+  "Tag / Build ID": "LE.UM.5.3.2.r1-05800-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.5.3.2.r1-05800-SDX65.0.xml"
+ },
+ "LE.UM.4.2.3.r1-09900-QCS610.0": {
+  "Date": "December 09, 2021",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-09900-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-09900-QCS610.0.xml"
+ },
+ "LE.UM.5.2.1.r2-00700-qcs405.0": {
+  "Date": "December 15, 2021",
+  "Tag / Build ID": "LE.UM.5.2.1.r2-00700-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r2-00700-qcs405.0.xml"
+ },
  "LE.UM.3.2.3.c6-28600-SA2150p": {
   "Date": "December 16, 2021",
   "Tag / Build ID": "LE.UM.3.2.3.c6-28600-SA2150p",
@@ -28,12 +46,6 @@
   "Tag / Build ID": "LE.AU_EAP.1.0.c9-13700-eap-fsl",
   "Chipset": "eap-imx",
   "Manifest": "LE.AU_EAP.1.0.c9-13700-eap-fsl.xml"
- },
- "LE.UM.5.2.1.r2-00700-qcs405.0": {
-  "Date": "December 15, 2021",
-  "Tag / Build ID": "LE.UM.5.2.1.r2-00700-qcs405.0",
-  "Chipset": "vt-64-qsap",
-  "Manifest": "LE.UM.5.2.1.r2-00700-qcs405.0.xml"
  },
  "LE.UM.4.2.3.r1-09900-QCS610": {
   "Date": "December 15, 2021",
@@ -64,12 +76,6 @@
   "Tag / Build ID": "LE.UM.2.3.6-31900-9x07",
   "Chipset": "mdm9607-poky",
   "Manifest": "LE.UM.2.3.6-31900-9x07.xml"
- },
- "LE.UM.4.2.3.r1-09900-QCS610.0": {
-  "Date": "December 09, 2021",
-  "Tag / Build ID": "LE.UM.4.2.3.r1-09900-QCS610.0",
-  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
-  "Manifest": "LE.UM.4.2.3.r1-09900-QCS610.0.xml"
  },
  "LU.UM.1.2.1.r1-30500-QRB5165.0": {
   "Date": "November 16, 2021",
