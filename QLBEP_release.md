@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 20, 2021|LE.UM.3.2.3.c6-29200-SA2150p|sa2150p|LE.UM.3.2.3.c6-29200-SA2150p.xml|
+December 20, 2021|LE.AU_EAP.1.0.c10-28100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-28100-eap-fsl.xml|
 December 16, 2021|LE.UM.3.2.3.c6-28600-SA2150p|sa2150p|LE.UM.3.2.3.c6-28600-SA2150p.xml|
 November 05, 2021|LU.UM.2.4.1.r1-01400-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01400-QRB5165.0.xml|
 December 15, 2021|LE.UM.5.2.1.r2-00700-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00700-qcs405.0.xml|
