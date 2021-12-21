@@ -1,4 +1,34 @@
 {
+ "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ.xml"
+ },
  "LU.UM.1.2.1.r1-30500-QRB5165.0": {
   "Date": "November 16, 2021",
   "Tag / Build ID": "LU.UM.1.2.1.r1-30500-QRB5165.0",
