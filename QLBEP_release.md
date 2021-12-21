@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 16, 2021|LU.UM.1.2.1.r1-30500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30500-QRB5165.0.xml|
+December 20, 2021|BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ|connx_sdk|BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ.xml|
+December 20, 2021|WLANHOST_AU.LE.2.1.r21.3-00400-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LE.2.1.r21.3-00400-QCAAUTOHOSTHZ.xml|
 December 20, 2021|LE.UM.4.1.1.c9-26700-sa515m|sa515m|LE.UM.4.1.1.c9-26700-sa515m.xml|
 December 20, 2021|LE.UM.3.2.3.c6-29200-SA2150p|sa2150p|LE.UM.3.2.3.c6-29200-SA2150p.xml|
 December 20, 2021|LE.AU_EAP.1.0.c10-28100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-28100-eap-fsl.xml|
@@ -19,7 +22,6 @@ December 15, 2021|LE.AU_EAP.1.0.c9-13700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-13700-
 December 15, 2021|LE.UM.4.2.3.r1-09900-QCS610|qcs610|LE.UM.4.2.3.r1-09900-QCS610.xml|
 December 14, 2021|LE.UM.5.2.1.r2-00600-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00600-qcs405.0.xml|
 December 14, 2021|LV.AU.0.2.0.r1-22900-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22900-gen3meta.0.xml|
-November 16, 2021|LU.UM.1.2.1.r1-30500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-30500-QRB5165.0.xml|
 December 02, 2021|LE.UM.5.2.2.r1-05700-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05700-SXR2130.0.xml|
 December 07, 2021|LE.UM.4.4.2.r1-06700-SDX55|sdxprairie|LE.UM.4.4.2.r1-06700-SDX55.xml|
 December 02, 2021|LE.UM.1.2.c7-06400-9x07|mdm9607|LE.UM.1.2.c7-06400-9x07.xml|
