@@ -1,4 +1,28 @@
 {
+ "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.6.2.3.r1-00500-SDX65.0": {
   "Date": "December 21, 2021",
   "Tag / Build ID": "LE.UM.6.2.3.r1-00500-SDX65.0",
@@ -23,24 +47,6 @@
   "Chipset": "connx_sdk",
   "Manifest": "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ.xml"
  },
- "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ",
-  "Chipset": "connx_sdk",
-  "Manifest": "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ.xml"
- },
- "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
-  "Chipset": "connx_sdk",
-  "Manifest": "BTHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
- },
- "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ",
-  "Chipset": "connx_sdk",
-  "Manifest": "WLANHOST_AU.LA.5.0.r21.3-00500-QCAAUTOHOSTHZ.xml"
- },
  "WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ": {
   "Date": "December 20, 2021",
   "Tag / Build ID": "WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ",
@@ -58,12 +64,6 @@
   "Tag / Build ID": "LU.UM.1.2.1.r1-30500-QRB5165.0",
   "Chipset": "qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug",
   "Manifest": "LU.UM.1.2.1.r1-30500-QRB5165.0.xml"
- },
- "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ",
-  "Chipset": "connx_sdk",
-  "Manifest": "BT_TOOLS.LNX.1.0.r21.3-00400-QCAAUTOHOSTHZ.xml"
  },
  "WLANHOST_AU.LE.2.1.r21.3-00400-QCAAUTOHOSTHZ": {
   "Date": "December 20, 2021",
