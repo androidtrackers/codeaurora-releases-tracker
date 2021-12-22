@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 17, 2021|UC.UM.1.0.r1-01200-sa8155.0|qcs8155|UC.UM.1.0.r1-01200-sa8155.0.xml|
+December 22, 2021|LV.HB.1.1.1-42210-8x96.0|8x96auto|LV.HB.1.1.1-42210-8x96.0.xml|
+December 22, 2021|LE.UM.4.1.1.c10-05600-sa515m|sa515m|LE.UM.4.1.1.c10-05600-sa515m.xml|
 December 22, 2021|LE.UM.3.2.3.c11-04400-SA2150p|sa2150p|LE.UM.3.2.3.c11-04400-SA2150p.xml|
 December 20, 2021|WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.4.1.r21.3-00400-QCAAUTOHOSTHZ.xml|
 November 18, 2021|UC.UM.1.0.r1-01100-sa8155.0|qcs8155|UC.UM.1.0.r1-01100-sa8155.0.xml|
@@ -57,7 +60,6 @@ November 18, 2021|LE.UM.5.2.3.r1-07500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07500-SD
 November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
 November 17, 2021|LE.UM.3.2.3.c11-03100-SA2150p|sa2150p|LE.UM.3.2.3.c11-03100-SA2150p.xml|
 November 17, 2021|LE.UM.4.1.1.c10-03900-sa515m|sa515m|LE.UM.4.1.1.c10-03900-sa515m.xml|
-November 17, 2021|UC.UM.1.0.r1-01200-sa8155.0|qcs8155|UC.UM.1.0.r1-01200-sa8155.0.xml|
 November 17, 2021|LE.UM.2.3.2-12800-SDX24|sdxpoorwills|LE.UM.2.3.2-12800-SDX24.xml|
 November 16, 2021|LV.AU.0.2.0.r1-22500-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-22500-gen3meta.0.xml|
 November 16, 2021|LE.UM.5.3.2.r1-05400-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05400-SDX65.0.xml|
