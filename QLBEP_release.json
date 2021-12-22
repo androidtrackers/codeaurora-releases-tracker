@@ -1,21 +1,27 @@
 {
- "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ": {
-  "Date": "December 21, 2021",
-  "Tag / Build ID": "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ",
-  "Chipset": "connx_sdk",
-  "Manifest": "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ.xml"
- },
  "LE.UM.6.2.3.r1-00500-SDX65.0": {
   "Date": "December 21, 2021",
   "Tag / Build ID": "LE.UM.6.2.3.r1-00500-SDX65.0",
   "Chipset": "sdxlemur-mbb-nogplv3-debug",
   "Manifest": "LE.UM.6.2.3.r1-00500-SDX65.0.xml"
  },
+ "LE.AU_EAP.1.0.c10-28100-eap-fsl": {
+  "Date": "December 20, 2021",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c10-28100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c10-28100-eap-fsl.xml"
+ },
  "LE.UM.4.3.3.r1-06000-SDX55": {
   "Date": "December 21, 2021",
   "Tag / Build ID": "LE.UM.4.3.3.r1-06000-SDX55",
   "Chipset": "sdxprairie",
   "Manifest": "LE.UM.4.3.3.r1-06000-SDX55.xml"
+ },
+ "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ": {
+  "Date": "December 21, 2021",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.1.r21.3-00500-QCAAUTOHOSTHZ.xml"
  },
  "BTHOST_AU.LA.5.1.r21.3-00400-QCAAUTOHOSTHZ": {
   "Date": "December 20, 2021",
@@ -76,12 +82,6 @@
   "Tag / Build ID": "LE.UM.3.2.3.c6-29200-SA2150p",
   "Chipset": "sa2150p",
   "Manifest": "LE.UM.3.2.3.c6-29200-SA2150p.xml"
- },
- "LE.AU_EAP.1.0.c10-28100-eap-fsl": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "LE.AU_EAP.1.0.c10-28100-eap-fsl",
-  "Chipset": "eap-imx",
-  "Manifest": "LE.AU_EAP.1.0.c10-28100-eap-fsl.xml"
  },
  "LE.UM.3.2.3.c6-28600-SA2150p": {
   "Date": "December 16, 2021",
