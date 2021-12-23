@@ -1,4 +1,18 @@
 {
+ "LA.UM.6.7.c26-08600-8x09.0": {
+  "Date": "December 22, 2021",
+  "Tag / Build ID": "LA.UM.6.7.c26-08600-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.6.7.c26-08600-8x09.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.UM.9.15.1.r1-05300-KAMORTA.0": {
+  "Date": "December 23, 2021",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-05300-KAMORTA.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.1.r1-05300-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.8.c25-01300-SDM710.0": {
   "Date": "December 23, 2021",
   "Tag / Build ID": "LA.UM.8.8.c25-01300-SDM710.0",
@@ -19,13 +33,6 @@
   "Chipset": "holi",
   "Manifest": "LA.UM.9.16.r1-08700.03-MANNAR.0.xml",
   "Android Version": "11.00.00"
- },
- "LA.UM.6.7.c26-08600-8x09.0": {
-  "Date": "December 22, 2021",
-  "Tag / Build ID": "LA.UM.6.7.c26-08600-8x09.0",
-  "Chipset": "msm8909",
-  "Manifest": "LA.UM.6.7.c26-08600-8x09.0.xml",
-  "Android Version": "08.01.00"
  },
  "LA.UM.9.14.1.r1-05000-QCM6490.0": {
   "Date": "December 22, 2021",
