@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 24, 2021|LA.UM.8.12.c3-48300-sm8250.0|kona|LA.UM.8.12.c3-48300-sm8250.0.xml|10.00.00|
+December 24, 2021|LA.UM.8.6.2.c25-03300-89xx.0|msm8937_64|LA.UM.8.6.2.c25-03300-89xx.0.xml|10.00.00|
 December 22, 2021|LA.UM.6.7.c26-08600-8x09.0|msm8909|LA.UM.6.7.c26-08600-8x09.0.xml|08.01.00|
 December 23, 2021|LA.UM.9.15.1.r1-05300-KAMORTA.0|bengal_32go|LA.UM.9.15.1.r1-05300-KAMORTA.0.xml|11.00.00|
 December 23, 2021|LA.UM.8.8.c25-01300-SDM710.0|sdm710|LA.UM.8.8.c25-01300-SDM710.0.xml|10.00.00|
