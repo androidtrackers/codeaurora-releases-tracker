@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 28, 2021|LE.UM.4.4.1.r2-05800-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05800-QRB5165.0.xml|
 December 27, 2021|LE.UM.4.4.1.r3-08000-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-08000-QRB5165.0.xml|
 December 27, 2021|LV.AU.0.2.0.r1-23100-gen3meta.0|sa81x5|LV.AU.0.2.0.r1-23100-gen3meta.0.xml|
 December 22, 2021|LE.UM.1.1-02000-9x07|mdm9607|LE.UM.1.1-02000-9x07.xml|
