@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 28, 2021|LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0|trinket|LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0.xml|11.00.00|
 December 28, 2021|LA.UM.9.8.r1-04400-SDM710.0|sdm710|LA.UM.9.8.r1-04400-SDM710.0.xml|11.00.00|
 December 22, 2021|LA.UM.6.7.c26-08600-8x09.0|msm8909|LA.UM.6.7.c26-08600-8x09.0.xml|08.01.00|
 December 27, 2021|LA.UM.9.15.r1-05300.03-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-05300.03-KAMORTA.QSSI12.0.xml|11.00.00|
