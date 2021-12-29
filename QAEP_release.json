@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.8.c25-01300-SDM710.0": {
+  "Date": "December 23, 2021",
+  "Tag / Build ID": "LA.UM.8.8.c25-01300-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.8.8.c25-01300-SDM710.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.0.2.0.r1-02500-gen3_gvmgh.0": {
   "Date": "December 29, 2021",
   "Tag / Build ID": "LA.AU.0.2.0.r1-02500-gen3_gvmgh.0",
@@ -75,13 +82,6 @@
   "Chipset": "bengal_32go",
   "Manifest": "LA.UM.9.15.1.r1-05300-KAMORTA.0.xml",
   "Android Version": "11.00.00"
- },
- "LA.UM.8.8.c25-01300-SDM710.0": {
-  "Date": "December 23, 2021",
-  "Tag / Build ID": "LA.UM.8.8.c25-01300-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.8.8.c25-01300-SDM710.0.xml",
-  "Android Version": "10.00.00"
  },
  "LA.UM.8.3.c25-05000-sdm845.0": {
   "Date": "December 23, 2021",

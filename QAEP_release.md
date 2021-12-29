@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 23, 2021|LA.UM.8.8.c25-01300-SDM710.0|sdm710|LA.UM.8.8.c25-01300-SDM710.0.xml|10.00.00|
 December 29, 2021|LA.AU.0.2.0.r1-02500-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-02500-gen3_gvmgh.0.xml|10.00.00|
 December 28, 2021|LAW.BR.4.0.c1-07600-89xx.0|msm8937_32go|LAW.BR.4.0.c1-07600-89xx.0.xml|08.01.00|
 December 28, 2021|LA.AU.1.3.2.r3-02100-sa8295_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r3-02100-sa8295_gvmq.0.xml|10.00.00|
@@ -11,7 +12,6 @@ December 26, 2021|LA.UM.9.14.1.r1-05000-QCM6490.QSSI12.0|lahaina|LA.UM.9.14.1.r1
 December 24, 2021|LA.UM.8.12.c3-48300-sm8250.0|kona|LA.UM.8.12.c3-48300-sm8250.0.xml|10.00.00|
 December 24, 2021|LA.UM.8.6.2.c25-03300-89xx.0|msm8937_64|LA.UM.8.6.2.c25-03300-89xx.0.xml|10.00.00|
 December 23, 2021|LA.UM.9.15.1.r1-05300-KAMORTA.0|bengal_32go|LA.UM.9.15.1.r1-05300-KAMORTA.0.xml|11.00.00|
-December 23, 2021|LA.UM.8.8.c25-01300-SDM710.0|sdm710|LA.UM.8.8.c25-01300-SDM710.0.xml|10.00.00|
 December 23, 2021|LA.UM.8.3.c25-05000-sdm845.0|sdm845|LA.UM.8.3.c25-05000-sdm845.0.xml|10.00.00|
 December 23, 2021|LA.UM.9.16.r1-08700.03-MANNAR.0|holi|LA.UM.9.16.r1-08700.03-MANNAR.0.xml|11.00.00|
 December 22, 2021|LA.UM.9.14.1.r1-05000-QCM6490.0|lahaina|LA.UM.9.14.1.r1-05000-QCM6490.0.xml|11.00.00|
