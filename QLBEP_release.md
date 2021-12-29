@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 29, 2021|LE.UM.5.2.2.r1-05900-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05900-SXR2130.0.xml|
 December 28, 2021|LE.UM.4.4.1.r3-08300-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-08300-QRB5165.0.xml|
 December 28, 2021|UC.UM.1.0.r1-01300-sa8155.0|sa8115p|UC.UM.1.0.r1-01300-sa8155.0.xml|
 December 28, 2021|LE.UM.4.4.1.r2-05800-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05800-QRB5165.0.xml|
