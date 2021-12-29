@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0.c1-07600-89xx.0": {
+  "Date": "December 28, 2021",
+  "Tag / Build ID": "LAW.BR.4.0.c1-07600-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-07600-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.AU.1.3.2.r3-02100-sa8295_gvmq.0": {
   "Date": "December 28, 2021",
   "Tag / Build ID": "LA.AU.1.3.2.r3-02100-sa8295_gvmq.0",
