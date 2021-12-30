@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 18, 2021|LNX.LE.5.3.2.2-88196-9x40|mdm9640|LNX.LE.5.3.2.2-88196-9x40.xml|
+December 17, 2021|LE.UM.4.3.1.r1-05400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05400-genericarmv8-64.0.xml|
 December 29, 2021|LE.UM.5.2.2.r1-05900-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05900-SXR2130.0.xml|
 December 28, 2021|LE.UM.4.4.1.r3-08300-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-08300-QRB5165.0.xml|
 December 28, 2021|UC.UM.1.0.r1-01300-sa8155.0|sa8115p|UC.UM.1.0.r1-01300-sa8155.0.xml|
@@ -30,7 +32,6 @@ December 16, 2021|LE.UM.3.2.3.c6-28600-SA2150p|sa2150p|LE.UM.3.2.3.c6-28600-SA21
 November 05, 2021|LU.UM.2.4.1.r1-01400-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-01400-QRB5165.0.xml|
 December 15, 2021|LE.UM.5.2.1.r2-00700-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-00700-qcs405.0.xml|
 December 12, 2021|LE.UM.2.3.6-31900-9x07|mdm9607-poky|LE.UM.2.3.6-31900-9x07.xml|
-December 17, 2021|LE.UM.4.3.1.r1-05400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05400-genericarmv8-64.0.xml|
 December 17, 2021|LE.UM.5.2.3.r1-08000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08000-SDX12.xml|
 December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m.xml|
 December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
@@ -62,7 +63,6 @@ November 24, 2021|LE.UM.1.1-01400-9x07|mdm9607|LE.UM.1.1-01400-9x07.xml|
 November 22, 2021|LV.AU.0.2.0.r5-02400-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-02400-gen3meta.0.xml|
 November 19, 2021|LV.AU.1.2.1.r1-04500-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-04500-gen3meta.0.xml|
 November 19, 2021|LV.AU.0.2.2.r1-01900-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-01900-gen3meta.0.xml|
-November 18, 2021|LNX.LE.5.3.2.2-88196-9x40|mdm9640|LNX.LE.5.3.2.2-88196-9x40.xml|
 November 18, 2021|LE.UM.5.2.3.r1-07500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07500-SDX12.xml|
 November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
 November 17, 2021|LE.UM.3.2.3.c11-03100-SA2150p|sa2150p|LE.UM.3.2.3.c11-03100-SA2150p.xml|
