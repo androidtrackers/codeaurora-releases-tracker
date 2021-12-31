@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 30, 2021|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ|connx_sdk|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ.xml|
 December 30, 2021|LE.UM.6.2.4.r1-00300-QCS610.0|QCS610|LE.UM.6.2.4.r1-00300-QCS610.0.xml|
 November 18, 2021|LNX.LE.5.3.2.2-88196-9x40|mdm9640|LNX.LE.5.3.2.2-88196-9x40.xml|
 December 17, 2021|LE.UM.4.3.1.r1-05400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-05400-genericarmv8-64.0.xml|

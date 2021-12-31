@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ": {
+  "Date": "December 30, 2021",
+  "Tag / Build ID": "WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.UM.6.2.4.r1-00300-QCS610.0": {
   "Date": "December 30, 2021",
   "Tag / Build ID": "LE.UM.6.2.4.r1-00300-QCS610.0",
