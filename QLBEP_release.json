@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.3.1.c1-19600-qcs405.0": {
+  "Date": "June 12, 2020",
+  "Tag / Build ID": "LE.UM.3.3.1.c1-19600-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.3.3.1.c1-19600-qcs405.0.xml"
+ },
  "WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ": {
   "Date": "December 30, 2021",
   "Tag / Build ID": "WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ",
@@ -4822,12 +4828,6 @@
   "Tag / Build ID": "LE.UM.3.4.2-01200-9x07",
   "Chipset": "mdm9607-poky",
   "Manifest": "LE.UM.3.4.2-01200-9x07.xml"
- },
- "LE.UM.3.3.1.c1-19600-qcs405.0": {
-  "Date": "June 12, 2020",
-  "Tag / Build ID": "LE.UM.3.3.1.c1-19600-qcs405.0",
-  "Chipset": "vt-64-qsap",
-  "Manifest": "LE.UM.3.3.1.c1-19600-qcs405.0.xml"
  },
  "LE.UM.4.2.2.r1-02000-SDX55": {
   "Date": "June 11, 2020",
