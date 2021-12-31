@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
+December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
+December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
+May 26, 2020|LE.UM.3.3.1.c3-10600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-10600-qcs405.0.xml|
 April 28, 2020|LE.UM.3.3.1.c2-08600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c2-08600-qcs405.0.xml|
 June 12, 2020|LE.UM.3.3.1.c1-19600-qcs405.0|vt-64-qsap|LE.UM.3.3.1.c1-19600-qcs405.0.xml|
 December 30, 2021|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ|connx_sdk|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ.xml|
@@ -41,7 +45,6 @@ December 15, 2021|LE.UM.4.1.1.c8-13700-sa515m|sa515m|LE.UM.4.1.1.c8-13700-sa515m
 December 14, 2021|LE.UM.3.2.2.r1-13100-sdm845.0|sdm845-robot|LE.UM.3.2.2.r1-13100-sdm845.0.xml|
 December 16, 2021|LE.UM.4.1.1.c9-26100-sa515m|sa515m|LE.UM.4.1.1.c9-26100-sa515m.xml|
 December 16, 2021|LE.UM.5.3.2.r1-05800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05800-SDX65.0.xml|
-December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
 December 16, 2021|LE.AU_EAP.1.0.c10-27500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-27500-eap-fsl.xml|
 December 15, 2021|LE.AU_EAP.1.0.c9-13700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-13700-eap-fsl.xml|
 December 15, 2021|LE.UM.4.2.3.r1-09900-QCS610|qcs610|LE.UM.4.2.3.r1-09900-QCS610.xml|
@@ -84,7 +87,6 @@ November 09, 2021|LE.UM.1.1-01100-9x07|mdm9607|LE.UM.1.1-01100-9x07.xml|
 November 09, 2021|LE.UM.4.4.1.r2-05100-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05100-QRB5165.0.xml|
 November 08, 2021|LE.UM.4.4.1.r2-05200-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-05200-QRB5165.0.xml|
 November 08, 2021|LE.EDGE.1.0-62400-sm8250.0|sm8250-aedk|LE.EDGE.1.0-62400-sm8250.0.xml|
-November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
 November 08, 2021|LE.UM.3.2.1.c6-00200-sa415m|sa415m|LE.UM.3.2.1.c6-00200-sa415m.xml|
 November 07, 2021|LE.AU_EAP.1.0.c12-00200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-00200-eap-fsl.xml|
 November 05, 2021|LV.AU.0.2.2.r2-00900-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-00900-qtiquingvm.0.xml|
@@ -550,7 +552,6 @@ December 23, 2020|LE.UM.1.1-94800-9x07|mdm9607-poky|LE.UM.1.1-94800-9x07.xml|
 December 23, 2020|LE.UM.2.3.2-11600-SDX24|sdxpoorwills|LE.UM.2.3.2-11600-SDX24.xml|
 December 23, 2020|LE.EDGE.1.0-30800-sm8250.0|sm8250-aedk|LE.EDGE.1.0-30800-sm8250.0.xml|
 December 23, 2020|LNX.LE.5.3.c4-98005-9x40|mdm9640|LNX.LE.5.3.c4-98005-9x40.xml|
-December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
 December 22, 2020|LE.UM.4.4.2.r1-02200-SDX55|sdxprairie|LE.UM.4.4.2.r1-02200-SDX55.xml|
 December 21, 2020|LE.UM.4.2.3.r1-06100-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-06100-QCS610.0.xml|
 December 21, 2020|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02110-QCA6574AUARMSDIOHZ.xml|
@@ -821,7 +822,6 @@ May 31, 2020|LE.UM.2.3.6-79900-9x07|mdm9607-poky|LE.UM.2.3.6-79900-9x07.xml|
 May 29, 2020|LE.UM.4.2.2.r1-01400-SDX55|sdxprairie|LE.UM.4.2.2.r1-01400-SDX55.xml|
 May 28, 2020|LE.UM.1.1-91300-9x07|mdm9607|LE.UM.1.1-91300-9x07.xml|
 May 27, 2020|LE.UM.1.3.r5-40000-9x50|mdm9650-poky|LE.UM.1.3.r5-40000-9x50.xml|
-May 26, 2020|LE.UM.3.3.1.c3-10600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-10600-qcs405.0.xml|
 May 14, 2020|LE.UM.4.2.2.r1-01300-SDX55|sdxprairie|LE.UM.4.2.2.r1-01300-SDX55.xml|
 May 22, 2020|LE.UM.4.2.1.r1-02600-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.r1-02600-QCS404.0.xml|
 May 21, 2020|LNX.LE.5.2-75394-9x40|mdm9640|LNX.LE.5.2-75394-9x40.xml|
