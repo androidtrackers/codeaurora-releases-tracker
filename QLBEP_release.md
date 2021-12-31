@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 28, 2020|LE.UM.3.3.1.c2-08600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c2-08600-qcs405.0.xml|
 June 12, 2020|LE.UM.3.3.1.c1-19600-qcs405.0|vt-64-qsap|LE.UM.3.3.1.c1-19600-qcs405.0.xml|
 December 30, 2021|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ|connx_sdk|WLANHOST_AU.FSL.1.0-00300-QCA6574AUARMSDIOHZ.xml|
 December 30, 2021|LE.UM.6.2.4.r1-00300-QCS610.0|QCS610|LE.UM.6.2.4.r1-00300-QCS610.0.xml|
@@ -855,7 +856,6 @@ May 02, 2020|LE.UM.1.1-90600-9x07|mdm9607|LE.UM.1.1-90600-9x07.xml|
 May 01, 2020|LE.UM.4.2.2.r1-01000-SDX55|sdxprairie|LE.UM.4.2.2.r1-01000-SDX55.xml|
 April 29, 2020|LV.AU.0.1.0.r2-01700-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-01700-qtiquingvm.0.xml|
 April 29, 2020|LV.AU.0.1.0.r1-08000-gen3meta.0|sa8195bg|LV.AU.0.1.0.r1-08000-gen3meta.0.xml|
-April 28, 2020|LE.UM.3.3.1.c2-08600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c2-08600-qcs405.0.xml|
 April 27, 2020|LE.BR.1.3.1-14510-9x50|mdm9650|LE.BR.1.3.1-14510-9x50.xml|
 April 24, 2020|LE.UM.1.3.r6-07000-8x17|apq8017-qsap|LE.UM.1.3.r6-07000-8x17.xml|
 April 21, 2020|LV.AU.0.1.0.r2-01500-qtiquingvm.0|qtiquingvm|LV.AU.0.1.0.r2-01500-qtiquingvm.0.xml|
