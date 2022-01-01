@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 01, 2021|LE.UM.5.4.2.r1-02700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-02700-QCS610.0.xml|
 November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
 December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
 December 22, 2020|LE.UM.3.3.1.r1-09300-qcs405.0|vt-64-qsap|LE.UM.3.3.1.r1-09300-qcs405.0.xml|
@@ -55,7 +56,6 @@ December 07, 2021|LE.UM.4.4.2.r1-06700-SDX55|sdxprairie|LE.UM.4.4.2.r1-06700-SDX
 December 02, 2021|LE.UM.1.2.c7-06400-9x07|mdm9607|LE.UM.1.2.c7-06400-9x07.xml|
 December 01, 2021|LE.UM.5.2.2.r1-05600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-05600-SXR2130.0.xml|
 December 01, 2021|LE.UM.5.3.2.r1-05600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05600-SDX65.0.xml|
-December 01, 2021|LE.UM.5.4.2.r1-02700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-02700-QCS610.0.xml|
 November 30, 2021|LE.UM.4.4.2.r1-06500-SDX55|sdxprairie|LE.UM.4.4.2.r1-06500-SDX55.xml|
 November 29, 2021|LE.UM.4.1.1.c11-00200-sa515m|sa515m|LE.UM.4.1.1.c11-00200-sa515m.xml|
 November 29, 2021|LE.AU_EAP.1.0.c13-00300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-00300-eap-fsl.xml|
