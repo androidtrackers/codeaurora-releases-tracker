@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.2.r1-04600-qcs405.0": {
+  "Date": "May 15, 2020",
+  "Tag / Build ID": "LE.UM.4.1.2.r1-04600-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.4.1.2.r1-04600-qcs405.0.xml"
+ },
+ "LE.UM.5.2.1.r1-08100-qcs405.0": {
+  "Date": "November 18, 2021",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-08100-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-08100-qcs405.0.xml"
+ },
  "LE.UM.5.4.2.r1-02700-QCS610.0": {
   "Date": "December 01, 2021",
   "Tag / Build ID": "LE.UM.5.4.2.r1-02700-QCS610.0",
@@ -424,12 +436,6 @@
   "Tag / Build ID": "LE.UM.5.2.3.r1-07500-SDX12",
   "Chipset": "sdxnightjar",
   "Manifest": "LE.UM.5.2.3.r1-07500-SDX12.xml"
- },
- "LE.UM.5.2.1.r1-08100-qcs405.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LE.UM.5.2.1.r1-08100-qcs405.0",
-  "Chipset": "vt-64-qsap",
-  "Manifest": "LE.UM.5.2.1.r1-08100-qcs405.0.xml"
  },
  "LE.UM.3.2.3.c11-03100-SA2150p": {
   "Date": "November 17, 2021",
@@ -5002,12 +5008,6 @@
   "Tag / Build ID": "LE.UM.3.3.1.c3-09600-qcs405.0",
   "Chipset": "nf-32-qsap",
   "Manifest": "LE.UM.3.3.1.c3-09600-qcs405.0.xml"
- },
- "LE.UM.4.1.2.r1-04600-qcs405.0": {
-  "Date": "May 15, 2020",
-  "Tag / Build ID": "LE.UM.4.1.2.r1-04600-qcs405.0",
-  "Chipset": "vt-64-qsap",
-  "Manifest": "LE.UM.4.1.2.r1-04600-qcs405.0.xml"
  },
  "LE.UM.3.2.3.c1-00900-SA2150p": {
   "Date": "May 14, 2020",

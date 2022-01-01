@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 15, 2020|LE.UM.4.1.2.r1-04600-qcs405.0|vt-64-qsap|LE.UM.4.1.2.r1-04600-qcs405.0.xml|
+November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
 December 01, 2021|LE.UM.5.4.2.r1-02700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-02700-QCS610.0.xml|
 November 08, 2021|LE.UM.1.3.r6-08200-8x17|apq8017-qsap|LE.UM.1.3.r6-08200-8x17.xml|
 December 09, 2021|LE.UM.4.2.3.r1-09900-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-09900-QCS610.0.xml|
@@ -71,7 +73,6 @@ November 22, 2021|LV.AU.0.2.0.r5-02400-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-024
 November 19, 2021|LV.AU.1.2.1.r1-04500-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-04500-gen3meta.0.xml|
 November 19, 2021|LV.AU.0.2.2.r1-01900-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-01900-gen3meta.0.xml|
 November 18, 2021|LE.UM.5.2.3.r1-07500-SDX12|sdxnightjar|LE.UM.5.2.3.r1-07500-SDX12.xml|
-November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
 November 17, 2021|LE.UM.3.2.3.c11-03100-SA2150p|sa2150p|LE.UM.3.2.3.c11-03100-SA2150p.xml|
 November 17, 2021|LE.UM.4.1.1.c10-03900-sa515m|sa515m|LE.UM.4.1.1.c10-03900-sa515m.xml|
 November 17, 2021|LE.UM.2.3.2-12800-SDX24|sdxpoorwills|LE.UM.2.3.2-12800-SDX24.xml|
@@ -834,7 +835,6 @@ May 19, 2020|LE.UM.4.2.1.r1-02500-QCS404.0|qcs404-rb1-robotics-fullstack-noselin
 May 15, 2020|LE.UM.3.4.2-01100-9x07|mdm9607-poky|LE.UM.3.4.2-01100-9x07.xml|
 May 15, 2020|LE.UM.4.2.3.r1-02700-QCS610.0|qcs610-odk-multimedia-fullstack-perf|LE.UM.4.2.3.r1-02700-QCS610.0.xml|
 May 15, 2020|LE.UM.3.3.1.c3-09600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-09600-qcs405.0.xml|
-May 15, 2020|LE.UM.4.1.2.r1-04600-qcs405.0|vt-64-qsap|LE.UM.4.1.2.r1-04600-qcs405.0.xml|
 May 14, 2020|LE.UM.3.2.3.c1-00900-SA2150p|sa2150p|LE.UM.3.2.3.c1-00900-SA2150p.xml|
 May 14, 2020|LE.UM.3.2.1.c1-00800-sa415m|sa415m|LE.UM.3.2.1.c1-00800-sa415m.xml|
 May 14, 2020|LE.AU_EAP.1.0.c1-00800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-00800-eap-fsl.xml|
