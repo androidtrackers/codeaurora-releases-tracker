@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.1.r1-11500-SMxxx0.0": {
+  "Date": "January 03, 2022",
+  "Tag / Build ID": "LA.UM.9.1.r1-11500-SMxxx0.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.9.1.r1-11500-SMxxx0.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.12.1.r1-00300-SMxx50.QSSI12.0": {
   "Date": "January 02, 2022",
   "Tag / Build ID": "LA.UM.9.12.1.r1-00300-SMxx50.QSSI12.0",
