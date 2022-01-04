@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 04, 2022|UC.UM.1.0.r1-01601-sa8155.0|qcs8155|UC.UM.1.0.r1-01601-sa8155.0.xml|
 January 03, 2022|LU.UM.0.1.2.1.r1-02100-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.0.1.2.1.r1-02100-QRB5165.0.xml|
 May 15, 2020|LE.UM.4.1.2.r1-04600-qcs405.0|vt-64-qsap|LE.UM.4.1.2.r1-04600-qcs405.0.xml|
 November 18, 2021|LE.UM.5.2.1.r1-08100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08100-qcs405.0.xml|
