@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 04, 2022|CHSS.LNX_FSLS.4.14-02710-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02710-QCA6574AUARMSDIOHZ.xml|
+January 04, 2022|LE.UM.6.2.4.r1-00500-QCS610.0|QCS610|LE.UM.6.2.4.r1-00500-QCS610.0.xml|
 January 04, 2022|LE.UM.4.3.2.r1-03300-9x07|mdm9607|LE.UM.4.3.2.r1-03300-9x07.xml|
 January 04, 2022|UC.UM.1.0.r1-01601-sa8155.0|qcs8155|UC.UM.1.0.r1-01601-sa8155.0.xml|
 January 03, 2022|LU.UM.0.1.2.1.r1-02100-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.0.1.2.1.r1-02100-QRB5165.0.xml|
