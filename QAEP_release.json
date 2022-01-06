@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0": {
+  "Date": "January 06, 2022",
+  "Tag / Build ID": "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0",
+  "Chipset": "msm8937_lily",
+  "Manifest": "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.11.r1-05100-NICOBAR.0": {
+  "Date": "January 05, 2022",
+  "Tag / Build ID": "LA.UM.9.11.r1-05100-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.9.11.r1-05100-NICOBAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.11.1.c1-06100-SA6125.0": {
   "Date": "January 05, 2022",
   "Tag / Build ID": "LA.UM.8.11.1.c1-06100-SA6125.0",
