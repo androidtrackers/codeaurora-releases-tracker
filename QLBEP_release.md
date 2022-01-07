@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 07, 2022|LE.UM.6.2.3.r1-00900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-00900-SDX65.0.xml|
 January 06, 2022|LV.AU.1.2.1.r1-06900-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-06900-gen3meta.0.xml|
 January 04, 2022|CHSS.LNX_FSLS.4.14-02710-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-02710-QCA6574AUARMSDIOHZ.xml|
 January 04, 2022|LE.UM.6.2.4.r1-00500-QCS610.0|QCS610|LE.UM.6.2.4.r1-00500-QCS610.0.xml|

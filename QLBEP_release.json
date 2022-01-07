@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.3.r1-00900-SDX65.0": {
+  "Date": "January 07, 2022",
+  "Tag / Build ID": "LE.UM.6.2.3.r1-00900-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.2.3.r1-00900-SDX65.0.xml"
+ },
  "LV.AU.1.2.1.r1-06900-gen3meta.0": {
   "Date": "January 06, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r1-06900-gen3meta.0",
