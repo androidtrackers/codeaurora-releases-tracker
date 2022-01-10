@@ -1,4 +1,11 @@
 {
+ "LA.UM.5.7.c25-08500-8x98.0": {
+  "Date": "January 10, 2022",
+  "Tag / Build ID": "LA.UM.5.7.c25-08500-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.5.7.c25-08500-8x98.0.xml",
+  "Android Version": "07.01.01"
+ },
  "LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0": {
   "Date": "January 10, 2022",
   "Tag / Build ID": "LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0",
