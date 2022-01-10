@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 10, 2022|LE.UM.5.4.1.r1-07500-QRB2210.1|QRB2210|LE.UM.5.4.1.r1-07500-QRB2210.1.xml|
 January 09, 2022|LE.UM.3.2.1.c6-00600-sa415m|sa415m|LE.UM.3.2.1.c6-00600-sa415m.xml|
 January 09, 2022|LE.AU_EAP.1.0.c12-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-00400-eap-fsl.xml|
 January 07, 2022|LE.UM.6.2.3.r1-00900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-00900-SDX65.0.xml|
