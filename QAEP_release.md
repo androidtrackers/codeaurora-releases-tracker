@@ -1,12 +1,12 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 07, 2022|LA.AU.1.3.3.r1-03400-gen3meta.0|msmnile_au|LA.AU.1.3.3.r1-03400-gen3meta.0.xml|10.00.00|
 January 10, 2022|LA.UM.8.4.1.c25-02000-8x98.0|msm8998|LA.UM.8.4.1.c25-02000-8x98.0.xml|10.00.00|
 January 10, 2022|LA.UM.6.1.1.c25-02300-sdm660.0|sdm660_64|LA.UM.6.1.1.c25-02300-sdm660.0.xml|07.01.01|
 January 10, 2022|LA.QSSI.12.0.r1-05600.01-qssi.0|qssi|LA.QSSI.12.0.r1-05600.01-qssi.0.xml|11.00.00|
 January 10, 2022|LA.UM.5.7.c25-08500-8x98.0|msm8998|LA.UM.5.7.c25-08500-8x98.0.xml|07.01.01|
 January 10, 2022|LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0|bengal_32go|LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0.xml|11.00.00|
 January 10, 2022|LA.UM.8.6.2.c31-00800-89xx.0|msm8953_64|LA.UM.8.6.2.c31-00800-89xx.0.xml|10.00.00|
-January 07, 2022|LA.AU.1.3.3.r1-03400-gen3meta.0|msmnile_au|LA.AU.1.3.3.r1-03400-gen3meta.0.xml|10.00.00|
 January 07, 2022|LA.UM.10.2.1.r1-03200-sdm660.0|sdm660_64|LA.UM.10.2.1.r1-03200-sdm660.0.xml|12.00.00|
 January 07, 2022|LA.UM.9.15.2.r1-02000-KAMORTA.QSSI12.0|bengal_32go|LA.UM.9.15.2.r1-02000-KAMORTA.QSSI12.0.xml|11.00.00|
 January 06, 2022|LA.UM.8.12.2.r1-03000-QCS8250.0|kona|LA.UM.8.12.2.r1-03000-QCS8250.0.xml|10.00.00|
