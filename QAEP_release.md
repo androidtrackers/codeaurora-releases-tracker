@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 12, 2022|LA.QSSI.12.0.r1-05600.02-qssi.0|qssi|LA.QSSI.12.0.r1-05600.02-qssi.0.xml|11.00.00|
+December 28, 2021|LAW.BR.4.0.c1-07600-89xx.0|msm8937_32go|LAW.BR.4.0.c1-07600-89xx.0.xml|08.01.00|
 January 12, 2022|LA.UM.7.2.c25-04700-sdm660.0|sdm660_64|LA.UM.7.2.c25-04700-sdm660.0.xml|09.00.00|
 January 11, 2022|LA.UM.9.15.r1-05400-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-05400-KAMORTA.QSSI12.0.xml|11.00.00|
 January 11, 2022|LA.UM.8.4.c25-04500-8x98.0|msm8998|LA.UM.8.4.c25-04500-8x98.0.xml|10.00.00|
@@ -31,7 +33,6 @@ December 31, 2021|LA.UM.8.6.2.c30-00900-89xx.0|msm8937_64|LA.UM.8.6.2.c30-00900-
 December 30, 2021|LA.UM.8.6.2.c29-01100-89xx.0|msm8953_64|LA.UM.8.6.2.c29-01100-89xx.0.xml|10.00.00|
 December 23, 2021|LA.UM.8.8.c25-01300-SDM710.0|sdm710|LA.UM.8.8.c25-01300-SDM710.0.xml|10.00.00|
 December 29, 2021|LA.AU.0.2.0.r1-02500-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-02500-gen3_gvmgh.0.xml|10.00.00|
-December 28, 2021|LAW.BR.4.0.c1-07600-89xx.0|msm8937_32go|LAW.BR.4.0.c1-07600-89xx.0.xml|08.01.00|
 December 28, 2021|LA.AU.1.3.2.r3-02100-sa8295_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r3-02100-sa8295_gvmq.0.xml|10.00.00|
 December 28, 2021|LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0|trinket|LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0.xml|11.00.00|
 December 28, 2021|LA.UM.9.8.r1-04400-SDM710.0|sdm710|LA.UM.9.8.r1-04400-SDM710.0.xml|11.00.00|
