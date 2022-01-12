@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 12, 2022|LE.UM.5.4.2.r1-03500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-03500-QCS610.0.xml|
+January 12, 2022|LE.UM.4.4.2.r1-07100-SDX55|sdxprairie|LE.UM.4.4.2.r1-07100-SDX55.xml|
 January 11, 2022|LV.AU.1.2.1.r1-07300-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-07300-gen3meta.0.xml|
 January 11, 2022|LE.UM.5.4.1.r1-07500-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-07500-QRB2210.0.xml|
 January 10, 2022|LE.UM.5.4.1.r1-07500-QRB2210.1|QRB2210|LE.UM.5.4.1.r1-07500-QRB2210.1.xml|

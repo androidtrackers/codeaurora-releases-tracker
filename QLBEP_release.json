@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.4.2.r1-03500-QCS610.0": {
+  "Date": "January 12, 2022",
+  "Tag / Build ID": "LE.UM.5.4.2.r1-03500-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.5.4.2.r1-03500-QCS610.0.xml"
+ },
+ "LE.UM.4.4.2.r1-07100-SDX55": {
+  "Date": "January 12, 2022",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-07100-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-07100-SDX55.xml"
+ },
  "LV.AU.1.2.1.r1-07300-gen3meta.0": {
   "Date": "January 11, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r1-07300-gen3meta.0",
