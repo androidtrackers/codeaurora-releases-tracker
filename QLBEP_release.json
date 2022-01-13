@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.4.1.r1-09200-QRB2210.0": {
+  "Date": "January 13, 2022",
+  "Tag / Build ID": "LE.UM.5.4.1.r1-09200-QRB2210.0",
+  "Chipset": "QRB2210",
+  "Manifest": "LE.UM.5.4.1.r1-09200-QRB2210.0.xml"
+ },
+ "LE.UM.5.2.3.r1-08100-SDX12": {
+  "Date": "January 13, 2022",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-08100-SDX12",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-08100-SDX12.xml"
+ },
  "LE.UM.3.2.1.c1-46600-sa415m": {
   "Date": "January 12, 2022",
   "Tag / Build ID": "LE.UM.3.2.1.c1-46600-sa415m",
