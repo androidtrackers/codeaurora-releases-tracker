@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.3.1.c3-30800-qcs405.0": {
+  "Date": "January 13, 2022",
+  "Tag / Build ID": "LE.UM.3.3.1.c3-30800-qcs405.0",
+  "Chipset": "nf-32-qsap",
+  "Manifest": "LE.UM.3.3.1.c3-30800-qcs405.0.xml"
+ },
  "LE.UM.5.4.1.r1-09200-QRB2210.0": {
   "Date": "January 13, 2022",
   "Tag / Build ID": "LE.UM.5.4.1.r1-09200-QRB2210.0",

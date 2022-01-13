@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 13, 2022|LE.UM.3.3.1.c3-30800-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-30800-qcs405.0.xml|
 January 13, 2022|LE.UM.5.4.1.r1-09200-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-09200-QRB2210.0.xml|
 January 13, 2022|LE.UM.5.2.3.r1-08100-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08100-SDX12.xml|
 January 12, 2022|LE.UM.3.2.1.c1-46600-sa415m|sa415m|LE.UM.3.2.1.c1-46600-sa415m.xml|
