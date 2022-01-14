@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.3.r1-03500-gen3meta.0": {
+  "Date": "January 14, 2022",
+  "Tag / Build ID": "LA.AU.1.3.3.r1-03500-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.3.3.r1-03500-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.QSSI.11.0.r1-14400-qssi.0": {
   "Date": "January 14, 2022",
   "Tag / Build ID": "LA.QSSI.11.0.r1-14400-qssi.0",
