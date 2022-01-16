@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 15, 2022|LE.UM.5.4.1.r1-10200-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-10200-QRB2210.0.xml|
 January 13, 2022|LE.UM.5.4.1.r1-07500-QRB2210|qrbx210-rbx-robotics-med-rb-debug|LE.UM.5.4.1.r1-07500-QRB2210.xml|
 January 13, 2022|LE.UM.5.4.1.r1-09200-QRB2210|qrbx210-rbx-robotics-med-rb-debug|LE.UM.5.4.1.r1-09200-QRB2210.xml|
 January 13, 2022|LE.UM.3.3.1.c3-30800-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-30800-qcs405.0.xml|
