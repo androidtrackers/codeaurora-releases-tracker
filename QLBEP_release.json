@@ -1,4 +1,10 @@
 {
+ "UC.UM.1.0.r1-01900-sa8155.0": {
+  "Date": "January 17, 2022",
+  "Tag / Build ID": "UC.UM.1.0.r1-01900-sa8155.0",
+  "Chipset": "qcs8155",
+  "Manifest": "UC.UM.1.0.r1-01900-sa8155.0.xml"
+ },
  "LV.AU.0.2.2.r1-03100-gen3meta.0": {
   "Date": "January 16, 2022",
   "Tag / Build ID": "LV.AU.0.2.2.r1-03100-gen3meta.0",
