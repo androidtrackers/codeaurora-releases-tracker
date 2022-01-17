@@ -1,15 +1,15 @@
 {
- "LE.UM.6.2.3.r1-01100-SDX65.0": {
-  "Date": "January 16, 2022",
-  "Tag / Build ID": "LE.UM.6.2.3.r1-01100-SDX65.0",
-  "Chipset": "sdxlemur-mbb-nogplv3-debug",
-  "Manifest": "LE.UM.6.2.3.r1-01100-SDX65.0.xml"
- },
  "LV.AU.0.2.2.r1-03100-gen3meta.0": {
   "Date": "January 16, 2022",
   "Tag / Build ID": "LV.AU.0.2.2.r1-03100-gen3meta.0",
   "Chipset": "sa6155agl",
   "Manifest": "LV.AU.0.2.2.r1-03100-gen3meta.0.xml"
+ },
+ "LE.UM.6.2.3.r1-01100-SDX65.0": {
+  "Date": "January 16, 2022",
+  "Tag / Build ID": "LE.UM.6.2.3.r1-01100-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.2.3.r1-01100-SDX65.0.xml"
  },
  "LU.UM.2.4.1.r1-02400-QRB5165.0": {
   "Date": "January 16, 2022",
