@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 18, 2022|UC.UM.1.0.r1-02100-sa8155.0|qcs8155|UC.UM.1.0.r1-02100-sa8155.0.xml|
 January 12, 2022|LE.UM.5.4.2.r1-03500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-03500-QCS610.0.xml|
 January 17, 2022|UC.UM.1.0.r1-01900-sa8155.0|qcs8155|UC.UM.1.0.r1-01900-sa8155.0.xml|
 January 16, 2022|LV.AU.0.2.2.r1-03100-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-03100-gen3meta.0.xml|
