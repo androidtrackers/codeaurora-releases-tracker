@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 12, 2022|LE.AU_EAP.1.0.c1-51300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-51300-eap-fsl.xml|
 January 18, 2022|UC.UM.1.0.r1-02100-sa8155.0|qcs8155|UC.UM.1.0.r1-02100-sa8155.0.xml|
 January 12, 2022|LE.UM.5.4.2.r1-03500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.5.4.2.r1-03500-QCS610.0.xml|
 January 17, 2022|UC.UM.1.0.r1-01900-sa8155.0|qcs8155|UC.UM.1.0.r1-01900-sa8155.0.xml|
@@ -13,7 +14,6 @@ January 13, 2022|LE.UM.3.3.1.c3-30800-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-30800-q
 January 13, 2022|LE.UM.5.4.1.r1-09200-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-09200-QRB2210.0.xml|
 January 13, 2022|LE.UM.5.2.3.r1-08100-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08100-SDX12.xml|
 January 12, 2022|LE.UM.3.2.1.c1-46600-sa415m|sa415m|LE.UM.3.2.1.c1-46600-sa415m.xml|
-January 12, 2022|LE.AU_EAP.1.0.c1-51300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-51300-eap-fsl.xml|
 January 12, 2022|LE.UM.4.4.2.r1-07100-SDX55|sdxprairie|LE.UM.4.4.2.r1-07100-SDX55.xml|
 January 11, 2022|LV.AU.1.2.1.r1-07300-gen3meta.0|sa81x5|LV.AU.1.2.1.r1-07300-gen3meta.0.xml|
 January 11, 2022|LE.UM.5.4.1.r1-07500-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-07500-QRB2210.0.xml|

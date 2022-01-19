@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c1-51300-eap-fsl": {
+  "Date": "January 12, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-51300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-51300-eap-fsl.xml"
+ },
  "UC.UM.1.0.r1-02100-sa8155.0": {
   "Date": "January 18, 2022",
   "Tag / Build ID": "UC.UM.1.0.r1-02100-sa8155.0",
@@ -76,12 +82,6 @@
   "Tag / Build ID": "LE.UM.3.2.1.c1-46600-sa415m",
   "Chipset": "sa415m",
   "Manifest": "LE.UM.3.2.1.c1-46600-sa415m.xml"
- },
- "LE.AU_EAP.1.0.c1-51300-eap-fsl": {
-  "Date": "January 12, 2022",
-  "Tag / Build ID": "LE.AU_EAP.1.0.c1-51300-eap-fsl",
-  "Chipset": "eap-imx",
-  "Manifest": "LE.AU_EAP.1.0.c1-51300-eap-fsl.xml"
  },
  "LE.UM.4.4.2.r1-07100-SDX55": {
   "Date": "January 12, 2022",
