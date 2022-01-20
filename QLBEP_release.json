@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.4.1.r1-10200-QRB2210": {
+  "Date": "January 19, 2022",
+  "Tag / Build ID": "LE.UM.5.4.1.r1-10200-QRB2210",
+  "Chipset": "qrbx210-rbx-robotics-med-rb-debug",
+  "Manifest": "LE.UM.5.4.1.r1-10200-QRB2210.xml"
+ },
  "LU.UM.1.2.1.r1-32000-QRB5165.0": {
   "Date": "January 19, 2022",
   "Tag / Build ID": "LU.UM.1.2.1.r1-32000-QRB5165.0",
