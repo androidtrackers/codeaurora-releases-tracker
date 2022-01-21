@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 21, 2022|LE.BR.1.3.1-16510-9x50|mdm9650|LE.BR.1.3.1-16510-9x50.xml|
 January 20, 2022|LE.AU_EAP.1.0.c9-15500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-15500-eap-fsl.xml|
 January 19, 2022|LE.UM.5.4.1.r1-10200-QRB2210|qrbx210-rbx-robotics-med-rb-debug|LE.UM.5.4.1.r1-10200-QRB2210.xml|
 January 19, 2022|LU.UM.1.2.1.r1-32000-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-32000-QRB5165.0.xml|
