@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 24, 2022|LV.AU.1.2.1.r2-00800-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-00800-gen3meta.0.xml|
 January 24, 2022|LE.LNXHOSTSW.1.0-00600-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-00600-LNXHOSTSW.0.xml|
 January 24, 2022|LE.UM.1.1-02600-9x07|mdm9607|LE.UM.1.1-02600-9x07.xml|
 January 24, 2022|LE.UM.3.2.3.c7-10200-SA2150p|sa2150p|LE.UM.3.2.3.c7-10200-SA2150p.xml|
