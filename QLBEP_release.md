@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 24, 2022|LE.LNXHOSTSW.1.0-00600-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-00600-LNXHOSTSW.0.xml|
 January 24, 2022|LE.UM.1.1-02600-9x07|mdm9607|LE.UM.1.1-02600-9x07.xml|
 January 24, 2022|LE.UM.3.2.3.c7-10200-SA2150p|sa2150p|LE.UM.3.2.3.c7-10200-SA2150p.xml|
 January 24, 2022|LE.UM.4.1.1.c8-15100-sa515m|sa515m|LE.UM.4.1.1.c8-15100-sa515m.xml|
