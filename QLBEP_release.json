@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSL.5.1-00400-QCAAUTOHOSTHZ": {
+  "Date": "January 26, 2022",
+  "Tag / Build ID": "CHSS.LNX_FSL.5.1-00400-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.5.1-00400-QCAAUTOHOSTHZ.xml"
+ },
  "LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0": {
   "Date": "January 26, 2022",
   "Tag / Build ID": "LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0",

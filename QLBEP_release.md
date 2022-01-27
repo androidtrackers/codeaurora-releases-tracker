@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 26, 2022|CHSS.LNX_FSL.5.1-00400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1-00400-QCAAUTOHOSTHZ.xml|
 January 26, 2022|LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0.xml|
 January 26, 2022|LE.UM.2.3.6.c2-08100-9x07|mdm9607-poky|LE.UM.2.3.6.c2-08100-9x07.xml|
 January 25, 2022|LE.UM.4.4.2.r1-07400-SDX55|sdxprairie|LE.UM.4.4.2.r1-07400-SDX55.xml|
