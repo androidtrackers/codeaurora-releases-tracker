@@ -1,4 +1,10 @@
 {
+ "LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0": {
+  "Date": "January 26, 2022",
+  "Tag / Build ID": "LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0",
+  "Chipset": "lnxhostsw",
+  "Manifest": "LE.LNXHOSTSW.1.0-00700-LNXHOSTSW.0.xml"
+ },
  "LE.UM.2.3.6.c2-08100-9x07": {
   "Date": "January 26, 2022",
   "Tag / Build ID": "LE.UM.2.3.6.c2-08100-9x07",
