@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0": {
+  "Date": "January 28, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0",
+  "Chipset": "waipio",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0.xml",
+  "Android Version": ""
+ },
  "CAMERA.LA.2.0.r1-03300-WAIPIO.0": {
   "Date": "January 28, 2022",
   "Tag / Build ID": "CAMERA.LA.2.0.r1-03300-WAIPIO.0",
