@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.3.r1-01200-SDX65.0": {
+  "Date": "January 29, 2022",
+  "Tag / Build ID": "LE.UM.6.2.3.r1-01200-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.2.3.r1-01200-SDX65.0.xml"
+ },
  "LE.UM.4.4.2.r1-07900-SDX55": {
   "Date": "January 29, 2022",
   "Tag / Build ID": "LE.UM.4.4.2.r1-07900-SDX55",
