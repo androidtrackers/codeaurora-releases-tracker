@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 30, 2022|LA.UM.8.12.4.r1-02500-QCS8250.0|kona|LA.UM.8.12.4.r1-02500-QCS8250.0.xml|10.00.00|
+January 30, 2022|LA.VENDOR.1.0.r1-11000-WAIPIO.0|waipio|LA.VENDOR.1.0.r1-11000-WAIPIO.0.xml|11.00.00|
 January 29, 2022|KERNEL.PLATFORM.1.0.r1-06900-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-06900-kernel.0.xml||
 January 28, 2022|LA.QSSI.12.0.r1-05800.02-qssi.0|qssi|LA.QSSI.12.0.r1-05800.02-qssi.0.xml|11.00.00|
 January 28, 2022|KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0|waipio|KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0.xml||
