@@ -1,4 +1,10 @@
 {
+ "LR.AU.0.1.1-00200-qtiquingvm.0": {
+  "Date": "February 01, 2022",
+  "Tag / Build ID": "LR.AU.0.1.1-00200-qtiquingvm.0",
+  "Chipset": "sa8295",
+  "Manifest": "LR.AU.0.1.1-00200-qtiquingvm.0.xml"
+ },
  "LE.UM.4.1.1.c8-15300-sa515m": {
   "Date": "January 31, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c8-15300-sa515m",
