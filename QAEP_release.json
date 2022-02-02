@@ -1,4 +1,11 @@
 {
+ "LA.BR.1.2.9.c26-02700-8x09.0": {
+  "Date": "February 02, 2022",
+  "Tag / Build ID": "LA.BR.1.2.9.c26-02700-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.BR.1.2.9.c26-02700-8x09.0.xml",
+  "Android Version": "07.01.02"
+ },
  "LA.UM.9.16.r1-09800-MANNAR.QSSI12.0": {
   "Date": "February 01, 2022",
   "Tag / Build ID": "LA.UM.9.16.r1-09800-MANNAR.QSSI12.0",

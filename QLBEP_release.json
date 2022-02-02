@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.3.r1-01300-SDX65.0": {
+  "Date": "February 01, 2022",
+  "Tag / Build ID": "LE.UM.6.2.3.r1-01300-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.2.3.r1-01300-SDX65.0.xml"
+ },
  "LR.AU.0.1.1-00200-qtiquingvm.0": {
   "Date": "February 01, 2022",
   "Tag / Build ID": "LR.AU.0.1.1-00200-qtiquingvm.0",
