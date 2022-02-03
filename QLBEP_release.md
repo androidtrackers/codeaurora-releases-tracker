@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 03, 2022|LE.UM.4.2.3.r1-10200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-10200-QCS610.0.xml|
 February 01, 2022|LE.UM.6.2.3.r1-01300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-01300-SDX65.0.xml|
 February 01, 2022|LR.AU.0.1.1-00200-qtiquingvm.0|sa8295|LR.AU.0.1.1-00200-qtiquingvm.0.xml|
 January 31, 2022|LE.UM.4.1.1.c8-15300-sa515m|sa515m|LE.UM.4.1.1.c8-15300-sa515m.xml|
