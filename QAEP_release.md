@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 04, 2022|LA.UM.8.9.1.r1-03800-QCS610.0|sm6150|LA.UM.8.9.1.r1-03800-QCS610.0.xml|10.00.00|
 February 04, 2022|LA.UM.9.1.r1-11600-SMxxx0.0|msmnile|LA.UM.9.1.r1-11600-SMxxx0.0.xml|11.00.00|
 February 04, 2022|LA.VENDOR.1.0.r1-11200-WAIPIO.0|taro|LA.VENDOR.1.0.r1-11200-WAIPIO.0.xml|11.00.00|
 February 04, 2022|LA.UM.9.12.r1-13800-SMxx50.0|kona|LA.UM.9.12.r1-13800-SMxx50.0.xml|11.00.00|
