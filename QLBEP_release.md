@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 06, 2022|LE.UM.1.2-80400-9x07|mdm9607-poky|LE.UM.1.2-80400-9x07.xml|
 February 04, 2022|LE.UM.4.1.1.c11-00400-sa515m|sa515m|LE.UM.4.1.1.c11-00400-sa515m.xml|
 February 04, 2022|LE.AU_EAP.1.0.c13-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-00400-eap-fsl.xml|
 February 03, 2022|LE.UM.4.2.3.r1-10200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-10200-QCS610.0.xml|
