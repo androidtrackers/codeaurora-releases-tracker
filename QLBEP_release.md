@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 08, 2022|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ|conn_sdk|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ.xml|
 February 07, 2022|LE.UM.3.2.3.c6-35100-SA2150p|sa2150p|LE.UM.3.2.3.c6-35100-SA2150p.xml|
 February 07, 2022|LE.UM.4.1.1.c9-32400-sa515m|sa515m|LE.UM.4.1.1.c9-32400-sa515m.xml|
 February 07, 2022|LE.AU_EAP.1.0.c10-33700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-33700-eap-fsl.xml|
