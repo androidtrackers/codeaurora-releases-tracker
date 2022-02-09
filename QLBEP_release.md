@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 30, 2022|LE.UM.5.3.1.r1-08300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-08300-genericarmv8-64.0.xml|
 February 08, 2022|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ|conn_sdk|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ.xml|
 February 07, 2022|LE.UM.3.2.3.c6-35100-SA2150p|sa2150p|LE.UM.3.2.3.c6-35100-SA2150p.xml|
 February 07, 2022|LE.UM.4.1.1.c9-32400-sa515m|sa515m|LE.UM.4.1.1.c9-32400-sa515m.xml|
@@ -11,7 +12,6 @@ February 03, 2022|LE.UM.4.2.3.r1-10200-QCS610.0|qcs610-odk-64-multimedia-fullsta
 February 01, 2022|LE.UM.6.2.3.r1-01300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-01300-SDX65.0.xml|
 February 01, 2022|LR.AU.0.1.1-00200-qtiquingvm.0|sa8295|LR.AU.0.1.1-00200-qtiquingvm.0.xml|
 January 31, 2022|LE.UM.4.1.1.c8-15300-sa515m|sa515m|LE.UM.4.1.1.c8-15300-sa515m.xml|
-January 30, 2022|LE.UM.5.3.1.r1-08300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-08300-genericarmv8-64.0.xml|
 January 29, 2022|LE.UM.6.2.3.r1-01200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-01200-SDX65.0.xml|
 January 29, 2022|LE.UM.4.4.2.r1-07900-SDX55|sdxprairie|LE.UM.4.4.2.r1-07900-SDX55.xml|
 January 28, 2022|LE.UM.5.3.2.r1-05900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-05900-SDX65.0.xml|

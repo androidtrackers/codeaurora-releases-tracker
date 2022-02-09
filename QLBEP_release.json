@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-08300-genericarmv8-64.0": {
+  "Date": "January 30, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-08300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-08300-genericarmv8-64.0.xml"
+ },
  "WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ": {
   "Date": "February 08, 2022",
   "Tag / Build ID": "WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ",
@@ -64,12 +70,6 @@
   "Tag / Build ID": "LE.UM.4.1.1.c8-15300-sa515m",
   "Chipset": "sa515m",
   "Manifest": "LE.UM.4.1.1.c8-15300-sa515m.xml"
- },
- "LE.UM.5.3.1.r1-08300-genericarmv8-64.0": {
-  "Date": "January 30, 2022",
-  "Tag / Build ID": "LE.UM.5.3.1.r1-08300-genericarmv8-64.0",
-  "Chipset": "genericarmv8-vm-debug",
-  "Manifest": "LE.UM.5.3.1.r1-08300-genericarmv8-64.0.xml"
  },
  "LE.UM.6.2.3.r1-01200-SDX65.0": {
   "Date": "January 29, 2022",
