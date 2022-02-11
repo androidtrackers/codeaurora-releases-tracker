@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 11, 2022|LE.UM.4.4.1.r3-09100-QRB5165.0|CS610|LE.UM.4.4.1.r3-09100-QRB5165.0.xml|
 February 09, 2022|LE.UM.4.4.1.r3-08800-QRB5165.0|CS610|LE.UM.4.4.1.r3-08800-QRB5165.0.xml|
 January 30, 2022|LE.UM.5.3.1.r1-08300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-08300-genericarmv8-64.0.xml|
 February 08, 2022|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ|conn_sdk|WLANHOST_AU.FSL.3.10-00500-QCA6574AUARMSDIOHZ.xml|
