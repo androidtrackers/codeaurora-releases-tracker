@@ -1,4 +1,11 @@
 {
+ "LA.UM.6.7.c26-09600-8x09.0": {
+  "Date": "February 14, 2022",
+  "Tag / Build ID": "LA.UM.6.7.c26-09600-8x09.0",
+  "Chipset": "msm8909go",
+  "Manifest": "LA.UM.6.7.c26-09600-8x09.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.8.12.4.r1-02800-QCS8250.0": {
   "Date": "February 14, 2022",
   "Tag / Build ID": "LA.UM.8.12.4.r1-02800-QCS8250.0",
