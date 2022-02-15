@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 15, 2022|LE.UM.6.3.4-07600-qcs405.0|qcs405-pine|LE.UM.6.3.4-07600-qcs405.0.xml|
 February 15, 2022|LE.UM.5.2.3.r1-08200-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08200-SDX12.xml|
 February 14, 2022|LE.UM.4.1.1.c9-33900-sa515m|sa515m|LE.UM.4.1.1.c9-33900-sa515m.xml|
 February 14, 2022|LE.UM.3.2.3.c6-36600-SA2150p|sa2150p|LE.UM.3.2.3.c6-36600-SA2150p.xml|

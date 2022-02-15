@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.4-07600-qcs405.0": {
+  "Date": "February 15, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-07600-qcs405.0",
+  "Chipset": "qcs405-pine",
+  "Manifest": "LE.UM.6.3.4-07600-qcs405.0.xml"
+ },
  "LE.UM.5.2.3.r1-08200-SDX12": {
   "Date": "February 15, 2022",
   "Tag / Build ID": "LE.UM.5.2.3.r1-08200-SDX12",
