@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 14, 2022|LA.VENDOR.1.0.r1-11400-WAIPIO.QSSI13.0|taro|LA.VENDOR.1.0.r1-11400-WAIPIO.QSSI13.0.xml|11.00.00|
 February 14, 2022|LA.UM.8.2.r2-05600-sdm660.0|sdm660_64|LA.UM.8.2.r2-05600-sdm660.0.xml|10.00.00|
 February 14, 2022|LA.VENDOR.1.0.r1-11400-WAIPIO.0|taro|LA.VENDOR.1.0.r1-11400-WAIPIO.0.xml|11.00.00|
 February 14, 2022|LA.UM.9.2.1.c26-01400-sdm660.0|sdm660_64|LA.UM.9.2.1.c26-01400-sdm660.0.xml|11.00.00|
