@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.3.4-08200-qcs405.0": {
+  "Date": "February 17, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-08200-qcs405.0",
+  "Chipset": "qcs405-pine",
+  "Manifest": "LE.UM.6.3.4-08200-qcs405.0.xml"
+ },
+ "LE.UM.4.1.1.c9-34500-sa515m": {
+  "Date": "February 17, 2022",
+  "Tag / Build ID": "LE.UM.4.1.1.c9-34500-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c9-34500-sa515m.xml"
+ },
  "LE.UM.4.3.1.r1-05900-genericarmv8-64.0": {
   "Date": "February 16, 2022",
   "Tag / Build ID": "LE.UM.4.3.1.r1-05900-genericarmv8-64.0",
