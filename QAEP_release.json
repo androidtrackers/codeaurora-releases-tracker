@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0.c1-08400-89xx.0": {
+  "Date": "February 17, 2022",
+  "Tag / Build ID": "LAW.BR.4.0.c1-08400-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-08400-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.9.16.r1-10000-MANNAR.0": {
   "Date": "February 17, 2022",
   "Tag / Build ID": "LA.UM.9.16.r1-10000-MANNAR.0",
