@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 22, 2022|LE.UM.5.2.1.r1-08800-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-08800-qcs405.0.xml|
 February 22, 2022|LE.UM.1.3-13200-SDX20|sdx20|LE.UM.1.3-13200-SDX20.xml|
 February 21, 2022|LE.UM.6.2.4.r1-01300-QCS610.0|QCS610|LE.UM.6.2.4.r1-01300-QCS610.0.xml|
 February 17, 2022|LE.UM.1.3-13100-SDX20|sdx20|LE.UM.1.3-13100-SDX20.xml|
