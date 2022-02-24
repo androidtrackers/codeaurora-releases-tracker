@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.3.c11-05900-SA2150p": {
+  "Date": "February 24, 2022",
+  "Tag / Build ID": "LE.UM.3.2.3.c11-05900-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c11-05900-SA2150p.xml"
+ },
  "LE.UM.5.2.3.r1-08300-SDX12": {
   "Date": "February 24, 2022",
   "Tag / Build ID": "LE.UM.5.2.3.r1-08300-SDX12",
