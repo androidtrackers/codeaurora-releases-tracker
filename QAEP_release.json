@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.r2-03600-MANNAR.0": {
+  "Date": "February 24, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r2-03600-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r2-03600-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.1.r1-05900-KAMORTA.0": {
   "Date": "February 23, 2022",
   "Tag / Build ID": "LA.UM.9.15.1.r1-05900-KAMORTA.0",
