@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.8.r1-04700-SDM710.0": {
+  "Date": "February 26, 2022",
+  "Tag / Build ID": "LA.UM.9.8.r1-04700-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.9.8.r1-04700-SDM710.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.3.4.r1-01500-gen3meta.0": {
   "Date": "February 25, 2022",
   "Tag / Build ID": "LA.AU.1.3.4.r1-01500-gen3meta.0",
