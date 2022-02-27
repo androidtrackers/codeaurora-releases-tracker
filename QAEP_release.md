@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 27, 2022|CAMERA.LA.2.0.r1-04200-WAIPIO.0|waipio|CAMERA.LA.2.0.r1-04200-WAIPIO.0.xml|00.00.00|
 February 26, 2022|KERNEL.PLATFORM.1.0.r1-07500-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-07500-kernel.0.xml||
 February 26, 2022|LA.UM.9.8.r1-04700-SDM710.0|sdm710|LA.UM.9.8.r1-04700-SDM710.0.xml|11.00.00|
 February 25, 2022|LA.AU.1.3.4.r1-01500-gen3meta.0|msmnile_au|LA.AU.1.3.4.r1-01500-gen3meta.0.xml|10.00.00|
