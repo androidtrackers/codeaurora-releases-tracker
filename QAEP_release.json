@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r1-07500-kernel.0": {
+  "Date": "February 26, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-07500-kernel.0",
+  "Chipset": "waipio",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-07500-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.8.r1-04700-SDM710.0": {
   "Date": "February 26, 2022",
   "Tag / Build ID": "LA.UM.9.8.r1-04700-SDM710.0",
