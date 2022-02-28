@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 27, 2022|LE.UM.6.2.4.r1-02100-QCS610.0|QCS610|LE.UM.6.2.4.r1-02100-QCS610.0.xml|
 February 25, 2022|LR.AU.0.1.1.r1-00800-gen4meta.0|sa8295|LR.AU.0.1.1.r1-00800-gen4meta.0.xml|
 February 25, 2022|LE.UM.4.1.1.c10-07700-sa515m|sa515m|LE.UM.4.1.1.c10-07700-sa515m.xml|
 February 24, 2022|LE.UM.3.2.3.c11-05900-SA2150p|sa2150p|LE.UM.3.2.3.c11-05900-SA2150p.xml|
