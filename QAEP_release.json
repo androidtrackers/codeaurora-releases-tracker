@@ -1,4 +1,11 @@
 {
+ "LA.UM.10.3.r1-01000-sdm845.0": {
+  "Date": "March 02, 2022",
+  "Tag / Build ID": "LA.UM.10.3.r1-01000-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.10.3.r1-01000-sdm845.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.8.8.1.c25-01000-QCS605.0": {
   "Date": "March 02, 2022",
   "Tag / Build ID": "LA.UM.8.8.1.c25-01000-QCS605.0",
