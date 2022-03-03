@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 03, 2022|LA.UM.9.12.r1-14000-SMxx50.0|kona|LA.UM.9.12.r1-14000-SMxx50.0.xml|11.00.00|
 March 03, 2022|LA.UM.10.6.2.r1-01200-89xx.0|msm8953_64|LA.UM.10.6.2.r1-01200-89xx.0.xml|12.00.00|
 March 03, 2022|LA.UM.9.16.r1-10100-MANNAR.0|holi|LA.UM.9.16.r1-10100-MANNAR.0.xml|11.00.00|
 March 03, 2022|LA.UM.8.12.4.r1-03100-QCS8250.0|kona|LA.UM.8.12.4.r1-03100-QCS8250.0.xml|10.00.00|
