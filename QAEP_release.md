@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 05, 2022|LA.UM.8.12.c3-50900-sm8250.0|kona|LA.UM.8.12.c3-50900-sm8250.0.xml|10.00.00|
 March 04, 2022|LA.AU.1.4.2.r1-00800-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-00800-gen3meta.0.xml|10.00.00|
 March 04, 2022|LA.AU.1.3.2.r2-03500-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r2-03500-sa8155_gvmq.0.xml|10.00.00|
 March 04, 2022|LA.UM.9.11.r1-05300-NICOBAR.QSSI12.0|trinket|LA.UM.9.11.r1-05300-NICOBAR.QSSI12.0.xml|11.00.00|
