@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0.c1-08900-89xx.0": {
+  "Date": "March 10, 2022",
+  "Tag / Build ID": "LAW.BR.4.0.c1-08900-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-08900-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.QSSI.12.0.r1-06400-qssi.0": {
   "Date": "March 09, 2022",
   "Tag / Build ID": "LA.QSSI.12.0.r1-06400-qssi.0",
