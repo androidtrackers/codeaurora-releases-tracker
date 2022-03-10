@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 10, 2022|LA.UM.8.8.2.r1-03100-QCS605.0|qcs605|LA.UM.8.8.2.r1-03100-QCS605.0.xml|10.00.00|
+March 10, 2022|LA.BR.1.2.7.c25-03200-8x09.0|msm8909|LA.BR.1.2.7.c25-03200-8x09.0.xml|06.00.01|
+March 10, 2022|LA.AU.1.4.2.r1-01100-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-01100-gen3meta.0.xml|10.00.00|
+March 10, 2022|LA.UM.9.6.4.r1-01700-89xx.QSSI12.0|msm8937_lily|LA.UM.9.6.4.r1-01700-89xx.QSSI12.0.xml|11.00.00|
 March 10, 2022|LA.AU.1.3.1.r2-00200-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-00200-sa8155.0.xml|10.00.00|
 March 10, 2022|LAW.BR.4.0.c1-08900-89xx.0|msm8937_32go|LAW.BR.4.0.c1-08900-89xx.0.xml|08.01.00|
 March 09, 2022|LA.QSSI.12.0.r1-06400-qssi.0|qssi|LA.QSSI.12.0.r1-06400-qssi.0.xml|11.00.00|
