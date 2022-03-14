@@ -1,4 +1,25 @@
 {
+ "VIDEO.LA.2.0.r1-03100-WAIPIO.0": {
+  "Date": "March 14, 2022",
+  "Tag / Build ID": "VIDEO.LA.2.0.r1-03100-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r1-03100-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "DISPLAY.LA.2.0.r1-05500-WAIPIO.0": {
+  "Date": "March 14, 2022",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-05500-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-05500-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r1-07800-kernel.0": {
+  "Date": "March 14, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-07800-kernel.0",
+  "Chipset": "waipio",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-07800-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.7.2.c25-05300-sdm660.0": {
   "Date": "March 11, 2022",
   "Tag / Build ID": "LA.UM.7.2.c25-05300-sdm660.0",

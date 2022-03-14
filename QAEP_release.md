@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 14, 2022|VIDEO.LA.2.0.r1-03100-WAIPIO.0|video|VIDEO.LA.2.0.r1-03100-WAIPIO.0.xml|00.00.00|
+March 14, 2022|DISPLAY.LA.2.0.r1-05500-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-05500-WAIPIO.0.xml|00.00.00|
+March 14, 2022|KERNEL.PLATFORM.1.0.r1-07800-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-07800-kernel.0.xml||
 March 11, 2022|LA.UM.7.2.c25-05300-sdm660.0|sdm660_64|LA.UM.7.2.c25-05300-sdm660.0.xml|09.00.00|
 March 10, 2022|LA.UM.8.6.2.c29-01900-89xx.0|msm8953_64|LA.UM.8.6.2.c29-01900-89xx.0.xml|10.00.00|
 March 10, 2022|LAW.BR.4.0-46400-89xx.0|msm8937_32go|LAW.BR.4.0-46400-89xx.0.xml|08.01.00|
