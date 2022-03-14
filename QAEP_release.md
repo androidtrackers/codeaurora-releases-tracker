@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 14, 2022|LA.VENDOR.1.0.r1-11900-WAIPIO.QSSI13.0|taro|LA.VENDOR.1.0.r1-11900-WAIPIO.QSSI13.0.xml|11.00.00|
 March 14, 2022|LA.VENDOR.1.0.r1-11900-WAIPIO.0|taro|LA.VENDOR.1.0.r1-11900-WAIPIO.0.xml|11.00.00|
 March 14, 2022|LA.QSSI.12.0.r1-06400.01-qssi.0|qssi|LA.QSSI.12.0.r1-06400.01-qssi.0.xml|11.00.00|
 March 14, 2022|CAMERA.LA.2.0.r1-04400-WAIPIO.0|waipio|CAMERA.LA.2.0.r1-04400-WAIPIO.0.xml|00.00.00|
