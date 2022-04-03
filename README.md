@@ -1,10 +1,10 @@
-# Codeaurora Releases Tracker
+# CodeLinaro ~~(CodeAurora)~~ Releases Tracker
 
-A python3 script that track Qualcomm code aurora fourms releases.
+A python3 script that track Qualcomm CodeLinaro ~~CodeAurora Forums~~ releases.
 
-Currently supports:
+Currently, it supports:
 
-- [Android for MSM Project](https://wiki.codeaurora.org/xwiki/bin/QAEP/release)
-- [Open Embedded for MSM](https://wiki.codeaurora.org/xwiki/bin/QLBEP/release)
+- [Android for MSM Project](https://wiki.codelinaro.org/en/wiki-la/release)
+- [Open Embedded for MSM](https://wiki.codelinaro.org/en/wiki-le/release)
 
-The scraped data is available in JSON and markdown formats.
+The scraped data is available in JSON and Markdown formats.
