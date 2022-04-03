@@ -1,4 +1,284 @@
 {
+ "LA.UM.10.6.2.r1-01600-89xx.0": {
+  "Date": "April 01, 2022",
+  "Tag / Build ID": "LA.UM.10.6.2.r1-01600-89xx.0",
+  "Chipset": "msm8953_64",
+  "Manifest": "LA.UM.10.6.2.r1-01600-89xx.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "LA.VENDOR.1.0.r1-12200-WAIPIO.QSSI13.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-12200-WAIPIO.QSSI13.0",
+  "Chipset": "taro",
+  "Manifest": "LA.VENDOR.1.0.r1-12200-WAIPIO.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.15.c25-01200-KAMORTA.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.UM.8.15.c25-01200-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.8.15.c25-01200-KAMORTA.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.VENDOR.1.0.r1-12200-WAIPIO.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-12200-WAIPIO.0",
+  "Chipset": "taro",
+  "Manifest": "LA.VENDOR.1.0.r1-12200-WAIPIO.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.12.1.r1-01100-SMxx50.QSSI12.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.UM.9.12.1.r1-01100-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.1.r1-01100-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.10.9.1.r1-01900-QCS610.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.UM.10.9.1.r1-01900-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LA.UM.10.9.1.r1-01900-QCS610.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r1-08100-kernel.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-08100-kernel.0",
+  "Chipset": "waipio",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-08100-kernel.0.xml",
+  "Android Version": ""
+ },
+ "CAMERA.LA.2.0.r1-04700-WAIPIO.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "CAMERA.LA.2.0.r1-04700-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r1-04700-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "VIDEO.LA.2.0.r1-03400-WAIPIO.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "VIDEO.LA.2.0.r1-03400-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r1-03400-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.QSSI.12.0.r1-06600.02-qssi.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-06600.02-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-06600.02-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "DISPLAY.LA.2.0.r1-05600-WAIPIO.0": {
+  "Date": "March 31, 2022",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-05600-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-05600-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.AU.1.3.6.r1-00200-gen3meta.0": {
+  "Date": "March 30, 2022",
+  "Tag / Build ID": "LA.AU.1.3.6.r1-00200-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.3.6.r1-00200-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.8.12.4.r1-03400-QCS8250.0": {
+  "Date": "March 30, 2022",
+  "Tag / Build ID": "LA.UM.8.12.4.r1-03400-QCS8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.4.r1-03400-QCS8250.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.7.3.c25-01300-sdm845.0": {
+  "Date": "March 30, 2022",
+  "Tag / Build ID": "LA.UM.7.3.c25-01300-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.7.3.c25-01300-sdm845.0.xml",
+  "Android Version": "09.00.00"
+ },
+ "LA.UM.9.6.2.c26-01700-89xx.0": {
+  "Date": "March 30, 2022",
+  "Tag / Build ID": "LA.UM.9.6.2.c26-01700-89xx.0",
+  "Chipset": "msm8953_64",
+  "Manifest": "LA.UM.9.6.2.c26-01700-89xx.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.6.2.c31-01300-89xx.0": {
+  "Date": "March 29, 2022",
+  "Tag / Build ID": "LA.UM.8.6.2.c31-01300-89xx.0",
+  "Chipset": "msm8953_64",
+  "Manifest": "LA.UM.8.6.2.c31-01300-89xx.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r2-00200-NEO.0": {
+  "Date": "March 29, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-00200-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-00200-NEO.0.xml",
+  "Android Version": ""
+ },
+ "LA.UM.9.8.r1-04800-SDM710.0": {
+  "Date": "March 29, 2022",
+  "Tag / Build ID": "LA.UM.9.8.r1-04800-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.9.8.r1-04800-SDM710.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.1.r1-11700.07-SMxxx0.QSSI13.0": {
+  "Date": "March 29, 2022",
+  "Tag / Build ID": "LA.UM.9.1.r1-11700.07-SMxxx0.QSSI13.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.9.1.r1-11700.07-SMxxx0.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.AU.1.3.2.r4-00300-sa8155_gvmq.0": {
+  "Date": "March 28, 2022",
+  "Tag / Build ID": "LA.AU.1.3.2.r4-00300-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.3.2.r4-00300-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.AU.0.2.0.r1-03800-gen3_gvmgh.0": {
+  "Date": "March 25, 2022",
+  "Tag / Build ID": "LA.AU.0.2.0.r1-03800-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.0.2.0.r1-03800-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.15.1.r1-06200-KAMORTA.0": {
+  "Date": "March 25, 2022",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-06200-KAMORTA.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.1.r1-06200-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.16.r1-10300.01-MANNAR.QSSI12.0": {
+  "Date": "March 25, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r1-10300.01-MANNAR.QSSI12.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-10300.01-MANNAR.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.14.1.r1-05900-QCM6490.0": {
+  "Date": "March 24, 2022",
+  "Tag / Build ID": "LA.UM.9.14.1.r1-05900-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.r1-05900-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.8.8.1.r1-07000-QCS605.0": {
+  "Date": "March 24, 2022",
+  "Tag / Build ID": "LA.UM.8.8.1.r1-07000-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.8.8.1.r1-07000-QCS605.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.AU.1.4.2.r1-01400-gen3meta.0": {
+  "Date": "March 23, 2022",
+  "Tag / Build ID": "LA.AU.1.4.2.r1-01400-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.4.2.r1-01400-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.15.r1-05800.03-KAMORTA.QSSI13.0": {
+  "Date": "March 22, 2022",
+  "Tag / Build ID": "LA.UM.9.15.r1-05800.03-KAMORTA.QSSI13.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-05800.03-KAMORTA.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.1.r1-11700.03-SMxxx0.QSSI12.0": {
+  "Date": "March 22, 2022",
+  "Tag / Build ID": "LA.UM.9.1.r1-11700.03-SMxxx0.QSSI12.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.9.1.r1-11700.03-SMxxx0.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.16.r1-10300-MANNAR.QSSI13.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r1-10300-MANNAR.QSSI13.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-10300-MANNAR.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.QSSI.12.0.r1-06500-qssi.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-06500-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-06500-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.12.r1-14000.04-SMxx50.QSSI13.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.12.r1-14000.04-SMxx50.QSSI13.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.r1-14000.04-SMxx50.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.15.2.r1-02900-KAMORTA.QSSI12": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.15.2.r1-02900-KAMORTA.QSSI12",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.2.r1-02900-KAMORTA.QSSI12.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.15.r1-05800.01-KAMORTA.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.15.r1-05800.01-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-05800.01-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.12.r1-14000.04-SMxx50.QSSI12.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.UM.9.12.r1-14000.04-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.r1-14000.04-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.HB.1.1.8-06510-8x96.0": {
+  "Date": "March 21, 2022",
+  "Tag / Build ID": "LA.HB.1.1.8-06510-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.8-06510-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
+ "LA.AU.0.2.0.r1-03700-gen3_gvmgh.0": {
+  "Date": "March 18, 2022",
+  "Tag / Build ID": "LA.AU.0.2.0.r1-03700-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.0.2.0.r1-03700-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.16.r1-10300-MANNAR.0": {
+  "Date": "March 16, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r1-10300-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-10300-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.AU.1.4.2.r1-01300-gen3meta.0": {
+  "Date": "March 16, 2022",
+  "Tag / Build ID": "LA.AU.1.4.2.r1-01300-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.4.2.r1-01300-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.16.r2-03800-MANNAR.0": {
+  "Date": "March 16, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r2-03800-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r2-03800-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.r1-19300-LAHAINA.QSSI13.0": {
   "Date": "March 15, 2022",
   "Tag / Build ID": "LA.UM.9.14.r1-19300-LAHAINA.QSSI13.0",
@@ -174,6 +454,20 @@
   "Manifest": "LA.UM.9.6.4.r1-01700-89xx.QSSI12.0.xml",
   "Android Version": "11.00.00"
  },
+ "LA.AU.1.2.2.r1-03800-gen3meta.0": {
+  "Date": "March 10, 2022",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-03800-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.2.2.r1-03800-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.HB.1.1.5-16810-8x96.0": {
+  "Date": "March 10, 2022",
+  "Tag / Build ID": "LA.HB.1.1.5-16810-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-16810-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.AU.1.3.1.r2-00200-sa8155.0": {
   "Date": "March 10, 2022",
   "Tag / Build ID": "LA.AU.1.3.1.r2-00200-sa8155.0",
@@ -182,7 +476,7 @@
   "Android Version": "10.00.00"
  },
  "LAW.BR.4.0.c1-08900-89xx.0": {
-  "Date": "March 10, 2022",
+  "Date": "March 09, 2022",
   "Tag / Build ID": "LAW.BR.4.0.c1-08900-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0.c1-08900-89xx.0.xml",
@@ -280,7 +574,7 @@
   "Android Version": "10.00.00"
  },
  "LA.UM.9.12.1.r1-00900-SMxx50.QSSI12.0": {
-  "Date": "March 07, 2022",
+  "Date": "March 06, 2022",
   "Tag / Build ID": "LA.UM.9.12.1.r1-00900-SMxx50.QSSI12.0",
   "Chipset": "kona",
   "Manifest": "LA.UM.9.12.1.r1-00900-SMxx50.QSSI12.0.xml",
@@ -306,6 +600,13 @@
   "Chipset": "msmnile_gvmq",
   "Manifest": "LA.AU.1.3.2.r2-03500-sa8155_gvmq.0.xml",
   "Android Version": "10.00.00"
+ },
+ "LA.UM.9.11.r1-05300-NICOBAR.0": {
+  "Date": "March 04, 2022",
+  "Tag / Build ID": "LA.UM.9.11.r1-05300-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.9.11.r1-05300-NICOBAR.0.xml",
+  "Android Version": "11.00.00"
  },
  "LA.UM.9.11.r1-05300-NICOBAR.QSSI12.0": {
   "Date": "March 04, 2022",
@@ -364,10 +665,17 @@
   "Android Version": "11.00.00"
  },
  "LA.UM.8.12.3-18000-sm8250.0": {
-  "Date": "March 03, 2022",
+  "Date": "March 02, 2022",
   "Tag / Build ID": "LA.UM.8.12.3-18000-sm8250.0",
   "Chipset": "kona",
   "Manifest": "LA.UM.8.12.3-18000-sm8250.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.8.11.r1-06000-NICOBAR.0": {
+  "Date": "March 03, 2022",
+  "Tag / Build ID": "LA.UM.8.11.r1-06000-NICOBAR.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.8.11.r1-06000-NICOBAR.0.xml",
   "Android Version": "10.00.00"
  },
  "LA.QSSI.11.0.r1-15000-qssi.0": {
@@ -462,7 +770,7 @@
   "Android Version": ""
  },
  "LA.UM.9.8.r1-04700-SDM710.0": {
-  "Date": "February 26, 2022",
+  "Date": "February 25, 2022",
   "Tag / Build ID": "LA.UM.9.8.r1-04700-SDM710.0",
   "Chipset": "sdm710",
   "Manifest": "LA.UM.9.8.r1-04700-SDM710.0.xml",
@@ -483,11 +791,18 @@
   "Android Version": "11.00.00"
  },
  "LA.QSSI.12.0.r1-06300.01-qssi.0": {
-  "Date": "February 25, 2022",
+  "Date": "February 24, 2022",
   "Tag / Build ID": "LA.QSSI.12.0.r1-06300.01-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06300.01-qssi.0.xml",
   "Android Version": "11.00.00"
+ },
+ "LA.AU.1.4.2.r1-00500-gen3meta.0": {
+  "Date": "January 27, 2022",
+  "Tag / Build ID": "LA.AU.1.4.2.r1-00500-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.4.2.r1-00500-gen3meta.0.xml",
+  "Android Version": "10.00.00"
  },
  "LA.UM.9.16.r1-10000.02-MANNAR.QSSI12.0": {
   "Date": "February 24, 2022",
@@ -546,7 +861,7 @@
   "Android Version": "09.00.00"
  },
  "LA.UM.8.12.2.r1-03400-QCS8250.0": {
-  "Date": "February 21, 2022",
+  "Date": "February 20, 2022",
   "Tag / Build ID": "LA.UM.8.12.2.r1-03400-QCS8250.0",
   "Chipset": "kona",
   "Manifest": "LA.UM.8.12.2.r1-03400-QCS8250.0.xml",
@@ -616,7 +931,7 @@
   "Android Version": "11.00.00"
  },
  "LA.UM.9.15.r1-05600.01-KAMORTA.0": {
-  "Date": "February 17, 2022",
+  "Date": "February 16, 2022",
   "Tag / Build ID": "LA.UM.9.15.r1-05600.01-KAMORTA.0",
   "Chipset": "bengal",
   "Manifest": "LA.UM.9.15.r1-05600.01-KAMORTA.0.xml",
@@ -644,7 +959,7 @@
   "Android Version": "08.01.00"
  },
  "LA.UM.7.7.c26-07500-8x09.0": {
-  "Date": "February 15, 2022",
+  "Date": "February 14, 2022",
   "Tag / Build ID": "LA.UM.7.7.c26-07500-8x09.0",
   "Chipset": "msm8909",
   "Manifest": "LA.UM.7.7.c26-07500-8x09.0.xml",
@@ -727,13 +1042,6 @@
   "Manifest": "LA.UM.8.6.2.c27-02600-89xx.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.UM.8.2.1.c25-03500-sdm660.0": {
-  "Date": "February 13, 2022",
-  "Tag / Build ID": "LA.UM.8.2.1.c25-03500-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.1.c25-03500-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
  "LA.QSSI.12.0.r1-06100.02-qssi.0": {
   "Date": "February 13, 2022",
   "Tag / Build ID": "LA.QSSI.12.0.r1-06100.02-qssi.0",
@@ -748,12 +1056,33 @@
   "Manifest": "LA.UM.9.15.2.r1-02600-KAMORTA.QSSI12.0.xml",
   "Android Version": "11.00.00"
  },
+ "LA.UM.8.2.1.c25-03500-sdm660.0": {
+  "Date": "February 10, 2022",
+  "Tag / Build ID": "LA.UM.8.2.1.c25-03500-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.8.2.1.c25-03500-sdm660.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.10.2.1.r1-03300-sdm660.0": {
+  "Date": "February 10, 2022",
+  "Tag / Build ID": "LA.UM.10.2.1.r1-03300-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.10.2.1.r1-03300-sdm660.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.7.6.2.c26-03200-89xx.0": {
   "Date": "February 10, 2022",
   "Tag / Build ID": "LA.UM.7.6.2.c26-03200-89xx.0",
   "Chipset": "msm8953_64",
   "Manifest": "LA.UM.7.6.2.c26-03200-89xx.0.xml",
   "Android Version": "09.00.00"
+ },
+ "LA.UM.10.3.r1-00900-sdm845.0": {
+  "Date": "February 10, 2022",
+  "Tag / Build ID": "LA.UM.10.3.r1-00900-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.10.3.r1-00900-sdm845.0.xml",
+  "Android Version": "12.00.00"
  },
  "LA.UM.8.9.r1-12700-SM6xx.0": {
   "Date": "February 10, 2022",
@@ -770,7 +1099,7 @@
   "Android Version": "11.00.00"
  },
  "LA.UM.5.7.c25-08800-8x98.0": {
-  "Date": "February 10, 2022",
+  "Date": "February 09, 2022",
   "Tag / Build ID": "LA.UM.5.7.c25-08800-8x98.0",
   "Chipset": "msm8998",
   "Manifest": "LA.UM.5.7.c25-08800-8x98.0.xml",
@@ -938,21 +1267,21 @@
   "Android Version": "10.00.00"
  },
  "CAMERA.LA.2.0.r1-03400-WAIPIO.0": {
-  "Date": "February 04, 2022",
+  "Date": "February 03, 2022",
   "Tag / Build ID": "CAMERA.LA.2.0.r1-03400-WAIPIO.0",
   "Chipset": "camera",
   "Manifest": "CAMERA.LA.2.0.r1-03400-WAIPIO.0.xml",
   "Android Version": "00.00.00"
  },
  "VIDEO.LA.2.0.r1-02700-WAIPIO.0": {
-  "Date": "February 04, 2022",
+  "Date": "February 03, 2022",
   "Tag / Build ID": "VIDEO.LA.2.0.r1-02700-WAIPIO.0",
   "Chipset": "video",
   "Manifest": "VIDEO.LA.2.0.r1-02700-WAIPIO.0.xml",
   "Android Version": "00.00.00"
  },
  "DISPLAY.LA.2.0.r1-05000-WAIPIO.0": {
-  "Date": "February 04, 2022",
+  "Date": "February 03, 2022",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-05000-WAIPIO.0",
   "Chipset": "tpdu",
   "Manifest": "DISPLAY.LA.2.0.r1-05000-WAIPIO.0.xml",
@@ -987,7 +1316,7 @@
   "Android Version": "10.00.00"
  },
  "LA.BR.1.2.9.c26-02700-8x09.0": {
-  "Date": "February 02, 2022",
+  "Date": "February 01, 2022",
   "Tag / Build ID": "LA.BR.1.2.9.c26-02700-8x09.0",
   "Chipset": "msm8909",
   "Manifest": "LA.BR.1.2.9.c26-02700-8x09.0.xml",
@@ -1036,7 +1365,7 @@
   "Android Version": "08.01.00"
  },
  "LA.UM.9.12.1.r1-00600-SMxx50.QSSI12.0": {
-  "Date": "January 31, 2022",
+  "Date": "January 30, 2022",
   "Tag / Build ID": "LA.UM.9.12.1.r1-00600-SMxx50.QSSI12.0",
   "Chipset": "kona",
   "Manifest": "LA.UM.9.12.1.r1-00600-SMxx50.QSSI12.0.xml",
@@ -1126,20 +1455,6 @@
   "Manifest": "LA.UM.8.8.2.r1-03000-QCS605.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.AU.1.4.2.r1-00500-gen3meta.0": {
-  "Date": "January 27, 2022",
-  "Tag / Build ID": "LA.AU.1.4.2.r1-00500-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.4.2.r1-00500-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.10.9.1.r1-00800-QCS610.0": {
-  "Date": "January 25, 2022",
-  "Tag / Build ID": "LA.UM.10.9.1.r1-00800-QCS610.0",
-  "Chipset": "sm6150",
-  "Manifest": "LA.UM.10.9.1.r1-00800-QCS610.0.xml",
-  "Android Version": "10.00.00"
- },
  "LA.UM.9.15.1.r1-05700-KAMORTA.0": {
   "Date": "January 25, 2022",
   "Tag / Build ID": "LA.UM.9.15.1.r1-05700-KAMORTA.0",
@@ -1162,7 +1477,7 @@
   "Android Version": "10.00.00"
  },
  "LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0": {
-  "Date": "January 25, 2022",
+  "Date": "January 24, 2022",
   "Tag / Build ID": "LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0",
   "Chipset": "kona",
   "Manifest": "LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0.xml",
@@ -1245,6 +1560,13 @@
   "Manifest": "LA.UM.9.6.3.r1-05600-89xx.0.xml",
   "Android Version": "11.00.00"
  },
+ "LA.QSSI.11.0.r1-14400-qssi.0": {
+  "Date": "January 19, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-14400-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-14400-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.12.r1-13700-SMxx50.QSSI12.0": {
   "Date": "January 18, 2022",
   "Tag / Build ID": "LA.UM.9.12.r1-13700-SMxx50.QSSI12.0",
@@ -1253,7 +1575,7 @@
   "Android Version": "11.00.00"
  },
  "LA.UM.9.15.r1-05400-KAMORTA.0": {
-  "Date": "January 18, 2022",
+  "Date": "January 17, 2022",
   "Tag / Build ID": "LA.UM.9.15.r1-05400-KAMORTA.0",
   "Chipset": "bengal",
   "Manifest": "LA.UM.9.15.r1-05400-KAMORTA.0.xml",
@@ -1267,24 +1589,10 @@
   "Android Version": "07.01.02"
  },
  "LAW.BR.5.1.r1-08600-89xx.0": {
-  "Date": "December 06, 2021",
+  "Date": "January 15, 2022",
   "Tag / Build ID": "LAW.BR.5.1.r1-08600-89xx.0",
   "Chipset": "sdm429w_law",
   "Manifest": "LAW.BR.5.1.r1-08600-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.1.3.3.r1-03500-gen3meta.0": {
-  "Date": "January 14, 2022",
-  "Tag / Build ID": "LA.AU.1.3.3.r1-03500-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.3.3.r1-03500-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.11.0.r1-14400-qssi.0": {
-  "Date": "January 14, 2022",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14400-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14400-qssi.0.xml",
   "Android Version": "11.00.00"
  },
  "LA.UM.6.2.c26-08400-sdm660.0": {
@@ -1322,29 +1630,8 @@
   "Manifest": "LA.UM.8.2.c25-05000-sdm660.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.AU.0.2.0.r1-02800-gen3_gvmgh.0": {
-  "Date": "January 13, 2022",
-  "Tag / Build ID": "LA.AU.0.2.0.r1-02800-gen3_gvmgh.0",
-  "Chipset": "msmnile_gvmgh",
-  "Manifest": "LA.AU.0.2.0.r1-02800-gen3_gvmgh.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r2-03300-MANNAR.0": {
-  "Date": "January 12, 2022",
-  "Tag / Build ID": "LA.UM.9.16.r2-03300-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-03300-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05600.02-qssi.0": {
-  "Date": "January 12, 2022",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05600.02-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05600.02-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
  "LAW.BR.4.0.c1-07600-89xx.0": {
-  "Date": "December 28, 2021",
+  "Date": "January 12, 2022",
   "Tag / Build ID": "LAW.BR.4.0.c1-07600-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0.c1-07600-89xx.0.xml",
@@ -1371,13 +1658,6 @@
   "Manifest": "LA.UM.8.4.c25-04500-8x98.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.UM.10.2.1.r1-03200-sdm660.0": {
-  "Date": "January 07, 2022",
-  "Tag / Build ID": "LA.UM.10.2.1.r1-03200-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.10.2.1.r1-03200-sdm660.0.xml",
-  "Android Version": "12.00.00"
- },
  "LA.BR.1.3.7.c26-04300-8976.0": {
   "Date": "January 11, 2022",
   "Tag / Build ID": "LA.BR.1.3.7.c26-04300-8976.0",
@@ -1393,7 +1673,7 @@
   "Android Version": "08.01.00"
  },
  "LA.AU.1.3.3.r1-03400-gen3meta.0": {
-  "Date": "January 07, 2022",
+  "Date": "January 11, 2022",
   "Tag / Build ID": "LA.AU.1.3.3.r1-03400-gen3meta.0",
   "Chipset": "msmnile_au",
   "Manifest": "LA.AU.1.3.3.r1-03400-gen3meta.0.xml",
@@ -1413,26 +1693,12 @@
   "Manifest": "LA.UM.6.1.1.c25-02300-sdm660.0.xml",
   "Android Version": "07.01.01"
  },
- "LA.QSSI.12.0.r1-05600.01-qssi.0": {
-  "Date": "January 10, 2022",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05600.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05600.01-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
  "LA.UM.5.7.c25-08500-8x98.0": {
   "Date": "January 10, 2022",
   "Tag / Build ID": "LA.UM.5.7.c25-08500-8x98.0",
   "Chipset": "msm8998",
   "Manifest": "LA.UM.5.7.c25-08500-8x98.0.xml",
   "Android Version": "07.01.01"
- },
- "LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0": {
-  "Date": "January 10, 2022",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.2.r1-01900-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
  },
  "LA.UM.8.6.2.c31-00800-89xx.0": {
   "Date": "January 10, 2022",
@@ -1441,33 +1707,40 @@
   "Manifest": "LA.UM.8.6.2.c31-00800-89xx.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.UM.9.15.2.r1-02000-KAMORTA.QSSI12.0": {
-  "Date": "January 07, 2022",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-02000-KAMORTA.QSSI12.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.2.r1-02000-KAMORTA.QSSI12.0.xml",
+ "LA.UM.9.12.r1-13600-SMxx50.0": {
+  "Date": "January 10, 2022",
+  "Tag / Build ID": "LA.UM.9.12.r1-13600-SMxx50.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.r1-13600-SMxx50.0.xml",
   "Android Version": "11.00.00"
  },
- "LA.UM.8.12.2.r1-03000-QCS8250.0": {
-  "Date": "January 06, 2022",
-  "Tag / Build ID": "LA.UM.8.12.2.r1-03000-QCS8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.2.r1-03000-QCS8250.0.xml",
-  "Android Version": "10.00.00"
+ "LA.UM.9.16.r1-08800-MANNAR.0": {
+  "Date": "January 09, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r1-08800-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-08800-MANNAR.0.xml",
+  "Android Version": "11.00.00"
  },
- "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0": {
-  "Date": "January 06, 2022",
-  "Tag / Build ID": "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0",
-  "Chipset": "msm8937_lily",
-  "Manifest": "LA.UM.9.6.4.r1-00800-89xx.QSSI12.0.xml",
+ "LA.QSSI.11.0.r1-14200-qssi.0": {
+  "Date": "January 09, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-14200-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-14200-qssi.0.xml",
   "Android Version": "11.00.00"
  },
  "LA.UM.9.11.r1-05100-NICOBAR.0": {
-  "Date": "January 05, 2022",
+  "Date": "January 08, 2022",
   "Tag / Build ID": "LA.UM.9.11.r1-05100-NICOBAR.0",
   "Chipset": "trinket",
   "Manifest": "LA.UM.9.11.r1-05100-NICOBAR.0.xml",
   "Android Version": "11.00.00"
+ },
+ "LA.UM.10.3.r1-00600-sdm845.0": {
+  "Date": "January 07, 2022",
+  "Tag / Build ID": "LA.UM.10.3.r1-00600-sdm845.0",
+  "Chipset": "sdm845",
+  "Manifest": "LA.UM.10.3.r1-00600-sdm845.0.xml",
+  "Android Version": "12.00.00"
  },
  "LA.UM.8.11.1.c1-06100-SA6125.0": {
   "Date": "January 05, 2022",
@@ -1476,1817 +1749,74 @@
   "Manifest": "LA.UM.8.11.1.c1-06100-SA6125.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.UM.10.6.2.r1-00800-89xx.0": {
-  "Date": "January 05, 2022",
-  "Tag / Build ID": "LA.UM.10.6.2.r1-00800-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.10.6.2.r1-00800-89xx.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.9.12.r1-13600-SMxx50.0": {
-  "Date": "January 04, 2022",
-  "Tag / Build ID": "LA.UM.9.12.r1-13600-SMxx50.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13600-SMxx50.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-08800-MANNAR.0": {
-  "Date": "January 04, 2022",
-  "Tag / Build ID": "LA.UM.9.16.r1-08800-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08800-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.1.r1-11500-SMxxx0.0": {
-  "Date": "January 03, 2022",
-  "Tag / Build ID": "LA.UM.9.1.r1-11500-SMxxx0.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11500-SMxxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.1.r1-00300-SMxx50.QSSI12.0": {
-  "Date": "January 02, 2022",
-  "Tag / Build ID": "LA.UM.9.12.1.r1-00300-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.1.r1-00300-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05600-qssi.0": {
-  "Date": "January 02, 2022",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05600-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05600-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r2-03200-MANNAR.0": {
-  "Date": "December 31, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-03200-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-03200-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.10.3.r1-00600-sdm845.0": {
-  "Date": "December 31, 2021",
-  "Tag / Build ID": "LA.UM.10.3.r1-00600-sdm845.0",
-  "Chipset": "sdm845",
-  "Manifest": "LA.UM.10.3.r1-00600-sdm845.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.QSSI.11.0.r1-14300-qssi.0": {
-  "Date": "December 31, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14300-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14300-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c30-00900-89xx.0": {
-  "Date": "December 31, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c30-00900-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c30-00900-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.6.2.c29-01100-89xx.0": {
-  "Date": "December 30, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c29-01100-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.8.6.2.c29-01100-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
  "LA.UM.8.8.c25-01300-SDM710.0": {
-  "Date": "December 23, 2021",
+  "Date": "December 29, 2021",
   "Tag / Build ID": "LA.UM.8.8.c25-01300-SDM710.0",
   "Chipset": "sdm710",
   "Manifest": "LA.UM.8.8.c25-01300-SDM710.0.xml",
   "Android Version": "10.00.00"
  },
- "LA.AU.0.2.0.r1-02500-gen3_gvmgh.0": {
-  "Date": "December 29, 2021",
-  "Tag / Build ID": "LA.AU.0.2.0.r1-02500-gen3_gvmgh.0",
-  "Chipset": "msmnile_gvmgh",
-  "Manifest": "LA.AU.0.2.0.r1-02500-gen3_gvmgh.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.2.r3-02100-sa8295_gvmq.0": {
-  "Date": "December 28, 2021",
-  "Tag / Build ID": "LA.AU.1.3.2.r3-02100-sa8295_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.1.3.2.r3-02100-sa8295_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0": {
-  "Date": "December 28, 2021",
-  "Tag / Build ID": "LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.r1-05100-NICOBAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.8.r1-04400-SDM710.0": {
-  "Date": "December 28, 2021",
-  "Tag / Build ID": "LA.UM.9.8.r1-04400-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.9.8.r1-04400-SDM710.0.xml",
-  "Android Version": "11.00.00"
- },
  "LA.UM.6.7.c26-08600-8x09.0": {
-  "Date": "December 22, 2021",
+  "Date": "December 27, 2021",
   "Tag / Build ID": "LA.UM.6.7.c26-08600-8x09.0",
-  "Chipset": "msm8909",
+  "Chipset": "msm8909go",
   "Manifest": "LA.UM.6.7.c26-08600-8x09.0.xml",
   "Android Version": "08.01.00"
  },
- "LA.UM.9.15.r1-05300.03-KAMORTA.QSSI12.0": {
-  "Date": "December 27, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05300.03-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05300.03-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-05000-QCM6490.QSSI12.0": {
-  "Date": "December 26, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-05000-QCM6490.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-05000-QCM6490.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.12.c3-48300-sm8250.0": {
-  "Date": "December 24, 2021",
-  "Tag / Build ID": "LA.UM.8.12.c3-48300-sm8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.c3-48300-sm8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.6.2.c25-03300-89xx.0": {
-  "Date": "December 24, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c25-03300-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c25-03300-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.1.r1-05300-KAMORTA.0": {
-  "Date": "December 23, 2021",
-  "Tag / Build ID": "LA.UM.9.15.1.r1-05300-KAMORTA.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.1.r1-05300-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.3.c25-05000-sdm845.0": {
-  "Date": "December 23, 2021",
-  "Tag / Build ID": "LA.UM.8.3.c25-05000-sdm845.0",
-  "Chipset": "sdm845",
-  "Manifest": "LA.UM.8.3.c25-05000-sdm845.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r1-08700.03-MANNAR.0": {
-  "Date": "December 23, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08700.03-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08700.03-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-05000-QCM6490.0": {
-  "Date": "December 22, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-05000-QCM6490.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-05000-QCM6490.0.xml",
-  "Android Version": "11.00.00"
- },
  "LAW.BR.4.0-44600-89xx.0": {
-  "Date": "November 30, 2021",
+  "Date": "December 21, 2021",
   "Tag / Build ID": "LAW.BR.4.0-44600-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0-44600-89xx.0.xml",
   "Android Version": "08.01.00"
  },
- "LA.UM.9.16.r1-08700-MANNAR.0": {
-  "Date": "December 21, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08700-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08700-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
  "LAW.BR.4.0.c1-06900-89xx.0": {
-  "Date": "November 30, 2021",
+  "Date": "December 21, 2021",
   "Tag / Build ID": "LAW.BR.4.0.c1-06900-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0.c1-06900-89xx.0.xml",
   "Android Version": "08.01.00"
  },
- "LA.UM.8.2.r2-05400-sdm660.0": {
-  "Date": "December 21, 2021",
-  "Tag / Build ID": "LA.UM.8.2.r2-05400-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.r2-05400-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0": {
-  "Date": "December 21, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.r1-18600.02-LAHAINA.QSSI12.0": {
-  "Date": "December 20, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18600.02-LAHAINA.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18600.02-LAHAINA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-05300-KAMORTA.0": {
-  "Date": "December 19, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05300-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05300-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-14200.02-qssi.0": {
-  "Date": "December 18, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14200.02-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14200.02-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.2.r1-02700-QCS605.0": {
-  "Date": "December 17, 2021",
-  "Tag / Build ID": "LA.UM.8.8.2.r1-02700-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.2.r1-02700-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
  "LAW.BR.3.0-26300-8x09w.0": {
-  "Date": "November 17, 2021",
+  "Date": "December 18, 2021",
   "Tag / Build ID": "LAW.BR.3.0-26300-8x09w.0",
   "Chipset": "msm8909w",
   "Manifest": "LAW.BR.3.0-26300-8x09w.0.xml",
   "Android Version": "08.01.00"
  },
  "LAW.BR.3.0.c3-09600-8x09w.0": {
-  "Date": "November 17, 2021",
+  "Date": "December 18, 2021",
   "Tag / Build ID": "LAW.BR.3.0.c3-09600-8x09w.0",
   "Chipset": "msm8909w",
   "Manifest": "LAW.BR.3.0.c3-09600-8x09w.0.xml",
   "Android Version": "08.01.00"
  },
  "LAW.BR.4.0.c1-06400-89xx.0": {
-  "Date": "October 14, 2021",
+  "Date": "December 18, 2021",
   "Tag / Build ID": "LAW.BR.4.0.c1-06400-89xx.0",
   "Chipset": "msm8937_32go",
   "Manifest": "LAW.BR.4.0.c1-06400-89xx.0.xml",
   "Android Version": "08.01.00"
  },
- "LA.UM.9.16.r1-08500.01-MANNAR.QSSI12.0": {
-  "Date": "December 17, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08500.01-MANNAR.QSSI12.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08500.01-MANNAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05400-qssi.0": {
-  "Date": "December 17, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05400-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05400-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r2-03100-MANNAR.0": {
-  "Date": "December 17, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-03100-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-03100-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-14200-qssi.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14200-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14200-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.7.6.2.c26-02600-89xx.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.7.6.2.c26-02600-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.7.6.2.c26-02600-89xx.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.9.14.r1-18600-LAHAINA.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18600-LAHAINA.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18600-LAHAINA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.2.1.c25-00700-sdm660.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.2.1.c25-00700-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.1.c25-00700-sdm660.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.11.1.r1-01200-QCM6125.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.11.1.r1-01200-QCM6125.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.1.r1-01200-QCM6125.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.7.8.r1-11400-SDM710.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.7.8.r1-11400-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.7.8.r1-11400-SDM710.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.9.2.1.c26-00800-sdm660.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.2.1.c26-00800-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.1.c26-00800-sdm660.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.11.1.c25-00600-QCM6125.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.8.11.1.c25-00600-QCM6125.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.8.11.1.c25-00600-QCM6125.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.6.2.c25-01800-89xx.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.6.2.c25-01800-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.9.6.2.c25-01800-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.4.r1-00500-89xx.QSSI12.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.9.6.4.r1-00500-89xx.QSSI12.0",
-  "Chipset": "msm8937_lily",
-  "Manifest": "LA.UM.9.6.4.r1-00500-89xx.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.7.7.c26-06800-8x09.0": {
-  "Date": "December 16, 2021",
-  "Tag / Build ID": "LA.UM.7.7.c26-06800-8x09.0",
-  "Chipset": "msm8909",
-  "Manifest": "LA.UM.7.7.c26-06800-8x09.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.8.1.r1-05700-QCS605.0": {
-  "Date": "December 15, 2021",
-  "Tag / Build ID": "LA.UM.8.8.1.r1-05700-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.1.r1-05700-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.12.0.r1-05300.06-qssi.0": {
-  "Date": "December 15, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05300.06-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05300.06-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.10.6.2.r1-00600-89xx.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.10.6.2.r1-00600-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.10.6.2.r1-00600-89xx.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.8.12.4.r1-02000-QCS8250.0": {
-  "Date": "December 15, 2021",
-  "Tag / Build ID": "LA.UM.8.12.4.r1-02000-QCS8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.4.r1-02000-QCS8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.8.c25-00800-SDM710.0": {
-  "Date": "December 15, 2021",
-  "Tag / Build ID": "LA.UM.8.8.c25-00800-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.8.8.c25-00800-SDM710.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.6.2.c25-05800-sdm660.0": {
-  "Date": "December 14, 2021",
-  "Tag / Build ID": "LA.UM.6.2.c25-05800-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.6.2.c25-05800-sdm660.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.AU.1.3.2.r2-03100-sa8155_gvmq.0": {
-  "Date": "December 14, 2021",
-  "Tag / Build ID": "LA.AU.1.3.2.r2-03100-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.1.3.2.r2-03100-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.5.5.c25-09100-8x96.0": {
-  "Date": "December 14, 2021",
-  "Tag / Build ID": "LA.UM.5.5.c25-09100-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.UM.5.5.c25-09100-8x96.0.xml",
-  "Android Version": "07.01.02"
- },
- "LA.UM.6.6.c30-05900-89xx.0": {
-  "Date": "December 14, 2021",
-  "Tag / Build ID": "LA.UM.6.6.c30-05900-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.6.6.c30-05900-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.9.15.r1-05200.01-KAMORTA.QSSI12.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05200.01-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05200.01-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c28-01300-89xx.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c28-01300-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c28-01300-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.11.0.r1-14100.04-qssi.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14100.04-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14100.04-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.2.c25-00600-SDMxx0.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.9.2.c25-00600-SDMxx0.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.c25-00600-SDMxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.7.2.r2-11200-8x98.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.7.2.r2-11200-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.7.2.r2-11200-8x98.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.5.6.c27-03700-8x53.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.UM.5.6.c27-03700-8x53.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.5.6.c27-03700-8x53.0.xml",
-  "Android Version": "07.01.02"
- },
- "LA.QSSI.11.0.r1-14100.01-qssi.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14100.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14100.01-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05300.04-qssi.0": {
-  "Date": "December 13, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05300.04-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05300.04-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0": {
-  "Date": "December 11, 2021",
-  "Tag / Build ID": "LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0",
-  "Chipset": "atoll",
-  "Manifest": "LA.UM.9.1.1.r1-00700-RENNELL.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.3.r1-05400-89xx.0": {
-  "Date": "December 08, 2021",
-  "Tag / Build ID": "LA.UM.9.6.3.r1-05400-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LA.UM.9.6.3.r1-05400-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0": {
-  "Date": "December 09, 2021",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.2.r1-01600-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.3.1.r4-03700-sa8155_gvmq.0": {
-  "Date": "December 08, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r4-03700-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.0.3.1.r4-03700-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.6.2.c27-02100-89xx.0": {
+ "buildid123": {
   "Date": "December 07, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c27-02100-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.8.6.2.c27-02100-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.5.7.c25-08200-8x98.0": {
-  "Date": "December 07, 2021",
-  "Tag / Build ID": "LA.UM.5.7.c25-08200-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.5.7.c25-08200-8x98.0.xml",
-  "Android Version": "07.01.01"
- },
- "LA.UM.10.2.1.r1-02900-sdm660.0": {
-  "Date": "December 07, 2021",
-  "Tag / Build ID": "LA.UM.10.2.1.r1-02900-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.10.2.1.r1-02900-sdm660.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.8.12.3-15200-sm8250.0": {
-  "Date": "November 28, 2021",
-  "Tag / Build ID": "LA.UM.8.12.3-15200-sm8250.0",
-  "Chipset": "sm8250",
-  "Manifest": "LA.UM.8.12.3-15200-sm8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.2.1.c25-02600-sdm660.0": {
-  "Date": "December 07, 2021",
-  "Tag / Build ID": "LA.UM.8.2.1.c25-02600-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.1.c25-02600-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r1-08500-MANNAR.0": {
-  "Date": "December 07, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08500-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08500-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0": {
-  "Date": "December 06, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.3.1.r5-00300-sa8155.0": {
-  "Date": "December 06, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r5-00300-sa8155.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.0.3.1.r5-00300-sa8155.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.12.0.r1-05300-qssi.0": {
-  "Date": "December 06, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05300-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05300-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-05200-KAMORTA.0": {
-  "Date": "December 05, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05200-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05200-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c26-01700-89xx.0": {
-  "Date": "December 03, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c26-01700-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c26-01700-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.1.r1-11400-SMxxx0.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11400-SMxxx0.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11400-SMxxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.r1-13500-SMxx50.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13500-SMxx50.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13500-SMxx50.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.r1-09300-SDM710.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.UM.8.8.r1-09300-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.8.8.r1-09300-SDM710.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.11.0.r1-14100-qssi.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-14100-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-14100-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.2.r1-01500-KAMORTA.QSSI12.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-01500-KAMORTA.QSSI12.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.2.r1-01500-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r2-03000-MANNAR.0": {
-  "Date": "December 02, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-03000-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-03000-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0": {
-  "Date": "December 01, 2021",
-  "Tag / Build ID": "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.1.r1-00200-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.11.r1-05800-NICOBAR.0": {
-  "Date": "December 01, 2021",
-  "Tag / Build ID": "LA.UM.8.11.r1-05800-NICOBAR.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.8.11.r1-05800-NICOBAR.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.8.c25-00600-SDM710.0": {
-  "Date": "December 01, 2021",
-  "Tag / Build ID": "LA.UM.8.8.c25-00600-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.8.8.c25-00600-SDM710.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.4.r1-01200-gen3meta.0": {
-  "Date": "November 30, 2021",
-  "Tag / Build ID": "LA.AU.1.3.4.r1-01200-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.3.4.r1-01200-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.10.3.r1-00500-sdm845.0": {
-  "Date": "November 29, 2021",
-  "Tag / Build ID": "LA.UM.10.3.r1-00500-sdm845.0",
-  "Chipset": "sdm845",
-  "Manifest": "LA.UM.10.3.r1-00500-sdm845.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.9.15.r1-05000.01-KAMORTA.QSSI12.0": {
-  "Date": "November 29, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05000.01-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05000.01-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-04800-QCM6490.0": {
-  "Date": "November 29, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04800-QCM6490.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04800-QCM6490.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.1.r1-05000-KAMORTA.0": {
-  "Date": "November 28, 2021",
-  "Tag / Build ID": "LA.UM.9.15.1.r1-05000-KAMORTA.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.1.r1-05000-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.r1-18500-LAHAINA.0": {
-  "Date": "November 28, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18500-LAHAINA.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18500-LAHAINA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.1.r1-17800-sm8150.0": {
-  "Date": "November 27, 2021",
-  "Tag / Build ID": "LA.UM.8.1.r1-17800-sm8150.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.8.1.r1-17800-sm8150.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.r1-05000-NICOBAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.4.r1-00100-89xx.QSSI12.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.UM.9.6.4.r1-00100-89xx.QSSI12.0",
-  "Chipset": "msm8937_lily",
-  "Manifest": "LA.UM.9.6.4.r1-00100-89xx.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.4.c25-04200-8x98.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.UM.8.4.c25-04200-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.8.4.c25-04200-8x98.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r2-02900-MANNAR.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02900-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02900-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.8.r1-04200-SDM710.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.UM.9.8.r1-04200-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.9.8.r1-04200-SDM710.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05100.02-qssi.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05100.02-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05100.02-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-13800.02-qssi.0": {
-  "Date": "November 26, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13800.02-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13800.02-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.5.7.c25-08100-8x98.0": {
-  "Date": "November 24, 2021",
-  "Tag / Build ID": "LA.UM.5.7.c25-08100-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.5.7.c25-08100-8x98.0.xml",
-  "Android Version": "07.01.01"
- },
- "LA.UM.9.16.r1-08300.01-MANNAR.0": {
-  "Date": "November 24, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08300.01-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08300.01-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.BR.1.3.7.c26-03900-8976.0": {
-  "Date": "November 24, 2021",
-  "Tag / Build ID": "LA.BR.1.3.7.c26-03900-8976.0",
-  "Chipset": "msm8952_64",
-  "Manifest": "LA.BR.1.3.7.c26-03900-8976.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.6.6.c27-05900-89xx.0": {
-  "Date": "November 24, 2021",
-  "Tag / Build ID": "LA.UM.6.6.c27-05900-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.6.6.c27-05900-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.QSSI.11.0.r1-13800.01-qssi.0": {
-  "Date": "November 23, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13800.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13800.01-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.9.1.r1-03400-QCS610.0": {
-  "Date": "November 23, 2021",
-  "Tag / Build ID": "LA.UM.8.9.1.r1-03400-QCS610.0",
-  "Chipset": "sm6150",
-  "Manifest": "LA.UM.8.9.1.r1-03400-QCS610.0.xml",
-  "Android Version": "10.00.00"
- },
- "QCS610": {
-  "Date": "November 23, 2021",
-  "Tag / Build ID": "QCS610",
-  "Chipset": "sm6150",
-  "Manifest": "QCS610.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.3.r1-02200-gen3meta.0": {
-  "Date": "November 22, 2021",
-  "Tag / Build ID": "LA.AU.1.3.3.r1-02200-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.3.3.r1-02200-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.7.2.c26-04600-sdm660.0": {
-  "Date": "November 22, 2021",
-  "Tag / Build ID": "LA.UM.7.2.c26-04600-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.7.2.c26-04600-sdm660.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.4.1.c25-01500-8x98.0": {
-  "Date": "November 22, 2021",
-  "Tag / Build ID": "LA.UM.8.4.1.c25-01500-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.8.4.1.c25-01500-8x98.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.6.1.1.c25-02000-sdm660.0": {
-  "Date": "November 22, 2021",
-  "Tag / Build ID": "LA.UM.6.1.1.c25-02000-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.6.1.1.c25-02000-sdm660.0.xml",
-  "Android Version": "07.01.01"
- },
- "LA.AU.0.3.1.r2-04700-gen3meta.0": {
-  "Date": "November 21, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r2-04700-gen3meta.0",
-  "Chipset": "sm6150_au",
-  "Manifest": "LA.AU.0.3.1.r2-04700-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-05000-KAMORTA.0": {
-  "Date": "November 20, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-05000-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-05000-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.3.1.r4-03000-sa8155_gvmq.0": {
-  "Date": "November 19, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r4-03000-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.0.3.1.r4-03000-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.14.r1-18400.02-LAHAINA.QSSI12.0": {
-  "Date": "November 19, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18400.02-LAHAINA.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18400.02-LAHAINA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-04800.04-KAMORTA.QSSI12.0": {
-  "Date": "November 19, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04800.04-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04800.04-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r2-02800-MANNAR.0": {
-  "Date": "November 19, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02800-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02800-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.1.c25-00500-QCS605.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LA.UM.8.8.1.c25-00500-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.1.c25-00500-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.14.1.r1-04800-QCM6490.QSSI12.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04800-QCM6490.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04800-QCM6490.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-08300-MANNAR.QSSI12.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08300-MANNAR.QSSI12.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08300-MANNAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.r1-13400.02-SMxx50.QSSI12.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13400.02-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13400.02-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05100-qssi.0": {
-  "Date": "November 18, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05100-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05100-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.4.c25-04100-8x98.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.UM.8.4.c25-04100-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.8.4.c25-04100-8x98.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.12.2.r1-02500-QCS8250.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.UM.8.12.2.r1-02500-QCS8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.2.r1-02500-QCS8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.6.6.c30-05800-89xx.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.UM.6.6.c30-05800-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.6.6.c30-05800-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.5.5.c25-08900-8x96.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.UM.5.5.c25-08900-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.UM.5.5.c25-08900-8x96.0.xml",
-  "Android Version": "07.01.02"
- },
- "LA.UM.8.2.c25-04500-sdm660.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.UM.8.2.c25-04500-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.c25-04500-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.11.0.r1-13800-qssi.0": {
-  "Date": "November 17, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13800-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13800-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.3.r1-05200-89xx.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.9.6.3.r1-05200-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LA.UM.9.6.3.r1-05200-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.12.c3-46300-sm8250.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.8.12.c3-46300-sm8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.c3-46300-sm8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.7.2.c25-03900-sdm660.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.7.2.c25-03900-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.7.2.c25-03900-sdm660.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.9.2.c25-00500-SDMxx0.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.9.2.c25-00500-SDMxx0.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.c25-00500-SDMxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.12.4.r1-01600-QCS8250.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.8.12.4.r1-01600-QCS8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.4.r1-01600-QCS8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-04800.04-KAMORTA.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04800.04-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04800.04-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.2.r1-03700-SDMxx0.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.9.2.r1-03700-SDMxx0.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.r1-03700-SDMxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.6.2.c26-08000-sdm660.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.6.2.c26-08000-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.6.2.c26-08000-sdm660.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.QSSI.12.0.r1-05000.01-qssi.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05000.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05000.01-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.1.r1-11300-SMxxx0.QSSI12.0": {
-  "Date": "November 16, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11300-SMxxx0.QSSI12.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11300-SMxxx0.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.1.2.2.r1-03700-gen3meta.0": {
-  "Date": "November 11, 2021",
-  "Tag / Build ID": "LA.AU.1.2.2.r1-03700-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.2.2.r1-03700-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r1-08100-MANNAR.0": {
-  "Date": "November 11, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-08100-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-08100-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-05000-qssi.0": {
-  "Date": "November 10, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-05000-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-05000-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.10.2.1.r1-02700-sdm660.0": {
-  "Date": "November 10, 2021",
-  "Tag / Build ID": "LA.UM.10.2.1.r1-02700-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.10.2.1.r1-02700-sdm660.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.AU.1.3.3.r1-02000-gen3meta.0": {
-  "Date": "November 10, 2021",
-  "Tag / Build ID": "LA.AU.1.3.3.r1-02000-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.3.3.r1-02000-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.10.6.2.r1-00500-89xx.0": {
-  "Date": "November 10, 2021",
-  "Tag / Build ID": "LA.UM.10.6.2.r1-00500-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.10.6.2.r1-00500-89xx.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.9.12.r1-13400-SMxx50.0": {
-  "Date": "November 09, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13400-SMxx50.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13400-SMxx50.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.1.r1-11300-SMxxx0.0": {
-  "Date": "November 09, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11300-SMxxx0.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11300-SMxxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.15.r1-08700-KAMORTA.0": {
-  "Date": "November 09, 2021",
-  "Tag / Build ID": "LA.UM.8.15.r1-08700-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.8.15.r1-08700-KAMORTA.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-04800-KAMORTA.0": {
-  "Date": "November 08, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04800-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04800-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LAW.BR.4.0.c1-06700-89xx.0": {
-  "Date": "November 08, 2021",
-  "Tag / Build ID": "LAW.BR.4.0.c1-06700-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LAW.BR.4.0.c1-06700-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.AU.1.3.2.r2-02600-sa8155_gvmq.0": {
-  "Date": "November 08, 2021",
-  "Tag / Build ID": "LA.AU.1.3.2.r2-02600-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.1.3.2.r2-02600-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.14.1.r1-04500-QCM6490.0": {
-  "Date": "November 05, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04500-QCM6490.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04500-QCM6490.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.11.1.r1-00700-QCM6125.0": {
-  "Date": "November 05, 2021",
-  "Tag / Build ID": "LA.UM.9.11.1.r1-00700-QCM6125.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.1.r1-00700-QCM6125.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-04400-QCM6490.0": {
-  "Date": "November 03, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04400-QCM6490.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04400-QCM6490.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.3.1.r3-00400-sa8155_gvmq.0": {
-  "Date": "November 04, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r3-00400-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.0.3.1.r3-00400-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.11.r1-04900-NICOBAR.0": {
-  "Date": "November 03, 2021",
-  "Tag / Build ID": "LA.UM.9.11.r1-04900-NICOBAR.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.r1-04900-NICOBAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.2.r1-02400-QCS605.0": {
-  "Date": "November 03, 2021",
-  "Tag / Build ID": "LA.UM.8.8.2.r1-02400-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.2.r1-02400-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r2-02700-MANNAR.0": {
-  "Date": "November 03, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02700-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02700-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-13700-qssi.0": {
-  "Date": "November 02, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13700-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13700-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Tag / Build ID": "buildid123",
+  "Chipset": "wapio",
+  "Manifest": "buildid123.xml",
+  "Android Version": "rev11"
  },
  "LA.UM.5.6.c27-03300-8x53.0": {
-  "Date": "October 23, 2021",
+  "Date": "November 01, 2021",
   "Tag / Build ID": "LA.UM.5.6.c27-03300-8x53.0",
   "Chipset": "msm8953_64",
   "Manifest": "LA.UM.5.6.c27-03300-8x53.0.xml",
   "Android Version": "07.01.02"
  },
- "LA.UM.10.9.1.r1-00300-QCS610.0": {
-  "Date": "November 01, 2021",
-  "Tag / Build ID": "LA.UM.10.9.1.r1-00300-QCS610.0",
-  "Chipset": "sm6150",
-  "Manifest": "LA.UM.10.9.1.r1-00300-QCS610.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.0.2.0.r1-02100-gen3_gvmgh.0": {
-  "Date": "October 30, 2021",
-  "Tag / Build ID": "LA.AU.0.2.0.r1-02100-gen3_gvmgh.0",
-  "Chipset": "msmnile_gvmgh",
-  "Manifest": "LA.AU.0.2.0.r1-02100-gen3_gvmgh.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.2.r3-01300-sa8295_gvmq.0": {
-  "Date": "October 29, 2021",
-  "Tag / Build ID": "LA.AU.1.3.2.r3-01300-sa8295_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.1.3.2.r3-01300-sa8295_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.12.0.r1-04900.03-qssi.0": {
-  "Date": "October 29, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-04900.03-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-04900.03-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0": {
-  "Date": "October 29, 2021",
-  "Tag / Build ID": "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.0.3.1.r3-00300-sa8155_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.11.r1-04900-NICOBAR.QSSI12.0": {
-  "Date": "October 28, 2021",
-  "Tag / Build ID": "LA.UM.9.11.r1-04900-NICOBAR.QSSI12.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.9.11.r1-04900-NICOBAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.1.r1-00100-SMxx50.QSSI12.0": {
-  "Date": "October 28, 2021",
-  "Tag / Build ID": "LA.UM.9.12.1.r1-00100-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.1.r1-00100-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.13.r1-11900-SAIPAN.0": {
-  "Date": "October 28, 2021",
-  "Tag / Build ID": "LA.UM.8.13.r1-11900-SAIPAN.0",
-  "Chipset": "lito",
-  "Manifest": "LA.UM.8.13.r1-11900-SAIPAN.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-04200.01-KAMORTA.QSSI12.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04200.01-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04200.01-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.r1-18400-LAHAINA.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18400-LAHAINA.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18400-LAHAINA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c26-01200-89xx.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c26-01200-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c26-01200-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.10.3.r1-00300-sdm845.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.10.3.r1-00300-sdm845.0",
-  "Chipset": "sdm845",
-  "Manifest": "LA.UM.10.3.r1-00300-sdm845.0.xml",
-  "Android Version": "12.00.00"
- },
- "LA.UM.9.15.2.r1-01000-KAMORTA.QSSI12.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-01000-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.2.r1-01000-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-04200.01-KAMORTA.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04200.01-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04200.01-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-07900-MANNAR.0": {
-  "Date": "October 27, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-07900-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-07900-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c28-00900-89xx.0": {
-  "Date": "October 26, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c28-00900-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.8.6.2.c28-00900-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.HB.1.1.5-16410-8x96.0": {
-  "Date": "October 26, 2021",
-  "Tag / Build ID": "LA.HB.1.1.5-16410-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.HB.1.1.5-16410-8x96.0.xml",
-  "Android Version": "07.00.00"
- },
- "LA.QSSI.11.0.r1-13600.01-qssi.0": {
-  "Date": "October 26, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13600.01-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13600.01-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.1.r1-04800-KAMORTA.0": {
-  "Date": "October 26, 2021",
-  "Tag / Build ID": "LA.UM.9.15.1.r1-04800-KAMORTA.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.1.r1-04800-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.7.6.2.c26-02200-89xx.0": {
-  "Date": "October 25, 2021",
-  "Tag / Build ID": "LA.UM.7.6.2.c26-02200-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.7.6.2.c26-02200-89xx.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.8.1.r1-05300-QCS605.0": {
-  "Date": "October 25, 2021",
-  "Tag / Build ID": "LA.UM.8.8.1.r1-05300-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.1.r1-05300-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.4.r1-00800-gen3meta.0": {
-  "Date": "October 25, 2021",
-  "Tag / Build ID": "LA.AU.1.3.4.r1-00800-gen3meta.0",
-  "Chipset": "sm6150_au",
-  "Manifest": "LA.AU.1.3.4.r1-00800-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.1.r1-04700-KAMORTA.0": {
-  "Date": "October 25, 2021",
-  "Tag / Build ID": "LA.UM.9.15.1.r1-04700-KAMORTA.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.1.r1-04700-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.9.r1-12500-SM6xx.0": {
-  "Date": "October 24, 2021",
-  "Tag / Build ID": "LA.UM.8.9.r1-12500-SM6xx.0",
-  "Chipset": "atoll",
-  "Manifest": "LA.UM.8.9.r1-12500-SM6xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.2.1.r1-08700-sdm660.0": {
-  "Date": "October 24, 2021",
-  "Tag / Build ID": "LA.UM.9.2.1.r1-08700-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.1.r1-08700-sdm660.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.6.6.c30-05100-89xx.0": {
-  "Date": "October 22, 2021",
-  "Tag / Build ID": "LA.UM.6.6.c30-05100-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.6.6.c30-05100-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.9.6.2.c25-01100-89xx.0": {
-  "Date": "October 22, 2021",
-  "Tag / Build ID": "LA.UM.9.6.2.c25-01100-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.9.6.2.c25-01100-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.6.2.c27-01200-89xx.0": {
-  "Date": "October 22, 2021",
-  "Tag / Build ID": "LA.UM.8.6.2.c27-01200-89xx.0",
-  "Chipset": "msm8953_64",
-  "Manifest": "LA.UM.8.6.2.c27-01200-89xx.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.8.r1-04100-SDM710.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.UM.9.8.r1-04100-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.9.8.r1-04100-SDM710.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.r1-13300-SMxx50.QSSI12.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13300-SMxx50.QSSI12.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13300-SMxx50.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.r1-18300.05-LAHAINA.QSSI12.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18300.05-LAHAINA.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18300.05-LAHAINA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.3.r1-04800-89xx.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.UM.9.6.3.r1-04800-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LA.UM.9.6.3.r1-04800-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-04400-QCM6490.QSSI12.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04400-QCM6490.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04400-QCM6490.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-04900.02-qssi.0": {
-  "Date": "October 21, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-04900.02-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-04900.02-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-07800.01-MANNAR.QSSI12.0": {
-  "Date": "October 20, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-07800.01-MANNAR.QSSI12.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-07800.01-MANNAR.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-04200-KAMORTA.0": {
-  "Date": "October 20, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04200-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04200-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.3.c25-04300-sdm845.0": {
-  "Date": "October 20, 2021",
-  "Tag / Build ID": "LA.UM.8.3.c25-04300-sdm845.0",
-  "Chipset": "sdm845",
-  "Manifest": "LA.UM.8.3.c25-04300-sdm845.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r2-02600-MANNAR.0": {
-  "Date": "October 20, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02600-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02600-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-13600-qssi.0": {
-  "Date": "October 19, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13600-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13600-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.6.2.c25-05500-sdm660.0": {
-  "Date": "October 19, 2021",
-  "Tag / Build ID": "LA.UM.6.2.c25-05500-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.6.2.c25-05500-sdm660.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.5.5.c25-08500-8x96.0": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.UM.5.5.c25-08500-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.UM.5.5.c25-08500-8x96.0.xml",
-  "Android Version": "07.01.02"
- },
- "LA.UM.8.2.1.c25-02100-sdm660.0": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.UM.8.2.1.c25-02100-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.1.c25-02100-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.5.7.c25-07600-8x98.0": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.UM.5.7.c25-07600-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.5.7.c25-07600-8x98.0.xml",
-  "Android Version": "07.01.01"
- },
- "LA.UM.8.4.c25-03600-8x98.0": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.UM.8.4.c25-03600-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.8.4.c25-03600-8x98.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.QSSI.12.0.r1-04900.01-qssi.0-1": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-04900.01-qssi.0-1",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-04900.01-qssi.0-1.xml",
-  "Android Version": "11.00.00"
- },
- "LA.BR.1.3.7.c25-13900-8976.0": {
-  "Date": "October 18, 2021",
-  "Tag / Build ID": "LA.BR.1.3.7.c25-13900-8976.0",
-  "Chipset": "msm8952_64",
-  "Manifest": "LA.BR.1.3.7.c25-13900-8976.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.6.6.c26-05900-89xx.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LA.UM.6.6.c26-05900-89xx.0",
-  "Chipset": "msm8937_64",
-  "Manifest": "LA.UM.6.6.c26-05900-89xx.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.6.7.c26-07600-8x09.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LA.UM.6.7.c26-07600-8x09.0",
-  "Chipset": "msm8909",
-  "Manifest": "LA.UM.6.7.c26-07600-8x09.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.7.7.c26-06200-8x09.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LA.UM.7.7.c26-06200-8x09.0",
-  "Chipset": "msm8909",
-  "Manifest": "LA.UM.7.7.c26-06200-8x09.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.9.1.r1-03200-QCS610.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LA.UM.8.9.1.r1-03200-QCS610.0",
-  "Chipset": "sm6150",
-  "Manifest": "LA.UM.8.9.1.r1-03200-QCS610.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.16.r2-02500-MANNAR.0": {
-  "Date": "October 14, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02500-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02500-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.12.0.r1-04900-qssi.0": {
-  "Date": "October 13, 2021",
-  "Tag / Build ID": "LA.QSSI.12.0.r1-04900-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.12.0.r1-04900-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
  "LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0": {
-  "Date": "October 12, 2021",
+  "Date": "October 13, 2021",
   "Tag / Build ID": "LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0",
   "Chipset": "bengal",
   "Manifest": "LA.UM.9.15.r1-04100-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.AU.0.2.0.r1-01800-gen3_gvmgh.0": {
-  "Date": "October 13, 2021",
-  "Tag / Build ID": "LA.AU.0.2.0.r1-01800-gen3_gvmgh.0",
-  "Chipset": "msmnile_gvmgh",
-  "Manifest": "LA.AU.0.2.0.r1-01800-gen3_gvmgh.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.1.r1-11200.01-SMxxx0.QSSI12.0": {
-  "Date": "October 12, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11200.01-SMxxx0.QSSI12.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11200.01-SMxxx0.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-07800-MANNAR.0": {
-  "Date": "October 12, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-07800-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-07800-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.12.2.r1-02200-QCS8250.0": {
-  "Date": "October 12, 2021",
-  "Tag / Build ID": "LA.UM.8.12.2.r1-02200-QCS8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.2.r1-02200-QCS8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.7.2.r2-10500-8x98.0": {
-  "Date": "October 11, 2021",
-  "Tag / Build ID": "LA.UM.7.2.r2-10500-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.7.2.r2-10500-8x98.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.2.r2-04900-sdm660.0": {
-  "Date": "October 11, 2021",
-  "Tag / Build ID": "LA.UM.8.2.r2-04900-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.r2-04900-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LAW.BR.5.1.r1-07800-89xx.0": {
-  "Date": "October 08, 2021",
-  "Tag / Build ID": "LAW.BR.5.1.r1-07800-89xx.0",
-  "Chipset": "sdm429w_law",
-  "Manifest": "LAW.BR.5.1.r1-07800-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.11.1.r1-02100-QCM6125.0": {
-  "Date": "October 07, 2021",
-  "Tag / Build ID": "LA.UM.8.11.1.r1-02100-QCM6125.0",
-  "Chipset": "trinket",
-  "Manifest": "LA.UM.8.11.1.r1-02100-QCM6125.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-04100-KAMORTA.0": {
-  "Date": "October 07, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-04100-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-04100-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.QSSI.11.0.r1-13500-qssi.0": {
-  "Date": "October 06, 2021",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-13500-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-13500-qssi.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.r1-18300.02-LAHAINA.QSSI12.0": {
-  "Date": "October 04, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18300.02-LAHAINA.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18300.02-LAHAINA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.14.1.r1-04300-QCM6490.0": {
-  "Date": "October 04, 2021",
-  "Tag / Build ID": "LA.UM.9.14.1.r1-04300-QCM6490.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.1.r1-04300-QCM6490.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.12.r1-13200-SMxx50.0": {
-  "Date": "October 04, 2021",
-  "Tag / Build ID": "LA.UM.9.12.r1-13200-SMxx50.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.9.12.r1-13200-SMxx50.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.1.r1-11200-SMxxx0.0": {
-  "Date": "October 04, 2021",
-  "Tag / Build ID": "LA.UM.9.1.r1-11200-SMxxx0.0",
-  "Chipset": "msmnile",
-  "Manifest": "LA.UM.9.1.r1-11200-SMxxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.HB.1.1.5-16310-8x96.0": {
-  "Date": "October 03, 2021",
-  "Tag / Build ID": "LA.HB.1.1.5-16310-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.HB.1.1.5-16310-8x96.0.xml",
-  "Android Version": "07.00.00"
- },
- "LA.UM.7.8.r1-11200-SDM710.0": {
-  "Date": "September 30, 2021",
-  "Tag / Build ID": "LA.UM.7.8.r1-11200-SDM710.0",
-  "Chipset": "sdm710",
-  "Manifest": "LA.UM.7.8.r1-11200-SDM710.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.UM.8.2.1.c1-02000-sdm660.0": {
-  "Date": "September 30, 2021",
-  "Tag / Build ID": "LA.UM.8.2.1.c1-02000-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.1.c1-02000-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.12.c3-44800-sm8250.0": {
-  "Date": "September 30, 2021",
-  "Tag / Build ID": "LA.UM.8.12.c3-44800-sm8250.0",
-  "Chipset": "kona",
-  "Manifest": "LA.UM.8.12.c3-44800-sm8250.0.xml",
-  "Android Version": "10.00.00"
- },
- "LE.UM.1.3-12100-SDX20-2": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LE.UM.1.3-12100-SDX20-2",
-  "Chipset": "sdx20",
-  "Manifest": "LE.UM.1.3-12100-SDX20-2.xml",
-  "Android Version": ""
- },
- "LA.UM.7.2.c6-10600-sdm660.0": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LA.UM.7.2.c6-10600-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.7.2.c6-10600-sdm660.0.xml",
-  "Android Version": "09.00.00"
- },
- "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0",
-  "Chipset": "msmnile_gvmq",
-  "Manifest": "LA.AU.1.3.2.r3-01000-sa8295_gvmq.0.xml",
-  "Android Version": "10.00.00"
- },
- "LAW.BR.5.1.r1-07700-89xx.0": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LAW.BR.5.1.r1-07700-89xx.0",
-  "Chipset": "sdm429w_law",
-  "Manifest": "LAW.BR.5.1.r1-07700-89xx.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r1-07600-MANNAR.0": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r1-07600-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r1-07600-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.5.5.c25-08200-8x96.0": {
-  "Date": "September 29, 2021",
-  "Tag / Build ID": "LA.UM.5.5.c25-08200-8x96.0",
-  "Chipset": "msm8996",
-  "Manifest": "LA.UM.5.5.c25-08200-8x96.0.xml",
-  "Android Version": "07.01.02"
- },
- "LA.UM.8.4.1.c25-00800-8x98.0": {
-  "Date": "September 28, 2021",
-  "Tag / Build ID": "LA.UM.8.4.1.c25-00800-8x98.0",
-  "Chipset": "msm8998",
-  "Manifest": "LA.UM.8.4.1.c25-00800-8x98.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.AU.1.3.4.r1-00700-gen3meta.0": {
-  "Date": "September 28, 2021",
-  "Tag / Build ID": "LA.AU.1.3.4.r1-00700-gen3meta.0",
-  "Chipset": "msmnile_au",
-  "Manifest": "LA.AU.1.3.4.r1-00700-gen3meta.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.r1-03900-KAMORTA.QSSI12.0": {
-  "Date": "September 28, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-03900-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-03900-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.r1-03800-KAMORTA.0": {
-  "Date": "September 28, 2021",
-  "Tag / Build ID": "LA.UM.9.15.r1-03800-KAMORTA.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.r1-03800-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.1.r1-05000-QCS605.0": {
-  "Date": "September 28, 2021",
-  "Tag / Build ID": "LA.UM.8.8.1.r1-05000-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.1.r1-05000-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.8.2.c25-03600-sdm660.0": {
-  "Date": "September 27, 2021",
-  "Tag / Build ID": "LA.UM.8.2.c25-03600-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.8.2.c25-03600-sdm660.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.2.1.r1-08300-sdm660.0": {
-  "Date": "September 27, 2021",
-  "Tag / Build ID": "LA.UM.9.2.1.r1-08300-sdm660.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.1.r1-08300-sdm660.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.1.r1-04900-QCS605.0": {
-  "Date": "September 27, 2021",
-  "Tag / Build ID": "LA.UM.8.8.1.r1-04900-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.1.r1-04900-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.UM.9.15.2.r1-00600-KAMORTA.QSSI12.0": {
-  "Date": "September 26, 2021",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-00600-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.2.r1-00600-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.16.r2-02100-MANNAR.0": {
-  "Date": "September 25, 2021",
-  "Tag / Build ID": "LA.UM.9.16.r2-02100-MANNAR.0",
-  "Chipset": "holi",
-  "Manifest": "LA.UM.9.16.r2-02100-MANNAR.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.2.r1-00500-KAMORTA.QSSI12.0": {
-  "Date": "September 24, 2021",
-  "Tag / Build ID": "LA.UM.9.15.2.r1-00500-KAMORTA.QSSI12.0",
-  "Chipset": "bengal",
-  "Manifest": "LA.UM.9.15.2.r1-00500-KAMORTA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.2.r1-03600-SDMxx0.0": {
-  "Date": "September 24, 2021",
-  "Tag / Build ID": "LA.UM.9.2.r1-03600-SDMxx0.0",
-  "Chipset": "sdm660_64",
-  "Manifest": "LA.UM.9.2.r1-03600-SDMxx0.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.15.1.r1-04400-KAMORTA.0": {
-  "Date": "September 23, 2021",
-  "Tag / Build ID": "LA.UM.9.15.1.r1-04400-KAMORTA.0",
-  "Chipset": "bengal_32go",
-  "Manifest": "LA.UM.9.15.1.r1-04400-KAMORTA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.8.8.2.r1-02200-QCS605.0": {
-  "Date": "September 23, 2021",
-  "Tag / Build ID": "LA.UM.8.8.2.r1-02200-QCS605.0",
-  "Chipset": "qcs605",
-  "Manifest": "LA.UM.8.8.2.r1-02200-QCS605.0.xml",
-  "Android Version": "10.00.00"
- },
- "LA.BR.1.3.7.c26-03100-8976.0": {
-  "Date": "September 23, 2021",
-  "Tag / Build ID": "LA.BR.1.3.7.c26-03100-8976.0",
-  "Chipset": "msm8952_64",
-  "Manifest": "LA.BR.1.3.7.c26-03100-8976.0.xml",
-  "Android Version": "08.01.00"
- },
- "LA.UM.9.14.r1-18300-LAHAINA.0": {
-  "Date": "September 22, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18300-LAHAINA.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18300-LAHAINA.0.xml",
-  "Android Version": "11.00.00"
- },
- "LA.UM.9.6.3.r1-04500-89xx.0": {
-  "Date": "September 21, 2021",
-  "Tag / Build ID": "LA.UM.9.6.3.r1-04500-89xx.0",
-  "Chipset": "msm8937_32go",
-  "Manifest": "LA.UM.9.6.3.r1-04500-89xx.0.xml",
   "Android Version": "11.00.00"
  },
  "LA.UM.9.16.r1-07400.01-MANNAR.QSSI12.0": {
@@ -3295,6 +1825,20 @@
   "Chipset": "holi",
   "Manifest": "LA.UM.9.16.r1-07400.01-MANNAR.QSSI12.0.xml",
   "Android Version": "11.00.00"
+ },
+ "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0": {
+  "Date": "September 09, 2021",
+  "Tag / Build ID": "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "build_id234": {
+  "Date": "September 20, 2021",
+  "Tag / Build ID": "build_id234",
+  "Chipset": "chipset555",
+  "Manifest": "build_id234.xml",
+  "Android Version": "rev1234"
  },
  "LA.UM.6.6.c27-05100-89xx.0": {
   "Date": "September 20, 2021",
@@ -3470,13 +2014,6 @@
   "Chipset": "msmnile_gvmq",
   "Manifest": "LA.AU.1.3.2.r3-00900-sa8295_gvmq.0.xml",
   "Android Version": "10.00.00"
- },
- "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0": {
-  "Date": "September 09, 2021",
-  "Tag / Build ID": "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0",
-  "Chipset": "lahaina",
-  "Manifest": "LA.UM.9.14.r1-18200.03-LAHAINA.QSSI12.0.xml",
-  "Android Version": "11.00.00"
  },
  "LA.UM.9.14.r1-18200.02-LAHAINA.0": {
   "Date": "September 08, 2021",

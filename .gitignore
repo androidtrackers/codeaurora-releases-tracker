@@ -1,2 +1,5 @@
 *.bak
 .idea/
+*.log
+venv/
+.python-version
