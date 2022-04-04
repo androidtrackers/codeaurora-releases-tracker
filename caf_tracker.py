@@ -98,7 +98,7 @@ def get_manifests(tag):
 
 def get_kernel_version(manifest):
     kernel_repo_regex = re.search(
-        r"name=\"(.*kernel/msm-[0-9.]+)\".*revision=\"([\d\w]{40})\".*upstream=\"([\w/.-]+)\"",
+        r"name=\"(.*kernel/msm-[0-9.]+)\".*revision=\"([\d\w]{40})\".*upstream=\"(?:refs/heads/)?([\w/.-]+)\"",
         manifest,
     )
     if not kernel_repo_regex:
