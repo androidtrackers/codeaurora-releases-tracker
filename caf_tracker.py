@@ -18,7 +18,9 @@ BRANCHES = ["la", "le"]
 class Scraper:
     def __init__(self, url):
         self.url = url
-        self.table = BeautifulSoup(get(self.url).content, "html.parser").select_one("table")
+        self.table = BeautifulSoup(get(self.url).content, "html.parser").select_one(
+            "table"
+        )
         self.name = f'{self.url.split("/")[-2].split("-")[-1]}_release'
         self.head = [th.string.strip() for th in self.table.select("th")]
         self.data = {}
@@ -176,11 +178,13 @@ def generate_telegram_message(update):
                     )
                     if head(system_manifest).ok:
                         message += f"Manifest: [System]({system_manifest})\n"
-                        system_info = get_info_from_system_manifest(get(system_manifest).text)
+                        system_info = get_info_from_system_manifest(
+                            get(system_manifest).text
+                        )
                 else:
                     message += (
-                        f"Manifests: [Vendor](https://git.codelinaro.org/clo/la/la/"
-                        f"vendor/manifest/-/blob/{tag}/{tag}.xml) - "
+                        f"Manifests: [Vendor](https://git.codelinaro.org/clo/la/platform/"
+                        f"manifest/-/blob/release/{tag}.xml) - "
                     )
                     manifests = get_manifests(tag)
                     if manifests:
