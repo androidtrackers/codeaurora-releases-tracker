@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 07, 2022|LA.UM.9.16.r2-03900-MANNAR.0|holi|LA.UM.9.16.r2-03900-MANNAR.0.xml|11.00.00|
 April 07, 2022|LA.UM.9.15.3.r1-00400-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.3.r1-00400-KAMORTA.QSSI12.0.xml|11.00.00|
 April 07, 2022|LA.QSSI.12.0.r1-06800-qssi.0|qssi|LA.QSSI.12.0.r1-06800-qssi.0.xml|11.00.00|
 April 07, 2022|LA.UM.9.1.r1-11800-SMxxx0.0|msmnile|LA.UM.9.1.r1-11800-SMxxx0.0.xml|11.00.00|
