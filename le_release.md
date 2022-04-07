@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 07, 2022|LU.UM.2.4.1.r1-05700-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-05700-QRB5165.0.xml|
 April 06, 2022|LE.UM.4.3.2.r1-03500-9x07|mdm9607|LE.UM.4.3.2.r1-03500-9x07.xml|
 April 06, 2022|LE.UM.4.2.3.r1-10800-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-10800-QCS610.0.xml|
 April 05, 2022|LE.UM.4.1.1.c10-08900-sa515m|sa515m|LE.UM.4.1.1.c10-08900-sa515m.xml|
