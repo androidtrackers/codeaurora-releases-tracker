@@ -183,7 +183,7 @@ def generate_telegram_message(update):
                         )
                 else:
                     message += (
-                        f"Manifests: [Vendor](https://git.codelinaro.org/clo/la/platform/"
+                        f"Manifests: [Vendor](https://git.codelinaro.org/clo/la/la/vendor/"
                         f"manifest/-/blob/release/{tag}.xml) - "
                     )
                     manifests = get_manifests(tag)
