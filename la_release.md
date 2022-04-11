@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 11, 2022|LA.HB.1.1.5-17010-8x96.0|msm8996|LA.HB.1.1.5-17010-8x96.0.xml|07.00.00|
 April 10, 2022|LAW.BR.5.1.r1-11400-89xx.0|sdm429w_law|LAW.BR.5.1.r1-11400-89xx.0.xml|11.00.00|
 April 09, 2022|LA.UM.5.5.c25-10400-8x96.0|msm8996|LA.UM.5.5.c25-10400-8x96.0.xml|07.01.02|
 April 08, 2022|LA.UM.8.12.c3-52600-sm8250.0|kona|LA.UM.8.12.c3-52600-sm8250.0.xml|10.00.00|
