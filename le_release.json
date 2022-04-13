@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r2-02100-qtiquingvm.0": {
+  "Date": "April 12, 2022",
+  "Tag / Build ID": "LV.AU.0.2.2.r2-02100-qtiquingvm.0",
+  "Chipset": "qtiquingvm-headless",
+  "Manifest": "LV.AU.0.2.2.r2-02100-qtiquingvm.0.xml"
+ },
  "LU.UM.1.2.1.r1-34400-QRB5165.0": {
   "Date": "April 12, 2022",
   "Tag / Build ID": "LU.UM.1.2.1.r1-34400-QRB5165.0",
