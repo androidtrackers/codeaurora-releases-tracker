@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.12.0.r1-07000.02-qssi.0": {
+  "Date": "April 13, 2022",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-07000.02-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-07000.02-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.AU.1.4.2.r1-01800-gen3meta.0": {
+  "Date": "April 13, 2022",
+  "Tag / Build ID": "LA.AU.1.4.2.r1-01800-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.4.2.r1-01800-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-00500-NEOLA.0": {
   "Date": "April 13, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-00500-NEOLA.0",
