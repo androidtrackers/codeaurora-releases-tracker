@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 13, 2022|LU.UM.1.2.1.r1-34500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-34500-QRB5165.0.xml|
 April 13, 2022|LE.UM.5.3.2.r1-06500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-06500-SDX65.0.xml|
 April 12, 2022|LV.AU.0.2.2.r2-02100-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-02100-qtiquingvm.0.xml|
 April 12, 2022|LU.UM.1.2.1.r1-34400-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-34400-QRB5165.0.xml|
