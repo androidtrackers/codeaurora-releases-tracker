@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r2-02100-qcs405.0": {
+  "Date": "April 14, 2022",
+  "Tag / Build ID": "LE.UM.5.2.1.r2-02100-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r2-02100-qcs405.0.xml"
+ },
  "LV.AU.1.2.1.r2-02200-gen3meta.0": {
   "Date": "April 13, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r2-02200-gen3meta.0",
