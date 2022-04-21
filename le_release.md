@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 20, 2022|LV.AU.1.2.1.r2-02500-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-02500-gen3meta.0.xml|
 April 20, 2022|CHSS.LNX_FSL.5.0-01200-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.5.0-01200-QCA6574AUARMSDIOHZ.xml|
 April 20, 2022|LE.UM.3.2.3.c12-03500-SA2150p|sa2150p|LE.UM.3.2.3.c12-03500-SA2150p.xml|
 April 18, 2022|LV.AU.1.2.3-04800-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3-04800-gen3meta.0.xml|

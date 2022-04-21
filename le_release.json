@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.1.r2-02500-gen3meta.0": {
+  "Date": "April 20, 2022",
+  "Tag / Build ID": "LV.AU.1.2.1.r2-02500-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r2-02500-gen3meta.0.xml"
+ },
  "CHSS.LNX_FSL.5.0-01200-QCA6574AUARMSDIOHZ": {
   "Date": "April 20, 2022",
   "Tag / Build ID": "CHSS.LNX_FSL.5.0-01200-QCA6574AUARMSDIOHZ",
