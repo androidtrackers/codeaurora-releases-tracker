@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.1.c5-04500-sa415m": {
+  "Date": "April 20, 2022",
+  "Tag / Build ID": "LE.UM.3.2.1.c5-04500-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c5-04500-sa415m.xml"
+ },
+ "LV.AU.1.2.4.r1-00200-gen3meta.0": {
+  "Date": "April 20, 2022",
+  "Tag / Build ID": "LV.AU.1.2.4.r1-00200-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.4.r1-00200-gen3meta.0.xml"
+ },
  "LV.AU.1.2.1.r2-02500-gen3meta.0": {
   "Date": "April 20, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r2-02500-gen3meta.0",
