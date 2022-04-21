@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSL.2.1-05510-QCA6574AUARMSDIOHZ": {
+  "Date": "April 21, 2022",
+  "Tag / Build ID": "CHSS.LNX_FSL.2.1-05510-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.2.1-05510-QCA6574AUARMSDIOHZ.xml"
+ },
+ "CHSS.LNX_FSLS.4.14-03010-QCA6574AUARMSDIOHZ": {
+  "Date": "April 21, 2022",
+  "Tag / Build ID": "CHSS.LNX_FSLS.4.14-03010-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.4.14-03010-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.UM.3.2.1.c5-04500-sa415m": {
   "Date": "April 20, 2022",
   "Tag / Build ID": "LE.UM.3.2.1.c5-04500-sa415m",
