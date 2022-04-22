@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 21, 2022|LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0|trinket|LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0.xml|11.00.00|
 April 21, 2022|LA.UM.8.15.c25-01500-KAMORTA.0|bengal|LA.UM.8.15.c25-01500-KAMORTA.0.xml|10.00.00|
 April 21, 2022|LA.UM.8.8.c25-02400-SDM710.0|sdm710|LA.UM.8.8.c25-02400-SDM710.0.xml|10.00.00|
 April 21, 2022|LA.UM.7.3.c25-01600-sdm845.0|sdm845|LA.UM.7.3.c25-01600-sdm845.0.xml|09.00.00|
