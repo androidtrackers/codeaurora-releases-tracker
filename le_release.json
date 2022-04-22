@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.1.r5-01300-qtiquingvm8295.0": {
+  "Date": "April 22, 2022",
+  "Tag / Build ID": "LV.AU.0.2.1.r5-01300-qtiquingvm8295.0",
+  "Chipset": "qtiquingvm8295",
+  "Manifest": "LV.AU.0.2.1.r5-01300-qtiquingvm8295.0.xml"
+ },
  "LE.UM.4.1.1.c13-00300-sa515m": {
   "Date": "April 21, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c13-00300-sa515m",

@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 22, 2022|LV.AU.0.2.1.r5-01300-qtiquingvm8295.0|qtiquingvm8295|LV.AU.0.2.1.r5-01300-qtiquingvm8295.0.xml|
 April 21, 2022|LE.UM.4.1.1.c13-00300-sa515m|sa515m|LE.UM.4.1.1.c13-00300-sa515m.xml|
 April 21, 2022|LE.AU_EAP.1.0.c15-00100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c15-00100-eap-fsl.xml|
 April 21, 2022|CHSS.LNX_FSL.2.1-05510-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.1-05510-QCA6574AUARMSDIOHZ.xml|
