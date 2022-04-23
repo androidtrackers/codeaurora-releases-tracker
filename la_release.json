@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.1.r1-06200-QCM6490.0": {
+  "Date": "April 23, 2022",
+  "Tag / Build ID": "LA.UM.9.14.1.r1-06200-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.r1-06200-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.4.2.r1-00020-gen3meta.0": {
   "Date": "April 22, 2022",
   "Tag / Build ID": "LA.AU.1.4.2.r1-00020-gen3meta.0",
