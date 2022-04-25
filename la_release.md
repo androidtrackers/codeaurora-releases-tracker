@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 25, 2022|LA.AU.1.3.3.r2-00300-gen3meta.0|msmnile_au|LA.AU.1.3.3.r2-00300-gen3meta.0.xml|10.00.00|
 April 23, 2022|LA.UM.9.14.1.r1-06200-QCM6490.0|lahaina|LA.UM.9.14.1.r1-06200-QCM6490.0.xml|11.00.00|
 April 22, 2022|LA.AU.1.4.2.r1-00020-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-00020-gen3meta.0.xml|10.00.00|
 April 21, 2022|LA.UM.9.1.r1-11800.05-SMxxx0.QSSI12.0|msmnile|LA.UM.9.1.r1-11800.05-SMxxx0.QSSI12.0.xml|11.00.00|
