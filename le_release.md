@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 25, 2022|LV.AU.1.2.4.r1-00300-gen3meta.0|sa81x5|LV.AU.1.2.4.r1-00300-gen3meta.0.xml|
 April 23, 2022|LE.UM.1.1-04400-9x07|mdm9607|LE.UM.1.1-04400-9x07.xml|
 April 23, 2022|LV.AU.1.2.3.r1-00500-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-00500-gen3meta.0.xml|
 April 22, 2022|LE.UM.2.3.6.c4-00600-9x07|mdm9607-poky|LE.UM.2.3.6.c4-00600-9x07.xml|
