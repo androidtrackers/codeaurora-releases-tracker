@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.3.r1-08800-SDX12": {
+  "Date": "April 26, 2022",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-08800-SDX12",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-08800-SDX12.xml"
+ },
  "WLANHOST_AU.LE.2.1.r22.1-00500-QCAAUTOHOSTHZ": {
   "Date": "April 25, 2022",
   "Tag / Build ID": "WLANHOST_AU.LE.2.1.r22.1-00500-QCAAUTOHOSTHZ",
