@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 25, 2022|WLANHOST_AU.LE.2.1.r22.1-00500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LE.2.1.r22.1-00500-QCAAUTOHOSTHZ.xml|
 April 25, 2022|LE.UM.3.2.1.c1-57000-sa415m|sa415m|LE.UM.3.2.1.c1-57000-sa415m.xml|
 April 25, 2022|LE.AU_EAP.1.0.c1-61700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-61700-eap-fsl.xml|
 April 25, 2022|LV.AU.1.2.3.r1-00600-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-00600-gen3meta.0.xml|
