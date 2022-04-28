@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 28, 2022|LE.UM.5.3.1.r1-10300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-10300-genericarmv8-64.0.xml|
 April 28, 2022|LE.UM.1.2.c5-07500-9x07|mdm9607-poky|LE.UM.1.2.c5-07500-9x07.xml|
 April 28, 2022|LE.UM.6.4.1-05400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-05400-QRB5165.0.xml|
 April 28, 2022|LE.UM.6.2.4.r1-04300-QCS610.0|QCS610|LE.UM.6.2.4.r1-04300-QCS610.0.xml|
