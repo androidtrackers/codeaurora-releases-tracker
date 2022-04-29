@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.2.3.r1-03100-SDX65.0": {
+  "Date": "April 29, 2022",
+  "Tag / Build ID": "LE.UM.6.2.3.r1-03100-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.2.3.r1-03100-SDX65.0.xml"
+ },
+ "LE.UM.5.2.1.r2-02500-qcs405.0": {
+  "Date": "April 29, 2022",
+  "Tag / Build ID": "LE.UM.5.2.1.r2-02500-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r2-02500-qcs405.0.xml"
+ },
  "LE.UM.5.3.1.r1-10300-genericarmv8-64.0": {
   "Date": "April 28, 2022",
   "Tag / Build ID": "LE.UM.5.3.1.r1-10300-genericarmv8-64.0",
