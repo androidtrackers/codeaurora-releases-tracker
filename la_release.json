@@ -32,7 +32,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-07100.01-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-07100.01-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "KERNEL.PLATFORM.1.0.r1-09000-WAIPIO.0": {
   "Date": "April 28, 2022",
@@ -200,7 +200,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-07100-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-07100-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.9.15.2.r1-03300-KAMORTA.QSSI12.0": {
   "Date": "April 20, 2022",
@@ -333,7 +333,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-07000.03-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-07000.03-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.8.2.r2-05800-sdm660.0": {
   "Date": "April 14, 2022",
@@ -396,7 +396,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-07000.02-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-07000.02-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.AU.1.4.2.r1-01800-gen3meta.0": {
   "Date": "April 13, 2022",
@@ -445,7 +445,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-07000-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-07000-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.9.2.1.c25-02100-sdm660.0": {
   "Date": "April 12, 2022",
@@ -620,7 +620,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06800-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06800-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.9.1.r1-11800-SMxxx0.0": {
   "Date": "April 07, 2022",
@@ -767,7 +767,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06600.02-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06600.02-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "DISPLAY.LA.2.0.r1-05600-WAIPIO.0": {
   "Date": "March 31, 2022",
@@ -907,7 +907,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06500-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06500-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.9.12.r1-14000.04-SMxx50.QSSI13.0": {
   "Date": "March 21, 2022",
@@ -1019,7 +1019,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06400.01-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06400.01-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "CAMERA.LA.2.0.r1-04400-WAIPIO.0": {
   "Date": "March 14, 2022",
@@ -1187,7 +1187,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06400-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06400-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.10.9.1.r1-01500-QCS610.0": {
   "Date": "March 09, 2022",
@@ -1495,7 +1495,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06300.01-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06300.01-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.AU.1.4.2.r1-00500-gen3meta.0": {
   "Date": "January 27, 2022",
@@ -1586,7 +1586,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06300-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06300-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LAW.BR.4.0.c1-08400-89xx.0": {
   "Date": "February 17, 2022",
@@ -1747,7 +1747,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06100.02-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06100.02-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.9.15.2.r1-02600-KAMORTA.QSSI12.0": {
   "Date": "February 13, 2022",
@@ -1901,7 +1901,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-06100-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-06100-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.8.8.c25-01600-SDM710.0": {
   "Date": "February 07, 2022",
@@ -2104,7 +2104,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-05800.02-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-05800.02-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "KERNEL.PLATFORM.1.0.r1-06900-WAIPIO.0": {
   "Date": "January 28, 2022",
@@ -2202,7 +2202,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-05800.01-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-05800.01-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.8.8.1.r1-05900-QCS605.0": {
   "Date": "January 24, 2022",
@@ -2244,7 +2244,7 @@
   "Tag / Build ID": "LA.QSSI.12.0.r1-05800-qssi.0",
   "Chipset": "qssi",
   "Manifest": "LA.QSSI.12.0.r1-05800-qssi.0.xml",
-  "Android Version": "11.00.00"
+  "Android Version": "12.00.00"
  },
  "LA.UM.10.6.2.r1-00900-89xx.0": {
   "Date": "January 19, 2022",
