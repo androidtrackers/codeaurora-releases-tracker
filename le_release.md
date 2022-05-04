@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 04, 2022|LE.UM.3.2.3.c12-03700-SA2150p|sa2150p|LE.UM.3.2.3.c12-03700-SA2150p.xml|
+May 04, 2022|LE.UM.3.2.1.c5-04900-sa415m|sa415m|LE.UM.3.2.1.c5-04900-sa415m.xml|
 May 04, 2022|LE.UM.2.3.6-46600-9x07|mdm9607-poky|LE.UM.2.3.6-46600-9x07.xml|
 May 02, 2022|LE.UM.6.4.1-05800-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-05800-QRB5165.0.xml|
 April 29, 2022|LE.UM.4.4.1.r2-07800-QRB5165.1|QRB5165|LE.UM.4.4.1.r2-07800-QRB5165.1.xml|
