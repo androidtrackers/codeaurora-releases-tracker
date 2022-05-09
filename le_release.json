@@ -1,4 +1,16 @@
 {
+ "LE.AU_EAP.1.0.c13-01300-eap-fsl": {
+  "Date": "May 08, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c13-01300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c13-01300-eap-fsl.xml"
+ },
+ "LE.UM.6.3.4-17400-qcs405.0": {
+  "Date": "May 08, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-17400-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-17400-qcs405.0.xml"
+ },
  "CHSS.LNX_FSL.2.2-03610-QCA6574AUARMSDIOHZ": {
   "Date": "May 05, 2022",
   "Tag / Build ID": "CHSS.LNX_FSL.2.2-03610-QCA6574AUARMSDIOHZ",

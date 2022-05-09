@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 08, 2022|LE.AU_EAP.1.0.c13-01300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-01300-eap-fsl.xml|
+May 08, 2022|LE.UM.6.3.4-17400-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-17400-qcs405.0.xml|
 May 05, 2022|CHSS.LNX_FSL.2.2-03610-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.2-03610-QCA6574AUARMSDIOHZ.xml|
 May 05, 2022|LE.UM.6.4.1-06100-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-06100-QRB5165.0.xml|
 May 04, 2022|LE.UM.3.2.3.c12-03700-SA2150p|sa2150p|LE.UM.3.2.3.c12-03700-SA2150p.xml|
