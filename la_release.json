@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.r1-16000-qssi.0": {
+  "Date": "May 09, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-16000-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-16000-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LAW.BR.4.0.c1-10100-89xx.0": {
   "Date": "May 08, 2022",
   "Tag / Build ID": "LAW.BR.4.0.c1-10100-89xx.0",
