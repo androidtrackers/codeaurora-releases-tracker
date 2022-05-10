@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 10, 2022|LE.UM.1.1-04600-9x07|mdm9607|LE.UM.1.1-04600-9x07.xml|
 May 08, 2022|LE.UM.4.1.1.c11-02100-sa515m|sa515m|LE.UM.4.1.1.c11-02100-sa515m.xml|
 May 08, 2022|LE.AU_EAP.1.0.c13-01300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-01300-eap-fsl.xml|
 May 08, 2022|LE.UM.6.3.4-17400-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-17400-qcs405.0.xml|
