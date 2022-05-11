@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 11, 2022|LA.AU.0.2.4.r1-00300-sa8295.0|aosp_gull_arm64|LA.AU.0.2.4.r1-00300-sa8295.0.xml|10.00.00|
 May 10, 2022|LA.AU.1.4.2.r1-02100-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-02100-gen3meta.0.xml|10.00.00|
 May 10, 2022|LA.UM.9.1.r1-11900-SMxxx0.0|msmnile|LA.UM.9.1.r1-11900-SMxxx0.0.xml|11.00.00|
 May 09, 2022|LA.QSSI.11.0.r1-16000-qssi.0|qssi|LA.QSSI.11.0.r1-16000-qssi.0.xml|11.00.00|

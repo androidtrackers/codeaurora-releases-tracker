@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.2.4.r1-00300-sa8295.0": {
+  "Date": "May 11, 2022",
+  "Tag / Build ID": "LA.AU.0.2.4.r1-00300-sa8295.0",
+  "Chipset": "aosp_gull_arm64",
+  "Manifest": "LA.AU.0.2.4.r1-00300-sa8295.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.AU.1.4.2.r1-02100-gen3meta.0": {
   "Date": "May 10, 2022",
   "Tag / Build ID": "LA.AU.1.4.2.r1-02100-gen3meta.0",
