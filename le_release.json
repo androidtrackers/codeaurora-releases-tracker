@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.1.r2-03000-gen3meta.0": {
+  "Date": "May 13, 2022",
+  "Tag / Build ID": "LV.AU.1.2.1.r2-03000-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r2-03000-gen3meta.0.xml"
+ },
  "LE.UM.4.3.1.r1-06000-genericarmv8-64.0": {
   "Date": "May 13, 2022",
   "Tag / Build ID": "LE.UM.4.3.1.r1-06000-genericarmv8-64.0",

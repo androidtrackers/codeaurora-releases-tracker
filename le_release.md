@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 13, 2022|LV.AU.1.2.1.r2-03000-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-03000-gen3meta.0.xml|
 May 13, 2022|LE.UM.4.3.1.r1-06000-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06000-genericarmv8-64.0.xml|
 May 13, 2022|LV.AU.0.2.2.r1-05500-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-05500-gen3meta.0.xml|
 May 13, 2022|LE.UM.3.2.1.c1-57900-sa415m|sa415m|LE.UM.3.2.1.c1-57900-sa415m.xml|
