@@ -1,4 +1,11 @@
 {
+ "LA.UM.10.2.1.r1-03700-sdm660.0": {
+  "Date": "May 12, 2022",
+  "Tag / Build ID": "LA.UM.10.2.1.r1-03700-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.10.2.1.r1-03700-sdm660.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.9.16.r2-04100-MANNAR.0": {
   "Date": "May 12, 2022",
   "Tag / Build ID": "LA.UM.9.16.r2-04100-MANNAR.0",
