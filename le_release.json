@@ -1,4 +1,16 @@
 {
+ "LE.AU_EAP.1.0.c1-62200-eap-fsl": {
+  "Date": "May 12, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-62200-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-62200-eap-fsl.xml"
+ },
+ "LE.UM.4.4.2.r1-08700-SDX55": {
+  "Date": "May 12, 2022",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-08700-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-08700-SDX55.xml"
+ },
  "LV.AU.1.2.3.r1-01100-gen3meta.0": {
   "Date": "May 12, 2022",
   "Tag / Build ID": "LV.AU.1.2.3.r1-01100-gen3meta.0",
