@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 14, 2022|LE.UM.4.1.1.c1-84300-sa515m|sa515m|LE.UM.4.1.1.c1-84300-sa515m.xml|
+May 14, 2022|LE.UM.5.3.1.r1-10700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-10700-genericarmv8-64.0.xml|
 May 14, 2022|LE.UM.1.3.r11-01500-9x50|mdm9650-poky|LE.UM.1.3.r11-01500-9x50.xml|
 May 14, 2022|LE.UM.3.2.1.c1-58100-sa415m|sa415m|LE.UM.3.2.1.c1-58100-sa415m.xml|
 May 14, 2022|LE.UM.4.4.1.r2-07900-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-07900-QRB5165.0.xml|
