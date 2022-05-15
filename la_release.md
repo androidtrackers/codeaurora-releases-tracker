@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 15, 2022|LA.VENDOR.1.0.r1-13400-WAIPIO.0|taro|LA.VENDOR.1.0.r1-13400-WAIPIO.0.xml|11.00.00|
 May 15, 2022|LA.QSSI.12.0.r1-07500-qssi.0|qssi|LA.QSSI.12.0.r1-07500-qssi.0.xml|12.00.00|
 May 15, 2022|LA.QSSI.12.0.r1-07400-qssi.0|qssi|LA.QSSI.12.0.r1-07400-qssi.0.xml|12.00.00|
 May 14, 2022|KERNEL.PLATFORM.1.0.r1-09200-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-09200-kernel.0.xml||
