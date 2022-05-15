@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 15, 2022|LA.QSSI.12.0.r1-07500-qssi.0|qssi|LA.QSSI.12.0.r1-07500-qssi.0.xml|12.00.00|
+May 15, 2022|LA.QSSI.12.0.r1-07400-qssi.0|qssi|LA.QSSI.12.0.r1-07400-qssi.0.xml|12.00.00|
 May 14, 2022|KERNEL.PLATFORM.1.0.r1-09200-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-09200-kernel.0.xml||
 May 14, 2022|CAMERA.LA.2.0.r1-05500-WAIPIO.0|video|CAMERA.LA.2.0.r1-05500-WAIPIO.0.xml|00.00.00|
 May 14, 2022|VIDEO.LA.2.0.r1-04200-WAIPIO.0|video|VIDEO.LA.2.0.r1-04200-WAIPIO.0.xml|00.00.00|
