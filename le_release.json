@@ -1,4 +1,16 @@
 {
+ "LE.AU_EAP.1.0.c1-62600-eap-fsl": {
+  "Date": "May 15, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-62600-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-62600-eap-fsl.xml"
+ },
+ "LE.AU_EAP.1.0.c3-60300-eap-fsl": {
+  "Date": "May 15, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c3-60300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c3-60300-eap-fsl.xml"
+ },
  "LU.UM.3.3.1.r1-00300-QRB5165.0": {
   "Date": "May 15, 2022",
   "Tag / Build ID": "LU.UM.3.3.1.r1-00300-QRB5165.0",
