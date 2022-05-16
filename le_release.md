@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 16, 2022|LV.AU.0.2.3.r2-03200-gen4meta.0|opsy-sa8295|LV.AU.0.2.3.r2-03200-gen4meta.0.xml|
 May 16, 2022|LE.UM.6.2.4.r1-04700-QCS610.0|QCS610|LE.UM.6.2.4.r1-04700-QCS610.0.xml|
 May 16, 2022|LE.UM.6.2.3.r1-03400-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-03400-SDX65.0.xml|
 May 16, 2022|LE.UM.5.2.2.r1-07100-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-07100-SXR2130.0.xml|
