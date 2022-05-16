@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.2.r1-07100-SXR2130.0": {
+  "Date": "May 16, 2022",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-07100-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-07100-SXR2130.0.xml"
+ },
  "LV.AU.1.2.1.r2-03200-gen3meta.0": {
   "Date": "May 15, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r2-03200-gen3meta.0",
