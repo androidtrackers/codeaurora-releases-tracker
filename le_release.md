@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 18, 2022|LE.AU_EAP.1.0.1-02800-eap-fsl|eap-imx|LE.AU_EAP.1.0.1-02800-eap-fsl.xml|
 May 17, 2022|LE.BR.1.3.1-01900-9x50|mdm9650|LE.BR.1.3.1-01900-9x50.xml|
 May 17, 2022|LE.UM.6.4.1-06700-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-06700-QRB5165.0.xml|
 May 16, 2022|LV.AU.0.2.3.r2-03200-gen4meta.0|opsy-sa8295|LV.AU.0.2.3.r2-03200-gen4meta.0.xml|
