@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.15.1.r1-06600-KAMORTA.0": {
+  "Date": "May 20, 2022",
+  "Tag / Build ID": "LA.UM.9.15.1.r1-06600-KAMORTA.0",
+  "Chipset": "bengal_32go",
+  "Manifest": "LA.UM.9.15.1.r1-06600-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.r1-19600.01-LAHAINA.QSSI12.0": {
   "Date": "May 19, 2022",
   "Tag / Build ID": "LA.UM.9.14.r1-19600.01-LAHAINA.QSSI12.0",
