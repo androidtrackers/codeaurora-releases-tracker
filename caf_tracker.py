@@ -293,7 +293,7 @@ def git_command_push():
 
 def main():
     for branch in BRANCHES:
-        scraper = Scraper(f"https://wiki.codelinaro.org/en/wiki-{branch}/release")
+        scraper = Scraper(f"https://wiki.codelinaro.org/en/clo/{branch}/release")
         print(f"Working on {scraper.name}")
         file = Path(f"{scraper.name}.json")
         if file.exists():
