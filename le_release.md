@@ -1,5 +1,20 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 27, 2022|LE.UM.3.2.3.1-04100-SA2150p|sa2150p|LE.UM.3.2.3.1-04100-SA2150p.xml|
+May 27, 2022|LE.AU_EAP.1.0.1-03300-eap-fsl|eap-imx|LE.AU_EAP.1.0.1-03300-eap-fsl.xml|
+May 27, 2022|LNX.LE.5.3.2.2-88224-9x40|mdm9640|LNX.LE.5.3.2.2-88224-9x40.xml|
+May 27, 2022|LE.UM.5.4.1.r1-15300-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-15300-QRB2210.0.xml|
+May 27, 2022|LV.HB.1.1.3-10110-8x96.0|8x96autogvmquin|LV.HB.1.1.3-10110-8x96.0.xml|
+May 27, 2022|LE.UM.4.4.1.r3-12700-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-12700-QRB5165.0.xml|
+May 27, 2022|LV.HB.1.1.1-42410-8x96.0|8x96auto|LV.HB.1.1.1-42410-8x96.0.xml|
+May 27, 2022|LE.UM.3.2.3.c6-46600-SA2150p|sa2150p|LE.UM.3.2.3.c6-46600-SA2150p.xml|
+May 26, 2022|LV.HB.1.1.5.c1-05000-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-05000-8x96.0.xml|
+May 26, 2022|LE.UM.4.1.1.c9-43900-sa515m|sa515m|LE.UM.4.1.1.c9-43900-sa515m.xml|
+May 26, 2022|LE.AU_EAP.1.0.c10-44100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-44100-eap-fsl.xml|
+May 26, 2022|LV.AU.0.2.1.r5-02100-qtiquingvm8295.0|qtiquingvm8295|LV.AU.0.2.1.r5-02100-qtiquingvm8295.0.xml|
+May 26, 2022|LE.UM.4.2.3.r1-11200-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.r1-11200-QCS610.0.xml|
+May 25, 2022|LE.UM.2.3.6-46800-9x07|mdm9607-poky|LE.UM.2.3.6-46800-9x07.xml|
+May 23, 2022|LV.AU.1.2.1.r2-03400-gen3meta.0-1|sa81x5|LV.AU.1.2.1.r2-03400-gen3meta.0-1.xml|
 May 19, 2022|LE.UM.4.3.1.r1-06100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06100-genericarmv8-64.0.xml|
 May 19, 2022|LE.UM.6.2.4.r1-05000-QCS610.0|QCS610|LE.UM.6.2.4.r1-05000-QCS610.0.xml|
 May 19, 2022|LE.BR.1.3.1-16610-9x50|mdm9650|LE.BR.1.3.1-16610-9x50.xml|
