@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 30, 2022|KERNEL.PLATFORM.1.0.r2-01100-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-01100-NEO.0.xml||
 May 30, 2022|KERNEL.PLATFORM.1.0.r1-09400-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-09400-kernel.0.xml||
 May 30, 2022|DISPLAY.LA.2.0.r1-06600-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-06600-WAIPIO.0.xml|00.00.00|
 May 30, 2022|LA.UM.8.12.c3-54500-sm8250.0|kona|LA.UM.8.12.c3-54500-sm8250.0.xml|10.00.00|
