@@ -1,4 +1,11 @@
 {
+ "LA.VENDOR.1.0.r1-13700-WAIPIO.0": {
+  "Date": "May 30, 2022",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-13700-WAIPIO.0",
+  "Chipset": "taro",
+  "Manifest": "LA.VENDOR.1.0.r1-13700-WAIPIO.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-01100-NEO.0": {
   "Date": "May 30, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-01100-NEO.0",
