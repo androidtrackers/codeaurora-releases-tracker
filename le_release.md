@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 31, 2022|LV.AU.0.2.2.r1-06100-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-06100-gen3meta.0.xml|
 May 31, 2022|LV.AU.0.9.0.r2-00700-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.9.0.r2-00700-qtiquingvm8295.0.xml|
 May 31, 2022|LE.UM.4.3.3.r1-06200-SDX55|sdxprairie|LE.UM.4.3.3.r1-06200-SDX55.xml|
 May 30, 2022|LE.UM.6.2.3.r1-03700-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-03700-SDX65.0.xml|
