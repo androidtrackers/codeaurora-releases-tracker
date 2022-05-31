@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 30, 2022|LE.UM.3.2.3.c17-00700-SA2150p|sa2150p|LE.UM.3.2.3.c17-00700-SA2150p.xml|
+May 30, 2022|LE.UM.5.4.1.r1-15500-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-15500-QRB2210.0.xml|
 May 30, 2022|LU.UM.3.3.1.r1-02000-QRB5165.0|qrb5165-rb5-ubuntu-console-ubuntu-fullstack-debug|LU.UM.3.3.1.r1-02000-QRB5165.0.xml|
 May 30, 2022|LE.UM.4.1.1.c14-00500-sa515m|sa515m|LE.UM.4.1.1.c14-00500-sa515m.xml|
 May 30, 2022|LU.UM.3.3.1.r1-02300-QRB5165.0|qrb5165-rb5-ubuntu-console-ubuntu-fullstack-debug|LU.UM.3.3.1.r1-02300-QRB5165.0.xml|
