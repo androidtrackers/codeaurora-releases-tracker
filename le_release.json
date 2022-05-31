@@ -1,4 +1,10 @@
 {
+ "LU.UM.3.3.1.r1-02000-QRB5165.0": {
+  "Date": "May 30, 2022",
+  "Tag / Build ID": "LU.UM.3.3.1.r1-02000-QRB5165.0",
+  "Chipset": "qrb5165-rb5-ubuntu-console-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.3.1.r1-02000-QRB5165.0.xml"
+ },
  "LE.UM.4.1.1.c14-00500-sa515m": {
   "Date": "May 30, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c14-00500-sa515m",
