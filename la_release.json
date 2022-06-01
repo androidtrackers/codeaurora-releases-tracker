@@ -1,4 +1,11 @@
 {
+ "LA.UM.10.9.1.r1-02800-QCS610.0": {
+  "Date": "May 31, 2022",
+  "Tag / Build ID": "LA.UM.10.9.1.r1-02800-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LA.UM.10.9.1.r1-02800-QCS610.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.8.12.2.c25-01300-QCS8250.0": {
   "Date": "May 31, 2022",
   "Tag / Build ID": "LA.UM.8.12.2.c25-01300-QCS8250.0",
