@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 01, 2022|LV.AU.0.9.0.r2-00800-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.9.0.r2-00800-qtiquingvm8295.0.xml|
 June 01, 2022|LV.AU.0.2.1.r6-00900-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-00900-qtiquingvm8295.0.xml|
 June 01, 2022|LE.AU_FSL.1.0-25500-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-25500-eap-imx-cv2x.xml|
 May 31, 2022|LE.UM.4.3.3.r1-06300-SDX55|sdxprairie|LE.UM.4.3.3.r1-06300-SDX55.xml|
