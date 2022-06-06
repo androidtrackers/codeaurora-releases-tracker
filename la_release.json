@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.r1-16200-qssi.0": {
+  "Date": "May 18, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-16200-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-16200-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.3.2.r4-00800-sa8155_gvmq.0": {
   "Date": "June 03, 2022",
   "Tag / Build ID": "LA.AU.1.3.2.r4-00800-sa8155_gvmq.0",
@@ -292,13 +299,6 @@
   "Chipset": "msm8996",
   "Manifest": "LA.UM.5.5.c25-10800-8x96.0.xml",
   "Android Version": "07.01.02"
- },
- "LA.QSSI.11.0.r1-16200-qssi.0": {
-  "Date": "May 18, 2022",
-  "Tag / Build ID": "LA.QSSI.11.0.r1-16200-qssi.0",
-  "Chipset": "qssi",
-  "Manifest": "LA.QSSI.11.0.r1-16200-qssi.0.xml",
-  "Android Version": "11.00.00"
  },
  "LA.UM.9.16.r2-04200-MANNAR.0": {
   "Date": "May 18, 2022",
