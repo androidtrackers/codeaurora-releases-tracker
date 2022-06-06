@@ -1,4 +1,11 @@
 {
+ "LA.HB.1.1.5-17210-8x96.0": {
+  "Date": "June 06, 2022",
+  "Tag / Build ID": "LA.HB.1.1.5-17210-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.5-17210-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.UM.9.6.2.c27-01800-89xx.0": {
   "Date": "June 06, 2022",
   "Tag / Build ID": "LA.UM.9.6.2.c27-01800-89xx.0",
