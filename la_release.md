@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 07, 2022|LAW.BR.5.1.r1-12300-89xx.0|s|LAW.BR.5.1.r1-12300-89xx.0.xml|11.00.00|
 June 06, 2022|LA.HB.1.1.5-17210-8x96.0|msm8996|LA.HB.1.1.5-17210-8x96.0.xml|07.00.00|
 June 06, 2022|LA.UM.9.6.2.c27-01800-89xx.0|msm8937_64|LA.UM.9.6.2.c27-01800-89xx.0.xml|11.00.00|
 June 06, 2022|LA.UM.6.1.1.c25-03300-sdm660.0|sdm660_64|LA.UM.6.1.1.c25-03300-sdm660.0.xml|07.01.01|
