@@ -1,4 +1,32 @@
 {
+ "LA.UM.8.12.2.r1-04100-QCS8250.0": {
+  "Date": "June 07, 2022",
+  "Tag / Build ID": "LA.UM.8.12.2.r1-04100-QCS8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.2.r1-04100-QCS8250.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LAW.BR.4.0-47900-89xx.0": {
+  "Date": "June 07, 2022",
+  "Tag / Build ID": "LAW.BR.4.0-47900-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-47900-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LAW.BR.4.0.c1-11100-89xx.0": {
+  "Date": "June 07, 2022",
+  "Tag / Build ID": "LAW.BR.4.0.c1-11100-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-11100-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.QSSI.11.0.r1-16400-qssi.0": {
+  "Date": "June 07, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-16400-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-16400-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LAW.BR.5.1.r1-12300-89xx.0": {
   "Date": "June 07, 2022",
   "Tag / Build ID": "LAW.BR.5.1.r1-12300-89xx.0",
