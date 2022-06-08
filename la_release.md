@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 07, 2022|LA.UM.8.12.3-19700-sm8250.0|kona|LA.UM.8.12.3-19700-sm8250.0.xml|10.00.00|
 June 07, 2022|LA.UM.9.12.r1-14300-SMxx50.0|kona|LA.UM.9.12.r1-14300-SMxx50.0.xml|11.00.00|
 June 07, 2022|LA.UM.8.12.2.r1-04100-QCS8250.0|kona|LA.UM.8.12.2.r1-04100-QCS8250.0.xml|10.00.00|
 June 07, 2022|LAW.BR.4.0-47900-89xx.0|msm8937_32go|LAW.BR.4.0-47900-89xx.0.xml|08.01.00|

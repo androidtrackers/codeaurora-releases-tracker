@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 07, 2022|LE.UM.4.1.1.c14-00600-sa515m|sa515m|LE.UM.4.1.1.c14-00600-sa515m.xml|
 June 07, 2022|LE.UM.3.2.3.c17-00800-SA2150p|sa2150p|LE.UM.3.2.3.c17-00800-SA2150p.xml|
 June 06, 2022|LE.UM.1.3-13400-SDX20|sdx20|LE.UM.1.3-13400-SDX20.xml|
 June 05, 2022|LE.UM.6.3.5-07600-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5-07600-QCS610.0.xml|
