@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 09, 2022|LU.UM.2.4.1.r1-07700-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-07700-QRB5165.0.xml|
+June 09, 2022|LV.HB.0.0.1.c2-08310-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-08310-8x96_cv2x.0.xml|
+June 09, 2022|LE.UM.1.3.2.r1-11400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-11400-9150-cv2x.xml|
 June 08, 2022|LV.AU.0.2.1.r6-01000-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-01000-qtiquingvm8295.0.xml|
 June 07, 2022|LE.UM.4.1.1.c14-00600-sa515m|sa515m|LE.UM.4.1.1.c14-00600-sa515m.xml|
 June 07, 2022|LE.UM.3.2.3.c17-00800-SA2150p|sa2150p|LE.UM.3.2.3.c17-00800-SA2150p.xml|
