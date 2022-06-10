@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 10, 2022|LE.UM.5.3.1.r1-11200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-11200-genericarmv8-64.0.xml|
 June 09, 2022|LU.UM.2.4.1.r1-07700-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-07700-QRB5165.0.xml|
 June 09, 2022|LV.HB.0.0.1.c2-08310-8x96_cv2x.0|8x96autocv2x|LV.HB.0.0.1.c2-08310-8x96_cv2x.0.xml|
 June 09, 2022|LE.UM.1.3.2.r1-11400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-11400-9150-cv2x.xml|
