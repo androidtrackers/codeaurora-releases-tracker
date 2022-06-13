@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.2.r2-12600-8x98.0": {
+  "Date": "June 13, 2022",
+  "Tag / Build ID": "LA.UM.7.2.r2-12600-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.7.2.r2-12600-8x98.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.VENDOR.1.0.r1-14100-WAIPIO.0": {
   "Date": "June 10, 2022",
   "Tag / Build ID": "LA.VENDOR.1.0.r1-14100-WAIPIO.0",
