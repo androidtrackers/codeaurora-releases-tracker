@@ -1,4 +1,11 @@
 {
+ "DISPLAY.LA.2.0.r1-06900-WAIPIO.0": {
+  "Date": "June 14, 2022",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-06900-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-06900-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "LA.UM.8.8.1.r1-07500-QCS605.0": {
   "Date": "June 14, 2022",
   "Tag / Build ID": "LA.UM.8.8.1.r1-07500-QCS605.0",

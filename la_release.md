@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 14, 2022|DISPLAY.LA.2.0.r1-06900-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-06900-WAIPIO.0.xml|00.00.00|
 June 14, 2022|LA.UM.8.8.1.r1-07500-QCS605.0|qcs605|LA.UM.8.8.1.r1-07500-QCS605.0.xml|10.00.00|
 June 14, 2022|LA.AU.1.3.5.r1-01700-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.5.r1-01700-sa8155_gvmq.0.xml|10.00.00|
 June 14, 2022|LA.UM.8.15.c25-02400-KAMORTA.0|bengal|LA.UM.8.15.c25-02400-KAMORTA.0.xml|10.00.00|
