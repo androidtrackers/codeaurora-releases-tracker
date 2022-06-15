@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 15, 2022|LE.UM.5.2.2.r1-07300-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-07300-SXR2130.0.xml|
+June 15, 2022|LE.UM.5.3.1.r1-11300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-11300-genericarmv8-64.0.xml|
 June 15, 2022|LE.UM.4.1.1.c14-00700-sa515m|sa515m|LE.UM.4.1.1.c14-00700-sa515m.xml|
 June 14, 2022|LE.UM.3.2.3.c17-00900-SA2150p|sa2150p|LE.UM.3.2.3.c17-00900-SA2150p.xml|
 June 14, 2022|LE.UM.4.1.1.c11-02400-sa515m|sa515m|LE.UM.4.1.1.c11-02400-sa515m.xml|

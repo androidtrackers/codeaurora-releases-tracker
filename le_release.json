@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.2.2.r1-07300-SXR2130.0": {
+  "Date": "June 15, 2022",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-07300-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-07300-SXR2130.0.xml"
+ },
+ "LE.UM.5.3.1.r1-11300-genericarmv8-64.0": {
+  "Date": "June 15, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-11300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-11300-genericarmv8-64.0.xml"
+ },
  "LE.UM.4.1.1.c14-00700-sa515m": {
   "Date": "June 15, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c14-00700-sa515m",
