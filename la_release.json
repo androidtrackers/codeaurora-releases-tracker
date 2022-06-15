@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.2.r1-01100-QCM6490.QSSI12.0": {
+  "Date": "June 15, 2022",
+  "Tag / Build ID": "LA.UM.9.14.2.r1-01100-QCM6490.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.2.r1-01100-QCM6490.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "DISPLAY.LA.2.0.r1-06900-WAIPIO.0": {
   "Date": "June 14, 2022",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-06900-WAIPIO.0",
