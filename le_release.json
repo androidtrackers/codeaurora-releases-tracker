@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.3.r1-08900-SDX12": {
+  "Date": "June 15, 2022",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-08900-SDX12",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-08900-SDX12.xml"
+ },
  "LV.AU.0.9.0.r1-11000-qtiquingvm.0": {
   "Date": "June 15, 2022",
   "Tag / Build ID": "LV.AU.0.9.0.r1-11000-qtiquingvm.0",
