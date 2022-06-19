@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.4.r1-01200-gen3meta.0": {
+  "Date": "June 19, 2022",
+  "Tag / Build ID": "LV.AU.1.2.4.r1-01200-gen3meta.0",
+  "Chipset": "sa81x5lxc",
+  "Manifest": "LV.AU.1.2.4.r1-01200-gen3meta.0.xml"
+ },
  "LV.AU.1.2.4.r1-01300-gen3meta.0": {
   "Date": "June 18, 2022",
   "Tag / Build ID": "LV.AU.1.2.4.r1-01300-gen3meta.0",
