@@ -1,8 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 16, 2022|LV.AU.0.2.0.r5-03200-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-03200-gen3meta.0.xml|
 June 19, 2022|LV.AU.1.2.4.r1-01200-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-01200-gen3meta.0.xml|
 June 18, 2022|LV.AU.1.2.4.r1-01300-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-01300-gen3meta.0.xml|
-June 16, 2022|LV.AU.0.2.0.r5-03200-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-03200-gen3meta.0.xml|
 June 15, 2022|LE.UM.5.2.3.r1-08900-SDX12|sdxnightjar|LE.UM.5.2.3.r1-08900-SDX12.xml|
 June 15, 2022|LV.AU.0.9.0.r1-11000-qtiquingvm.0|qtiquingvm|LV.AU.0.9.0.r1-11000-qtiquingvm.0.xml|
 June 15, 2022|LE.UM.5.2.2.r1-07300-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-07300-SXR2130.0.xml|
