@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 22, 2022|LE.BR.1.2.1.1.c2-04200-9x07|mdm9607|LE.BR.1.2.1.1.c2-04200-9x07.xml|
 June 22, 2022|LE.UM.5.2.1.r2-02900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-02900-qcs405.0.xml|
 June 22, 2022|LE.UM.5.2.1.r2-02800-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-02800-qcs405.0.xml|
 June 21, 2022|LE.UM.5.3.2.r1-06800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-06800-SDX65.0.xml|
