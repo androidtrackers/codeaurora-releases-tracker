@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 22, 2022|LE.UM.5.2.1.r2-02900-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-02900-qcs405.0.xml|
 June 22, 2022|LE.UM.5.2.1.r2-02800-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r2-02800-qcs405.0.xml|
 June 21, 2022|LE.UM.5.3.2.r1-06800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-06800-SDX65.0.xml|
 June 16, 2022|LV.AU.0.2.0.r5-03200-gen3meta.0|opsy-sa81x5|LV.AU.0.2.0.r5-03200-gen3meta.0.xml|

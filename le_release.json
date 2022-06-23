@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r2-02900-qcs405.0": {
+  "Date": "June 22, 2022",
+  "Tag / Build ID": "LE.UM.5.2.1.r2-02900-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r2-02900-qcs405.0.xml"
+ },
  "LE.UM.5.2.1.r2-02800-qcs405.0": {
   "Date": "June 22, 2022",
   "Tag / Build ID": "LE.UM.5.2.1.r2-02800-qcs405.0",
