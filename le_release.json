@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.1.r6-01500-qtiquingvm8295.0": {
+  "Date": "June 24, 2022",
+  "Tag / Build ID": "LV.AU.0.2.1.r6-01500-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.2.1.r6-01500-qtiquingvm8295.0.xml"
+ },
  "LV.AU.0.2.1.r6-01300-qtiquingvm8295.0": {
   "Date": "June 24, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r6-01300-qtiquingvm8295.0",
