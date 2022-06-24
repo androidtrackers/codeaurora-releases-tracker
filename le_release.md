@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 24, 2022|LE.BR.1.2.1.1-76300-9x07|mdm9607|LE.BR.1.2.1.1-76300-9x07.xml|
 June 24, 2022|LV.AU.0.2.1.r6-01500-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-01500-qtiquingvm8295.0.xml|
 June 24, 2022|LV.AU.0.2.1.r6-01300-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-01300-qtiquingvm8295.0.xml|
 June 23, 2022|LE.UM.6.2.3.r1-03900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-03900-SDX65.0.xml|
