@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-01600-NEO.0": {
+  "Date": "June 26, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-01600-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-01600-NEO.0.xml",
+  "Android Version": ""
+ },
  "LA.AU.0.2.0.r1-05200-gen3_gvmgh.0": {
   "Date": "June 24, 2022",
   "Tag / Build ID": "LA.AU.0.2.0.r1-05200-gen3_gvmgh.0",
