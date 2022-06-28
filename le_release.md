@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 28, 2022|LV.AU.0.9.0.r2-01000-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.9.0.r2-01000-qtiquingvm8295.0.xml|
 June 28, 2022|LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0|SDX65|LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0.xml|
 June 28, 2022|LE.UM.3.2.3.c1-65300-SA2150p|sa2150p|LE.UM.3.2.3.c1-65300-SA2150p.xml|
 June 28, 2022|LE.UM.3.2.1.c1-60000-sa415m|sa415m|LE.UM.3.2.1.c1-60000-sa415m.xml|

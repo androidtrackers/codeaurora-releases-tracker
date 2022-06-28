@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.9.0.r2-01000-qtiquingvm8295.0": {
+  "Date": "June 28, 2022",
+  "Tag / Build ID": "LV.AU.0.9.0.r2-01000-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.9.0.r2-01000-qtiquingvm8295.0.xml"
+ },
  "LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0": {
   "Date": "June 28, 2022",
   "Tag / Build ID": "LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0",
