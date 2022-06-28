@@ -1,4 +1,16 @@
 {
+ "LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0": {
+  "Date": "June 28, 2022",
+  "Tag / Build ID": "LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0",
+  "Chipset": "SDX65",
+  "Manifest": "LE.LNXHOSTSW.1.0-05200-LNXHOSTSW.0.xml"
+ },
+ "LE.UM.3.2.3.c1-65300-SA2150p": {
+  "Date": "June 28, 2022",
+  "Tag / Build ID": "LE.UM.3.2.3.c1-65300-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c1-65300-SA2150p.xml"
+ },
  "LE.UM.3.2.1.c1-60000-sa415m": {
   "Date": "June 28, 2022",
   "Tag / Build ID": "LE.UM.3.2.1.c1-60000-sa415m",
