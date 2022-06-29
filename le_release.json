@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.4.r1-06300-QCS610.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "LE.UM.6.2.4.r1-06300-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LE.UM.6.2.4.r1-06300-QCS610.0.xml"
+ },
  "LV.AU.0.2.4.r1-00500-qtiquingvm8295.0": {
   "Date": "June 29, 2022",
   "Tag / Build ID": "LV.AU.0.2.4.r1-00500-qtiquingvm8295.0",
