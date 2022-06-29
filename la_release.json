@@ -1,4 +1,39 @@
 {
+ "CAMERA.LA.2.0.r1-06200-WAIPIO.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "CAMERA.LA.2.0.r1-06200-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r1-06200-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "VIDEO.LA.2.0.r1-04600-WAIPIO.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "VIDEO.LA.2.0.r1-04600-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r1-04600-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r2-01600-NEOLA.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-01600-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-01600-NEOLA.0.xml",
+  "Android Version": ""
+ },
+ "DISPLAY.LA.2.0.r1-07200-WAIPIO.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-07200-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-07200-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.UM.9.12.1.r1-01900-SMxx50.QSSI12.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "LA.UM.9.12.1.r1-01900-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.1.r1-01900-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.16.r1-11100.01-MANNAR.QSSI12.0": {
   "Date": "June 29, 2022",
   "Tag / Build ID": "LA.UM.9.16.r1-11100.01-MANNAR.QSSI12.0",
