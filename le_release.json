@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.4.r1-06400-QCS610.0": {
+  "Date": "June 29, 2022",
+  "Tag / Build ID": "LE.UM.6.2.4.r1-06400-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LE.UM.6.2.4.r1-06400-QCS610.0.xml"
+ },
  "LE.UM.5.3.1.r1-11600-genericarmv8-64.0": {
   "Date": "June 29, 2022",
   "Tag / Build ID": "LE.UM.5.3.1.r1-11600-genericarmv8-64.0",
