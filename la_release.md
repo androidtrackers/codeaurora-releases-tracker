@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 01, 2022|LA.UM.8.6.2.c30-02900-89xx.0|msm8937_64|LA.UM.8.6.2.c30-02900-89xx.0.xml|10.00.00|
 June 30, 2022|LA.UM.8.12.c3-55500-sm8250.0|kona|LA.UM.8.12.c3-55500-sm8250.0.xml|10.00.00|
 June 30, 2022|LA.UM.9.15.2.r1-03800-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.2.r1-03800-KAMORTA.QSSI12.0.xml|11.00.00|
 June 30, 2022|LA.UM.9.1.1.r1-02500-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-02500-RENNELL.QSSI12.0.xml|11.00.00|
