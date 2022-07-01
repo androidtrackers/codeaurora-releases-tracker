@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3.2.2-88226-9x40": {
+  "Date": "July 01, 2022",
+  "Tag / Build ID": "LNX.LE.5.3.2.2-88226-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3.2.2-88226-9x40.xml"
+ },
  "LR.AU.0.1.1.r1-02900-gen4meta.0": {
   "Date": "June 30, 2022",
   "Tag / Build ID": "LR.AU.0.1.1.r1-02900-gen4meta.0",
