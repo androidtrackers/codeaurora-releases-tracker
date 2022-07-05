@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 05, 2022|LE.UM.2.3.6.c1-29900-9x07|mdm9607-poky|LE.UM.2.3.6.c1-29900-9x07.xml|
 July 03, 2022|LE.UM.6.3.7.r1-00400-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-00400-QCS7230.0.xml|
 July 01, 2022|LU.UM.1.2.1.r1-41500-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-41500-QRB5165.0.xml|
 July 01, 2022|LNX.LE.5.3.2.2-88226-9x40|mdm9640|LNX.LE.5.3.2.2-88226-9x40.xml|
