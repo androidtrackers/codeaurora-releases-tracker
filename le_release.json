@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r2-03400-qtiquingvm.0": {
+  "Date": "July 07, 2022",
+  "Tag / Build ID": "LV.AU.0.2.2.r2-03400-qtiquingvm.0",
+  "Chipset": "qtiquingvm-headless",
+  "Manifest": "LV.AU.0.2.2.r2-03400-qtiquingvm.0.xml"
+ },
  "LE.UM.2.3.6.c1-29900-9x07": {
   "Date": "July 05, 2022",
   "Tag / Build ID": "LE.UM.2.3.6.c1-29900-9x07",
