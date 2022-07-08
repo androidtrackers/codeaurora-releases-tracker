@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 07, 2022|UC.UM.1.0.r1-02500-sa8155.0|qcs8155|UC.UM.1.0.r1-02500-sa8155.0.xml|
 July 07, 2022|LV.AU.0.2.2.r2-03400-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-03400-qtiquingvm.0.xml|
 July 05, 2022|LE.UM.2.3.6.c1-29900-9x07|mdm9607-poky|LE.UM.2.3.6.c1-29900-9x07.xml|
 July 03, 2022|LE.UM.6.3.7.r1-00400-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-00400-QCS7230.0.xml|
