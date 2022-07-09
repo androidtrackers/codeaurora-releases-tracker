@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 09, 2022|LE.UM.3.2.3.c17-01200-SA2150p|sa2150p|LE.UM.3.2.3.c17-01200-SA2150p.xml|
+July 09, 2022|LE.UM.4.1.1.c14-01000-sa515m|sa515m|LE.UM.4.1.1.c14-01000-sa515m.xml|
 July 07, 2022|LE.UM.4.4.1.r2-11100-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-11100-QRB5165.0.xml|
 July 07, 2022|UC.UM.1.0.r1-02500-sa8155.0|qcs8155|UC.UM.1.0.r1-02500-sa8155.0.xml|
 July 07, 2022|LV.AU.0.2.2.r2-03400-qtiquingvm.0|qtiquingvm-headless|LV.AU.0.2.2.r2-03400-qtiquingvm.0.xml|
