@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 11, 2022|LA.UM.8.3.c25-06600-sdm845.0|sdm845|LA.UM.8.3.c25-06600-sdm845.0.xml|10.00.00|
+July 11, 2022|KERNEL.PLATFORM.1.0.r2-01800-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-01800-NEO.0.xml||
 July 11, 2022|LA.UM.9.15.2.r1-04000-KAMORTA.QSSI13.0|bengal|LA.UM.9.15.2.r1-04000-KAMORTA.QSSI13.0.xml|11.00.00|
 July 08, 2022|LAW.BR.4.0.c1-11400-89xx.0|msm8937_32go|LAW.BR.4.0.c1-11400-89xx.0.xml|08.01.00|
 July 07, 2022|LA.AU.1.4.4.r1-00900-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.4.4.r1-00900-sa8155_gvmq.0.xml|10.00.00|
