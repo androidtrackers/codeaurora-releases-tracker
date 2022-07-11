@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 11, 2022|LA.UM.9.16.r1-11300-MANNAR.0|holi|LA.UM.9.16.r1-11300-MANNAR.0.xml|11.00.00|
 July 11, 2022|LA.QSSI.12.0.r1-08200-qssi.0|qssi|LA.QSSI.12.0.r1-08200-qssi.0.xml|12.00.00|
 July 11, 2022|LA.UM.8.3.c25-06600-sdm845.0|sdm845|LA.UM.8.3.c25-06600-sdm845.0.xml|10.00.00|
 July 11, 2022|KERNEL.PLATFORM.1.0.r2-01800-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-01800-NEO.0.xml||
