@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 12, 2022|LE.UM.4.4.2.r1-09000-SDX55|sdxprairie|LE.UM.4.4.2.r1-09000-SDX55.xml|
 July 12, 2022|LE.BR.1.2.1.1-77000-9x07|mdm9607|LE.BR.1.2.1.1-77000-9x07.xml|
 July 11, 2022|LU.UM.1.2.1.r1-41800-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-41800-QRB5165.0.xml|
 July 09, 2022|LE.UM.3.2.3.c17-01200-SA2150p|sa2150p|LE.UM.3.2.3.c17-01200-SA2150p.xml|
