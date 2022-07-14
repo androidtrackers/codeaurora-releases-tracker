@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 14, 2022|LE.UM.5.3.1.r1-11800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-11800-genericarmv8-64.0.xml|
 July 13, 2022|LE.UM.3.2.3.c1-66300-SA2150p|sa2150p-nand|LE.UM.3.2.3.c1-66300-SA2150p.xml|
 July 13, 2022|LE.UM.4.3.2.r1-04100-9x07|mdm9607|LE.UM.4.3.2.r1-04100-9x07.xml|
 July 12, 2022|LE.UM.4.4.2.r1-09000-SDX55|sdxprairie|LE.UM.4.4.2.r1-09000-SDX55.xml|
