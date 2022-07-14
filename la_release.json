@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.r2-04400-MANNAR.0": {
+  "Date": "July 14, 2022",
+  "Tag / Build ID": "LA.UM.9.16.r2-04400-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r2-04400-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "CAMERA.LA.2.0.r1-06400-WAIPIO.0": {
   "Date": "July 14, 2022",
   "Tag / Build ID": "CAMERA.LA.2.0.r1-06400-WAIPIO.0",
