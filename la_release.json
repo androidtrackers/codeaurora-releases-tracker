@@ -1,4 +1,11 @@
 {
+ "CAMERA.LA.2.0.r1-06400-WAIPIO.0": {
+  "Date": "July 14, 2022",
+  "Tag / Build ID": "CAMERA.LA.2.0.r1-06400-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r1-06400-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "DISPLAY.LA.2.0.r1-07300-WAIPIO.0": {
   "Date": "July 14, 2022",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-07300-WAIPIO.0",
