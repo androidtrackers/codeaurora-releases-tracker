@@ -1,4 +1,18 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-01900-NEOLA.0": {
+  "Date": "July 14, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-01900-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-01900-NEOLA.0.xml",
+  "Android Version": ""
+ },
+ "KERNEL.PLATFORM.1.0.r1-10300-kernel.0": {
+  "Date": "July 14, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-10300-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-10300-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.16.r2-04400-MANNAR.0": {
   "Date": "July 14, 2022",
   "Tag / Build ID": "LA.UM.9.16.r2-04400-MANNAR.0",
