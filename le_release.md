@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 15, 2022|LE.UM.3.3.1.c3-35300-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-35300-qcs405.0.xml|
 July 15, 2022|LE.UM.1.3.r6-08400-8x17|apq8017-qsap|LE.UM.1.3.r6-08400-8x17.xml|
 July 15, 2022|UC.UM.1.0.r1-02600-sa8155.0|qcs8155|UC.UM.1.0.r1-02600-sa8155.0.xml|
 July 14, 2022|LU.UM.3.3.1.r1-03600-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.3.1.r1-03600-QRB5165.0.xml|
