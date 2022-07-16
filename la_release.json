@@ -1,4 +1,11 @@
 {
+ "LA.VENDOR.1.0.r1-15000-WAIPIO.0": {
+  "Date": "July 15, 2022",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-15000-WAIPIO.0",
+  "Chipset": "parrot",
+  "Manifest": "LA.VENDOR.1.0.r1-15000-WAIPIO.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.6.6.c31-02700-89xx.0": {
   "Date": "July 15, 2022",
   "Tag / Build ID": "LA.UM.6.6.c31-02700-89xx.0",
