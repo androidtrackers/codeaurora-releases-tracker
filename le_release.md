@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 18, 2022|LE.UM.1.3.r11-01900-9x50|mdm9650-poky|LE.UM.1.3.r11-01900-9x50.xml|
 July 15, 2022|LE.UM.3.3.1.c3-35300-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-35300-qcs405.0.xml|
 July 15, 2022|LE.UM.1.3.r6-08400-8x17|apq8017-qsap|LE.UM.1.3.r6-08400-8x17.xml|
 July 15, 2022|UC.UM.1.0.r1-02600-sa8155.0|qcs8155|UC.UM.1.0.r1-02600-sa8155.0.xml|
