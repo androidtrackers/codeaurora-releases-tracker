@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.2.r1-03900-gen3meta.0": {
+  "Date": "July 18, 2022",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-03900-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.2.2.r1-03900-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.QSSI.11.0.r1-16700-qssi.0": {
   "Date": "July 18, 2022",
   "Tag / Build ID": "LA.QSSI.11.0.r1-16700-qssi.0",
