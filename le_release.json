@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.1.r2-04000-gen3meta.0": {
+  "Date": "July 19, 2022",
+  "Tag / Build ID": "LV.AU.1.2.1.r2-04000-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r2-04000-gen3meta.0.xml"
+ },
  "LE.LNXHOSTSW.1.0-05600-LNXHOSTSW.0": {
   "Date": "July 19, 2022",
   "Tag / Build ID": "LE.LNXHOSTSW.1.0-05600-LNXHOSTSW.0",
