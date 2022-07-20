@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 20, 2022|LE.UM.6.2.3.r1-04100-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-04100-SDX65.0.xml|
 July 19, 2022|LV.AU.1.2.1.r2-04000-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-04000-gen3meta.0.xml|
 July 19, 2022|LE.LNXHOSTSW.1.0-05600-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-05600-LNXHOSTSW.0.xml|
 July 18, 2022|LE.UM.1.3.r11-01900-9x50|mdm9650-poky|LE.UM.1.3.r11-01900-9x50.xml|
