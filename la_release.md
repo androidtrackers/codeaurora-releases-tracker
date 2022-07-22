@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 22, 2022|LA.VENDOR.1.0.r1-15200-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-15200-WAIPIO.QSSI13.0.xml|11.00.00|
+July 22, 2022|LA.UM.9.14.1.r1-06900-QCM6490.QSSI13.0|lahaina|LA.UM.9.14.1.r1-06900-QCM6490.QSSI13.0.xml|11.00.00|
 July 22, 2022|LA.UM.5.7.c25-10400-8x98.0|msm8998|LA.UM.5.7.c25-10400-8x98.0.xml|07.01.01|
 July 22, 2022|LA.AU.1.4.5.r1-00500-gen3meta.0|msmnile_au|LA.AU.1.4.5.r1-00500-gen3meta.0.xml|10.00.00|
 July 21, 2022|CAMERA.LA.2.0.r1-06500-WAIPIO.0|camera|CAMERA.LA.2.0.r1-06500-WAIPIO.0.xml|00.00.00|
