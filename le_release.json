@@ -1,4 +1,10 @@
 {
+ "LV.HB.1.1.6-09610-8x96.0": {
+  "Date": "July 26, 2022",
+  "Tag / Build ID": "LV.HB.1.1.6-09610-8x96.0",
+  "Chipset": "8x96autodvrs",
+  "Manifest": "LV.HB.1.1.6-09610-8x96.0.xml"
+ },
  "LV.AU.0.2.1.r5-02700-qtiquingvm8295.0": {
   "Date": "July 26, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r5-02700-qtiquingvm8295.0",
