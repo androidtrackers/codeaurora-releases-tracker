@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.1.r5-02700-qtiquingvm8295.0": {
+  "Date": "July 26, 2022",
+  "Tag / Build ID": "LV.AU.0.2.1.r5-02700-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.2.1.r5-02700-qtiquingvm8295.0.xml"
+ },
  "LNX.LE.5.3-20303-9x40": {
   "Date": "July 26, 2022",
   "Tag / Build ID": "LNX.LE.5.3-20303-9x40",

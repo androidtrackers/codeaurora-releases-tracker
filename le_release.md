@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 26, 2022|LV.AU.0.2.1.r5-02700-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r5-02700-qtiquingvm8295.0.xml|
 July 26, 2022|LNX.LE.5.3-20303-9x40|mdm9640|LNX.LE.5.3-20303-9x40.xml|
 July 25, 2022|LV.AU.1.2.1.r2-04200-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-04200-gen3meta.0.xml|
 July 22, 2022|LE.UM.5.3.1.r1-11900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-11900-genericarmv8-64.0.xml|
