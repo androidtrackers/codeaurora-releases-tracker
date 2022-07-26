@@ -1,4 +1,16 @@
 {
+ "LNX.LE.5.3-20303-9x40": {
+  "Date": "July 26, 2022",
+  "Tag / Build ID": "LNX.LE.5.3-20303-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3-20303-9x40.xml"
+ },
+ "LV.AU.1.2.1.r2-04200-gen3meta.0": {
+  "Date": "July 25, 2022",
+  "Tag / Build ID": "LV.AU.1.2.1.r2-04200-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r2-04200-gen3meta.0.xml"
+ },
  "LE.UM.5.3.1.r1-11900-genericarmv8-64.0": {
   "Date": "July 22, 2022",
   "Tag / Build ID": "LE.UM.5.3.1.r1-11900-genericarmv8-64.0",
