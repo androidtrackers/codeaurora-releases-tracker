@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-11700-QRB5165.0": {
+  "Date": "July 27, 2022",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-11700-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-11700-QRB5165.0.xml"
+ },
  "LV.AU.1.2.1.r2-04300-gen3meta.0": {
   "Date": "July 26, 2022",
   "Tag / Build ID": "LV.AU.1.2.1.r2-04300-gen3meta.0",
