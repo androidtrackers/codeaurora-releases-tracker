@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 28, 2022|DISPLAY.LA.2.0.r1-07500-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-07500-WAIPIO.0.xml|00.00.00|
 July 28, 2022|CAMERA.LA.2.0.r1-06600-WAIPIO.0|camera|CAMERA.LA.2.0.r1-06600-WAIPIO.0.xml|00.00.00|
 July 28, 2022|VIDEO.LA.2.0.r1-05100-WAIPIO.0|video|VIDEO.LA.2.0.r1-05100-WAIPIO.0.xml|00.00.00|
 July 28, 2022|LA.AU.1.2.2.r1-04000-gen3meta.0|sm6150_au|LA.AU.1.2.2.r1-04000-gen3meta.0.xml|10.00.00|
