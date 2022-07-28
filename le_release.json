@@ -1,4 +1,10 @@
 {
+ "LE.LNXHOSTSW.2.0-10100-LNXHOSTSW.0": {
+  "Date": "July 27, 2022",
+  "Tag / Build ID": "LE.LNXHOSTSW.2.0-10100-LNXHOSTSW.0",
+  "Chipset": "cinder-host-csmhost-host-debug",
+  "Manifest": "LE.LNXHOSTSW.2.0-10100-LNXHOSTSW.0.xml"
+ },
  "LE.UM.6.3.6.r1-01600-SDX65.0": {
   "Date": "July 27, 2022",
   "Tag / Build ID": "LE.UM.6.3.6.r1-01600-SDX65.0",
