@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 28, 2022|LE.UM.3.2.1.c6-01200-sa415m|sa415m|LE.UM.3.2.1.c6-01200-sa415m.xml|
+July 28, 2022|LE.AU_EAP.1.0.c12-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-01100-eap-fsl.xml|
+July 28, 2022|LE.UM.5.3.1.r1-12200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12200-genericarmv8-64.0.xml|
 July 27, 2022|LE.LNXHOSTSW.2.0-10100-LNXHOSTSW.0|cinder-host-csmhost-host-debug|LE.LNXHOSTSW.2.0-10100-LNXHOSTSW.0.xml|
 July 27, 2022|LE.UM.6.3.6.r1-01600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-01600-SDX65.0.xml|
 July 27, 2022|LE.UM.4.4.1.r2-11700-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-11700-QRB5165.0.xml|
