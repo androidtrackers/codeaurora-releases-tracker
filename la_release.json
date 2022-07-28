@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.2.2.r1-04000-gen3meta.0": {
+  "Date": "July 28, 2022",
+  "Tag / Build ID": "LA.AU.1.2.2.r1-04000-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.2.2.r1-04000-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-02300-NEOLA.0": {
   "Date": "July 27, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-02300-NEOLA.0",
