@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r1-10700-kernel.0": {
+  "Date": "July 28, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-10700-kernel.0",
+  "Chipset": "waipio",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-10700-kernel.0.xml",
+  "Android Version": ""
+ },
  "DISPLAY.LA.2.0.r1-07500-WAIPIO.0": {
   "Date": "July 28, 2022",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-07500-WAIPIO.0",
