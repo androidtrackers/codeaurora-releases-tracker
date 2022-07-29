@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 29, 2022|LE.UM.5.2.1.r1-10100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-10100-qcs405.0.xml|
 July 28, 2022|LE.UM.3.2.1.c6-01200-sa415m|sa415m|LE.UM.3.2.1.c6-01200-sa415m.xml|
 July 28, 2022|LE.AU_EAP.1.0.c12-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-01100-eap-fsl.xml|
 July 28, 2022|LE.UM.5.3.1.r1-12200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12200-genericarmv8-64.0.xml|
