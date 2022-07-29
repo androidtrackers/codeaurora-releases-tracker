@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 28, 2022|LA.VENDOR.1.0.r1-15600-WAIPIO.0|taro|LA.VENDOR.1.0.r1-15600-WAIPIO.0.xml|11.00.00|
 July 28, 2022|KERNEL.PLATFORM.1.0.r1-10700-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-10700-kernel.0.xml||
 July 28, 2022|DISPLAY.LA.2.0.r1-07500-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-07500-WAIPIO.0.xml|00.00.00|
 July 28, 2022|CAMERA.LA.2.0.r1-06600-WAIPIO.0|camera|CAMERA.LA.2.0.r1-06600-WAIPIO.0.xml|00.00.00|
