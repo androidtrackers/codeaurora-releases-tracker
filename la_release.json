@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-02300-ANORAK.0": {
+  "Date": "July 30, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-02300-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-02300-ANORAK.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.12.1.r1-02200-SMxx50.QSSI12.0": {
   "Date": "July 29, 2022",
   "Tag / Build ID": "LA.UM.9.12.1.r1-02200-SMxx50.QSSI12.0",
