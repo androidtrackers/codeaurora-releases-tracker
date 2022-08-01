@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 01, 2022|LE.UM.5.2.2.r1-07600-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-07600-SXR2130.0.xml|
 July 30, 2022|LE.UM.6.3.6.r1-01700-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-01700-SDX65.0.xml|
 July 29, 2022|LE.UM.4.2.1.c25-01000-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-01000-QCS404.0.xml|
 July 29, 2022|LE.UM.5.2.1.r1-10100-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-10100-qcs405.0.xml|

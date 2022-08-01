@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.2.r1-07600-SXR2130.0": {
+  "Date": "August 01, 2022",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-07600-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-07600-SXR2130.0.xml"
+ },
  "LE.UM.6.3.6.r1-01700-SDX65.0": {
   "Date": "July 30, 2022",
   "Tag / Build ID": "LE.UM.6.3.6.r1-01700-SDX65.0",
