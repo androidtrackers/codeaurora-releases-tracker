@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 03, 2022|LA.AU.1.4.5.r1-00800-gen3meta.0|msmnile_au|LA.AU.1.4.5.r1-00800-gen3meta.0.xml|10.00.00|
 August 03, 2022|LA.AU.1.3.2.r5-00300-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r5-00300-sa8155_gvmq.0.xml|10.00.00|
 August 03, 2022|LA.AU.1.3.1.r2-02600-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-02600-sa8155.0.xml|10.00.00|
 August 02, 2022|LAW.BR.5.1.r1-13000-89xx.0|sdm429w_law|LAW.BR.5.1.r1-13000-89xx.0.xml|11.00.00|
