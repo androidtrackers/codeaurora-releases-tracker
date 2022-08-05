@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.8.r1-11700-SDM710.0": {
+  "Date": "August 05, 2022",
+  "Tag / Build ID": "LA.UM.7.8.r1-11700-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.7.8.r1-11700-SDM710.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.HB.1.1.8-06610-8x96.0": {
   "Date": "August 04, 2022",
   "Tag / Build ID": "LA.HB.1.1.8-06610-8x96.0",

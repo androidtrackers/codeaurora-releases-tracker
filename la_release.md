@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 05, 2022|LA.UM.7.8.r1-11700-SDM710.0|sdm710|LA.UM.7.8.r1-11700-SDM710.0.xml|09.00.00|
 August 04, 2022|LA.HB.1.1.8-06610-8x96.0|msm8996|LA.HB.1.1.8-06610-8x96.0.xml|07.00.00|
 August 04, 2022|LAW.BR.4.0.c1-11700-89xx.0|msm8937_32go|LAW.BR.4.0.c1-11700-89xx.0.xml|08.01.00|
 August 04, 2022|LA.UM.8.15.c25-02800-KAMORTA.0|bengal|LA.UM.8.15.c25-02800-KAMORTA.0.xml|10.00.00|
