@@ -1,4 +1,10 @@
 {
+ "LU.UM.2.4.1.r1-09800-QRB5165.0": {
+  "Date": "August 07, 2022",
+  "Tag / Build ID": "LU.UM.2.4.1.r1-09800-QRB5165.0",
+  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.2.4.1.r1-09800-QRB5165.0.xml"
+ },
  "LU.UM.2.4.1.r1-09700-QRB5165.0": {
   "Date": "August 04, 2022",
   "Tag / Build ID": "LU.UM.2.4.1.r1-09700-QRB5165.0",

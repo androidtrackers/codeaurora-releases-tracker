@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 07, 2022|LU.UM.2.4.1.r1-09800-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-09800-QRB5165.0.xml|
 August 04, 2022|LU.UM.2.4.1.r1-09700-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-09700-QRB5165.0.xml|
 August 04, 2022|LE.UM.4.1.1.c1-85500-sa515m|sa515m|LE.UM.4.1.1.c1-85500-sa515m.xml|
 August 04, 2022|LE.AU_EAP.1.0.c3-60900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c3-60900-eap-fsl.xml|
