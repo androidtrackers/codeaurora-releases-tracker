@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r1-07200-gen3meta.0": {
+  "Date": "August 08, 2022",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-07200-gen3meta.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.0.2.2.r1-07200-gen3meta.0.xml"
+ },
  "LE.UM.3.2.3.c11-09400-SA2150p": {
   "Date": "August 08, 2022",
   "Tag / Build ID": "LE.UM.3.2.3.c11-09400-SA2150p",
