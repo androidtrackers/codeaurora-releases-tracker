@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.12.4.r1-05500-QCS8250.0": {
+  "Date": "August 10, 2022",
+  "Tag / Build ID": "LA.UM.8.12.4.r1-05500-QCS8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.4.r1-05500-QCS8250.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.8.8.1.r1-07800-QCS605.0": {
   "Date": "August 10, 2022",
   "Tag / Build ID": "LA.UM.8.8.1.r1-07800-QCS605.0",
