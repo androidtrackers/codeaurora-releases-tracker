@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.8.1.r1-07800-QCS605.0": {
+  "Date": "August 10, 2022",
+  "Tag / Build ID": "LA.UM.8.8.1.r1-07800-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.8.8.1.r1-07800-QCS605.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.HB.1.1.8.r3-00300-8x96.0": {
+  "Date": "August 10, 2022",
+  "Tag / Build ID": "LA.HB.1.1.8.r3-00300-8x96.0",
+  "Chipset": "msm8996",
+  "Manifest": "LA.HB.1.1.8.r3-00300-8x96.0.xml",
+  "Android Version": "07.00.00"
+ },
  "LA.UM.6.7.c26-11300-8x09.0": {
   "Date": "August 10, 2022",
   "Tag / Build ID": "LA.UM.6.7.c26-11300-8x09.0",
