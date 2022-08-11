@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.6.2.c26-04300-89xx.0": {
+  "Date": "August 11, 2022",
+  "Tag / Build ID": "LA.UM.8.6.2.c26-04300-89xx.0",
+  "Chipset": "msm8937_64",
+  "Manifest": "LA.UM.8.6.2.c26-04300-89xx.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.10.2.1.r1-04300-sdm660.0": {
+  "Date": "August 11, 2022",
+  "Tag / Build ID": "LA.UM.10.2.1.r1-04300-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.10.2.1.r1-04300-sdm660.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.8.12.4.r1-05500-QCS8250.0": {
   "Date": "August 10, 2022",
   "Tag / Build ID": "LA.UM.8.12.4.r1-05500-QCS8250.0",
