@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 12, 2022|LE.UM.4.1.1.c8-18700-sa515m|sa515m|LE.UM.4.1.1.c8-18700-sa515m.xml|
+August 12, 2022|LE.AU_EAP.1.0.c9-19400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-19400-eap-fsl.xml|
 August 12, 2022|LV.AU.0.2.3-37300-gen4meta.0|lemanslxc|LV.AU.0.2.3-37300-gen4meta.0.xml|
 August 12, 2022|BTHOST_AU.LA.4.1.r22.2-00200-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.4.1.r22.2-00200-QCAAUTOHOSTHZ.xml|
 August 11, 2022|WLANHOST_AU.LE.2.1.r22.2-00200-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LE.2.1.r22.2-00200-QCAAUTOHOSTHZ.xml|
