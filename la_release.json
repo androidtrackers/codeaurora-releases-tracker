@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-02500-NEO.0": {
+  "Date": "August 12, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-02500-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-02500-NEO.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.15.2.r1-04300-KAMORTA.QSSI12.0": {
   "Date": "August 12, 2022",
   "Tag / Build ID": "LA.UM.9.15.2.r1-04300-KAMORTA.QSSI12.0",
