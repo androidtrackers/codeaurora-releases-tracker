@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 12, 2022|LA.UM.9.15.2.r1-04300-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.2.r1-04300-KAMORTA.QSSI12.0.xml|11.00.00|
+August 11, 2022|LA.UM.9.16.r1-11800-MANNAR.0|holi|LA.UM.9.16.r1-11800-MANNAR.0.xml|11.00.00|
 August 11, 2022|LA.QSSI.12.0.r1-08500-qssi.0|qssi|LA.QSSI.12.0.r1-08500-qssi.0.xml|12.00.00|
 August 11, 2022|LA.QSSI.12.0.r1-08400-qssi.0|qssi|LA.QSSI.12.0.r1-08400-qssi.0.xml|12.00.00|
 August 11, 2022|KERNEL.PLATFORM.1.0.r2-02500-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-02500-NEOLA.0.xml||
