@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.LA.5.1.r22.2-00500-QCAAUTOHOSTHZ": {
+  "Date": "August 11, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.1.r22.2-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.1.r22.2-00500-QCAAUTOHOSTHZ.xml"
+ },
  "LNX.LE.5.3.c5-99112-9x40": {
   "Date": "August 11, 2022",
   "Tag / Build ID": "LNX.LE.5.3.c5-99112-9x40",

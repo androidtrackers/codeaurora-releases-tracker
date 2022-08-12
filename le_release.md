@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 11, 2022|WLANHOST_AU.LA.5.1.r22.2-00500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.5.1.r22.2-00500-QCAAUTOHOSTHZ.xml|
 August 11, 2022|LNX.LE.5.3.c5-99112-9x40|mdm9640|LNX.LE.5.3.c5-99112-9x40.xml|
 August 10, 2022|LV.AU.1.2.3.r1-01700-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-01700-gen3meta.0.xml|
 August 10, 2022|LE.UM.6.2.4.r1-08000-QCS610.0|QCS610|LE.UM.6.2.4.r1-08000-QCS610.0.xml|
