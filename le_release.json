@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.7.r1-01600-QCS7230.0": {
+  "Date": "August 12, 2022",
+  "Tag / Build ID": "LE.UM.6.3.7.r1-01600-QCS7230.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-perf",
+  "Manifest": "LE.UM.6.3.7.r1-01600-QCS7230.0.xml"
+ },
  "LE.UM.4.1.1.c8-18700-sa515m": {
   "Date": "August 12, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c8-18700-sa515m",

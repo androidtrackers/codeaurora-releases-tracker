@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 12, 2022|LE.UM.6.3.7.r1-01600-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-01600-QCS7230.0.xml|
 August 12, 2022|LE.UM.4.1.1.c8-18700-sa515m|sa515m|LE.UM.4.1.1.c8-18700-sa515m.xml|
 August 12, 2022|LE.AU_EAP.1.0.c9-19400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-19400-eap-fsl.xml|
 August 12, 2022|LV.AU.0.2.3-37300-gen4meta.0|lemanslxc|LV.AU.0.2.3-37300-gen4meta.0.xml|
