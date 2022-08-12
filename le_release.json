@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.2.3-37300-gen4meta.0": {
+  "Date": "August 12, 2022",
+  "Tag / Build ID": "LV.AU.0.2.3-37300-gen4meta.0",
+  "Chipset": "lemanslxc",
+  "Manifest": "LV.AU.0.2.3-37300-gen4meta.0.xml"
+ },
+ "BTHOST_AU.LA.4.1.r22.2-00200-QCAAUTOHOSTHZ": {
+  "Date": "August 12, 2022",
+  "Tag / Build ID": "BTHOST_AU.LA.4.1.r22.2-00200-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.4.1.r22.2-00200-QCAAUTOHOSTHZ.xml"
+ },
  "WLANHOST_AU.LE.2.1.r22.2-00200-QCAAUTOHOSTHZ": {
   "Date": "August 11, 2022",
   "Tag / Build ID": "WLANHOST_AU.LE.2.1.r22.2-00200-QCAAUTOHOSTHZ",
