@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 15, 2022|BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ|connx_sdk|BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ.xml|
+August 15, 2022|WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ.xml|
 August 12, 2022|LE.UM.6.3.7.r1-01600-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-01600-QCS7230.0.xml|
 August 12, 2022|LE.UM.4.1.1.c8-18700-sa515m|sa515m|LE.UM.4.1.1.c8-18700-sa515m.xml|
 August 12, 2022|LE.AU_EAP.1.0.c9-19400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-19400-eap-fsl.xml|

@@ -1,4 +1,16 @@
 {
+ "BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ": {
+  "Date": "August 15, 2022",
+  "Tag / Build ID": "BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ": {
+  "Date": "August 15, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.6.3.7.r1-01600-QCS7230.0": {
   "Date": "August 12, 2022",
   "Tag / Build ID": "LE.UM.6.3.7.r1-01600-QCS7230.0",
