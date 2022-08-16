@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c13-02100-eap-fsl": {
+  "Date": "August 16, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c13-02100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c13-02100-eap-fsl.xml"
+ },
  "BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ": {
   "Date": "August 15, 2022",
   "Tag / Build ID": "BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ",
