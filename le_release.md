@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 16, 2022|LE.UM.4.1.1.c11-03000-sa515m|sa515m|LE.UM.4.1.1.c11-03000-sa515m.xml|
 August 16, 2022|LE.AU_EAP.1.0.c13-02100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-02100-eap-fsl.xml|
 August 15, 2022|BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ|connx_sdk|BT_TOOLS.LNX.1.0.r22.2-00200-QCAAUTOHOSTHZ.xml|
 August 15, 2022|WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.5.1.r22.2-00600-QCAAUTOHOSTHZ.xml|
