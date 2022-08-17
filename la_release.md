@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 16, 2022|LA.VENDOR.1.0.r1-16000-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-16000-WAIPIO.QSSI13.0.xml|11.00.00|
 August 16, 2022|KERNEL.PLATFORM.1.0.r1-11200-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-11200-kernel.0.xml||
 August 16, 2022|LA.UM.7.7.c26-08900-8x09.0|msm8909|LA.UM.7.7.c26-08900-8x09.0.xml|09.00.00|
 August 16, 2022|CAMERA.LA.2.0.r1-06800-WAIPIO.0|camera|CAMERA.LA.2.0.r1-06800-WAIPIO.0.xml|00.00.00|
