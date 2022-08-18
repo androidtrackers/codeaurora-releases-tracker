@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.4-22500-qcs405.0": {
+  "Date": "August 17, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-22500-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-22500-qcs405.0.xml"
+ },
  "LE.UM.5.3.1.r1-12400-genericarmv8-64.0": {
   "Date": "August 16, 2022",
   "Tag / Build ID": "LE.UM.5.3.1.r1-12400-genericarmv8-64.0",

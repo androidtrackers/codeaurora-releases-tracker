@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 17, 2022|LE.UM.6.3.4-22500-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-22500-qcs405.0.xml|
 August 16, 2022|LE.UM.5.3.1.r1-12400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12400-genericarmv8-64.0.xml|
 August 16, 2022|LE.UM.4.1.1.c11-03000-sa515m|sa515m|LE.UM.4.1.1.c11-03000-sa515m.xml|
 August 16, 2022|LE.AU_EAP.1.0.c13-02100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-02100-eap-fsl.xml|
