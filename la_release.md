@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 17, 2022|LA.BR.1.2.9.c26-04100-8x09.0|msm8909|LA.BR.1.2.9.c26-04100-8x09.0.xml|07.01.02|
 August 17, 2022|LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0|lahaina|LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0.xml|11.00.00|
 August 17, 2022|LA.UM.7.3.c25-02300-sdm845.0|sdm845|LA.UM.7.3.c25-02300-sdm845.0.xml|09.00.00|
 August 16, 2022|LA.VENDOR.1.0.r1-16000-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-16000-WAIPIO.QSSI13.0.xml|11.00.00|
