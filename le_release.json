@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c9-19600-eap-fsl": {
+  "Date": "August 21, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c9-19600-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c9-19600-eap-fsl.xml"
+ },
  "LV.HB.1.1.5.c1-06100-8x96.0": {
   "Date": "August 20, 2022",
   "Tag / Build ID": "LV.HB.1.1.5.c1-06100-8x96.0",
