@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.13.0.r1-05500-qssi.0": {
+  "Date": "August 23, 2022",
+  "Tag / Build ID": "LA.QSSI.13.0.r1-05500-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.13.0.r1-05500-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.r1-20200.01-LAHAINA.QSSI12.0": {
   "Date": "August 22, 2022",
   "Tag / Build ID": "LA.UM.9.14.r1-20200.01-LAHAINA.QSSI12.0",
