@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 24, 2022|LE.UM.1.1-05700-9x07|mdm9607-poky|LE.UM.1.1-05700-9x07.xml|
 August 24, 2022|LE.UM.6.2.3.r1-04300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-04300-SDX65.0.xml|
 August 24, 2022|LE.UM.6.3.5-10300-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5-10300-QCS610.0.xml|
 August 21, 2022|LE.AU_EAP.1.0.c9-19600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-19600-eap-fsl.xml|
