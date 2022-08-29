@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 29, 2022|LE.UM.6.3.5.r1-00500-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-00500-QCS610.0.xml|
 August 28, 2022|LE.UM.3.2.3.1-07300-SA2150p|sa2150p|LE.UM.3.2.3.1-07300-SA2150p.xml|
 August 28, 2022|LE.UM.4.1.1.1-07300-sa515m|sa515m|LE.UM.4.1.1.1-07300-sa515m.xml|
 August 28, 2022|LE.AU_EAP.1.0.1-05400-eap-fsl|eap-imx|LE.AU_EAP.1.0.1-05400-eap-fsl.xml|
