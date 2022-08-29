@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.4.r1-01000-qtiquingvm8295.0": {
+  "Date": "August 29, 2022",
+  "Tag / Build ID": "LV.AU.0.2.4.r1-01000-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4-dpk",
+  "Manifest": "LV.AU.0.2.4.r1-01000-qtiquingvm8295.0.xml"
+ },
  "LE.UM.6.3.5.r1-00500-QCS610.0": {
   "Date": "August 29, 2022",
   "Tag / Build ID": "LE.UM.6.3.5.r1-00500-QCS610.0",
