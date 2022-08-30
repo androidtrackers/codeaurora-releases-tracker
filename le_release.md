@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 29, 2022|LE.UM.1.3.c25-01900-8x53|apq8053-32|LE.UM.1.3.c25-01900-8x53.xml|
 August 29, 2022|LE.UM.5.3.1.r1-12600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12600-genericarmv8-64.0.xml|
 August 29, 2022|LV.AU.0.2.4.r1-01000-qtiquingvm8295.0|quin-gvm-gen4-dpk|LV.AU.0.2.4.r1-01000-qtiquingvm8295.0.xml|
 August 29, 2022|LE.UM.6.3.5.r1-00500-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-00500-QCS610.0.xml|

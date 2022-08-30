@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 30, 2022|LA.UM.9.14.1.r1-07000-QCM6490.0|lahaina|LA.UM.9.14.1.r1-07000-QCM6490.0.xml|11.00.00|
 August 29, 2022|LA.UM.9.6.4.r1-02900-89xx.QSSI12.0|msm8937_lily|LA.UM.9.6.4.r1-02900-89xx.QSSI12.0.xml|11.00.00|
 August 29, 2022|LA.VENDOR.1.0.r1-16200-WAIPIO.0|taro|LA.VENDOR.1.0.r1-16200-WAIPIO.0.xml|11.00.00|
 August 29, 2022|KERNEL.PLATFORM.1.0.r1-11400-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-11400-kernel.0.xml||
