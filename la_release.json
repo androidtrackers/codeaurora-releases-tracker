@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.6.4.r1-02900-89xx.QSSI12.0": {
+  "Date": "August 29, 2022",
+  "Tag / Build ID": "LA.UM.9.6.4.r1-02900-89xx.QSSI12.0",
+  "Chipset": "msm8937_lily",
+  "Manifest": "LA.UM.9.6.4.r1-02900-89xx.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.VENDOR.1.0.r1-16200-WAIPIO.0": {
   "Date": "August 29, 2022",
   "Tag / Build ID": "LA.VENDOR.1.0.r1-16200-WAIPIO.0",
