@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.3.r1-02400-gen3meta.0": {
+  "Date": "August 30, 2022",
+  "Tag / Build ID": "LV.AU.1.2.3.r1-02400-gen3meta.0",
+  "Chipset": "opsy-sa81x5",
+  "Manifest": "LV.AU.1.2.3.r1-02400-gen3meta.0.xml"
+ },
  "LE.UM.1.3.c25-01900-8x53": {
   "Date": "August 29, 2022",
   "Tag / Build ID": "LE.UM.1.3.c25-01900-8x53",

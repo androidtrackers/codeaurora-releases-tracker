@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 30, 2022|LV.AU.1.2.3.r1-02400-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-02400-gen3meta.0.xml|
 August 29, 2022|LE.UM.1.3.c25-01900-8x53|apq8053-32|LE.UM.1.3.c25-01900-8x53.xml|
 August 29, 2022|LE.UM.5.3.1.r1-12600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12600-genericarmv8-64.0.xml|
 August 29, 2022|LV.AU.0.2.4.r1-01000-qtiquingvm8295.0|quin-gvm-gen4-dpk|LV.AU.0.2.4.r1-01000-qtiquingvm8295.0.xml|
