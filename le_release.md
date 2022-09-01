@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 31, 2022|LV.AU.0.9.0.r2-01200-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.9.0.r2-01200-qtiquingvm8295.0.xml|
 August 30, 2022|LE.UM.4.3.3.r1-06400-SDX55|sdxprairie|LE.UM.4.3.3.r1-06400-SDX55.xml|
 August 30, 2022|LE.UM.1.2-91700-9x07|mdm9607-poky|LE.UM.1.2-91700-9x07.xml|
 August 30, 2022|LV.AU.1.2.3.r1-02400-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-02400-gen3meta.0.xml|
