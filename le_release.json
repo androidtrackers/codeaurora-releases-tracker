@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.3.c25-02100-8x53": {
+  "Date": "September 06, 2022",
+  "Tag / Build ID": "LE.UM.1.3.c25-02100-8x53",
+  "Chipset": "apq8053-32",
+  "Manifest": "LE.UM.1.3.c25-02100-8x53.xml"
+ },
  "LNX.LE.5.2-75499-9x40": {
   "Date": "September 06, 2022",
   "Tag / Build ID": "LNX.LE.5.2-75499-9x40",
