@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 07, 2022|KERNEL.PLATFORM.1.0.r2-02800-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-02800-ANORAK.0.xml||
+September 07, 2022|LA.UM.8.15.c25-03000-KAMORTA.0|bengal|LA.UM.8.15.c25-03000-KAMORTA.0.xml|10.00.00|
+September 07, 2022|LA.UM.9.12.1.r1-03100-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-03100-SMxx50.QSSI12.0.xml|11.00.00|
 September 07, 2022|LA.QSSI.12.0.r1-08700.02-qssi.0|qssi|LA.QSSI.12.0.r1-08700.02-qssi.0.xml|12.00.00|
 September 06, 2022|LA.AU.0.3.1.r2-08500-gen3meta.0|msmnile_au|LA.AU.0.3.1.r2-08500-gen3meta.0.xml|10.00.00|
 September 05, 2022|LA.QSSI.11.0.r1-17000-qssi.0|qssi|LA.QSSI.11.0.r1-17000-qssi.0.xml|11.00.00|
