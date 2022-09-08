@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ": {
+  "Date": "September 08, 2022",
+  "Tag / Build ID": "WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ",
+  "Chipset": "conn_sdk",
+  "Manifest": "WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ.xml"
+ },
  "LE.UM.4.3.3.r1-06500-SDX55": {
   "Date": "September 07, 2022",
   "Tag / Build ID": "LE.UM.4.3.3.r1-06500-SDX55",
