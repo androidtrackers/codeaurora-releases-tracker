@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.2-66600-SDX24": {
+  "Date": "September 08, 2022",
+  "Tag / Build ID": "LE.UM.2.3.2-66600-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-66600-SDX24.xml"
+ },
  "WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ": {
   "Date": "September 08, 2022",
   "Tag / Build ID": "WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ",
