@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 10, 2022|LE.UM.7.1.3.r1-00700-sa515m|sa515m-tele-tele-debug|LE.UM.7.1.3.r1-00700-sa515m.xml|
 September 09, 2022|LE.UM.7.1.3.r1-00600-sa515m|sa515m-tele-tele-debug|LE.UM.7.1.3.r1-00600-sa515m.xml|
 September 08, 2022|LE.UM.2.3.2-66600-SDX24|sdxpoorwills|LE.UM.2.3.2-66600-SDX24.xml|
 September 08, 2022|WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ|conn_sdk|WLANHOST_AU.FSL.3.10-00700-QCA6574AUARMSDIOHZ.xml|
