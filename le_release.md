@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 10, 2022|LV.AU.0.3.0.r1-01100-gen4meta.0|lemanslxc|LV.AU.0.3.0.r1-01100-gen4meta.0.xml|
 September 10, 2022|LE.UM.7.1.3.r1-00700-sa515m|sa515m-tele-tele-debug|LE.UM.7.1.3.r1-00700-sa515m.xml|
 September 09, 2022|LE.UM.7.1.3.r1-00600-sa515m|sa515m-tele-tele-debug|LE.UM.7.1.3.r1-00600-sa515m.xml|
 September 08, 2022|LE.UM.2.3.2-66600-SDX24|sdxpoorwills|LE.UM.2.3.2-66600-SDX24.xml|
