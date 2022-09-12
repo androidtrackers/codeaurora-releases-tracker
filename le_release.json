@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.3.1.r1-06300-genericarmv8-64.0": {
+  "Date": "September 12, 2022",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-06300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.4.3.1.r1-06300-genericarmv8-64.0.xml"
+ },
  "LV.AU.1.2.3.r1-02500-gen3meta.0": {
   "Date": "September 12, 2022",
   "Tag / Build ID": "LV.AU.1.2.3.r1-02500-gen3meta.0",

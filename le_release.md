@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 12, 2022|LE.UM.4.3.1.r1-06300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06300-genericarmv8-64.0.xml|
 September 12, 2022|LV.AU.1.2.3.r1-02500-gen3meta.0|opsy-sa81x5|LV.AU.1.2.3.r1-02500-gen3meta.0.xml|
 September 12, 2022|LE.UM.5.3.1.r1-12700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12700-genericarmv8-64.0.xml|
 September 10, 2022|LV.AU.0.3.0.r1-01100-gen4meta.0|lemanslxc|LV.AU.0.3.0.r1-01100-gen4meta.0.xml|
