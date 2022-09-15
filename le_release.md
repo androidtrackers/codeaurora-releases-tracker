@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 15, 2022|LE.UM.1.3.2.r1-12400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-12400-9150-cv2x.xml|
 September 14, 2022|LV.AU.1.2.4.r1-01800-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-01800-gen3meta.0.xml|
 September 14, 2022|LE.UM.1.3.c25-02300-8x53|apq8053-32|LE.UM.1.3.c25-02300-8x53.xml|
 September 13, 2022|LE.UM.2.3.6.c5-00700-9x07|mdm9607-poky|LE.UM.2.3.6.c5-00700-9x07.xml|
