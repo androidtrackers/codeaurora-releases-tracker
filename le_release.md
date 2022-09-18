@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 17, 2022|LV.AU.1.2.4.r1-01900-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-01900-gen3meta.0.xml|
 September 16, 2022|LE.UM.4.4.2.r1-09100-SDX55|sdxprairie|LE.UM.4.4.2.r1-09100-SDX55.xml|
 September 16, 2022|LE.UM.5.3.1.r1-12900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-12900-genericarmv8-64.0.xml|
 September 15, 2022|LE.UM.1.3.2.r1-12400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-12400-9150-cv2x.xml|
