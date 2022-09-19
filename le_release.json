@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.1.c11-03200-sa515m": {
+  "Date": "September 19, 2022",
+  "Tag / Build ID": "LE.UM.4.1.1.c11-03200-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c11-03200-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c13-02300-eap-fsl": {
+  "Date": "September 19, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c13-02300-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c13-02300-eap-fsl.xml"
+ },
  "LE.UM.3.2.3.c17-01800-SA2150p": {
   "Date": "September 18, 2022",
   "Tag / Build ID": "LE.UM.3.2.3.c17-01800-SA2150p",
