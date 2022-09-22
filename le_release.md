@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 22, 2022|LE.UM.4.1.1.c10-14200-sa515m|sa515m|LE.UM.4.1.1.c10-14200-sa515m.xml|
+September 22, 2022|LE.BR.1.2.1.c9-01600-9x07|mdm9607|LE.BR.1.2.1.c9-01600-9x07.xml|
 September 22, 2022|CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ.xml|
 September 22, 2022|LV.AU.1.2.5.r1-00300-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-00300-qtiquingvm.0.xml|
 September 21, 2022|LE.UM.2.3.6.c2-12500-9x07|mdm9607-poky|LE.UM.2.3.6.c2-12500-9x07.xml|
