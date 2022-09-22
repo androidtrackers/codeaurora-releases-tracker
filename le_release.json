@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ": {
+  "Date": "September 22, 2022",
+  "Tag / Build ID": "CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ.xml"
+ },
+ "LV.AU.1.2.5.r1-00300-qtiquingvm.0": {
+  "Date": "September 22, 2022",
+  "Tag / Build ID": "LV.AU.1.2.5.r1-00300-qtiquingvm.0",
+  "Chipset": "qtiquingvm-headless",
+  "Manifest": "LV.AU.1.2.5.r1-00300-qtiquingvm.0.xml"
+ },
  "LE.UM.2.3.6.c2-12500-9x07": {
   "Date": "September 21, 2022",
   "Tag / Build ID": "LE.UM.2.3.6.c2-12500-9x07",

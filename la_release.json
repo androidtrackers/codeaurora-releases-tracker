@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.2.r1-04100-gen3meta.0": {
+  "Date": "September 22, 2022",
+  "Tag / Build ID": "LA.AU.1.4.2.r1-04100-gen3meta.0",
+  "Chipset": "msmnile_au",
+  "Manifest": "LA.AU.1.4.2.r1-04100-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.14.r1-20500.01-LAHAINA.QSSI12.0": {
   "Date": "September 21, 2022",
   "Tag / Build ID": "LA.UM.9.14.r1-20500.01-LAHAINA.QSSI12.0",
