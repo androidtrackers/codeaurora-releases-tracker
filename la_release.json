@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.2.r1-02700-QCM6490.QSSI12.0": {
+  "Date": "September 23, 2022",
+  "Tag / Build ID": "LA.UM.9.14.2.r1-02700-QCM6490.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.2.r1-02700-QCM6490.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.2.r1-02600-QCM6490.QSSI12.0": {
   "Date": "September 22, 2022",
   "Tag / Build ID": "LA.UM.9.14.2.r1-02600-QCM6490.QSSI12.0",
