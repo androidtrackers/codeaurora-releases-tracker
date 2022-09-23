@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 22, 2022|LE.AU_EAP.1.0.c4-10300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-10300-eap-fsl.xml|
 September 22, 2022|LE.UM.4.1.1.c10-14200-sa515m|sa515m|LE.UM.4.1.1.c10-14200-sa515m.xml|
 September 22, 2022|LE.BR.1.2.1.c9-01600-9x07|mdm9607|LE.BR.1.2.1.c9-01600-9x07.xml|
 September 22, 2022|CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1-02500-QCAAUTOHOSTHZ.xml|
