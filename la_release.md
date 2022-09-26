@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 26, 2022|KERNEL.PLATFORM.1.0.r2-03500-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-03500-NEOLA.0.xml||
 September 26, 2022|LA.UM.9.16.r1-12300.01-MANNAR.QSSI12.0|holi|LA.UM.9.16.r1-12300.01-MANNAR.QSSI12.0.xml|11.00.00|
 September 26, 2022|LA.AU.1.3.5.r1-03000-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.5.r1-03000-sa8155_gvmq.0.xml|10.00.00|
 September 23, 2022|LA.AU.0.2.0.r1-06300-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.0.2.0.r1-06300-gen3_gvmgh.0.xml|10.00.00|
