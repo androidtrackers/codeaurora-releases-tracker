@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.3.c1-69200-SA2150p": {
+  "Date": "September 27, 2022",
+  "Tag / Build ID": "LE.UM.3.2.3.c1-69200-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c1-69200-SA2150p.xml"
+ },
  "LE.AU_EAP.1.0.c1-67200-eap-fsl": {
   "Date": "September 26, 2022",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-67200-eap-fsl",
