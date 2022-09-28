@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 28, 2022|LE.UM.5.3.2.r1-07200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-07200-SDX65.0.xml|
+September 28, 2022|LE.BR.1.2.1.c9-01700-9x07|mdm9607|LE.BR.1.2.1.c9-01700-9x07.xml|
+September 28, 2022|LV.AU.0.2.1.r6-02900-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-02900-qtiquingvm8295.0.xml|
 September 27, 2022|LE.UM.3.2.1.c2-11500-sa415m|sa415m|LE.UM.3.2.1.c2-11500-sa415m.xml|
 September 27, 2022|LE.UM.3.2.3.c1-69200-SA2150p|sa2150p|LE.UM.3.2.3.c1-69200-SA2150p.xml|
 September 26, 2022|LE.AU_EAP.1.0.c1-67200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-67200-eap-fsl.xml|
