@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 29, 2022|LE.UM.3.2.1.c2-11700-sa415m|sa415m|LE.UM.3.2.1.c2-11700-sa415m.xml|
+September 29, 2022|LE.UM.5.2.3.r1-09300-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09300-SDX12.xml|
+September 29, 2022|LE.UM.6.3.6.r1-02300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-02300-SDX65.0.xml|
 September 29, 2022|LE.UM.6.3.7.r1-02500-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-02500-QCS7230.0.xml|
 September 29, 2022|LE.UM.5.3.1.r1-13100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13100-genericarmv8-64.0.xml|
 September 28, 2022|LE.UM.5.3.2.r1-07200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-07200-SDX65.0.xml|
