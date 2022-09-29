@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 29, 2022|LA.UM.9.12.r1-14700.03-SMxx50.QSSI12.0|kona|LA.UM.9.12.r1-14700.03-SMxx50.QSSI12.0.xml|11.00.00|
+September 29, 2022|LA.HB.1.1.5-17710-8x96.0|msm8996|LA.HB.1.1.5-17710-8x96.0.xml|07.00.00|
+September 29, 2022|KERNEL.PLATFORM.1.0.r1-11900-kernel.0|waipio|KERNEL.PLATFORM.1.0.r1-11900-kernel.0.xml||
 September 29, 2022|CAMERA.LA.2.0.r1-07500-WAIPIO.0|camera|CAMERA.LA.2.0.r1-07500-WAIPIO.0.xml|00.00.00|
 September 28, 2022|DISPLAY.LA.2.0.r1-08100-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-08100-WAIPIO.0.xml|00.00.00|
 September 28, 2022|VIDEO.LA.2.0.r1-05900-WAIPIO.0|video|VIDEO.LA.2.0.r1-05900-WAIPIO.0.xml|00.00.00|

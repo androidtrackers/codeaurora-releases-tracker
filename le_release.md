@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 29, 2022|LE.UM.6.3.7.r1-02500-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-02500-QCS7230.0.xml|
 September 29, 2022|LE.UM.5.3.1.r1-13100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13100-genericarmv8-64.0.xml|
 September 28, 2022|LE.UM.5.3.2.r1-07200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.5.3.2.r1-07200-SDX65.0.xml|
 September 28, 2022|LE.BR.1.2.1.c9-01700-9x07|mdm9607|LE.BR.1.2.1.c9-01700-9x07.xml|
