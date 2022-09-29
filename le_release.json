@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-13100-genericarmv8-64.0": {
+  "Date": "September 29, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-13100-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-13100-genericarmv8-64.0.xml"
+ },
  "LE.UM.5.3.2.r1-07200-SDX65.0": {
   "Date": "September 28, 2022",
   "Tag / Build ID": "LE.UM.5.3.2.r1-07200-SDX65.0",
