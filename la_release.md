@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 29, 2022|LA.UM.9.14.2.r1-02800-QCM6490.QSSI12.0|lahaina|LA.UM.9.14.2.r1-02800-QCM6490.QSSI12.0.xml|11.00.00|
 September 29, 2022|LA.UM.9.1.r1-12600.01-SMxxx0.QSSI13.0|msmnile|LA.UM.9.1.r1-12600.01-SMxxx0.QSSI13.0.xml|11.00.00|
 September 29, 2022|LA.UM.9.14.1.r1-07200-QCM6490.QSSI12.0|lahaina|LA.UM.9.14.1.r1-07200-QCM6490.QSSI12.0.xml|11.00.00|
 September 29, 2022|LA.VENDOR.1.0.r1-17200-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-17200-WAIPIO.QSSI13.0.xml|11.00.00|
