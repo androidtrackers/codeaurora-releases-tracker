@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 30, 2022|LE.AU_EAP.1.0.c16-00300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-00300-eap-fsl.xml|
+September 30, 2022|LE.AU_EAP.1.0.c17-00300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c17-00300-eap-fsl.xml|
 September 29, 2022|LE.UM.3.2.1.c2-11700-sa415m|sa415m|LE.UM.3.2.1.c2-11700-sa415m.xml|
 September 29, 2022|LE.UM.5.2.3.r1-09300-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09300-SDX12.xml|
 September 29, 2022|LE.UM.6.3.6.r1-02300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-02300-SDX65.0.xml|
