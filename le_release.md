@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 30, 2022|LE.UM.6.2.3.r1-04600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-04600-SDX65.0.xml|
 September 30, 2022|LE.UM.4.1.1.c17-00400-sa515m|sa515m|LE.UM.4.1.1.c17-00400-sa515m.xml|
 September 30, 2022|LE.UM.4.1.1.c16-00300-sa515m|sa515m|LE.UM.4.1.1.c16-00300-sa515m.xml|
 September 30, 2022|LE.UM.3.2.3.c20-01100-SA2150p|sa2150p|LE.UM.3.2.3.c20-01100-SA2150p.xml|
