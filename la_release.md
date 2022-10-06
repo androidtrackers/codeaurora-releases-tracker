@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 06, 2022|LA.UM.9.2.1.c25-04100-sdm660.0|sdm660_64|LA.UM.9.2.1.c25-04100-sdm660.0.xml|11.00.00|
 October 04, 2022|LA.UM.9.1.1.r1-02800-RENNELL.QSSI12.0|qrb5165-rb5-robotics-fullstack-perf|LA.UM.9.1.1.r1-02800-RENNELL.QSSI12.0.xml|11.00.00|
 October 03, 2022|LA.QSSI.13.0.r1-07100-qssi.0|qssi|LA.QSSI.13.0.r1-07100-qssi.0.xml|11.00.00|
 October 03, 2022|LA.QSSI.11.0.r1-17200-qssi.0|qssi|LA.QSSI.11.0.r1-17200-qssi.0.xml|11.00.00|
