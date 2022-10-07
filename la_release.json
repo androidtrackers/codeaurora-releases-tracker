@@ -23,7 +23,7 @@
  "LA.UM.9.1.1.r1-02800-RENNELL.QSSI12.0": {
   "Date": "October 04, 2022",
   "Tag / Build ID": "LA.UM.9.1.1.r1-02800-RENNELL.QSSI12.0",
-  "Chipset": "qrb5165-rb5-robotics-fullstack-perf",
+  "Chipset": "atoll",
   "Manifest": "LA.UM.9.1.1.r1-02800-RENNELL.QSSI12.0.xml",
   "Android Version": "11.00.00"
  },
