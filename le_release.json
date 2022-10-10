@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.3.1.r1-13200-genericarmv8-64.0": {
+  "Date": "October 10, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-13200-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-13200-genericarmv8-64.0.xml"
+ },
+ "LE.UM.4.2.4-64700-SA2150p": {
+  "Date": "October 10, 2022",
+  "Tag / Build ID": "LE.UM.4.2.4-64700-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.4.2.4-64700-SA2150p.xml"
+ },
  "LV.AU.0.9.0.r1-13400-qtiquingvm.0": {
   "Date": "October 09, 2022",
   "Tag / Build ID": "LV.AU.0.9.0.r1-13400-qtiquingvm.0",

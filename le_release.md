@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 10, 2022|LE.UM.5.3.1.r1-13200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13200-genericarmv8-64.0.xml|
+October 10, 2022|LE.UM.4.2.4-64700-SA2150p|sa2150p|LE.UM.4.2.4-64700-SA2150p.xml|
 October 09, 2022|LV.AU.0.9.0.r1-13400-qtiquingvm.0|qtiquingvm|LV.AU.0.9.0.r1-13400-qtiquingvm.0.xml|
 October 07, 2022|LNX.LE.5.3.2.2-88234-9x40|mdm9640|LNX.LE.5.3.2.2-88234-9x40.xml|
 October 08, 2022|LE.UM.4.4.1.r3-16300-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-16300-QRB5165.0.xml|
