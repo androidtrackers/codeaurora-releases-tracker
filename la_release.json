@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.2.r2-13100-8x98.0": {
+  "Date": "October 11, 2022",
+  "Tag / Build ID": "LA.UM.7.2.r2-13100-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.7.2.r2-13100-8x98.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.QSSI.13.0.r1-07100.03-qssi.0": {
   "Date": "October 11, 2022",
   "Tag / Build ID": "LA.QSSI.13.0.r1-07100.03-qssi.0",
