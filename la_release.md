@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 11, 2022|LA.UM.10.2.1.r1-04800-sdm660.0|sdm660_64|LA.UM.10.2.1.r1-04800-sdm660.0.xml|12.00.00|
 October 10, 2022|LA.UM.8.6.2.c30-03700-89xx.0|msm8937_64|LA.UM.8.6.2.c30-03700-89xx.0.xml|10.00.00|
 October 10, 2022|LA.VENDOR.1.0.r1-17700-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-17700-WAIPIO.QSSI13.0.xml|11.00.00|
 October 10, 2022|KERNEL.PLATFORM.1.0.r2-03700-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-03700-ANORAK.0.xml||
