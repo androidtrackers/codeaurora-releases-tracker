@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.2.2.r1-07700-SXR2130.0": {
+  "Date": "October 12, 2022",
+  "Tag / Build ID": "LE.UM.5.2.2.r1-07700-SXR2130.0",
+  "Chipset": "sxr2130-mtp-xreality-xr-perf",
+  "Manifest": "LE.UM.5.2.2.r1-07700-SXR2130.0.xml"
+ },
+ "LV.AU.0.2.1.r5-03400-qtiquingvm8295.0": {
+  "Date": "October 12, 2022",
+  "Tag / Build ID": "LV.AU.0.2.1.r5-03400-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.2.1.r5-03400-qtiquingvm8295.0.xml"
+ },
  "LE.BR.1.3.1-16810-9x50": {
   "Date": "October 12, 2022",
   "Tag / Build ID": "LE.BR.1.3.1-16810-9x50",
