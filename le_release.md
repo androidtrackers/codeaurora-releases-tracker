@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 14, 2022|LE.AU_EAP.1.0.c12-01800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-01800-eap-fsl.xml|
 October 13, 2022|LE.UM.4.3.1.r1-06400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06400-genericarmv8-64.0.xml|
 October 13, 2022|LE.UM.4.1.1.1-08100-sa515m|sa515m|LE.UM.4.1.1.1-08100-sa515m.xml|
 October 13, 2022|LE.UM.4.1.1.c14-02300-sa515m|sa515m|LE.UM.4.1.1.c14-02300-sa515m.xml|

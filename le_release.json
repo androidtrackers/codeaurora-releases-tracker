@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c12-01800-eap-fsl": {
+  "Date": "October 14, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c12-01800-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c12-01800-eap-fsl.xml"
+ },
  "LE.UM.4.3.1.r1-06400-genericarmv8-64.0": {
   "Date": "October 13, 2022",
   "Tag / Build ID": "LE.UM.4.3.1.r1-06400-genericarmv8-64.0",
