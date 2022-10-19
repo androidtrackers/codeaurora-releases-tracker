@@ -1,4 +1,28 @@
 {
+ "LV.HB.1.1.1-42510-8x96.0": {
+  "Date": "October 19, 2022",
+  "Tag / Build ID": "LV.HB.1.1.1-42510-8x96.0",
+  "Chipset": "8x96auto",
+  "Manifest": "LV.HB.1.1.1-42510-8x96.0.xml"
+ },
+ "LE.UM.1.3.c25-02600-8x53": {
+  "Date": "October 19, 2022",
+  "Tag / Build ID": "LE.UM.1.3.c25-02600-8x53",
+  "Chipset": "apq8053-32",
+  "Manifest": "LE.UM.1.3.c25-02600-8x53.xml"
+ },
+ "LE.AU_EAP.1.0.c4-10500-eap-fsl": {
+  "Date": "October 19, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c4-10500-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c4-10500-eap-fsl.xml"
+ },
+ "LE.UM.6.3.4-24200-qcs405.0": {
+  "Date": "October 18, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-24200-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-24200-qcs405.0.xml"
+ },
  "LE.UM.4.1.1.c10-15100-sa515m": {
   "Date": "October 17, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c10-15100-sa515m",

@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 19, 2022|LV.HB.1.1.1-42510-8x96.0|8x96auto|LV.HB.1.1.1-42510-8x96.0.xml|
+October 19, 2022|LE.UM.1.3.c25-02600-8x53|apq8053-32|LE.UM.1.3.c25-02600-8x53.xml|
+October 19, 2022|LE.AU_EAP.1.0.c4-10500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c4-10500-eap-fsl.xml|
+October 18, 2022|LE.UM.6.3.4-24200-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-24200-qcs405.0.xml|
 October 17, 2022|LE.UM.4.1.1.c10-15100-sa515m|sa515m|LE.UM.4.1.1.c10-15100-sa515m.xml|
 October 16, 2022|LE.UM.3.2.3.1-08200-SA2150p|sa2150p|LE.UM.3.2.3.1-08200-SA2150p.xml|
 October 14, 2022|LE.UM.6.3.5.r1-00900-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-00900-QCS610.0.xml|
