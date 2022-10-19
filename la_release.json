@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.6.2.c27-04700-89xx.0": {
+  "Date": "October 19, 2022",
+  "Tag / Build ID": "LA.UM.8.6.2.c27-04700-89xx.0",
+  "Chipset": "msm8953_64",
+  "Manifest": "LA.UM.8.6.2.c27-04700-89xx.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.5.7.c25-10700-8x98.0": {
+  "Date": "October 19, 2022",
+  "Tag / Build ID": "LA.UM.5.7.c25-10700-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.5.7.c25-10700-8x98.0.xml",
+  "Android Version": "07.01.01"
+ },
  "LA.QSSI.12.0.r1-09100-qssi.0": {
   "Date": "October 18, 2022",
   "Tag / Build ID": "LA.QSSI.12.0.r1-09100-qssi.0",
