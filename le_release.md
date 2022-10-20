@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 20, 2022|LE.UM.1.3-14100-SDX20|SDX20|LE.UM.1.3-14100-SDX20.xml|
 October 20, 2022|LE.UM.1.3.r1-14100-SDX20|SDX20|LE.UM.1.3.r1-14100-SDX20.xml|
 October 19, 2022|LV.HB.1.1.1-42510-8x96.0|8x96auto|LV.HB.1.1.1-42510-8x96.0.xml|
 October 19, 2022|LE.UM.1.3.c25-02600-8x53|apq8053-32|LE.UM.1.3.c25-02600-8x53.xml|
