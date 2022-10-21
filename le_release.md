@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 21, 2022|LU.UM.2.4.1.r1-11200-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-11200-QRB5165.0.xml|
 October 20, 2022|LU.UM.2.4.1.r1-11000-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-11000-QRB5165.0.xml|
 October 20, 2022|LE.UM.1.3-14100-SDX20|SDX20|LE.UM.1.3-14100-SDX20.xml|
 October 20, 2022|LE.UM.1.3.r1-14100-SDX20|SDX20|LE.UM.1.3.r1-14100-SDX20.xml|
