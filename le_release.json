@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.4-24500-qcs405.0": {
+  "Date": "October 23, 2022",
+  "Tag / Build ID": "LE.UM.6.3.4-24500-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-24500-qcs405.0.xml"
+ },
  "LV.AU.0.2.1.r6-03400-qtiquingvm8295.0": {
   "Date": "October 21, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r6-03400-qtiquingvm8295.0",
