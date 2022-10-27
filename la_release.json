@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-04000-NEOLA.0": {
+  "Date": "October 27, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-04000-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-04000-NEOLA.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0": {
   "Date": "October 27, 2022",
   "Tag / Build ID": "LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0",
