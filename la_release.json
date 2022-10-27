@@ -1,4 +1,25 @@
 {
+ "LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0": {
+  "Date": "October 27, 2022",
+  "Tag / Build ID": "LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "CAMERA.LA.2.0.r1-08000-WAIPIO.0": {
+  "Date": "October 27, 2022",
+  "Tag / Build ID": "CAMERA.LA.2.0.r1-08000-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r1-08000-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r1-12200-kernel.0": {
+  "Date": "October 27, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-12200-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-12200-kernel.0.xml",
+  "Android Version": ""
+ },
  "DISPLAY.LA.2.0.r1-08400-WAIPIO.0": {
   "Date": "October 27, 2022",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-08400-WAIPIO.0",

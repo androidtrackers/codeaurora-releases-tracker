@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 27, 2022|LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.r1-06700.01-KAMORTA.QSSI12.0.xml|11.00.00|
+October 27, 2022|CAMERA.LA.2.0.r1-08000-WAIPIO.0|camera|CAMERA.LA.2.0.r1-08000-WAIPIO.0.xml|00.00.00|
+October 27, 2022|KERNEL.PLATFORM.1.0.r1-12200-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-12200-kernel.0.xml||
 October 27, 2022|DISPLAY.LA.2.0.r1-08400-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-08400-WAIPIO.0.xml|00.00.00|
 October 27, 2022|VIDEO.LA.2.0.r1-06300-WAIPIO.0|video|VIDEO.LA.2.0.r1-06300-WAIPIO.0.xml|00.00.00|
 October 27, 2022|LA.QSSI.13.0.r1-07200.02-qssi.0|qssi|LA.QSSI.13.0.r1-07200.02-qssi.0.xml|11.00.00|

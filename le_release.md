@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 27, 2022|LE.UM.5.3.1.r1-13400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13400-genericarmv8-64.0.xml|
 October 27, 2022|LE.UM.4.1.1.c16-00500-sa515m|sa515m|LE.UM.4.1.1.c16-00500-sa515m.xml|
 October 26, 2022|LE.AU_EAP.1.0.c16-00500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-00500-eap-fsl.xml|
 October 25, 2022|LE.UM.6.3.6.r1-02500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-02500-SDX65.0.xml|
