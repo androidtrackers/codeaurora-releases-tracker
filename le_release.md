@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 28, 2022|LV.AU.0.3.0.r2-00600-gen4meta.0|lemanslxc|LV.AU.0.3.0.r2-00600-gen4meta.0.xml|
 October 27, 2022|LE.UM.2.3.6.c5-01100-9x07|mdm9607-poky|LE.UM.2.3.6.c5-01100-9x07.xml|
 October 27, 2022|LE.UM.4.2.1.c25-01700-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-01700-QCS404.0.xml|
 October 27, 2022|LE.UM.5.3.1.r1-13400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13400-genericarmv8-64.0.xml|
