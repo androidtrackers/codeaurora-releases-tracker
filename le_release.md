@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 27, 2022|LE.UM.2.3.6.c5-01100-9x07|mdm9607-poky|LE.UM.2.3.6.c5-01100-9x07.xml|
 October 27, 2022|LE.UM.4.2.1.c25-01700-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-01700-QCS404.0.xml|
 October 27, 2022|LE.UM.5.3.1.r1-13400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-13400-genericarmv8-64.0.xml|
 October 27, 2022|LE.UM.4.1.1.c16-00500-sa515m|sa515m|LE.UM.4.1.1.c16-00500-sa515m.xml|
