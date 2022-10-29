@@ -1,4 +1,10 @@
 {
+ "LE.UM.7.2.1-03600-sa415m": {
+  "Date": "October 29, 2022",
+  "Tag / Build ID": "LE.UM.7.2.1-03600-sa415m",
+  "Chipset": "sa415m-tete-tele-debug",
+  "Manifest": "LE.UM.7.2.1-03600-sa415m.xml"
+ },
  "LE.UM.4.1.1.c11-03500-sa515m": {
   "Date": "October 28, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c11-03500-sa515m",
