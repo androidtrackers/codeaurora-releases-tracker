@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 30, 2022|LV.AU.0.2.2.r2-03600-qtiquingvm.0|qtiquingvm|LV.AU.0.2.2.r2-03600-qtiquingvm.0.xml|
 October 29, 2022|LE.UM.7.2.1-03600-sa415m|sa415m-tete-tele-debug|LE.UM.7.2.1-03600-sa415m.xml|
 October 28, 2022|LE.UM.4.1.1.c11-03500-sa515m|sa515m|LE.UM.4.1.1.c11-03500-sa515m.xml|
 October 28, 2022|LE.AU_EAP.1.0.c13-02500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-02500-eap-fsl.xml|
