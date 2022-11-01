@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 01, 2022|LE.UM.1.2.c7-11200-9x07|mdm9607|LE.UM.1.2.c7-11200-9x07.xml|
 October 31, 2022|LV.AU.0.3.0.r1-02800-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-02800-gen3meta.0.xml|
 October 31, 2022|LE.UM.6.3.7.r1-03200-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-03200-QCS7230.0.xml|
 October 30, 2022|LE.UM.6.3.6.r1-02600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-02600-SDX65.0.xml|
