@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.LE.2.1.r22.2-00600-QCAAUTOHOSTHZ": {
+  "Date": "November 01, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LE.2.1.r22.2-00600-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LE.2.1.r22.2-00600-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.1.2.c7-11200-9x07": {
   "Date": "November 01, 2022",
   "Tag / Build ID": "LE.UM.1.2.c7-11200-9x07",
