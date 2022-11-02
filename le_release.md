@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 02, 2022|LE.UM.3.2.3.c22-00200-SA2150p|sa2150p|LE.UM.3.2.3.c22-00200-SA2150p.xml|
 November 02, 2022|LE.UM.4.1.1.c19-00800-sa515m|sa515m|LE.UM.4.1.1.c19-00800-sa515m.xml|
 November 02, 2022|LE.AU_EAP.1.0.c19-00300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c19-00300-eap-fsl.xml|
 November 02, 2022|LE.AU_EAP.1.0.c12.1-00500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12.1-00500-eap-fsl.xml|
