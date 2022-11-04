@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.4.1-17900-QRB5165.0": {
+  "Date": "November 04, 2022",
+  "Tag / Build ID": "LE.UM.6.4.1-17900-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.6.4.1-17900-QRB5165.0.xml"
+ },
  "LV.AU.0.2.1.r6-04300-qtiquingvm8295.0": {
   "Date": "November 03, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r6-04300-qtiquingvm8295.0",
