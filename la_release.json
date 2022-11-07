@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.r1-17400-qssi.0": {
+  "Date": "November 07, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-17400-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-17400-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.12.2.c25-02300-QCS8250.0": {
   "Date": "November 07, 2022",
   "Tag / Build ID": "LA.UM.8.12.2.c25-02300-QCS8250.0",
