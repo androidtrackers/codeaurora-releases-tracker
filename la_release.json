@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.1.r2-02100-sa8155.0": {
+  "Date": "November 09, 2022",
+  "Tag / Build ID": "LA.AU.1.4.1.r2-02100-sa8155.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.1.r2-02100-sa8155.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LAW.BR.3.0-29400-8x09w.0": {
   "Date": "November 08, 2022",
   "Tag / Build ID": "LAW.BR.3.0-29400-8x09w.0",
