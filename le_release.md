@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 08, 2022|CHSS.LNX_FSL.5.0.r1-02100-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.5.0.r1-02100-QCA6574AUARMSDIOHZ.xml|
 November 08, 2022|LE.UM.7.2.1-04800-sa415m|sa415m-tete-tele-debug|LE.UM.7.2.1-04800-sa415m.xml|
 November 04, 2022|LE.UM.6.2.3.r1-05200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-05200-SDX65.0.xml|
 November 04, 2022|LE.UM.6.4.1-17900-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-17900-QRB5165.0.xml|
