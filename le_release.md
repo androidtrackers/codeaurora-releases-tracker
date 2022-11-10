@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 10, 2022|LE.UM.3.2.3.c17-02600-SA2150p|sa2150p|LE.UM.3.2.3.c17-02600-SA2150p.xml|
 November 09, 2022|LNX.LE.5.3.2.2-88236-9x40|mdm9640|LNX.LE.5.3.2.2-88236-9x40.xml|
 November 09, 2022|LE.UM.1.2.c5-08100-9x07|mdm9607-poky|LE.UM.1.2.c5-08100-9x07.xml|
 November 09, 2022|LE.AU_EAP.1.0.c1-68500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-68500-eap-fsl.xml|
