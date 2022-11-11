@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 11, 2022|LE.UM.4.1.1.c14-02700-sa515m|sa515m|LE.UM.4.1.1.c14-02700-sa515m.xml|
 November 10, 2022|LV.AU.0.2.1.r6-04400-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-04400-qtiquingvm8295.0.xml|
 November 10, 2022|LE.UM.3.2.3.c17-02600-SA2150p|sa2150p|LE.UM.3.2.3.c17-02600-SA2150p.xml|
 November 09, 2022|LNX.LE.5.3.2.2-88236-9x40|mdm9640|LNX.LE.5.3.2.2-88236-9x40.xml|

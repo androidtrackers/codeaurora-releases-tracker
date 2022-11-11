@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.c14-02700-sa515m": {
+  "Date": "November 11, 2022",
+  "Tag / Build ID": "LE.UM.4.1.1.c14-02700-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c14-02700-sa515m.xml"
+ },
  "LV.AU.0.2.1.r6-04400-qtiquingvm8295.0": {
   "Date": "November 10, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r6-04400-qtiquingvm8295.0",
