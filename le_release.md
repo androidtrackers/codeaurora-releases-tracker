@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 13, 2022|LE.UM.5.4.1.r1-19900-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-19900-QRB2210.0.xml|
 November 13, 2022|LE.UM.4.1.1.c12-01400-sa515m|sa515m|LE.UM.4.1.1.c12-01400-sa515m.xml|
 November 13, 2022|LE.AU_EAP.1.0.c14-01500-eap-fsl|eap-imx|LE.AU_EAP.1.0.c14-01500-eap-fsl.xml|
 November 11, 2022|LE.UM.4.1.1.c14-02700-sa515m|sa515m|LE.UM.4.1.1.c14-02700-sa515m.xml|
