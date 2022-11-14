@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.1.c1-65600-sa415m": {
+  "Date": "November 14, 2022",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-65600-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-65600-sa415m.xml"
+ },
  "LE.UM.5.4.1.r1-19900-QRB2210.0": {
   "Date": "November 13, 2022",
   "Tag / Build ID": "LE.UM.5.4.1.r1-19900-QRB2210.0",
