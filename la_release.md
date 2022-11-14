@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 14, 2022|LA.QSSI.13.0.r1-07600.03-qssi.0|qssi|LA.QSSI.13.0.r1-07600.03-qssi.0.xml|11.00.00|
 November 14, 2022|LA.UM.8.6.2.c29-03400-89xx.0|msm8953_64|LA.UM.8.6.2.c29-03400-89xx.0.xml|10.00.00|
 November 14, 2022|LA.UM.5.7.c25-10800-8x98.0|msm8998|LA.UM.5.7.c25-10800-8x98.0.xml|07.01.01|
 November 14, 2022|LA.UM.9.1.c11-42200-SMxxx0.QSSI13.0|msmnile|LA.UM.9.1.c11-42200-SMxxx0.QSSI13.0.xml|11.00.00|
