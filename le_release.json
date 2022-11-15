@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-13600-genericarmv8-64.0": {
+  "Date": "November 15, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-13600-genericarmv8-64.0",
+  "Chipset": "parrot",
+  "Manifest": "LE.UM.5.3.1.r1-13600-genericarmv8-64.0.xml"
+ },
  "CHSS.LNX_FSLS.4.14-04310-QCA6574AUARMSDIOHZ": {
   "Date": "November 14, 2022",
   "Tag / Build ID": "CHSS.LNX_FSLS.4.14-04310-QCA6574AUARMSDIOHZ",

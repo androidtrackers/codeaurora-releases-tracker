@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 15, 2022|LE.UM.5.3.1.r1-13600-genericarmv8-64.0|parrot|LE.UM.5.3.1.r1-13600-genericarmv8-64.0.xml|
 November 14, 2022|CHSS.LNX_FSLS.4.14-04310-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSLS.4.14-04310-QCA6574AUARMSDIOHZ.xml|
 November 14, 2022|LE.UM.3.2.1.c1-65600-sa415m|sa415m|LE.UM.3.2.1.c1-65600-sa415m.xml|
 November 13, 2022|LE.UM.5.4.1.r1-19900-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-19900-QRB2210.0.xml|
