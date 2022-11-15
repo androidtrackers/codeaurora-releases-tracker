@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 15, 2022|LA.VENDOR.1.0.r1-18400-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-18400-WAIPIO.QSSI13.0.xml|11.00.00|
 November 14, 2022|CAMERA.LA.2.0.r1-08100-WAIPIO.0|parrot|CAMERA.LA.2.0.r1-08100-WAIPIO.0.xml|00.00.00|
 November 14, 2022|KERNEL.PLATFORM.1.0.r1-12400-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-12400-kernel.0.xml||
 November 14, 2022|VIDEO.LA.2.0.r1-06500-WAIPIO.0|parrot|VIDEO.LA.2.0.r1-06500-WAIPIO.0.xml|00.00.00|
