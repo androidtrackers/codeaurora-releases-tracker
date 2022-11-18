@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 17, 2022|LE.UM.4.3.2.r1-04200-9x07|mdm9607-poky|LE.UM.4.3.2.r1-04200-9x07.xml|
 November 17, 2022|LE.UM.4.4.2.r1-09300-SDX55|sdxprairie|LE.UM.4.4.2.r1-09300-SDX55.xml|
 November 15, 2022|LE.UM.2.3.6.c1-30600-9x07|mdm9607-poky|LE.UM.2.3.6.c1-30600-9x07.xml|
 November 15, 2022|LU.UM.1.2.1.r1-45200-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-45200-QRB5165.0.xml|
