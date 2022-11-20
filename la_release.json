@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.15.2.r1-05800-KAMORTA.QSSI12.0": {
+  "Date": "November 20, 2022",
+  "Tag / Build ID": "LA.UM.9.15.2.r1-05800-KAMORTA.QSSI12.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.2.r1-05800-KAMORTA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.13.0.r1-07800-qssi.0": {
   "Date": "November 19, 2022",
   "Tag / Build ID": "LA.QSSI.13.0.r1-07800-qssi.0",
