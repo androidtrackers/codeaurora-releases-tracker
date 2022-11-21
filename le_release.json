@@ -1,4 +1,16 @@
 {
+ "LV.AU.1.2.2.r1-00400-sa6155.0": {
+  "Date": "November 20, 2022",
+  "Tag / Build ID": "LV.AU.1.2.2.r1-00400-sa6155.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.1.2.2.r1-00400-sa6155.0.xml"
+ },
+ "LV.AU.1.2.4.r1-02900-gen3meta.0": {
+  "Date": "November 20, 2022",
+  "Tag / Build ID": "LV.AU.1.2.4.r1-02900-gen3meta.0",
+  "Chipset": "sa81x5lxc",
+  "Manifest": "LV.AU.1.2.4.r1-02900-gen3meta.0.xml"
+ },
  "LE.UM.4.3.2.r1-04200-9x07": {
   "Date": "November 17, 2022",
   "Tag / Build ID": "LE.UM.4.3.2.r1-04200-9x07",

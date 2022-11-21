@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 20, 2022|LV.AU.1.2.2.r1-00400-sa6155.0|sa6155agl|LV.AU.1.2.2.r1-00400-sa6155.0.xml|
+November 20, 2022|LV.AU.1.2.4.r1-02900-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-02900-gen3meta.0.xml|
 November 17, 2022|LE.UM.4.3.2.r1-04200-9x07|mdm9607-poky|LE.UM.4.3.2.r1-04200-9x07.xml|
 November 17, 2022|LE.UM.4.4.2.r1-09300-SDX55|sdxprairie|LE.UM.4.4.2.r1-09300-SDX55.xml|
 November 15, 2022|LE.UM.2.3.6.c1-30600-9x07|mdm9607-poky|LE.UM.2.3.6.c1-30600-9x07.xml|
