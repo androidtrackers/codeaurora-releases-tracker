@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 21, 2022|LE.UM.4.1.1.c15-03500-sa515m|sa515m-nad|LE.UM.4.1.1.c15-03500-sa515m.xml|
 November 21, 2022|LV.AU.1.2.4.r1-03000-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-03000-gen3meta.0.xml|
 November 21, 2022|LE.UM.3.2.3.c21-00900-SA2150p|sa2150p|LE.UM.3.2.3.c21-00900-SA2150p.xml|
 November 21, 2022|LE.UM.4.1.1.c18-00800-sa515m|sa515m|LE.UM.4.1.1.c18-00800-sa515m.xml|
