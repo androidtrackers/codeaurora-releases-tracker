@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.2.4.r1-10900-QCS610.0": {
+  "Date": "November 22, 2022",
+  "Tag / Build ID": "LE.UM.6.2.4.r1-10900-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LE.UM.6.2.4.r1-10900-QCS610.0.xml"
+ },
  "LE.UM.4.1.1.c15-03500-sa515m": {
   "Date": "November 21, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c15-03500-sa515m",
