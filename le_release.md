@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 23, 2022|LE.UM.3.2.1.c6-02000-sa415m|sa415m|LE.UM.3.2.1.c6-02000-sa415m.xml|
+November 23, 2022|LE.AU_EAP.1.0.c12-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-02000-eap-fsl.xml|
 November 22, 2022|LE.UM.6.2.4.r1-10900-QCS610.0|QCS610|LE.UM.6.2.4.r1-10900-QCS610.0.xml|
 November 21, 2022|LE.UM.4.1.1.c15-03500-sa515m|sa515m-nad|LE.UM.4.1.1.c15-03500-sa515m.xml|
 November 21, 2022|LV.AU.1.2.4.r1-03000-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-03000-gen3meta.0.xml|
