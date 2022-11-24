@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 24, 2022|LA.UM.9.16.r1-12500.02-MANNAR.QSSI12.0|holi|LA.UM.9.16.r1-12500.02-MANNAR.QSSI12.0.xml|11.00.00|
 November 24, 2022|LA.AU.1.3.2.r4-01400-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r4-01400-sa8155_gvmq.0.xml|10.00.00|
 November 23, 2022|LA.UM.9.14.1.r1-07600-QCM6490.0|lahaina|LA.UM.9.14.1.r1-07600-QCM6490.0.xml|11.00.00|
 November 23, 2022|LA.UM.9.14.r1-20800.01-LAHAINA.QSSI12.0|lahaina|LA.UM.9.14.r1-20800.01-LAHAINA.QSSI12.0.xml|11.00.00|
