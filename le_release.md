@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 26, 2022|LV.AU.0.3.0.r2-01600-gen4meta.0|lemanslxc|LV.AU.0.3.0.r2-01600-gen4meta.0.xml|
 November 25, 2022|LE.UM.4.1.1.c11-03700-sa515m|sa515m|LE.UM.4.1.1.c11-03700-sa515m.xml|
 November 25, 2022|LE.AU_EAP.1.0.c13-02700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-02700-eap-fsl.xml|
 November 24, 2022|LE.UM.6.4.1-19500-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-19500-QRB5165.0.xml|
