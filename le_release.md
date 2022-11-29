@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 29, 2022|LE.UM.6.2.4.r1-11800-QCS610.0|QCS610|LE.UM.6.2.4.r1-11800-QCS610.0.xml|
 November 28, 2022|LV.AU.0.2.1.r6-05300-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-05300-qtiquingvm8295.0.xml|
 November 27, 2022|LE.UM.6.4.2-04300-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-04300-QRB5165.0.xml|
 November 27, 2022|LE.UM.6.4.1-19600-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-19600-QRB5165.0.xml|
