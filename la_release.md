@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 29, 2022|DISPLAY.LA.2.0.r1-08900-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-08900-WAIPIO.0.xml|00.00.00|
+November 29, 2022|VIDEO.LA.2.0.r1-06600-WAIPIO.0|video|VIDEO.LA.2.0.r1-06600-WAIPIO.0.xml|00.00.00|
 November 29, 2022|KERNEL.PLATFORM.1.0.r2-04300-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-04300-NEOLA.0.xml||
 November 29, 2022|LA.UM.7.2.r2-13200-8x98.0|msm8998|LA.UM.7.2.r2-13200-8x98.0.xml|09.00.00|
 November 29, 2022|LA.UM.8.8.1.r3-00300-QCS605.0|qcs605|LA.UM.8.8.1.r3-00300-QCS605.0.xml|10.00.00|
