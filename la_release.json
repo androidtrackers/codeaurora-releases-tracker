@@ -1,4 +1,18 @@
 {
+ "LAW.BR.4.0-49000-89xx.0": {
+  "Date": "November 30, 2022",
+  "Tag / Build ID": "LAW.BR.4.0-49000-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-49000-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.UM.9.12.c10-47800-SAIPAN.QSSI14.0": {
+  "Date": "November 30, 2022",
+  "Tag / Build ID": "LA.UM.9.12.c10-47800-SAIPAN.QSSI14.0",
+  "Chipset": "lito",
+  "Manifest": "LA.UM.9.12.c10-47800-SAIPAN.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r1-12700-kernel.0": {
   "Date": "November 30, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-12700-kernel.0",
