@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 29, 2022|CHSS.LNX_FSL.5.1-03000-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1-03000-QCAAUTOHOSTHZ.xml|
 November 29, 2022|LE.UM.3.2.1.c6.1-00600-sa415m|sa415m|LE.UM.3.2.1.c6.1-00600-sa415m.xml|
 November 29, 2022|LE.AU_EAP.1.0.c12.1-00700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12.1-00700-eap-fsl.xml|
 November 29, 2022|LE.UM.5.2.2.r1-07900-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-07900-SXR2130.0.xml|
