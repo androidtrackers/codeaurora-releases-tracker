@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 30, 2022|KERNEL.PLATFORM.1.0.r1-12700-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-12700-kernel.0.xml||
 November 29, 2022|CAMERA.LA.2.0.r1-08200-WAIPIO.0|camera|CAMERA.LA.2.0.r1-08200-WAIPIO.0.xml|00.00.00|
 November 29, 2022|DISPLAY.LA.2.0.r1-08900-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-08900-WAIPIO.0.xml|00.00.00|
 November 29, 2022|VIDEO.LA.2.0.r1-06600-WAIPIO.0|video|VIDEO.LA.2.0.r1-06600-WAIPIO.0.xml|00.00.00|
