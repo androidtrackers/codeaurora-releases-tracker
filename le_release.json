@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-13800-genericarmv8-64.0": {
+  "Date": "November 29, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-13800-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-13800-genericarmv8-64.0.xml"
+ },
  "CHSS.LNX_FSL.5.1-03000-QCAAUTOHOSTHZ": {
   "Date": "November 29, 2022",
   "Tag / Build ID": "CHSS.LNX_FSL.5.1-03000-QCAAUTOHOSTHZ",
