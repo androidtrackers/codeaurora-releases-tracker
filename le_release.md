@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 30, 2022|LE.UM.1.2-00400-9x07|mdm9607-poky|LE.UM.1.2-00400-9x07.xml|
 November 30, 2022|LE.UM.6.3.6.r1-02800-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-02800-SDX65.0.xml|
 November 30, 2022|LE.UM.4.3.3.r1-06600-SDX55|sdxprairie|LE.UM.4.3.3.r1-06600-SDX55.xml|
 November 30, 2022|LE.UM.6.2.3.r1-05300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-05300-SDX65.0.xml|
