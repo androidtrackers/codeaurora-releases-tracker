@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 01, 2022|LA.UM.9.12.1.r1-03700-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-03700-SMxx50.QSSI12.0.xml|11.00.00|
 November 30, 2022|LAW.BR.5.1.r1-13700-89xx.0|sdm429w_law|LAW.BR.5.1.r1-13700-89xx.0.xml|11.00.00|
 November 30, 2022|LA.VENDOR.1.0.r1-19000-WAIPIO.0|parrot|LA.VENDOR.1.0.r1-19000-WAIPIO.0.xml|11.00.00|
 November 30, 2022|LA.VENDOR.1.0.r1-19000-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-19000-WAIPIO.QSSI13.0.xml|11.00.00|
