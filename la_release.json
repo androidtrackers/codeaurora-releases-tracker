@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.11.0.r1-17600-qssi.0": {
+  "Date": "December 02, 2022",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-17600-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-17600-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.QSSI.12.0.r1-09600-qssi.0": {
+  "Date": "December 02, 2022",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-09600-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-09600-qssi.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.8.12.5.r1-01700-QCS8250.0": {
   "Date": "December 01, 2022",
   "Tag / Build ID": "LA.UM.8.12.5.r1-01700-QCS8250.0",

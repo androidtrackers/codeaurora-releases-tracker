@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 02, 2022|LE.UM.7.1.3.r1-01400-sa515m|sa515m-tete-tele-debug|LE.UM.7.1.3.r1-01400-sa515m.xml|
+December 02, 2022|LE.UM.3.2.3.1-08900-SA2150p|sa2150p|LE.UM.3.2.3.1-08900-SA2150p.xml|
+December 02, 2022|LE.AU_EAP.1.0.1-06700-eap-fsl|eap-imx|LE.AU_EAP.1.0.1-06700-eap-fsl.xml|
 December 01, 2022|LV.AU.0.2.2.r1-08500-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-08500-gen3meta.0.xml|
 December 01, 2022|LV.AU.0.2.1.r6-05400-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.2.1.r6-05400-qtiquingvm8295.0.xml|
 November 30, 2022|LE.UM.1.2-00400-9x07|mdm9607-poky|LE.UM.1.2-00400-9x07.xml|
