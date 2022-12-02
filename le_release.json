@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.1.r6-05400-qtiquingvm8295.0": {
+  "Date": "December 01, 2022",
+  "Tag / Build ID": "LV.AU.0.2.1.r6-05400-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.2.1.r6-05400-qtiquingvm8295.0.xml"
+ },
  "LE.UM.1.2-00400-9x07": {
   "Date": "November 30, 2022",
   "Tag / Build ID": "LE.UM.1.2-00400-9x07",
