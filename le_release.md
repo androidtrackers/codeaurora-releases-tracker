@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 04, 2022|LV.AU.0.3.0.r2-01700-gen4meta.0|lemanslxc|LV.AU.0.3.0.r2-01700-gen4meta.0.xml|
 December 03, 2022|LE.UM.4.1.1.c14-03000-sa515m|sa515m|LE.UM.4.1.1.c14-03000-sa515m.xml|
 December 03, 2022|LE.UM.3.2.3.c17-02900-SA2150p|sa2150p|LE.UM.3.2.3.c17-02900-SA2150p.xml|
 December 02, 2022|LE.UM.7.1.3.r1-01400-sa515m|sa515m-tete-tele-debug|LE.UM.7.1.3.r1-01400-sa515m.xml|

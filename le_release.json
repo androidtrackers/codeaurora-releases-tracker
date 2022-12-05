@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.0.r2-01700-gen4meta.0": {
+  "Date": "December 04, 2022",
+  "Tag / Build ID": "LV.AU.0.3.0.r2-01700-gen4meta.0",
+  "Chipset": "lemanslxc",
+  "Manifest": "LV.AU.0.3.0.r2-01700-gen4meta.0.xml"
+ },
  "LE.UM.4.1.1.c14-03000-sa515m": {
   "Date": "December 03, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c14-03000-sa515m",
