@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.3.c18-00800-SA2150p": {
+  "Date": "December 04, 2022",
+  "Tag / Build ID": "LE.UM.3.2.3.c18-00800-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c18-00800-SA2150p.xml"
+ },
  "LV.AU.0.3.0.r2-01700-gen4meta.0": {
   "Date": "December 04, 2022",
   "Tag / Build ID": "LV.AU.0.3.0.r2-01700-gen4meta.0",
