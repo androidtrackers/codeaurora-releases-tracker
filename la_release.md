@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 02, 2022|LA.QSSI.12.0.r1-09600-qssi.0|qssi|LA.QSSI.12.0.r1-09600-qssi.0.xml|12.00.00|
+December 05, 2022|LA.UM.8.8.1.r1-09000-QCS605.0|qcs605|LA.UM.8.8.1.r1-09000-QCS605.0.xml|10.00.00|
 December 05, 2022|LA.UM.8.6.2.c30-03800-89xx.0|msm8937_64|LA.UM.8.6.2.c30-03800-89xx.0.xml|10.00.00|
 December 04, 2022|LA.UM.9.1.1.r1-03000-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-03000-RENNELL.QSSI12.0.xml|11.00.00|
 December 03, 2022|LA.UM.8.12.5.r1-01800-QCS8250.0|kona|LA.UM.8.12.5.r1-01800-QCS8250.0.xml|10.00.00|
@@ -8,7 +10,6 @@ December 02, 2022|LA.QSSI.12.0.r2-01000-qssi.0|qssi|LA.QSSI.12.0.r2-01000-qssi.0
 December 02, 2022|LA.AU.0.3.1.r2-09700-gen3meta.0|msmnile_au|LA.AU.0.3.1.r2-09700-gen3meta.0.xml|10.00.00|
 December 02, 2022|LA.UM.8.2.r2-06600-sdm660.0|sdm660_64|LA.UM.8.2.r2-06600-sdm660.0.xml|10.00.00|
 December 02, 2022|LA.QSSI.11.0.r1-17600-qssi.0|qssi|LA.QSSI.11.0.r1-17600-qssi.0.xml|11.00.00|
-December 02, 2022|LA.QSSI.12.0.r1-09600-qssi.0|qssi|LA.QSSI.12.0.r1-09600-qssi.0.xml|12.00.00|
 December 01, 2022|LA.UM.8.12.5.r1-01700-QCS8250.0|kona|LA.UM.8.12.5.r1-01700-QCS8250.0.xml|10.00.00|
 December 01, 2022|LA.UM.9.2.1.c26-03400-sdm660.0|sdm660_64|LA.UM.9.2.1.c26-03400-sdm660.0.xml|11.00.00|
 December 01, 2022|LA.UM.8.2.1.c25-05500-sdm660.0|sdm660_64|LA.UM.8.2.1.c25-05500-sdm660.0.xml|10.00.00|
