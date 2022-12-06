@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.2.2.r1-08700-qtiquingvm.0": {
+  "Date": "December 05, 2022",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-08700-qtiquingvm.0",
+  "Chipset": "quin-gvm-4gb",
+  "Manifest": "LV.AU.0.2.2.r1-08700-qtiquingvm.0.xml"
+ },
+ "LV.AU.0.9.0.r2-01400-qtiquingvm8295.0": {
+  "Date": "December 05, 2022",
+  "Tag / Build ID": "LV.AU.0.9.0.r2-01400-qtiquingvm8295.0",
+  "Chipset": "quin-gvm-gen4",
+  "Manifest": "LV.AU.0.9.0.r2-01400-qtiquingvm8295.0.xml"
+ },
  "LE.UM.4.1.1.c15-03800-sa515m": {
   "Date": "December 05, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c15-03800-sa515m",
