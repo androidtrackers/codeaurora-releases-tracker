@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 07, 2022|LV.AU.0.2.2.r1-08800-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-08800-gen3meta.0.xml|
 December 05, 2022|LE.UM.5.2.3.r1-09400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09400-SDX12.xml|
 December 05, 2022|LV.AU.0.2.2.r1-08700-qtiquingvm.0|quin-gvm-4gb|LV.AU.0.2.2.r1-08700-qtiquingvm.0.xml|
 December 05, 2022|LV.AU.0.9.0.r2-01400-qtiquingvm8295.0|quin-gvm-gen4|LV.AU.0.9.0.r2-01400-qtiquingvm8295.0.xml|
