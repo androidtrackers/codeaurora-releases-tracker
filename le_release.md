@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 08, 2022|LE.UM.5.3.1.r1-14100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-14100-genericarmv8-64.0.xml|
 December 07, 2022|LE.UM.1.2.c8-00900-9x07|mdm9607-poky|LE.UM.1.2.c8-00900-9x07.xml|
 December 07, 2022|LV.AU.0.2.2.r1-08800-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-08800-gen3meta.0.xml|
 December 05, 2022|LE.UM.5.2.3.r1-09400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09400-SDX12.xml|
