@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 12, 2022|LA.UM.9.1.c11-43500-SMxxx0.QSSI13.0|msmnile|LA.UM.9.1.c11-43500-SMxxx0.QSSI13.0.xml|11.00.00|
+December 12, 2022|LA.UM.9.12.c10-48100-SAIPAN.QSSI13.0|lito|LA.UM.9.12.c10-48100-SAIPAN.QSSI13.0.xml|11.00.00|
 December 11, 2022|LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0|lahaina|LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0.xml|11.00.00|
 December 11, 2022|LAW.BR.5.1.r1-13900-89xx.0|sdm429w_law|LAW.BR.5.1.r1-13900-89xx.0.xml|11.00.00|
 December 09, 2022|LA.UM.9.15.2.r1-06000-KAMORTA.QSSI13.0|bengal|LA.UM.9.15.2.r1-06000-KAMORTA.QSSI13.0.xml|11.00.00|
