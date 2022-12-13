@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.3.r1-03600-gen3meta.0": {
+  "Date": "December 12, 2022",
+  "Tag / Build ID": "LV.AU.1.2.3.r1-03600-gen3meta.0",
+  "Chipset": "opsy-sa81x5",
+  "Manifest": "LV.AU.1.2.3.r1-03600-gen3meta.0.xml"
+ },
  "LE.UM.5.3.1.r1-14100-genericarmv8-64.0": {
   "Date": "December 08, 2022",
   "Tag / Build ID": "LE.UM.5.3.1.r1-14100-genericarmv8-64.0",
