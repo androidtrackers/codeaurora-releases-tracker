@@ -1,4 +1,10 @@
 {
+ "LE.UM.7.2.1.r1-00500-sa415m": {
+  "Date": "December 13, 2022",
+  "Tag / Build ID": "LE.UM.7.2.1.r1-00500-sa415m",
+  "Chipset": "sa415m-tele-tele-debug",
+  "Manifest": "LE.UM.7.2.1.r1-00500-sa415m.xml"
+ },
  "LE.AU_EAP.1.0.c1-69300-eap-fsl": {
   "Date": "December 13, 2022",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-69300-eap-fsl",
