@@ -1,4 +1,18 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-04600-NEO.0": {
+  "Date": "December 14, 2022",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-04600-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-04600-NEO.0.xml",
+  "Android Version": ""
+ },
+ "LA.UM.8.12.4.r1-06900-QCS8250.0": {
+  "Date": "December 14, 2022",
+  "Tag / Build ID": "LA.UM.8.12.4.r1-06900-QCS8250.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.8.12.4.r1-06900-QCS8250.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-04500-ANORAK.0": {
   "Date": "December 13, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-04500-ANORAK.0",
