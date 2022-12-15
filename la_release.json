@@ -1,4 +1,11 @@
 {
+ "LA.AU.0.3.1.r4-05300-sa8155_gvmq.0": {
+  "Date": "December 15, 2022",
+  "Tag / Build ID": "LA.AU.0.3.1.r4-05300-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.0.3.1.r4-05300-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-04500-NEOLA.0": {
   "Date": "December 14, 2022",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-04500-NEOLA.0",
