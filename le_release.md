@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 15, 2022|LE.UM.4.4.2.r1-09400-SDX55|sdxprairie|LE.UM.4.4.2.r1-09400-SDX55.xml|
 December 15, 2022|LE.UM.6.3.6.r1-03500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-03500-SDX65.0.xml|
 December 14, 2022|LE.UM.2.3.2-14000-SDX24|sdxpoorwills|LE.UM.2.3.2-14000-SDX24.xml|
 December 13, 2022|LE.UM.7.2.1.r1-00500-sa415m|sa415m-tele-tele-debug|LE.UM.7.2.1.r1-00500-sa415m.xml|
