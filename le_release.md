@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 18, 2022|LE.UM.6.3.5.r1-01500-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-01500-QCS610.0.xml|
 December 16, 2022|LE.UM.6.3.6.r1-03600-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-03600-SDX65.0.xml|
 December 15, 2022|LE.UM.4.4.2.r1-09400-SDX55|sdxprairie|LE.UM.4.4.2.r1-09400-SDX55.xml|
 December 15, 2022|LE.UM.6.3.6.r1-03500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-03500-SDX65.0.xml|
