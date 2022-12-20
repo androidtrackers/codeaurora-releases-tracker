@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 20, 2022|LE.UM.4.1.1.c19-01400-sa515m|sa515m|LE.UM.4.1.1.c19-01400-sa515m.xml|
 December 19, 2022|LE.AU_EAP.1.0.c19-00800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c19-00800-eap-fsl.xml|
 December 19, 2022|LE.UM.7.4.1.r1-00500-sa525m-tele|sa525|LE.UM.7.4.1.r1-00500-sa525m-tele.xml|
 December 18, 2022|LE.UM.6.3.5.r1-01500-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-01500-QCS610.0.xml|
