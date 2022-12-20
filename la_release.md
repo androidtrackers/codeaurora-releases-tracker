@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 20, 2022|VIDEO.LA.2.0.r1-06800-WAIPIO.0|video|VIDEO.LA.2.0.r1-06800-WAIPIO.0.xml|00.00.00|
 December 20, 2022|LA.UM.9.14.3.r1-00900-QCM6490.0|lahaina|LA.UM.9.14.3.r1-00900-QCM6490.0.xml|11.00.00|
 December 20, 2022|LA.UM.9.14.r1-21000-LAHAINA.QSSI12.0|lahaina|LA.UM.9.14.r1-21000-LAHAINA.QSSI12.0.xml|11.00.00|
 December 19, 2022|LA.AU.1.3.2.r5-00500-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r5-00500-sa8155_gvmq.0.xml|10.00.00|
