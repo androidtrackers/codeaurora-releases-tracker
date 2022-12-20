@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-14400-genericarmv8-64.0": {
+  "Date": "December 20, 2022",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-14400-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-14400-genericarmv8-64.0.xml"
+ },
  "LE.UM.4.1.1.c19-01400-sa515m": {
   "Date": "December 20, 2022",
   "Tag / Build ID": "LE.UM.4.1.1.c19-01400-sa515m",

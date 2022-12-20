@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.14.3.r1-00900-QCM6490.0": {
+  "Date": "December 20, 2022",
+  "Tag / Build ID": "LA.UM.9.14.3.r1-00900-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.3.r1-00900-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.14.r1-21000-LAHAINA.QSSI12.0": {
+  "Date": "December 20, 2022",
+  "Tag / Build ID": "LA.UM.9.14.r1-21000-LAHAINA.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-21000-LAHAINA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.3.2.r5-00500-sa8155_gvmq.0": {
   "Date": "December 19, 2022",
   "Tag / Build ID": "LA.AU.1.3.2.r5-00500-sa8155_gvmq.0",
