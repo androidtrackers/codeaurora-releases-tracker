@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 19, 2022|LA.AU.1.3.2.r5-00500-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r5-00500-sa8155_gvmq.0.xml|10.00.00|
 December 19, 2022|LA.AU.1.3.1.r2-03300-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-03300-sa8155.0.xml|10.00.00|
 December 19, 2022|CAMERA.LA.2.0.r1-08400-WAIPIO.0|camera|CAMERA.LA.2.0.r1-08400-WAIPIO.0.xml|00.00.00|
 December 19, 2022|KERNEL.PLATFORM.1.0.r1-13300-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-13300-kernel.0.xml||

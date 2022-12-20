@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c19-00800-eap-fsl": {
+  "Date": "December 19, 2022",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c19-00800-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c19-00800-eap-fsl.xml"
+ },
  "LE.UM.7.4.1.r1-00500-sa525m-tele": {
   "Date": "December 19, 2022",
   "Tag / Build ID": "LE.UM.7.4.1.r1-00500-sa525m-tele",
