@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+December 21, 2022|LA.QSSI.11.1.r1-00500-qssi.0|qssi|LA.QSSI.11.1.r1-00500-qssi.0.xml|11.00.00|
 December 20, 2022|LA.VENDOR.1.0.r1-19500-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-19500-WAIPIO.QSSI13.0.xml|11.00.00|
 December 20, 2022|VIDEO.LA.2.0.r1-06800-WAIPIO.0|video|VIDEO.LA.2.0.r1-06800-WAIPIO.0.xml|00.00.00|
 December 20, 2022|LA.UM.9.14.3.r1-00900-QCM6490.0|lahaina|LA.UM.9.14.3.r1-00900-QCM6490.0.xml|11.00.00|
