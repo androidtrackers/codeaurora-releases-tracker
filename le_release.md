@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 22, 2022|LV.AU.1.2.5.r1-00600-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-00600-qtiquingvm.0.xml|
 December 20, 2022|LE.UM.2.3.6.c2-12800-9x07|mdm9607-poky|LE.UM.2.3.6.c2-12800-9x07.xml|
 December 20, 2022|LE.UM.3.2.3.c22-00700-SA2150p|sa2150p|LE.UM.3.2.3.c22-00700-SA2150p.xml|
 December 20, 2022|LE.UM.5.3.1.r1-14400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-14400-genericarmv8-64.0.xml|
