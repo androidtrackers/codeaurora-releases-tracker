@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 22, 2022|LE.UM.4.1.1.c16-00900-sa515m|sa515m|LE.UM.4.1.1.c16-00900-sa515m.xml|
 December 22, 2022|LE.AU_EAP.1.0.c16-00900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-00900-eap-fsl.xml|
 December 22, 2022|LV.AU.1.2.5.r1-00600-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-00600-qtiquingvm.0.xml|
 December 20, 2022|LE.UM.2.3.6.c2-12800-9x07|mdm9607-poky|LE.UM.2.3.6.c2-12800-9x07.xml|
