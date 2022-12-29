@@ -1,4 +1,34 @@
 {
+ "WLANHOST_AU.LA.6.0.r22.3-00200-QCAAUTOHOSTHZ": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LA.6.0.r22.3-00200-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.6.0.r22.3-00200-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.5.1.r22.3-00300-QCAAUTOHOSTHZ": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "BTHOST_AU.LA.5.1.r22.3-00300-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.5.1.r22.3-00300-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LA.5.1.r22.3-00200-QCAAUTOHOSTHZ": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LA.5.1.r22.3-00200-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LA.5.1.r22.3-00200-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.6.0.r22.3-00400-QCAAUTOHOSTHZ": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "BTHOST_AU.LA.6.0.r22.3-00400-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.6.0.r22.3-00400-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LE.2.1.r22.3-00200-QCAAUTOHOSTHZ": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "WLANHOST_AU.LE.2.1.r22.3-00200-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LE.2.1.r22.3-00200-QCAAUTOHOSTHZ.xml"
+ },
  "LV.AU.0.2.1.r6-05900-qtiquingvm8295.0": {
   "Date": "December 28, 2022",
   "Tag / Build ID": "LV.AU.0.2.1.r6-05900-qtiquingvm8295.0",
