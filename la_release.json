@@ -1,4 +1,39 @@
 {
+ "CAMERA.LA.2.0.r2-00500-WAIPIO.0": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "CAMERA.LA.2.0.r2-00500-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r2-00500-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.UM.9.1.r1-13000-SMxxx0.QSSI12.0": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "LA.UM.9.1.r1-13000-SMxxx0.QSSI12.0",
+  "Chipset": "msmnile",
+  "Manifest": "LA.UM.9.1.r1-13000-SMxxx0.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "DISPLAY.LA.2.0.r3-00400-WAIPIO.0": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r3-00400-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r3-00400-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "VIDEO.LA.2.0.r2-00300-WAIPIO.0": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "VIDEO.LA.2.0.r2-00300-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r2-00300-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.QSSI.12.0.r1-09700.01-qssi.0": {
+  "Date": "December 28, 2022",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-09700.01-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-09700.01-qssi.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.UM.9.12.r1-15100-SMxx50.QSSI12.0": {
   "Date": "December 28, 2022",
   "Tag / Build ID": "LA.UM.9.12.r1-15100-SMxx50.QSSI12.0",
