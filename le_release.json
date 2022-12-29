@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.3.r1-11400-QCS610.0": {
+  "Date": "December 29, 2022",
+  "Tag / Build ID": "LE.UM.4.2.3.r1-11400-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.r1-11400-QCS610.0.xml"
+ },
  "WLANHOST_AU.LA.6.0.r22.3-00200-QCAAUTOHOSTHZ": {
   "Date": "December 28, 2022",
   "Tag / Build ID": "WLANHOST_AU.LA.6.0.r22.3-00200-QCAAUTOHOSTHZ",
