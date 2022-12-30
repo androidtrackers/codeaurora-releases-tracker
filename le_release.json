@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-17000-QRB5165.0": {
+  "Date": "December 30, 2022",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-17000-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r2-17000-QRB5165.0.xml"
+ },
  "WLANHOST_AU.LA.6.1.r22.3-00400-QCAAUTOHOSTHZ": {
   "Date": "December 29, 2022",
   "Tag / Build ID": "WLANHOST_AU.LA.6.1.r22.3-00400-QCAAUTOHOSTHZ",
