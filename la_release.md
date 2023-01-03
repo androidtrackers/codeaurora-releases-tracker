@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 03, 2023|LA.AU.1.3.6.r1-02200-gen3meta.0|sm6150_au|LA.AU.1.3.6.r1-02200-gen3meta.0.xml|10.00.00|
 January 03, 2023|LA.AU.0.3.1.r7-00100-sa8155_gvmq.0|msmnile_gvmq|LA.AU.0.3.1.r7-00100-sa8155_gvmq.0.xml|10.00.00|
 January 02, 2023|LA.AU.1.4.1.r2-02200-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-02200-sa8155.0.xml|10.00.00|
 December 30, 2022|LA.VENDOR.1.0.r2-01300-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r2-01300-WAIPIO.QSSI13.0.xml|13.00.00|
