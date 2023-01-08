@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.13.0.r1-08600-qssi.0": {
+  "Date": "January 08, 2023",
+  "Tag / Build ID": "LA.QSSI.13.0.r1-08600-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.13.0.r1-08600-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.16.r1-12700.04-MANNAR.QSSI12.0": {
   "Date": "January 08, 2023",
   "Tag / Build ID": "LA.UM.9.16.r1-12700.04-MANNAR.QSSI12.0",
