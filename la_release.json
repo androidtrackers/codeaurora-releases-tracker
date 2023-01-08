@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.r1-12700.04-MANNAR.QSSI12.0": {
+  "Date": "January 08, 2023",
+  "Tag / Build ID": "LA.UM.9.16.r1-12700.04-MANNAR.QSSI12.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-12700.04-MANNAR.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.4.c25-07000-8x98.0": {
   "Date": "January 08, 2023",
   "Tag / Build ID": "LA.UM.8.4.c25-07000-8x98.0",
