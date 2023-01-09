@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 08, 2023|LE.UM.1.3.c25-03700-8x53|apq8053-32|LE.UM.1.3.c25-03700-8x53.xml|
 December 30, 2022|LU.UM.2.4.1.r1-11900-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-11900-QRB5165.0.xml|
 December 30, 2022|LE.UM.4.4.1.r2-17000-QRB5165.0|QRB5165|LE.UM.4.4.1.r2-17000-QRB5165.0.xml|
 December 29, 2022|WLANHOST_AU.LA.6.1.r22.3-00400-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.6.1.r22.3-00400-QCAAUTOHOSTHZ.xml|
