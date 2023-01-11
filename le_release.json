@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r3-17500-QRB5165.0": {
+  "Date": "January 11, 2023",
+  "Tag / Build ID": "LE.UM.4.4.1.r3-17500-QRB5165.0",
+  "Chipset": "QRB5165",
+  "Manifest": "LE.UM.4.4.1.r3-17500-QRB5165.0.xml"
+ },
  "CHSS.LNX_FSLR.1.0.r1-04400-QCAAUTOHOSTHZ": {
   "Date": "January 10, 2023",
   "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-04400-QCAAUTOHOSTHZ",
