@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 10, 2023|CHSS.LNX_FSLR.1.0.r1-04400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-04400-QCAAUTOHOSTHZ.xml|
 January 10, 2023|LE.UM.4.1.1.1-10200-sa515m|sa515m-nad|LE.UM.4.1.1.1-10200-sa515m.xml|
 January 10, 2023|LE.UM.4.1.1.c8-19700-sa515m|sa515m|LE.UM.4.1.1.c8-19700-sa515m.xml|
 January 09, 2023|LE.UM.3.3.1.c3-36600-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-36600-qcs405.0.xml|
