@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 13, 2023|DISPLAY.LA.2.0.r1-09500-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-09500-WAIPIO.0.xml|00.00.00|
 January 12, 2023|KERNEL.PLATFORM.1.0.r1-13500-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-13500-kernel.0.xml||
 January 12, 2023|CAMERA.LA.2.0.r1-08700-WAIPIO.0|camera|CAMERA.LA.2.0.r1-08700-WAIPIO.0.xml|00.00.00|
 January 12, 2023|VIDEO.LA.2.0.r1-07000-WAIPIO.0|video|VIDEO.LA.2.0.r1-07000-WAIPIO.0.xml|00.00.00|
