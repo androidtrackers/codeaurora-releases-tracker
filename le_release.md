@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 13, 2023|LE.UM.4.1.1.c14-03600-sa515m|sa515m|LE.UM.4.1.1.c14-03600-sa515m.xml|
+January 13, 2023|LE.UM.3.2.3.1-10500-SA2150p|sa2150p-nand|LE.UM.3.2.3.1-10500-SA2150p.xml|
+January 13, 2023|WLANHOST_AU.LNX.5.4-02300-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-02300-QCAAUTOHOSTHZ.xml|
 January 12, 2023|LE.UM.3.2.3.c17-03200-SA2150p|sa2150p|LE.UM.3.2.3.c17-03200-SA2150p.xml|
 January 12, 2023|LE.UM.5.3.1.r1-14700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-14700-genericarmv8-64.0.xml|
 January 12, 2023|WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ.xml|
