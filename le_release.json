@@ -1,4 +1,10 @@
 {
+ "WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ": {
+  "Date": "January 12, 2023",
+  "Tag / Build ID": "WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.7.4.1.r1-01900-sa525m-tele": {
   "Date": "January 12, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.r1-01900-sa525m-tele",

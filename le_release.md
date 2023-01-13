@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 12, 2023|WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-01900-QCAAUTOHOSTHZ.xml|
 January 12, 2023|LE.UM.7.4.1.r1-01900-sa525m-tele|sa525|LE.UM.7.4.1.r1-01900-sa525m-tele.xml|
 January 12, 2023|LE.UM.6.3.6.r1-04200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-04200-SDX65.0.xml|
 January 11, 2023|LE.UM.4.4.1.r3-17500-QRB5165.0|QRB5165|LE.UM.4.4.1.r3-17500-QRB5165.0.xml|
