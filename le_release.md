@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 15, 2023|LV.AU.0.3.0.r1-07000-gen3meta.0|sa81x5lxc|LV.AU.0.3.0.r1-07000-gen3meta.0.xml|
 January 13, 2023|LE.UM.4.1.1.c14-03600-sa515m|sa515m|LE.UM.4.1.1.c14-03600-sa515m.xml|
 January 13, 2023|LE.UM.3.2.3.1-10500-SA2150p|sa2150p-nand|LE.UM.3.2.3.1-10500-SA2150p.xml|
 January 13, 2023|WLANHOST_AU.LNX.5.4-02300-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-02300-QCAAUTOHOSTHZ.xml|
