@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 17, 2023|LE.UM.6.2.3.r1-05500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-05500-SDX65.0.xml|
+January 17, 2023|LV.AU.0.3.0.r1-07900-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-07900-gen3meta.0.xml|
 January 16, 2023|LV.AU.0.3.0.r2-03700-gen4meta.0|lemanslxc|LV.AU.0.3.0.r2-03700-gen4meta.0.xml|
 January 16, 2023|LE.UM.5.4.1.r1-21700-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-21700-QRB2210.0.xml|
 January 16, 2023|LV.AU.0.3.0.r1-07400-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-07400-gen3meta.0.xml|
