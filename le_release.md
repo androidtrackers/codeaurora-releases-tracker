@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 18, 2023|LE.UM.2.3.6.c5-03900-9x07|mdm9607-poky|LE.UM.2.3.6.c5-03900-9x07.xml|
 January 17, 2023|CHSS.LNX_FSL.5.1-03400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1-03400-QCAAUTOHOSTHZ.xml|
 January 17, 2023|LE.UM.3.2.1.c6-02200-sa415m|sa415m|LE.UM.3.2.1.c6-02200-sa415m.xml|
 January 17, 2023|LE.AU_EAP.1.0.c12-02200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-02200-eap-fsl.xml|

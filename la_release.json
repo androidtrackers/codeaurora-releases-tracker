@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-04800-NEO.0": {
+  "Date": "January 18, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-04800-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-04800-NEO.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.10.2.1.c25-00600-sdm660.0": {
   "Date": "January 17, 2023",
   "Tag / Build ID": "LA.UM.10.2.1.c25-00600-sdm660.0",
