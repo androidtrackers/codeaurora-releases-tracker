@@ -1,4 +1,11 @@
 {
+ "LA.UM.10.9.1.r1-04500-QCS610.0": {
+  "Date": "January 20, 2023",
+  "Tag / Build ID": "LA.UM.10.9.1.r1-04500-QCS610.0",
+  "Chipset": "qcs610",
+  "Manifest": "LA.UM.10.9.1.r1-04500-QCS610.0.xml",
+  "Android Version": "12.00.00"
+ },
  "LA.QSSI.11.0.r1-18000-qssi.0": {
   "Date": "January 20, 2023",
   "Tag / Build ID": "LA.QSSI.11.0.r1-18000-qssi.0",
