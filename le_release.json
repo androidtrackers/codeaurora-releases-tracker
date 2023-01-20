@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.3.1-11000-SA2150p": {
+  "Date": "January 19, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.1-11000-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.1-11000-SA2150p.xml"
+ },
  "LE.UM.4.1.1.1-10800-sa515m": {
   "Date": "January 19, 2023",
   "Tag / Build ID": "LE.UM.4.1.1.1-10800-sa515m",
