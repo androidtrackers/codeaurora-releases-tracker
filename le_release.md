@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 23, 2023|LE.UM.6.2.3.r1-05900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-05900-SDX65.0.xml|
+January 23, 2023|LE.UM.4.2.1.c25-02100-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-02100-QCS404.0.xml|
 January 20, 2023|LE.UM.6.2.4.r1-13000-QCS610.0|QCS610|LE.UM.6.2.4.r1-13000-QCS610.0.xml|
 January 19, 2023|LE.UM.3.2.3.1-11000-SA2150p|sa2150p|LE.UM.3.2.3.1-11000-SA2150p.xml|
 January 19, 2023|LE.UM.4.1.1.1-10800-sa515m|sa515m-nad|LE.UM.4.1.1.1-10800-sa515m.xml|
