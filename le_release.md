@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+January 25, 2023|LE.UM.4.1.1.c11-04200-sa515m|sa515m|LE.UM.4.1.1.c11-04200-sa515m.xml|
+January 25, 2023|LE.AU_EAP.1.0.c13-03100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-03100-eap-fsl.xml|
 January 24, 2023|LE.UM.5.3.1.r1-14900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-14900-genericarmv8-64.0.xml|
 January 23, 2023|LE.UM.6.2.3.r1-05900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-05900-SDX65.0.xml|
 January 23, 2023|LE.UM.4.2.1.c25-02100-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-02100-QCS404.0.xml|

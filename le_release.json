@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.1.c11-04200-sa515m": {
+  "Date": "January 25, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c11-04200-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c11-04200-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c13-03100-eap-fsl": {
+  "Date": "January 25, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c13-03100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c13-03100-eap-fsl.xml"
+ },
  "LE.UM.5.3.1.r1-14900-genericarmv8-64.0": {
   "Date": "January 24, 2023",
   "Tag / Build ID": "LE.UM.5.3.1.r1-14900-genericarmv8-64.0",
