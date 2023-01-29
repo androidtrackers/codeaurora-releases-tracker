@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.4.r1-01600-sa8155_gvmq.0": {
+  "Date": "January 29, 2023",
+  "Tag / Build ID": "LA.AU.1.4.4.r1-01600-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.4.r1-01600-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.9.11.c25-01100-NICOBAR.QSSI12c25.0": {
   "Date": "January 28, 2023",
   "Tag / Build ID": "LA.UM.9.11.c25-01100-NICOBAR.QSSI12c25.0",
