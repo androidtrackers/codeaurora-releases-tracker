@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 30, 2023|LA.UM.9.12.1.r1-04900-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-04900-SMxx50.QSSI12.0.xml|11.00.00|
+January 30, 2023|KERNEL.PLATFORM.1.0.r2-05200-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-05200-ANORAK.0.xml||
 January 29, 2023|LA.UM.9.16.r1-12800-MANNAR.QSSI13.0|holi|LA.UM.9.16.r1-12800-MANNAR.QSSI13.0.xml|11.00.00|
 January 29, 2023|LA.UM.8.8.1.r3-00600-QCS605.0|qcs605|LA.UM.8.8.1.r3-00600-QCS605.0.xml|10.00.00|
 January 29, 2023|LA.AU.1.4.4.r1-01600-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.4.4.r1-01600-sa8155_gvmq.0.xml|10.00.00|
