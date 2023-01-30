@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+January 30, 2023|LA.AU.1.3.1.r2-03400-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-03400-sa8155.0.xml|10.00.00|
 January 30, 2023|KERNEL.PLATFORM.1.0.r2-05100-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-05100-NEOLA.0.xml||
 January 30, 2023|LA.UM.9.12.1.r1-04900-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-04900-SMxx50.QSSI12.0.xml|11.00.00|
 January 30, 2023|KERNEL.PLATFORM.1.0.r2-05200-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-05200-ANORAK.0.xml||
