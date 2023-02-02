@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 01, 2023|LA.UM.8.15.c25-04700-KAMORTA.0|bengal|LA.UM.8.15.c25-04700-KAMORTA.0.xml|10.00.00|
 February 01, 2023|KERNEL.PLATFORM.1.0.r3-01300-kernel.0|parrot|KERNEL.PLATFORM.1.0.r3-01300-kernel.0.xml||
 February 01, 2023|LA.VENDOR.1.0.r2-01700-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r2-01700-WAIPIO.QSSI13.0.xml|13.00.00|
 February 01, 2023|CAMERA.LA.2.0.r2-00900-WAIPIO.0|camera|CAMERA.LA.2.0.r2-00900-WAIPIO.0.xml|00.00.00|

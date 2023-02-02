@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.15.c25-04700-KAMORTA.0": {
+  "Date": "February 01, 2023",
+  "Tag / Build ID": "LA.UM.8.15.c25-04700-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.8.15.c25-04700-KAMORTA.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r3-01300-kernel.0": {
   "Date": "February 01, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r3-01300-kernel.0",
