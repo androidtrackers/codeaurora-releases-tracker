@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 01, 2023|LA.UM.8.15.c25-04700-KAMORTA.0|bengal|LA.UM.8.15.c25-04700-KAMORTA.0.xml|10.00.00|
 February 03, 2023|LA.UM.7.6.2.c26-05800-89xx.0|msm8953_64|LA.UM.7.6.2.c26-05800-89xx.0.xml|09.00.00|
 February 03, 2023|LA.UM.8.6.2.c30-03900-89xx.0|msm8937_64|LA.UM.8.6.2.c30-03900-89xx.0.xml|10.00.00|
 February 03, 2023|LA.AU.1.4.6.r1-01100-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.4.6.r1-01100-sa8155_gvmq.0.xml|10.00.00|
@@ -10,7 +11,6 @@ February 02, 2023|LA.AU.1.3.1.r2-03600-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-0360
 February 02, 2023|LA.QSSI.12.0.r1-10300-qssi.0|qssi|LA.QSSI.12.0.r1-10300-qssi.0.xml|12.00.00|
 February 02, 2023|LA.QSSI.11.0.r1-18100-qssi.0|qssi|LA.QSSI.11.0.r1-18100-qssi.0.xml|11.00.00|
 February 02, 2023|LA.UM.9.12.c10-51700-SAIPAN.QSSI14.0|lito|LA.UM.9.12.c10-51700-SAIPAN.QSSI14.0.xml|11.00.00|
-February 01, 2023|LA.UM.8.15.c25-04700-KAMORTA.0|bengal|LA.UM.8.15.c25-04700-KAMORTA.0.xml|10.00.00|
 February 01, 2023|KERNEL.PLATFORM.1.0.r3-01300-kernel.0|parrot|KERNEL.PLATFORM.1.0.r3-01300-kernel.0.xml||
 February 01, 2023|LA.VENDOR.1.0.r2-01700-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r2-01700-WAIPIO.QSSI13.0.xml|13.00.00|
 February 01, 2023|CAMERA.LA.2.0.r2-00900-WAIPIO.0|camera|CAMERA.LA.2.0.r2-00900-WAIPIO.0.xml|00.00.00|
