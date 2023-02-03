@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.2.1.c25-05700-sdm660.0": {
+  "Date": "February 02, 2023",
+  "Tag / Build ID": "LA.UM.8.2.1.c25-05700-sdm660.0",
+  "Chipset": "sdm660_64",
+  "Manifest": "LA.UM.8.2.1.c25-05700-sdm660.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.AU.1.3.1.r2-03600-sa8155.0": {
+  "Date": "February 02, 2023",
+  "Tag / Build ID": "LA.AU.1.3.1.r2-03600-sa8155.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.3.1.r2-03600-sa8155.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.QSSI.12.0.r1-10300-qssi.0": {
   "Date": "February 02, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.r1-10300-qssi.0",
