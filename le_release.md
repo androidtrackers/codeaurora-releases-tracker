@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 03, 2023|LE.UM.1.3.r6-08600-8x17|apq8017-qsap|LE.UM.1.3.r6-08600-8x17.xml|
 February 01, 2023|LR.AU.0.1.1.r1-09300-gen4meta.0|sa8540|LR.AU.0.1.1.r1-09300-gen4meta.0.xml|
 February 01, 2023|LE.UM.3.4.2.r1-03000-9x07|mdm9607-poky|LE.UM.3.4.2.r1-03000-9x07.xml|
 January 31, 2023|LE.UM.4.1.1.1-11100-sa515m|sa515m|LE.UM.4.1.1.1-11100-sa515m.xml|
