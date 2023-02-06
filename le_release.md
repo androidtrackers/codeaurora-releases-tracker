@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 06, 2023|LE.UM.3.2.3.c13.1-00800-SA2150p|sa2150p-nand|LE.UM.3.2.3.c13.1-00800-SA2150p.xml|
 February 06, 2023|LE.AU_EAP.1.0.c12.1-00900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12.1-00900-eap-fsl.xml|
 February 05, 2023|LE.UM.5.2.2.r1-08100-SXR2130.0|sxr2130-mtp-xreality-xr-perf|LE.UM.5.2.2.r1-08100-SXR2130.0.xml|
 February 05, 2023|LE.UM.3.2.1.c6.1-00800-sa415m|sa415m|LE.UM.3.2.1.c6.1-00800-sa415m.xml|
