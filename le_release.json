@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.3.r1-09600-SDX12.INT": {
+  "Date": "February 07, 2023",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-09600-SDX12.INT",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-09600-SDX12.INT.xml"
+ },
  "LE.UM.3.2.3.c13.1-00800-SA2150p": {
   "Date": "February 06, 2023",
   "Tag / Build ID": "LE.UM.3.2.3.c13.1-00800-SA2150p",
