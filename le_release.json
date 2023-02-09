@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.1.c14-04200-sa515m": {
+  "Date": "February 08, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c14-04200-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c14-04200-sa515m.xml"
+ },
+ "LE.UM.4.4.2.r1-09500-SDX55": {
+  "Date": "February 08, 2023",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-09500-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-09500-SDX55.xml"
+ },
  "LE.UM.5.2.3.r1-09600-SDX12": {
   "Date": "February 08, 2023",
   "Tag / Build ID": "LE.UM.5.2.3.r1-09600-SDX12",
