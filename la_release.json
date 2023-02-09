@@ -1,4 +1,11 @@
 {
+ "LA.BR.1.2.9.c26-04400-8x09.0": {
+  "Date": "February 09, 2023",
+  "Tag / Build ID": "LA.BR.1.2.9.c26-04400-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.BR.1.2.9.c26-04400-8x09.0.xml",
+  "Android Version": "07.01.02"
+ },
  "KERNEL.PLATFORM.1.0.r1-13900-kernel.0": {
   "Date": "February 09, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-13900-kernel.0",

@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 09, 2023|LA.BR.1.2.9.c26-04400-8x09.0|msm8909|LA.BR.1.2.9.c26-04400-8x09.0.xml|07.01.02|
 February 09, 2023|KERNEL.PLATFORM.1.0.r1-13900-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-13900-kernel.0.xml||
 February 09, 2023|CAMERA.LA.2.0.r1-09300-WAIPIO.0|camera|CAMERA.LA.2.0.r1-09300-WAIPIO.0.xml|00.00.00|
 February 09, 2023|VIDEO.LA.2.0.r1-07700-WAIPIO.0|video|VIDEO.LA.2.0.r1-07700-WAIPIO.0.xml|00.00.00|
