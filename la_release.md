@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 13, 2023|LA.UM.8.8.1.r1-09200-QCS605.0|qcs605|LA.UM.8.8.1.r1-09200-QCS605.0.xml|10.00.00|
 February 13, 2023|LA.UM.9.1.1.r1-03400-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-03400-RENNELL.QSSI12.0.xml|11.00.00|
 February 10, 2023|LA.UM.8.2.r2-06800-sdm660.0|sdm660_64|LA.UM.8.2.r2-06800-sdm660.0.xml|10.00.00|
 February 09, 2023|LA.VENDOR.1.0.r1-20300-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-20300-WAIPIO.QSSI13.0.xml|11.00.00|
