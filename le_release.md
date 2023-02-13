@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 13, 2023|LE.LNXHOSTSW.1.0-05800-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-05800-LNXHOSTSW.0.xml|
 February 12, 2023|LV.AU.0.3.1.r1-01100-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.1.r1-01100-qtiquingvm.0.xml|
 February 10, 2023|LE.UM.6.2.3.r1-06200-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-06200-SDX65.0.xml|
 February 09, 2023|LE.UM.3.2.3.c17-03500-SA2150p|SA2150p|LE.UM.3.2.3.c17-03500-SA2150p.xml|
