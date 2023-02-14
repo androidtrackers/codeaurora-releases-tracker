@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.4.r1-02600-gen3meta.0": {
+  "Date": "February 14, 2023",
+  "Tag / Build ID": "LA.AU.1.3.4.r1-02600-gen3meta.0",
+  "Chipset": "sm6150_au",
+  "Manifest": "LA.AU.1.3.4.r1-02600-gen3meta.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-05600-WAIPIOLE.0": {
   "Date": "February 14, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-05600-WAIPIOLE.0",
