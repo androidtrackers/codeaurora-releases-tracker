@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 15, 2023|LA.UM.8.12.4.r1-07200-QCS8250.0|kona|LA.UM.8.12.4.r1-07200-QCS8250.0.xml|10.00.00|
+February 15, 2023|LA.UM.9.1.c11-48700-SMxxx0.QSSI13.0|msmnile|LA.UM.9.1.c11-48700-SMxxx0.QSSI13.0.xml|11.00.00|
 February 14, 2023|LA.AU.1.3.4.r1-02600-gen3meta.0|sm6150_au|LA.AU.1.3.4.r1-02600-gen3meta.0.xml|10.00.00|
 February 14, 2023|KERNEL.PLATFORM.1.0.r2-05600-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-05600-WAIPIOLE.0.xml||
 February 14, 2023|KERNEL.PLATFORM.1.0.r2-05600-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-05600-NEO.0.xml||
