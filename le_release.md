@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 16, 2023|LE.UM.6.4.2-11400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-11400-QRB5165.0.xml|
 February 14, 2023|LE.UM.6.3.4-28000-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-28000-qcs405.0.xml|
 February 14, 2023|LE.UM.1.1-06100-9x07|mdm9607-poky|LE.UM.1.1-06100-9x07.xml|
 February 13, 2023|LE.LNXHOSTSW.1.0-05800-LNXHOSTSW.0|lnxhostsw|LE.LNXHOSTSW.1.0-05800-LNXHOSTSW.0.xml|
