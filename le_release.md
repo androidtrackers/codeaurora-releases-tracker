@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 16, 2023|LR.AU.0.1.1.r1-11500-gen4meta.0|sa8775|LR.AU.0.1.1.r1-11500-gen4meta.0.xml|
 February 16, 2023|LE.UM.6.4.2-11400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-11400-QRB5165.0.xml|
 February 14, 2023|LE.UM.6.3.4-28000-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-28000-qcs405.0.xml|
 February 14, 2023|LE.UM.1.1-06100-9x07|mdm9607-poky|LE.UM.1.1-06100-9x07.xml|
