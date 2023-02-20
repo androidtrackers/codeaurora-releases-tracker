@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c12.1-01100-eap-fsl": {
+  "Date": "February 20, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c12.1-01100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c12.1-01100-eap-fsl.xml"
+ },
  "LV.AU.0.2.2.r1-08900-qtiquingvm.0": {
   "Date": "February 17, 2023",
   "Tag / Build ID": "LV.AU.0.2.2.r1-08900-qtiquingvm.0",
