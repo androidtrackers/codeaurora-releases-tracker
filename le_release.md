@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 20, 2023|LE.UM.4.4.1.r2-17300-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17300-QRB5165.0.xml|
 February 20, 2023|LE.UM.3.2.1.c6.1-00900-sa415m|sa415m|LE.UM.3.2.1.c6.1-00900-sa415m.xml|
 February 20, 2023|LE.AU_EAP.1.0.c12.1-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12.1-01100-eap-fsl.xml|
 February 17, 2023|LV.AU.0.2.2.r1-08900-qtiquingvm.0|quin-gvm-4gb|LV.AU.0.2.2.r1-08900-qtiquingvm.0.xml|
