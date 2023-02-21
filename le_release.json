@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.4.2-12300-QRB5165.0": {
+  "Date": "February 21, 2023",
+  "Tag / Build ID": "LE.UM.6.4.2-12300-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.6.4.2-12300-QRB5165.0.xml"
+ },
  "LE.UM.4.4.1.r2-17300-QRB5165.0": {
   "Date": "February 20, 2023",
   "Tag / Build ID": "LE.UM.4.4.1.r2-17300-QRB5165.0",
