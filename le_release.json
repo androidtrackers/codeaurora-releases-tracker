@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.3.0.r1-09300-gen3meta.0": {
+  "Date": "February 23, 2023",
+  "Tag / Build ID": "LV.AU.0.3.0.r1-09300-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.0.3.0.r1-09300-gen3meta.0.xml"
+ },
+ "LU.UM.3.5.1.r1-00100-QCS6490.0": {
+  "Date": "February 23, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-00100-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-00100-QCS6490.0.xml"
+ },
  "LU.UM.1.2.1.r1-46300-QRB5165.0": {
   "Date": "February 23, 2023",
   "Tag / Build ID": "LU.UM.1.2.1.r1-46300-QRB5165.0",

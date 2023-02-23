@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.c25-01600-MANNAR.0": {
+  "Date": "February 23, 2023",
+  "Tag / Build ID": "LA.UM.9.16.c25-01600-MANNAR.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.c25-01600-MANNAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "DISPLAY.LA.2.0.r1-10000-WAIPIO.0": {
   "Date": "February 23, 2023",
   "Tag / Build ID": "DISPLAY.LA.2.0.r1-10000-WAIPIO.0",
