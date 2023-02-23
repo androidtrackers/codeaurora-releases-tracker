@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r1-14200-kernel.0": {
+  "Date": "February 23, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-14200-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-14200-kernel.0.xml",
+  "Android Version": ""
+ },
  "CAMERA.LA.2.0.r1-09500-WAIPIO.0": {
   "Date": "February 22, 2023",
   "Tag / Build ID": "CAMERA.LA.2.0.r1-09500-WAIPIO.0",
