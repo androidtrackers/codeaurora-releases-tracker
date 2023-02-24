@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.16.r1-12900-MANNAR.QSSI13.0": {
+  "Date": "February 24, 2023",
+  "Tag / Build ID": "LA.UM.9.16.r1-12900-MANNAR.QSSI13.0",
+  "Chipset": "holi",
+  "Manifest": "LA.UM.9.16.r1-12900-MANNAR.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.VENDOR.1.0.r1-20500-WAIPIO.QSSI13.0": {
   "Date": "February 23, 2023",
   "Tag / Build ID": "LA.VENDOR.1.0.r1-20500-WAIPIO.QSSI13.0",
