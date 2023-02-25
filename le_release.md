@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 25, 2023|LE.UM.7.1.3.r1-02100-sa515m|sa515m-tete-tele-perf|LE.UM.7.1.3.r1-02100-sa515m.xml|
+February 25, 2023|LE.UM.3.2.3.1.r1-00500-SA2150p|sa2150p|LE.UM.3.2.3.1.r1-00500-SA2150p.xml|
 February 24, 2023|LE.UM.6.4.2-13200-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-13200-QRB5165.0.xml|
 February 24, 2023|LV.AU.0.3.0.r1-09600-gen3meta.0|sa81x5lxc|LV.AU.0.3.0.r1-09600-gen3meta.0.xml|
 February 24, 2023|LE.UM.3.2.1.c1-69500-sa415m|sa415m|LE.UM.3.2.1.c1-69500-sa415m.xml|
