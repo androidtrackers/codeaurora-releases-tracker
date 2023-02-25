@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.4.2-13200-QRB5165.0": {
+  "Date": "February 24, 2023",
+  "Tag / Build ID": "LE.UM.6.4.2-13200-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.6.4.2-13200-QRB5165.0.xml"
+ },
+ "LV.AU.0.3.0.r1-09600-gen3meta.0": {
+  "Date": "February 24, 2023",
+  "Tag / Build ID": "LV.AU.0.3.0.r1-09600-gen3meta.0",
+  "Chipset": "sa81x5lxc",
+  "Manifest": "LV.AU.0.3.0.r1-09600-gen3meta.0.xml"
+ },
  "LE.UM.3.2.1.c1-69500-sa415m": {
   "Date": "February 24, 2023",
   "Tag / Build ID": "LE.UM.3.2.1.c1-69500-sa415m",
