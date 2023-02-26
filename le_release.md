@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 25, 2023|LE.AU_EAP.1.0.1.r1-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.1.r1-00400-eap-fsl.xml|
 February 25, 2023|LE.UM.7.1.3.r1-02100-sa515m|sa515m-tete-tele-perf|LE.UM.7.1.3.r1-02100-sa515m.xml|
 February 25, 2023|LE.UM.3.2.3.1.r1-00500-SA2150p|sa2150p|LE.UM.3.2.3.1.r1-00500-SA2150p.xml|
 February 24, 2023|LE.UM.6.4.2-13200-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-13200-QRB5165.0.xml|
