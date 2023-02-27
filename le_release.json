@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.1.1.c16-01100-sa515m": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c16-01100-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c16-01100-sa515m.xml"
+ },
+ "LE.AU_EAP.1.0.c16-01100-eap-fsl": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c16-01100-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c16-01100-eap-fsl.xml"
+ },
  "LE.AU_EAP.1.0.c1-71400-eap-fsl": {
   "Date": "February 27, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-71400-eap-fsl",
