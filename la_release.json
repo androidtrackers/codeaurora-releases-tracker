@@ -1,4 +1,25 @@
 {
+ "LA.QSSI.11.0.c27-00800-qssi.0": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.c27-00800-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.c27-00800-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r2-05800-NEOLA.0": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-05800-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-05800-NEOLA.0.xml",
+  "Android Version": ""
+ },
+ "KERNEL.PLATFORM.1.0.r2-05900-ANORAK.0": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-05900-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-05900-ANORAK.0.xml",
+  "Android Version": ""
+ },
  "LAW.BR.5.1.r1-14200-89xx.0": {
   "Date": "February 27, 2023",
   "Tag / Build ID": "LAW.BR.5.1.r1-14200-89xx.0",

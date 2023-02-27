@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+February 27, 2023|LA.QSSI.11.0.c27-00800-qssi.0|qssi|LA.QSSI.11.0.c27-00800-qssi.0.xml|11.00.00|
+February 27, 2023|KERNEL.PLATFORM.1.0.r2-05800-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-05800-NEOLA.0.xml||
+February 27, 2023|KERNEL.PLATFORM.1.0.r2-05900-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-05900-ANORAK.0.xml||
 February 27, 2023|LAW.BR.5.1.r1-14200-89xx.0|sdm429w_law|LAW.BR.5.1.r1-14200-89xx.0.xml|11.00.00|
 February 27, 2023|LA.UM.9.14.1.r1-08600-QCM6490.QSSI13.0|lahaina|LA.UM.9.14.1.r1-08600-QCM6490.QSSI13.0.xml|11.00.00|
 February 26, 2023|LA.UM.9.6.4.r1-04400-89xx.QSSI13.0|msm8937_lily|LA.UM.9.6.4.r1-04400-89xx.QSSI13.0.xml|11.00.00|
