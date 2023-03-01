@@ -1,4 +1,10 @@
 {
+ "LE.UM.7.4.1.r1-03300-sa525m-tele": {
+  "Date": "March 01, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.r1-03300-sa525m-tele",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.7.4.1.r1-03300-sa525m-tele.xml"
+ },
  "LE.UM.6.3.6.r1-05400-SDX65.0": {
   "Date": "February 27, 2023",
   "Tag / Build ID": "LE.UM.6.3.6.r1-05400-SDX65.0",
