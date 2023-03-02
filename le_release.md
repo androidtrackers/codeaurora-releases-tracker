@@ -1,12 +1,12 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+February 27, 2023|LE.AU_EAP.1.0.c1-71400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-71400-eap-fsl.xml|
 March 01, 2023|LE.UM.3.2.1.c6-02400-sa415m|sa415m|LE.UM.3.2.1.c6-02400-sa415m.xml|
 March 01, 2023|LE.AU_EAP.1.0.c12-02400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c12-02400-eap-fsl.xml|
 March 01, 2023|LE.UM.7.4.1.r1-03300-sa525m-tele|sa515m|LE.UM.7.4.1.r1-03300-sa525m-tele.xml|
 February 27, 2023|LE.UM.6.3.6.r1-05400-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-05400-SDX65.0.xml|
 February 27, 2023|LE.UM.4.1.1.c16-01100-sa515m|sa515m|LE.UM.4.1.1.c16-01100-sa515m.xml|
 February 27, 2023|LE.AU_EAP.1.0.c16-01100-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-01100-eap-fsl.xml|
-February 27, 2023|LE.AU_EAP.1.0.c1-71400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-71400-eap-fsl.xml|
 February 27, 2023|LE.UM.3.2.3.c1-74700-SA2150p|sa2150p|LE.UM.3.2.3.c1-74700-SA2150p.xml|
 February 26, 2023|LU.UM.3.5.1.r1-00700-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-00700-QCS6490.0.xml|
 February 25, 2023|LE.AU_EAP.1.0.1.r1-00400-eap-fsl|eap-imx|LE.AU_EAP.1.0.1.r1-00400-eap-fsl.xml|

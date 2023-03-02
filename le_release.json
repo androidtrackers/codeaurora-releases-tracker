@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c1-71400-eap-fsl": {
+  "Date": "February 27, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c1-71400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c1-71400-eap-fsl.xml"
+ },
  "LE.UM.3.2.1.c6-02400-sa415m": {
   "Date": "March 01, 2023",
   "Tag / Build ID": "LE.UM.3.2.1.c6-02400-sa415m",
@@ -34,12 +40,6 @@
   "Tag / Build ID": "LE.AU_EAP.1.0.c16-01100-eap-fsl",
   "Chipset": "eap-imx",
   "Manifest": "LE.AU_EAP.1.0.c16-01100-eap-fsl.xml"
- },
- "LE.AU_EAP.1.0.c1-71400-eap-fsl": {
-  "Date": "February 27, 2023",
-  "Tag / Build ID": "LE.AU_EAP.1.0.c1-71400-eap-fsl",
-  "Chipset": "eap-imx",
-  "Manifest": "LE.AU_EAP.1.0.c1-71400-eap-fsl.xml"
  },
  "LE.UM.3.2.3.c1-74700-SA2150p": {
   "Date": "February 27, 2023",
