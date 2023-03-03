@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.0.r1-10100-gen3meta.0": {
+  "Date": "March 03, 2023",
+  "Tag / Build ID": "LV.AU.0.3.0.r1-10100-gen3meta.0",
+  "Chipset": "sa81x5lxc",
+  "Manifest": "LV.AU.0.3.0.r1-10100-gen3meta.0.xml"
+ },
  "LE.AU_EAP.1.0.c1-71400-eap-fsl": {
   "Date": "February 27, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-71400-eap-fsl",
