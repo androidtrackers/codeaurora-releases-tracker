@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 04, 2023|LV.AU.0.2.1.r6-07500-qtiquingvm8295.0|quin-gvm-gen4-2|LV.AU.0.2.1.r6-07500-qtiquingvm8295.0.xml|
 March 03, 2023|LV.AU.1.2.4.r1-03700-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-03700-gen3meta.0.xml|
 March 03, 2023|LE.UM.3.2.3.c22-02100-SA2150p|sa2150p-emmc|LE.UM.3.2.3.c22-02100-SA2150p.xml|
 March 03, 2023|LE.UM.4.1.1.c19-02700-sa515m|sa515m|LE.UM.4.1.1.c19-02700-sa515m.xml|
