@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.3.c20-01900-SA2150p": {
+  "Date": "March 05, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.c20-01900-SA2150p",
+  "Chipset": "sa2150p-nand",
+  "Manifest": "LE.UM.3.2.3.c20-01900-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0.c17-00900-eap-fsl": {
+  "Date": "March 05, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c17-00900-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c17-00900-eap-fsl.xml"
+ },
  "LV.AU.0.2.1.r6-07500-qtiquingvm8295.0": {
   "Date": "March 04, 2023",
   "Tag / Build ID": "LV.AU.0.2.1.r6-07500-qtiquingvm8295.0",
