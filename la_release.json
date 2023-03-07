@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.3.7-02000-gen3_gvmgh.0": {
+  "Date": "March 07, 2023",
+  "Tag / Build ID": "LA.AU.1.3.7-02000-gen3_gvmgh.0",
+  "Chipset": "msmnile_gvmgh",
+  "Manifest": "LA.AU.1.3.7-02000-gen3_gvmgh.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.7.2.c25-07700-sdm660.0": {
   "Date": "March 07, 2023",
   "Tag / Build ID": "LA.UM.7.2.c25-07700-sdm660.0",
