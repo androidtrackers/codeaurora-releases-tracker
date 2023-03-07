@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 07, 2023|LA.UM.7.2.c25-07700-sdm660.0|sdm660_64|LA.UM.7.2.c25-07700-sdm660.0.xml|09.00.00|
+March 07, 2023|CAMERA.LA.2.0.r2-01500-WAIPIO.0|camera|CAMERA.LA.2.0.r2-01500-WAIPIO.0.xml|00.00.00|
+March 07, 2023|LA.UM.9.15.2.r1-06600-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.2.r1-06600-KAMORTA.QSSI12.0.xml|11.00.00|
+March 07, 2023|VIDEO.LA.2.0.r2-00700-WAIPIO.0|video|VIDEO.LA.2.0.r2-00700-WAIPIO.0.xml|00.00.00|
 March 07, 2023|LA.UM.9.2.c25-02400-SDMxx0.0|sdm660_64|LA.UM.9.2.c25-02400-SDMxx0.0.xml|11.00.00|
 March 07, 2023|LA.UM.8.15.c25-05100-KAMORTA.0|bengal|LA.UM.8.15.c25-05100-KAMORTA.0.xml|10.00.00|
 March 06, 2023|LA.AU.1.3.3.r2-02000-gen3meta.0|msmnile_au|LA.AU.1.3.3.r2-02000-gen3meta.0.xml|10.00.00|
