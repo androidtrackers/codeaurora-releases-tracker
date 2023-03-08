@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0.c1-14900-89xx.0": {
+  "Date": "March 07, 2023",
+  "Tag / Build ID": "LAW.BR.4.0.c1-14900-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-14900-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "KERNEL.PLATFORM.1.0.r3-01900-kernel.0": {
   "Date": "March 07, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r3-01900-kernel.0",
