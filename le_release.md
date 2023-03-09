@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 09, 2023|LE.UM.5.4.1.r1-23900-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-23900-QRB2210.0.xml|
+March 09, 2023|LE.UM.3.2.3.c20-02000-SA2150p|sa2150p|LE.UM.3.2.3.c20-02000-SA2150p.xml|
+March 09, 2023|LE.UM.1.3.r9-05100-9x50|mdm9650-poky|LE.UM.1.3.r9-05100-9x50.xml|
 March 08, 2023|LE.UM.4.1.1.1-14400-sa515m|sa515m-nad|LE.UM.4.1.1.1-14400-sa515m.xml|
 March 07, 2023|LE.UM.4.4.2.r1-09700-SDX55|sdxprairie|LE.UM.4.4.2.r1-09700-SDX55.xml|
 March 07, 2023|LE.UM.4.1.1.c17-00800-sa515m|sa515m|LE.UM.4.1.1.c17-00800-sa515m.xml|
