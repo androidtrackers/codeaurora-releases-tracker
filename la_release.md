@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 08, 2023|LA.UM.9.15.r1-07300-KAMORTA.QSSI13.0|bengal|LA.UM.9.15.r1-07300-KAMORTA.QSSI13.0.xml|11.00.00|
 March 08, 2023|LA.UM.9.15.2.r1-06600-KAMORTA.QSSI13.0|bengal|LA.UM.9.15.2.r1-06600-KAMORTA.QSSI13.0.xml|11.00.00|
 March 07, 2023|LAW.BR.4.0.c1-14900-89xx.0|msm8937_32go|LAW.BR.4.0.c1-14900-89xx.0.xml|08.01.00|
 March 07, 2023|KERNEL.PLATFORM.1.0.r3-01900-kernel.0|parrot|KERNEL.PLATFORM.1.0.r3-01900-kernel.0.xml||
