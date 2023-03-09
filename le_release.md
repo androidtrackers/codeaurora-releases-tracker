@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 08, 2023|LE.UM.4.1.1.1-14400-sa515m|sa515m-nad|LE.UM.4.1.1.1-14400-sa515m.xml|
 March 07, 2023|LE.UM.4.4.2.r1-09700-SDX55|sdxprairie|LE.UM.4.4.2.r1-09700-SDX55.xml|
 March 07, 2023|LE.UM.4.1.1.c17-00800-sa515m|sa515m|LE.UM.4.1.1.c17-00800-sa515m.xml|
 March 07, 2023|LE.AU_EAP.1.0.c1-72300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-72300-eap-fsl.xml|
