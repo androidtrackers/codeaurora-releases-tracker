@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 10, 2023|LA.UM.8.4.c25-07800-8x98.0|msm8998|LA.UM.8.4.c25-07800-8x98.0.xml|10.00.00|
 March 10, 2023|LA.UM.5.7.c25-11600-8x98.0|msm8998|LA.UM.5.7.c25-11600-8x98.0.xml|07.01.01|
 March 09, 2023|LA.VENDOR.1.0.r2-02500-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r2-02500-WAIPIO.QSSI13.0.xml|13.00.00|
 March 09, 2023|KERNEL.PLATFORM.1.0.r3-02000-kernel.0|parrot|KERNEL.PLATFORM.1.0.r3-02000-kernel.0.xml||
