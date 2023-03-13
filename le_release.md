@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 13, 2023|LE.UM.6.2.3.r1-06300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.2.3.r1-06300-SDX65.0.xml|
 March 09, 2023|LV.AU.0.2.2.r1-09200-qtiquingvm.0|quin-gvm-4gb|LV.AU.0.2.2.r1-09200-qtiquingvm.0.xml|
 March 09, 2023|LE.UM.4.3.1.r1-06800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06800-genericarmv8-64.0.xml|
 March 09, 2023|LE.UM.5.4.1.r1-23900-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-23900-QRB2210.0.xml|
