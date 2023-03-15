@@ -1,4 +1,16 @@
 {
+ "LE.UM.5.3.1.r1-15800-genericarmv8-64.0": {
+  "Date": "March 15, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-15800-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-15800-genericarmv8-64.0.xml"
+ },
+ "LE.AU_EAP.1.0.1-08500-eap-fsl": {
+  "Date": "March 15, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.1-08500-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.1-08500-eap-fsl.xml"
+ },
  "LR.AU.0.1.1.r1-12500-gen4meta.0": {
   "Date": "March 14, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r1-12500-gen4meta.0",

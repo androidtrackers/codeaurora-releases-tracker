@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 15, 2023|LA.UM.10.2.1.c25-01200-sdm660.0|sdm660_64|LA.UM.10.2.1.c25-01200-sdm660.0.xml|12.00.00|
 March 15, 2023|LA.UM.10.9.1.r1-04600-QCS610.0|qcs610|LA.UM.10.9.1.r1-04600-QCS610.0.xml|12.00.00|
 March 15, 2023|KERNEL.PLATFORM.1.0.r1-14400-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-14400-kernel.0.xml||
 March 15, 2023|DISPLAY.LA.2.0.r1-10100-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-10100-WAIPIO.0.xml|00.00.00|
