@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 15, 2023|VIDEO.LA.2.0.r1-07900-WAIPIO.0|video|VIDEO.LA.2.0.r1-07900-WAIPIO.0.xml|00.00.00|
 March 14, 2023|LA.UM.8.3.c25-07800-sdm845.0|sdm845|LA.UM.8.3.c25-07800-sdm845.0.xml|10.00.00|
 March 14, 2023|LA.QSSI.13.0.r1-09400-qssi.0|qssi|LA.QSSI.13.0.r1-09400-qssi.0.xml|11.00.00|
 March 14, 2023|LA.QSSI.12.0.r1-10700-qssi.0|qssi|LA.QSSI.12.0.r1-10700-qssi.0.xml|12.00.00|
