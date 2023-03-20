@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 20, 2023|LA.UM.9.14.r1-21300-LAHAINA.QSSI12.0|lahaina|LA.UM.9.14.r1-21300-LAHAINA.QSSI12.0.xml|11.00.00|
 March 17, 2023|LA.VENDOR.1.0.r1-20700-WAIPIO.0|taro|LA.VENDOR.1.0.r1-20700-WAIPIO.0.xml|11.00.00|
 March 17, 2023|KERNEL.PLATFORM.2.0.r5-06100-kernel.0|gen3auto_lxc|KERNEL.PLATFORM.2.0.r5-06100-kernel.0.xml||
 March 16, 2023|LA.UM.8.12.c3-64900-sm8250.0|kona|LA.UM.8.12.c3-64900-sm8250.0.xml|10.00.00|
