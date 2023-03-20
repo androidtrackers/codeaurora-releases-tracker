@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 20, 2023|LE.UM.1.3.r9-05200-9x50|mdm9650-poky|LE.UM.1.3.r9-05200-9x50.xml|
 March 15, 2023|LE.UM.4.3.1.r1-06900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06900-genericarmv8-64.0.xml|
 March 15, 2023|LE.UM.3.2.3.1-13100-SA2150p|sa2150p-emmc|LE.UM.3.2.3.1-13100-SA2150p.xml|
 March 15, 2023|LE.UM.5.3.1.r1-15800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-15800-genericarmv8-64.0.xml|
