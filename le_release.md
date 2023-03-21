@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 20, 2023|LE.UM.2.3.2-14600-SDX24|sdxpoorwills|LE.UM.2.3.2-14600-SDX24.xml|
 March 20, 2023|LV.AU.0.3.1.r2-02200-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-02200-gen4meta.0.xml|
 March 20, 2023|LE.UM.1.3.r9-05200-9x50|mdm9650-poky|LE.UM.1.3.r9-05200-9x50.xml|
 March 15, 2023|LE.UM.4.3.1.r1-06900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-06900-genericarmv8-64.0.xml|

@@ -1,4 +1,10 @@
 {
+ "LE.UM.2.3.2-14600-SDX24": {
+  "Date": "March 20, 2023",
+  "Tag / Build ID": "LE.UM.2.3.2-14600-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-14600-SDX24.xml"
+ },
  "LV.AU.0.3.1.r2-02200-gen4meta.0": {
   "Date": "March 20, 2023",
   "Tag / Build ID": "LV.AU.0.3.1.r2-02200-gen4meta.0",
