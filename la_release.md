@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 21, 2023|LA.AU.1.3.1.r2-03900-sa8155.0|msmnile_gvmq|LA.AU.1.3.1.r2-03900-sa8155.0.xml|10.00.00|
 March 20, 2023|LA.AU.1.4.5.r1-01900-gen3meta.0|msmnile_au|LA.AU.1.4.5.r1-01900-gen3meta.0.xml|10.00.00|
 March 20, 2023|LA.UM.9.14.r1-21300-LAHAINA.QSSI12.0|lahaina|LA.UM.9.14.r1-21300-LAHAINA.QSSI12.0.xml|11.00.00|
 March 17, 2023|LA.VENDOR.1.0.r1-20700-WAIPIO.0|taro|LA.VENDOR.1.0.r1-20700-WAIPIO.0.xml|11.00.00|
