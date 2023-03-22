@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.3.4-30800-qcs405.0": {
+  "Date": "March 21, 2023",
+  "Tag / Build ID": "LE.UM.6.3.4-30800-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-30800-qcs405.0.xml"
+ },
+ "LE.UM.6.3.5.r1-01800-QCS610.0": {
+  "Date": "March 21, 2023",
+  "Tag / Build ID": "LE.UM.6.3.5.r1-01800-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-debug",
+  "Manifest": "LE.UM.6.3.5.r1-01800-QCS610.0.xml"
+ },
  "LE.UM.2.3.2-14600-SDX24": {
   "Date": "March 20, 2023",
   "Tag / Build ID": "LE.UM.2.3.2-14600-SDX24",
