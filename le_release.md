@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 23, 2023|LV.AU.0.3.0.r1-11000-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-11000-gen3meta.0.xml|
 March 22, 2023|LU.UM.3.5.1.r1-00800-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-00800-QCS6490.0.xml|
 March 21, 2023|LE.UM.6.3.4-30800-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-30800-qcs405.0.xml|
 March 21, 2023|LE.UM.6.3.5.r1-01800-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-01800-QCS610.0.xml|
