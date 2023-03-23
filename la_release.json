@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.1.r1-08800-QCM6490.QSSI12.0": {
+  "Date": "March 22, 2023",
+  "Tag / Build ID": "LA.UM.9.14.1.r1-08800-QCM6490.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.r1-08800-QCM6490.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.2.0.r5-06200-kernel.0": {
   "Date": "March 21, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.2.0.r5-06200-kernel.0",
