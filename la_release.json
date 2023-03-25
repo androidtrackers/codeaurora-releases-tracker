@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.7.c26-09300-8x09.0": {
+  "Date": "March 25, 2023",
+  "Tag / Build ID": "LA.UM.7.7.c26-09300-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.7.7.c26-09300-8x09.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.HB.1.1.5-18510-8x96.0": {
   "Date": "March 24, 2023",
   "Tag / Build ID": "LA.HB.1.1.5-18510-8x96.0",
