@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 27, 2023|LA.UM.9.12.c10-55300-SAIPAN.QSSI14.0|lito|LA.UM.9.12.c10-55300-SAIPAN.QSSI14.0.xml|11.00.00|
 March 27, 2023|LA.QSSI.11.0.r1-18400.01-qssi.0|qssi|LA.QSSI.11.0.r1-18400.01-qssi.0.xml|11.00.00|
 March 27, 2023|LA.VENDOR.13.2.1.r1-06400-DIVAR.0|bengal_515|LA.VENDOR.13.2.1.r1-06400-DIVAR.0.xml|11.00.00|
 March 27, 2023|LA.UM.9.14.1.r1-08800-QCM6490.QSSI13.0|lahaina|LA.UM.9.14.1.r1-08800-QCM6490.QSSI13.0.xml|11.00.00|

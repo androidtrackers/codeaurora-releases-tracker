@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.c11-04700-sa515m": {
+  "Date": "March 27, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c11-04700-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c11-04700-sa515m.xml"
+ },
  "LE.AU_EAP.1.0.c13-03500-eap-fsl": {
   "Date": "March 27, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c13-03500-eap-fsl",
