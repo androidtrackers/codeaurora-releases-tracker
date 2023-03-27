@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 27, 2023|LA.UM.9.14.1.r1-08800-QCM6490.QSSI13.0|lahaina|LA.UM.9.14.1.r1-08800-QCM6490.QSSI13.0.xml|11.00.00|
+March 27, 2023|KERNEL.PLATFORM.2.0.r5-06400-kernel.0|gen3auto_lxc|KERNEL.PLATFORM.2.0.r5-06400-kernel.0.xml||
 March 26, 2023|KERNEL.PLATFORM.2.0.r1-09100-kernel.0|bengal|KERNEL.PLATFORM.2.0.r1-09100-kernel.0.xml||
 March 26, 2023|LA.AU.1.4.8.r2-00400-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.4.8.r2-00400-sa8155_gvmq.0.xml|10.00.00|
 March 25, 2023|LA.UM.7.7.c26-09300-8x09.0|msm8909|LA.UM.7.7.c26-09300-8x09.0.xml|09.00.00|
