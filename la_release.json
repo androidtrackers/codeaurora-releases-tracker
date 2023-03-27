@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-06600-ANORAK.0": {
+  "Date": "March 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-06600-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-06600-ANORAK.0.xml",
+  "Android Version": ""
+ },
  "LA.QSSI.12.0.r1-10700.03-qssi.0": {
   "Date": "March 27, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.r1-10700.03-qssi.0",
