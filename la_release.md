@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 28, 2023|LA.VENDOR.1.0.r1-20900-WAIPIO.0|parrot|LA.VENDOR.1.0.r1-20900-WAIPIO.0.xml|11.00.00|
 March 28, 2023|KERNEL.PLATFORM.1.0.r1-14700-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-14700-kernel.0.xml||
 March 28, 2023|KERNEL.PLATFORM.1.0.r2-06700-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-06700-NEOLA.0.xml||
 March 28, 2023|CAMERA.LA.2.0.r1-09800-WAIPIO.0|camera|CAMERA.LA.2.0.r1-09800-WAIPIO.0.xml|00.00.00|
