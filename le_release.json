@@ -1,4 +1,10 @@
 {
+ "LE.OW_HP.1.0-03100-9x50": {
+  "Date": "March 28, 2023",
+  "Tag / Build ID": "LE.OW_HP.1.0-03100-9x50",
+  "Chipset": "mdm9650-2k",
+  "Manifest": "LE.OW_HP.1.0-03100-9x50.xml"
+ },
  "LE.UM.5.3.1.r1-16100-genericarmv8-64.0": {
   "Date": "March 28, 2023",
   "Tag / Build ID": "LE.UM.5.3.1.r1-16100-genericarmv8-64.0",
