@@ -1,4 +1,25 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-06700-ANORAK.0": {
+  "Date": "March 29, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-06700-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-06700-ANORAK.0.xml",
+  "Android Version": ""
+ },
+ "LA.UM.9.11.c25-01700-NICOBAR.QSSI12c25.0": {
+  "Date": "March 29, 2023",
+  "Tag / Build ID": "LA.UM.9.11.c25-01700-NICOBAR.QSSI12c25.0",
+  "Chipset": "trinket",
+  "Manifest": "LA.UM.9.11.c25-01700-NICOBAR.QSSI12c25.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "LA.QSSI.11.0.c30-00800-qssi.0": {
+  "Date": "March 29, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.c30-00800-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.c30-00800-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.VENDOR.1.0.r1-20900-WAIPIO.QSSI14.0": {
   "Date": "March 28, 2023",
   "Tag / Build ID": "LA.VENDOR.1.0.r1-20900-WAIPIO.QSSI14.0",

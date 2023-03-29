@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 29, 2023|LE.UM.6.2.2.r1-02700-sa410m-tele|sa410m-nand-tele-tele-debug|LE.UM.6.2.2.r1-02700-sa410m-tele.xml|
 March 28, 2023|LV.AU.0.3.0.r1-12000-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-12000-gen3meta.0.xml|
 March 28, 2023|LE.OW_HP.1.0-03100-9x50|mdm9650-2k|LE.OW_HP.1.0-03100-9x50.xml|
 March 28, 2023|LE.UM.5.3.1.r1-16100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16100-genericarmv8-64.0.xml|
