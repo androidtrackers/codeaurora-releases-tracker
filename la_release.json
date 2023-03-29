@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.13.0.r1-09400.02-qssi.0": {
+  "Date": "March 29, 2023",
+  "Tag / Build ID": "LA.QSSI.13.0.r1-09400.02-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.13.0.r1-09400.02-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.15.c25-01300-KAMORTA.0": {
+  "Date": "March 29, 2023",
+  "Tag / Build ID": "LA.UM.9.15.c25-01300-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.c25-01300-KAMORTA.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-06700-ANORAK.0": {
   "Date": "March 29, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-06700-ANORAK.0",
