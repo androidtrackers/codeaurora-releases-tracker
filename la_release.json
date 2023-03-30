@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-06600-WAIPIOLE.0": {
+  "Date": "March 30, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-06600-WAIPIOLE.0",
+  "Chipset": "waipio_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-06600-WAIPIOLE.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.12.1.r1-05500-SMxx50.QSSI12.0": {
   "Date": "March 30, 2023",
   "Tag / Build ID": "LA.UM.9.12.1.r1-05500-SMxx50.QSSI12.0",
