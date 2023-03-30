@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+March 30, 2023|LV.AU.0.3.1-08700-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.3.1-08700-qtiquingvm.0.xml|
 March 30, 2023|LV.AU.0.3.1-08700-qtiquingvm.1|quin-gvm-lemans|LV.AU.0.3.1-08700-qtiquingvm.1.xml|
 March 29, 2023|LE.UM.7.4.1.r1-03900-sa525m-tele|sa525|LE.UM.7.4.1.r1-03900-sa525m-tele.xml|
 March 29, 2023|LE.UM.6.2.2.r1-02700-sa410m-tele|sa410m-nand-tele-tele-debug|LE.UM.6.2.2.r1-02700-sa410m-tele.xml|
