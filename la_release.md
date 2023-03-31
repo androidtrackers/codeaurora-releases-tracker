@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+March 31, 2023|LA.QSSI.13.0.r1-09400.04-qssi.0|qssi|LA.QSSI.13.0.r1-09400.04-qssi.0.xml|11.00.00|
 March 30, 2023|KERNEL.PLATFORM.1.0.r2-06600-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-06600-WAIPIOLE.0.xml||
 March 30, 2023|LA.UM.9.12.1.r1-05500-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-05500-SMxx50.QSSI12.0.xml|11.00.00|
 March 29, 2023|LA.UM.9.12.r1-15300-SMxx50.QSSI12.0|kona|LA.UM.9.12.r1-15300-SMxx50.QSSI12.0.xml|11.00.00|
