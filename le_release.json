@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.2.1.c25-02600-QCS404.0": {
+  "Date": "April 01, 2023",
+  "Tag / Build ID": "LE.UM.4.2.1.c25-02600-QCS404.0",
+  "Chipset": "qcs404-rb1-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.4.2.1.c25-02600-QCS404.0.xml"
+ },
  "LE.UM.7.4.1.r1-04200-sa525m-tele": {
   "Date": "March 30, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.r1-04200-sa525m-tele",
