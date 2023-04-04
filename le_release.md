@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 04, 2023|LE.UM.1.3.c25-05400-8x53|apq8053-32|LE.UM.1.3.c25-05400-8x53.xml|
 April 03, 2023|LV.AU.0.3.0.r1-12700-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-12700-gen3meta.0.xml|
 April 03, 2023|LE.UM.6.2.4.r1-13600-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.6.2.4.r1-13600-QCS610.0.xml|
 April 03, 2023|LE.UM.6.3.6.r1-06300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-06300-SDX65.0.xml|
