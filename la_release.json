@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.2.0.r11-01700-kernel.0": {
+  "Date": "April 03, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.0.r11-01700-kernel.0",
+  "Chipset": "kalama_le",
+  "Manifest": "KERNEL.PLATFORM.2.0.r11-01700-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.AU.1.4.8.r1-00200-sa8155_gvmq.0": {
   "Date": "April 03, 2023",
   "Tag / Build ID": "LA.AU.1.4.8.r1-00200-sa8155_gvmq.0",
