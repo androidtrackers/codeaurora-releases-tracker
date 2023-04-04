@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 04, 2023|LA.UM.8.6.2.c29-03500-89xx.0|msm8953_64|LA.UM.8.6.2.c29-03500-89xx.0.xml|10.00.00|
 April 04, 2023|KERNEL.PLATFORM.2.0.r5-06500-kernel.0|gen3auto_lxc|KERNEL.PLATFORM.2.0.r5-06500-kernel.0.xml||
 April 04, 2023|LA.UM.8.6.2.c27-05300-89xx.0|msm8953_64|LA.UM.8.6.2.c27-05300-89xx.0.xml|10.00.00|
 April 04, 2023|LA.UM.8.2.r2-06900-sdm660.0|sdm660_64|LA.UM.8.2.r2-06900-sdm660.0.xml|10.00.00|
