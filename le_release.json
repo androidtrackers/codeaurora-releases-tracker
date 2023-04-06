@@ -1,4 +1,10 @@
 {
+ "LE.OW_HP.1.0-03300-9x50": {
+  "Date": "April 05, 2023",
+  "Tag / Build ID": "LE.OW_HP.1.0-03300-9x50",
+  "Chipset": "mdm9650-2k",
+  "Manifest": "LE.OW_HP.1.0-03300-9x50.xml"
+ },
  "LV.AU.0.3.0.r1-12900-gen3meta.0": {
   "Date": "April 05, 2023",
   "Tag / Build ID": "LV.AU.0.3.0.r1-12900-gen3meta.0",
