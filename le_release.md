@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 06, 2023|LE.UM.6.2.4.r1-13700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.6.2.4.r1-13700-QCS610.0.xml|
 April 05, 2023|LE.OW_HP.1.0-03300-9x50|mdm9650-2k|LE.OW_HP.1.0-03300-9x50.xml|
 April 05, 2023|LV.AU.0.3.0.r1-12900-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-12900-gen3meta.0.xml|
 April 04, 2023|LV.AU.0.3.2.r1-02500-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-02500-qtiquingvm.0.xml|
