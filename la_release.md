@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 09, 2023|LA.QSSI.11.0.r1-18500.01-qssi.0|qssi|LA.QSSI.11.0.r1-18500.01-qssi.0.xml|11.00.00|
 April 08, 2023|KERNEL.PLATFORM.2.0.r5-06900-kernel.0|gen3auto_lxc|KERNEL.PLATFORM.2.0.r5-06900-kernel.0.xml||
 April 07, 2023|LA.UM.9.15.2.r1-07000-KAMORTA.QSSI12.0|bengal|LA.UM.9.15.2.r1-07000-KAMORTA.QSSI12.0.xml|11.00.00|
 April 06, 2023|LAW.BR.4.0.c1-15800-89xx.0|msm8937_32go|LAW.BR.4.0.c1-15800-89xx.0.xml|08.01.00|
