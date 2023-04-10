@@ -1,4 +1,10 @@
 {
+ "LE.UM.1.3.c25-05600-8x53": {
+  "Date": "April 10, 2023",
+  "Tag / Build ID": "LE.UM.1.3.c25-05600-8x53",
+  "Chipset": "apq8053-32",
+  "Manifest": "LE.UM.1.3.c25-05600-8x53.xml"
+ },
  "LE.UM.4.4.1.r3-18200-QRB5165.0": {
   "Date": "April 09, 2023",
   "Tag / Build ID": "LE.UM.4.4.1.r3-18200-QRB5165.0",
