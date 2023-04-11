@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 11, 2023|LV.AU.0.3.0.r1-13200-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-13200-gen3meta.0.xml|
 April 11, 2023|LNX.LE.5.3.2.2-88256-9x40|mdm9640|LNX.LE.5.3.2.2-88256-9x40.xml|
 April 10, 2023|LE.UM.5.3.1.r2-01600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-01600-genericarmv8-64.0.xml|
 April 10, 2023|LE.UM.1.3.c25-05600-8x53|apq8053-32|LE.UM.1.3.c25-05600-8x53.xml|

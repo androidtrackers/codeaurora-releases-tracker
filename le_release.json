@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.0.r1-13200-gen3meta.0": {
+  "Date": "April 11, 2023",
+  "Tag / Build ID": "LV.AU.0.3.0.r1-13200-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.0.3.0.r1-13200-gen3meta.0.xml"
+ },
  "LNX.LE.5.3.2.2-88256-9x40": {
   "Date": "April 11, 2023",
   "Tag / Build ID": "LNX.LE.5.3.2.2-88256-9x40",
