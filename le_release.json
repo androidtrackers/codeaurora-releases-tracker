@@ -1,4 +1,10 @@
 {
+ "LU.UM.2.4.1.r1-12100-QRB5165.0": {
+  "Date": "April 12, 2023",
+  "Tag / Build ID": "LU.UM.2.4.1.r1-12100-QRB5165.0",
+  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.2.4.1.r1-12100-QRB5165.0.xml"
+ },
  "LE.AU_EAP.1.0.1.c1-01100-eap-fsl": {
   "Date": "April 12, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.1.c1-01100-eap-fsl",
