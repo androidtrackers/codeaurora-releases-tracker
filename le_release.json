@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-16300-genericarmv8-64.0": {
+  "Date": "April 13, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-16300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-16300-genericarmv8-64.0.xml"
+ },
  "LE.AU_EAP.1.0.c18-01400-eap-fsl": {
   "Date": "April 13, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c18-01400-eap-fsl",

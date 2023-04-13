@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 13, 2023|KERNEL.PLATFORM.1.0.r1-14900-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-14900-kernel.0.xml||
+April 13, 2023|CAMERA.LA.2.0.r1-09900-WAIPIO.0|camera|CAMERA.LA.2.0.r1-09900-WAIPIO.0.xml|00.00.00|
 April 13, 2023|VIDEO.LA.2.0.r1-08100-WAIPIO.0|video|VIDEO.LA.2.0.r1-08100-WAIPIO.0.xml|00.00.00|
 April 13, 2023|DISPLAY.LA.2.0.r1-10300-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-10300-WAIPIO.0.xml|00.00.00|
 April 13, 2023|LA.UM.11.2.1.r1-03400-sdm660.0|sdm660_64|LA.UM.11.2.1.r1-03400-sdm660.0.xml|13.00.00|
