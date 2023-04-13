@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c18-01400-eap-fsl": {
+  "Date": "April 13, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c18-01400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c18-01400-eap-fsl.xml"
+ },
  "BTHOST_AU.LA.6.0.r23.1-00200-QCAAUTOHOSTHZ": {
   "Date": "April 13, 2023",
   "Tag / Build ID": "BTHOST_AU.LA.6.0.r23.1-00200-QCAAUTOHOSTHZ",
