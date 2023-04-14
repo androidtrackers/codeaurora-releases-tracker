@@ -1,4 +1,11 @@
 {
+ "LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0": {
+  "Date": "April 13, 2023",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0",
+  "Chipset": "parrot",
+  "Manifest": "LA.VENDOR.1.0.r1-21200-WAIPIO.QSSI13.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r1-14900-kernel.0": {
   "Date": "April 13, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-14900-kernel.0",
