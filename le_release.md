@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 16, 2023|LE.UM.1.3.r11-03600-9x50|mdm9650-poky|LE.UM.1.3.r11-03600-9x50.xml|
 April 15, 2023|LE.UM.4.4.1.r3-18400-QRB5165.0|qrb5165-rb5-pine-robotics-rb-debug|LE.UM.4.4.1.r3-18400-QRB5165.0.xml|
 April 13, 2023|LV.AU.0.3.1.r1-01700-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.3.1.r1-01700-qtiquingvm.0.xml|
 April 13, 2023|LE.UM.5.3.1.r1-16300-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16300-genericarmv8-64.0.xml|
