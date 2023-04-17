@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 17, 2023|LE.UM.1.3.c25-05900-8x53|apq8053-32|LE.UM.1.3.c25-05900-8x53.xml|
+April 16, 2023|LE.UM.3.2.3.c21-02200-SA2150p|sa2150p|LE.UM.3.2.3.c21-02200-SA2150p.xml|
+April 16, 2023|BTHOST_AU.LA.6.0.r23.1-00300-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.6.0.r23.1-00300-QCAAUTOHOSTHZ.xml|
 April 16, 2023|LE.UM.4.2.3.c25-01300-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-01300-QCS610.0.xml|
 April 16, 2023|LE.UM.4.1.1.c18-01900-sa515m|sa515m|LE.UM.4.1.1.c18-01900-sa515m.xml|
 April 16, 2023|LE.UM.1.3.r11-03600-9x50|mdm9650-poky|LE.UM.1.3.r11-03600-9x50.xml|
