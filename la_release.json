@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.12.0.r1-11000-qssi.0": {
+  "Date": "April 18, 2023",
+  "Tag / Build ID": "LA.QSSI.12.0.r1-11000-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.r1-11000-qssi.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "LA.UM.9.12.c10-56500-SAIPAN.QSSI14.0": {
+  "Date": "April 18, 2023",
+  "Tag / Build ID": "LA.UM.9.12.c10-56500-SAIPAN.QSSI14.0",
+  "Chipset": "lito",
+  "Manifest": "LA.UM.9.12.c10-56500-SAIPAN.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.1.c27-00900-KAMORTA.0": {
   "Date": "April 18, 2023",
   "Tag / Build ID": "LA.UM.9.15.1.c27-00900-KAMORTA.0",
