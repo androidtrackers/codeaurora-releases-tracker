@@ -1,4 +1,16 @@
 {
+ "BTHOST_AU.LA.6.0.r23.1-00500-QCAAUTOHOSTHZ": {
+  "Date": "April 18, 2023",
+  "Tag / Build ID": "BTHOST_AU.LA.6.0.r23.1-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.6.0.r23.1-00500-QCAAUTOHOSTHZ.xml"
+ },
+ "BTHOST_AU.LA.6.1.r23.1-00500-QCAAUTOHOSTHZ": {
+  "Date": "April 18, 2023",
+  "Tag / Build ID": "BTHOST_AU.LA.6.1.r23.1-00500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "BTHOST_AU.LA.6.1.r23.1-00500-QCAAUTOHOSTHZ.xml"
+ },
  "LE.UM.1.3.c25-06000-8x53": {
   "Date": "April 17, 2023",
   "Tag / Build ID": "LE.UM.1.3.c25-06000-8x53",
