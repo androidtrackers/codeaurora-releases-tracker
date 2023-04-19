@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.13.0.r1-09800-qssi.0": {
+  "Date": "April 19, 2023",
+  "Tag / Build ID": "LA.QSSI.13.0.r1-09800-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.13.0.r1-09800-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.4.3.c1-02200-gen3meta.0": {
   "Date": "April 19, 2023",
   "Tag / Build ID": "LA.AU.1.4.3.c1-02200-gen3meta.0",
