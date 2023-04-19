@@ -1,4 +1,16 @@
 {
+ "LE.UM.4.4.1.r2-17500-QRB5165.0": {
+  "Date": "April 19, 2023",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-17500-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.4.4.1.r2-17500-QRB5165.0.xml"
+ },
+ "LE.UM.2.3.6-53900-9x07": {
+  "Date": "April 19, 2023",
+  "Tag / Build ID": "LE.UM.2.3.6-53900-9x07",
+  "Chipset": "mdm9607-poky",
+  "Manifest": "LE.UM.2.3.6-53900-9x07.xml"
+ },
  "LE.AU_EAP.1.0.c1-74000-eap-fsl": {
   "Date": "April 18, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-74000-eap-fsl",

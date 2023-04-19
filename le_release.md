@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 19, 2023|LE.UM.4.4.1.r2-17500-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17500-QRB5165.0.xml|
+April 19, 2023|LE.UM.2.3.6-53900-9x07|mdm9607-poky|LE.UM.2.3.6-53900-9x07.xml|
 April 18, 2023|LE.AU_EAP.1.0.c1-74000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-74000-eap-fsl.xml|
 April 18, 2023|LE.UM.1.3.r11-04000-9x50|mdm9650-poky|LE.UM.1.3.r11-04000-9x50.xml|
 April 18, 2023|BTHOST_AU.LA.6.0.r23.1-00500-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.6.0.r23.1-00500-QCAAUTOHOSTHZ.xml|
