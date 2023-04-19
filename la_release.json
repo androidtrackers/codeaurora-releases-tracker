@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.2.0.r5-07000-kernel.0": {
+  "Date": "April 19, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.0.r5-07000-kernel.0",
+  "Chipset": "gen3auto_lxc",
+  "Manifest": "KERNEL.PLATFORM.2.0.r5-07000-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.QSSI.13.0.r1-09800-qssi.0": {
   "Date": "April 19, 2023",
   "Tag / Build ID": "LA.QSSI.13.0.r1-09800-qssi.0",
