@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 20, 2023|LE.UM.4.2.3.c25-01500-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-01500-QCS610.0.xml|
 April 20, 2023|LE.UM.2.3.6.c2-13500-9x07|mdm9607-poky|LE.UM.2.3.6.c2-13500-9x07.xml|
 April 20, 2023|LE.UM.2.3.6.c1-31800-9x07|mdm9607-poky|LE.UM.2.3.6.c1-31800-9x07.xml|
 April 19, 2023|LE.UM.1.3.c25-06100-8x53|apq8053-32|LE.UM.1.3.c25-06100-8x53.xml|
