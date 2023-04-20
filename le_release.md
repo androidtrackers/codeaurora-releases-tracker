@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 19, 2023|LE.UM.1.3.c25-06100-8x53|apq8053-32|LE.UM.1.3.c25-06100-8x53.xml|
 April 19, 2023|LV.AU.0.3.0.r1-13800-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-13800-gen3meta.0.xml|
 April 19, 2023|LE.UM.4.4.1.r2-17500-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17500-QRB5165.0.xml|
 April 19, 2023|LE.UM.2.3.6-53900-9x07|mdm9607-poky|LE.UM.2.3.6-53900-9x07.xml|
