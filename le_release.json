@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.3.c1-77800-SA2150p": {
+  "Date": "April 24, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.c1-77800-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c1-77800-SA2150p.xml"
+ },
+ "LE.UM.4.2.3.c25-02300-QCS610.0": {
+  "Date": "April 24, 2023",
+  "Tag / Build ID": "LE.UM.4.2.3.c25-02300-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.c25-02300-QCS610.0.xml"
+ },
  "LE.UM.3.2.1.c1-72800-sa415m": {
   "Date": "April 24, 2023",
   "Tag / Build ID": "LE.UM.3.2.1.c1-72800-sa415m",

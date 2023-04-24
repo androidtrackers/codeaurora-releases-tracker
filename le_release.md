@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 24, 2023|LE.UM.3.2.3.c1-77800-SA2150p|sa2150p|LE.UM.3.2.3.c1-77800-SA2150p.xml|
+April 24, 2023|LE.UM.4.2.3.c25-02300-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-02300-QCS610.0.xml|
 April 24, 2023|LE.UM.3.2.1.c1-72800-sa415m|sa415m|LE.UM.3.2.1.c1-72800-sa415m.xml|
 April 22, 2023|LR.AU.0.1.1.r2-00600-gen4meta.0|sa8775|LR.AU.0.1.1.r2-00600-gen4meta.0.xml|
 April 20, 2023|LV.AU.0.3.0.r1-13900-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-13900-gen3meta.0.xml|
