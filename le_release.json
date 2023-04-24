@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.1.c1-72800-sa415m": {
+  "Date": "April 24, 2023",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-72800-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-72800-sa415m.xml"
+ },
  "LR.AU.0.1.1.r2-00600-gen4meta.0": {
   "Date": "April 22, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-00600-gen4meta.0",
