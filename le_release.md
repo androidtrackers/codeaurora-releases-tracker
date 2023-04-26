@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 25, 2023|LE.AU_EAP.1.0.c10-47300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c10-47300-eap-fsl.xml|
+April 25, 2023|LU.UM.3.5.1.r1-01400-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-01400-QCS6490.0.xml|
 April 25, 2023|LE.UM.4.1.1.c14-05100-sa515m|sa515m|LE.UM.4.1.1.c14-05100-sa515m.xml|
 April 25, 2023|LE.UM.3.2.3.c17-04300-SA2150p|sa2150p-nand|LE.UM.3.2.3.c17-04300-SA2150p.xml|
 April 25, 2023|LE.UM.4.1.1.c19-03300-sa515m|sa515m|LE.UM.4.1.1.c19-03300-sa515m.xml|
