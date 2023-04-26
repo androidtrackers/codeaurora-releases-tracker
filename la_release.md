@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+April 26, 2023|LA.QSSI.12.0.r1-11000.02-qssi.0|qssi|LA.QSSI.12.0.r1-11000.02-qssi.0.xml|12.00.00|
 April 26, 2023|KERNEL.PLATFORM.2.0.r1-10100-kernel.0|bengal|KERNEL.PLATFORM.2.0.r1-10100-kernel.0.xml||
 April 26, 2023|KERNEL.PLATFORM.1.0.R2.00.00.00.005|an|KERNEL.PLATFORM.1.0.R2.00.00.00.005.xml||
 April 26, 2023|LA.UM.9.12.r1-15400-SMxx50.QSSI13.0|kona|LA.UM.9.12.r1-15400-SMxx50.QSSI13.0.xml|11.00.00|
