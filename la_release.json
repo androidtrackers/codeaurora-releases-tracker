@@ -1,4 +1,18 @@
 {
+ "KERNEL.PLATFORM.1.0.r1-15000-kernel.0": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-15000-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r1-15000-kernel.0.xml",
+  "Android Version": ""
+ },
+ "DISPLAY.LA.2.0.r1-10600-WAIPIO.0": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-10600-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-10600-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "CAMERA.LA.2.0.r1-10100-WAIPIO.0": {
   "Date": "April 27, 2023",
   "Tag / Build ID": "CAMERA.LA.2.0.r1-10100-WAIPIO.0",
