@@ -1,4 +1,28 @@
 {
+ "LE.UM.7.4.1.r1-05100-sa525m-tele": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.r1-05100-sa525m-tele",
+  "Chipset": "sa525",
+  "Manifest": "LE.UM.7.4.1.r1-05100-sa525m-tele.xml"
+ },
+ "LE.UM.4.1.1.c11-05100-sa515m": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c11-05100-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c11-05100-sa515m.xml"
+ },
+ "LE.UM.4.2.3.c25-02400-QCS610.0": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.4.2.3.c25-02400-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-perf",
+  "Manifest": "LE.UM.4.2.3.c25-02400-QCS610.0.xml"
+ },
+ "LE.AU_EAP.1.0.c13-03900-eap-fsl": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c13-03900-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c13-03900-eap-fsl.xml"
+ },
  "LE.UM.4.4.2.r1-09800-SDX55": {
   "Date": "April 27, 2023",
   "Tag / Build ID": "LE.UM.4.4.2.r1-09800-SDX55",
