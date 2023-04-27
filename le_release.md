@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 26, 2023|LE.UM.3.2.3.c17-04600-SA2150p|sa2150p|LE.UM.3.2.3.c17-04600-SA2150p.xml|
 April 26, 2023|CHSS.LNX_FSL.5.1.r1-01000-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1.r1-01000-QCAAUTOHOSTHZ.xml|
 April 26, 2023|LR.AU.0.1.1.r2-01200-gen4meta.0|sa8775|LR.AU.0.1.1.r2-01200-gen4meta.0.xml|
 April 26, 2023|LE.UM.6.3.6.r1-06500-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-06500-SDX65.0.xml|
