@@ -1,4 +1,22 @@
 {
+ "LE.UM.4.4.2.r1-09800-SDX55": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-09800-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-09800-SDX55.xml"
+ },
+ "LE.UM.5.2.3.r1-09700-SDX12": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.5.2.3.r1-09700-SDX12",
+  "Chipset": "sdxnightjar",
+  "Manifest": "LE.UM.5.2.3.r1-09700-SDX12.xml"
+ },
+ "LE.UM.5.3.1.r1-16400-genericarmv8-64.0": {
+  "Date": "April 27, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-16400-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-16400-genericarmv8-64.0.xml"
+ },
  "LE.UM.4.1.1.c14-05500-sa515m": {
   "Date": "April 27, 2023",
   "Tag / Build ID": "LE.UM.4.1.1.c14-05500-sa515m",

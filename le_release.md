@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 27, 2023|LE.UM.4.4.2.r1-09800-SDX55|sdxprairie|LE.UM.4.4.2.r1-09800-SDX55.xml|
+April 27, 2023|LE.UM.5.2.3.r1-09700-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09700-SDX12.xml|
+April 27, 2023|LE.UM.5.3.1.r1-16400-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16400-genericarmv8-64.0.xml|
 April 27, 2023|LE.UM.4.1.1.c14-05500-sa515m|sa515m|LE.UM.4.1.1.c14-05500-sa515m.xml|
 April 27, 2023|LE.UM.3.2.3.1-15200-SA2150p|sa2150p-emmc|LE.UM.3.2.3.1-15200-SA2150p.xml|
 April 27, 2023|LE.UM.4.1.1.1-18200-sa515m|sa515m|LE.UM.4.1.1.1-18200-sa515m.xml|
