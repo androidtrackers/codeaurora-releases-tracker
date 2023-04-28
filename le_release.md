@@ -1,5 +1,10 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 27, 2023|LE.UM.4.1.1.c18-02000-sa515m|sa515m|LE.UM.4.1.1.c18-02000-sa515m.xml|
+April 27, 2023|LE.UM.3.2.3.c21-02300-SA2150p|sa2150p|LE.UM.3.2.3.c21-02300-SA2150p.xml|
+April 27, 2023|LE.AU_EAP.1.0.c18-01700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-01700-eap-fsl.xml|
+April 27, 2023|LE.UM.6.4.2-15400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-15400-QRB5165.0.xml|
+April 27, 2023|LE.UM.4.2.1.c25-03600-QCS404.0|qcs404-rb1-robotics-fullstack-noselinux-debug|LE.UM.4.2.1.c25-03600-QCS404.0.xml|
 April 27, 2023|LE.UM.7.4.1.r1-05100-sa525m-tele|sa525|LE.UM.7.4.1.r1-05100-sa525m-tele.xml|
 April 27, 2023|LE.UM.4.1.1.c11-05100-sa515m|sa515m|LE.UM.4.1.1.c11-05100-sa515m.xml|
 April 27, 2023|LE.UM.4.2.3.c25-02400-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-02400-QCS610.0.xml|
