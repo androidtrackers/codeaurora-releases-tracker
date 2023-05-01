@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+April 30, 2023|LE.UM.4.2.3.c25-02600-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-02600-QCS610.0.xml|
 April 27, 2023|LE.UM.4.1.1.c18-02000-sa515m|sa515m|LE.UM.4.1.1.c18-02000-sa515m.xml|
 April 27, 2023|LE.UM.3.2.3.c21-02300-SA2150p|sa2150p|LE.UM.3.2.3.c21-02300-SA2150p.xml|
 April 27, 2023|LE.AU_EAP.1.0.c18-01700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-01700-eap-fsl.xml|
