@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-07400-NEO.0": {
+  "Date": "May 04, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-07400-NEO.0",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-07400-NEO.0.xml",
+  "Android Version": ""
+ },
  "LA.QSSI.12.0.r1-11100-qssi.0": {
   "Date": "May 04, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.r1-11100-qssi.0",
