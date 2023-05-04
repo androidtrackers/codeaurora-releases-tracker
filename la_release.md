@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 04, 2023|LA.QSSI.13.0.r1-09900-qssi.0|qssi|LA.QSSI.13.0.r1-09900-qssi.0.xml|11.00.00|
 May 04, 2023|KERNEL.PLATFORM.1.0.r2-07400-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-07400-NEO.0.xml||
 May 04, 2023|LA.QSSI.12.0.r1-11100-qssi.0|qssi|LA.QSSI.12.0.r1-11100-qssi.0.xml|12.00.00|
 May 04, 2023|LA.UM.7.2.c27-03900-sdm660.0|sdm660_64|LA.UM.7.2.c27-03900-sdm660.0.xml|09.00.00|
