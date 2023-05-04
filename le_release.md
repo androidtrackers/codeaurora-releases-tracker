@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 04, 2023|LNX.LE.5.3-34200-9x40|LNX.LE.5.3|LNX.LE.5.3-34200-9x40.xml|
 May 03, 2023|LE.UM.2.3.6.c2-14100-9x07|mdm9607-poky|LE.UM.2.3.6.c2-14100-9x07.xml|
 May 01, 2023|LE.UM.5.2.3.r1-09800-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09800-SDX12.xml|
 April 30, 2023|LE.UM.4.2.3.c25-02600-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-02600-QCS610.0.xml|
