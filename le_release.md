@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 05, 2023|LV.AU.0.3.1.r1-02100-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.3.1.r1-02100-qtiquingvm.0.xml|
 May 05, 2023|LE.UM.1.1-06900-9x07|mdm9607-poky|LE.UM.1.1-06900-9x07.xml|
 May 04, 2023|LE.AU_EAP.1.0.c9-20600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-20600-eap-fsl.xml|
 May 04, 2023|LNX.LE.5.3-34200-9x40|LNX.LE.5.3|LNX.LE.5.3-34200-9x40.xml|
