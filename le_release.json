@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.4.2-15800-QRB5165.0": {
+  "Date": "May 08, 2023",
+  "Tag / Build ID": "LE.UM.6.4.2-15800-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.6.4.2-15800-QRB5165.0.xml"
+ },
+ "LU.UM.3.5.1.r1-02700-QCS6490.0": {
+  "Date": "May 08, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-02700-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-02700-QCS6490.0.xml"
+ },
  "LNX.LE.5.3-34400-9x40": {
   "Date": "May 07, 2023",
   "Tag / Build ID": "LNX.LE.5.3-34400-9x40",
