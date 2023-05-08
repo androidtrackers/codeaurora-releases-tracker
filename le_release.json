@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3-34400-9x40": {
+  "Date": "May 07, 2023",
+  "Tag / Build ID": "LNX.LE.5.3-34400-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3-34400-9x40.xml"
+ },
  "LV.AU.0.3.1.r1-02100-qtiquingvm.0": {
   "Date": "May 05, 2023",
   "Tag / Build ID": "LV.AU.0.3.1.r1-02100-qtiquingvm.0",
