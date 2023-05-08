@@ -1,4 +1,16 @@
 {
+ "LE.AU_FSL.1.0-26200-eap-imx-cv2x": {
+  "Date": "May 08, 2023",
+  "Tag / Build ID": "LE.AU_FSL.1.0-26200-eap-imx-cv2x",
+  "Chipset": "eap-imx-cv2x",
+  "Manifest": "LE.AU_FSL.1.0-26200-eap-imx-cv2x.xml"
+ },
+ "LE.AU_FSL.1.0-26100-eap-imx-cv2x": {
+  "Date": "May 08, 2023",
+  "Tag / Build ID": "LE.AU_FSL.1.0-26100-eap-imx-cv2x",
+  "Chipset": "eap-imx-cv2x",
+  "Manifest": "LE.AU_FSL.1.0-26100-eap-imx-cv2x.xml"
+ },
  "LE.UM.6.4.2-15800-QRB5165.0": {
   "Date": "May 08, 2023",
   "Tag / Build ID": "LE.UM.6.4.2-15800-QRB5165.0",
