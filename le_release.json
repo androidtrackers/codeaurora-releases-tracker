@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.3.c7-13900-SA2150p": {
+  "Date": "May 09, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.c7-13900-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c7-13900-SA2150p.xml"
+ },
  "LE.AU_EAP.1.0.c9-20800-eap-fsl": {
   "Date": "May 08, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c9-20800-eap-fsl",
