@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 08, 2023|LE.AU_EAP.1.0.c9-20800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-20800-eap-fsl.xml|
+May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
 May 08, 2023|LE.UM.4.1.1.c18-02200-sa515m|sa515m|LE.UM.4.1.1.c18-02200-sa515m.xml|
 May 08, 2023|LE.UM.3.2.3.c21-02600-SA2150p|sa2150p|LE.UM.3.2.3.c21-02600-SA2150p.xml|
 May 08, 2023|LE.AU_FSL.1.0-26200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-26200-eap-imx-cv2x.xml|
