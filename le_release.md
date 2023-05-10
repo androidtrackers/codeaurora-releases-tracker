@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 09, 2023|LV.AU.1.2.5.r1-01200-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-01200-qtiquingvm.0.xml|
 May 09, 2023|LE.UM.3.2.3.c7-13900-SA2150p|sa2150p|LE.UM.3.2.3.c7-13900-SA2150p.xml|
 May 08, 2023|LE.AU_EAP.1.0.c9-20800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-20800-eap-fsl.xml|
 May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
