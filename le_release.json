@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.2.r1-05700-qtiquingvm.0": {
+  "Date": "May 11, 2023",
+  "Tag / Build ID": "LV.AU.0.3.2.r1-05700-qtiquingvm.0",
+  "Chipset": "quin-gvm-gen4-2",
+  "Manifest": "LV.AU.0.3.2.r1-05700-qtiquingvm.0.xml"
+ },
  "LE.UM.4.1.1.c14-05800-sa515m": {
   "Date": "May 11, 2023",
   "Tag / Build ID": "LE.UM.4.1.1.c14-05800-sa515m",
