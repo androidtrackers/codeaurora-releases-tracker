@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 13, 2023|LE.UM.5.2.3.r1-09900-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09900-SDX12.xml|
 May 12, 2023|LE.UM.2.3.6.c1-32100-9x07|mdm9607-poky|LE.UM.2.3.6.c1-32100-9x07.xml|
 May 11, 2023|LU.UM.3.5.1.r1-03200-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-03200-QCS6490.0.xml|
 May 11, 2023|LV.AU.0.3.2.r1-05700-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-05700-qtiquingvm.0.xml|
