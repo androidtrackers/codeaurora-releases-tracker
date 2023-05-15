@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 15, 2023|LE.UM.1.3.2.r1-13600-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-13600-9150-cv2x.xml|
 May 13, 2023|LE.UM.1.3.2.r1-13300-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-13300-9150-cv2x.xml|
 May 13, 2023|LE.UM.5.2.3.r1-09900-SDX12|sdxnightjar|LE.UM.5.2.3.r1-09900-SDX12.xml|
 May 12, 2023|LE.UM.2.3.6.c1-32100-9x07|mdm9607-poky|LE.UM.2.3.6.c1-32100-9x07.xml|
