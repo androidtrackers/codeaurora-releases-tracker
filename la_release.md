@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 15, 2023|LA.QSSI.12.0.r1-11200-qssi.0|qssi|LA.QSSI.12.0.r1-11200-qssi.0.xml|12.00.00|
 May 15, 2023|LA.UM.8.4.c25-08400-8x98.0|msm8998|LA.UM.8.4.c25-08400-8x98.0.xml|10.00.00|
 May 15, 2023|LA.QSSI.11.0.r1-18800-qssi.0|qssi|LA.QSSI.11.0.r1-18800-qssi.0.xml|11.00.00|
 May 14, 2023|LAW.BR.4.0.c1-16500-89xx.0|msm8937_32go|LAW.BR.4.0.c1-16500-89xx.0.xml|08.01.00|
