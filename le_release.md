@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 17, 2023|LE.AU_EAP.1.0.c16-02200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-02200-eap-fsl.xml|
 May 16, 2023|LNX.LE.5.3-34700-9x40|mdm9640|LNX.LE.5.3-34700-9x40.xml|
 May 15, 2023|LE.UM.1.3.2.r1-13600-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-13600-9150-cv2x.xml|
 May 13, 2023|LE.UM.1.3.2.r1-13300-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-13300-9150-cv2x.xml|
