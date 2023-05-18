@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r1-11200-gen3meta.0": {
+  "Date": "May 18, 2023",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-11200-gen3meta.0",
+  "Chipset": "sa6155agl",
+  "Manifest": "LV.AU.0.2.2.r1-11200-gen3meta.0.xml"
+ },
  "LE.UM.4.1.1.c16-02100-sa515m": {
   "Date": "May 17, 2023",
   "Tag / Build ID": "LE.UM.4.1.1.c16-02100-sa515m",
