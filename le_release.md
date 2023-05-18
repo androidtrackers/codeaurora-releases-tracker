@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 18, 2023|LE.UM.5.3.1.r1-16500-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16500-genericarmv8-64.0.xml|
 May 18, 2023|LV.AU.0.2.2.r1-11200-qtiquingvm.0|quin-gvm-4gb|LV.AU.0.2.2.r1-11200-qtiquingvm.0.xml|
 May 18, 2023|LE.UM.4.1.1.1-18600-sa515m|sa515m-nad|LE.UM.4.1.1.1-18600-sa515m.xml|
 May 18, 2023|LV.AU.0.2.2.r1-11200-gen3meta.0|sa6155agl|LV.AU.0.2.2.r1-11200-gen3meta.0.xml|
