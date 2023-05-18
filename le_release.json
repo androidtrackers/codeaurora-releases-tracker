@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.2.2.r1-11200-qtiquingvm.0": {
+  "Date": "May 18, 2023",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-11200-qtiquingvm.0",
+  "Chipset": "quin-gvm-4gb",
+  "Manifest": "LV.AU.0.2.2.r1-11200-qtiquingvm.0.xml"
+ },
+ "LE.UM.4.1.1.1-18600-sa515m": {
+  "Date": "May 18, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.1-18600-sa515m",
+  "Chipset": "sa515m-nad",
+  "Manifest": "LE.UM.4.1.1.1-18600-sa515m.xml"
+ },
  "LV.AU.0.2.2.r1-11200-gen3meta.0": {
   "Date": "May 18, 2023",
   "Tag / Build ID": "LV.AU.0.2.2.r1-11200-gen3meta.0",
