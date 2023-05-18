@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.3.6.r1-06900-SDX65.0": {
+  "Date": "May 18, 2023",
+  "Tag / Build ID": "LE.UM.6.3.6.r1-06900-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.3.6.r1-06900-SDX65.0.xml"
+ },
+ "LE.UM.6.4.2-16400-QRB5165.0": {
+  "Date": "May 18, 2023",
+  "Tag / Build ID": "LE.UM.6.4.2-16400-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.6.4.2-16400-QRB5165.0.xml"
+ },
  "LE.UM.5.3.1.r1-16500-genericarmv8-64.0": {
   "Date": "May 18, 2023",
   "Tag / Build ID": "LE.UM.5.3.1.r1-16500-genericarmv8-64.0",
