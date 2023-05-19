@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
 May 18, 2023|LE.UM.6.3.6.r1-06900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-06900-SDX65.0.xml|
 May 18, 2023|LE.UM.6.4.2-16400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-16400-QRB5165.0.xml|
 May 18, 2023|LE.UM.5.3.1.r1-16500-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16500-genericarmv8-64.0.xml|
@@ -24,7 +25,6 @@ May 10, 2023|LV.AU.0.3.2.r1-05600-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-05
 May 09, 2023|LV.AU.1.2.5.r1-01200-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-01200-qtiquingvm.0.xml|
 May 09, 2023|LE.UM.3.2.3.c7-13900-SA2150p|sa2150p|LE.UM.3.2.3.c7-13900-SA2150p.xml|
 May 08, 2023|LE.AU_EAP.1.0.c9-20800-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-20800-eap-fsl.xml|
-May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
 May 08, 2023|LE.UM.4.1.1.c18-02200-sa515m|sa515m|LE.UM.4.1.1.c18-02200-sa515m.xml|
 May 08, 2023|LE.UM.3.2.3.c21-02600-SA2150p|sa2150p|LE.UM.3.2.3.c21-02600-SA2150p.xml|
 May 08, 2023|LE.AU_FSL.1.0-26200-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-26200-eap-imx-cv2x.xml|
