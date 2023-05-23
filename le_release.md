@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 23, 2023|CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ.xml|
 May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
 May 18, 2023|LE.UM.6.3.6.r1-06900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-06900-SDX65.0.xml|
 May 18, 2023|LE.UM.6.4.2-16400-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.2-16400-QRB5165.0.xml|

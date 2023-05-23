@@ -1,4 +1,10 @@
 {
+ "CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ": {
+  "Date": "May 23, 2023",
+  "Tag / Build ID": "CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ.xml"
+ },
  "LE.AU_EAP.1.0.c18-02000-eap-fsl": {
   "Date": "May 08, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c18-02000-eap-fsl",
