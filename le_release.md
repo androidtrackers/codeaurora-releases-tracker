@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 24, 2023|LE.UM.1.3.2.r1-13800-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-13800-9150-cv2x.xml|
+May 24, 2023|LE.AU_EAP.1.0.c19-03400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c19-03400-eap-fsl.xml|
 May 24, 2023|LE.UM.5.3.1.r2-01800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-01800-genericarmv8-64.0.xml|
 May 23, 2023|LE.UM.2.3.6-54100-9x07|mdm9607-poky|LE.UM.2.3.6-54100-9x07.xml|
 May 23, 2023|LU.UM.1.2.1.r1-48300-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-48300-QRB5165.0.xml|
