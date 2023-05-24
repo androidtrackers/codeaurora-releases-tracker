@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 23, 2023|LE.UM.2.3.6-54100-9x07|mdm9607-poky|LE.UM.2.3.6-54100-9x07.xml|
 May 23, 2023|LU.UM.1.2.1.r1-48300-QRB5165.0|qrb5165-rb5-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.1.2.1.r1-48300-QRB5165.0.xml|
 May 23, 2023|CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2-00900-QCAAUTOHOSTHZ.xml|
 May 08, 2023|LE.AU_EAP.1.0.c18-02000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02000-eap-fsl.xml|
