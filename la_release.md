@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 26, 2023|LAW.BR.4.0.c1-16700-89xx.0|msm8937_32go|LAW.BR.4.0.c1-16700-89xx.0.xml|08.01.00|
 May 26, 2023|LA.UM.9.14.1.r1-09400-QCM6490.QSSI13.0|lahaina|LA.UM.9.14.1.r1-09400-QCM6490.QSSI13.0.xml|11.00.00|
 May 25, 2023|LA.UM.8.12.c3-66800-sm8250.0|kona|LA.UM.8.12.c3-66800-sm8250.0.xml|10.00.00|
 May 25, 2023|KERNEL.PLATFORM.1.0.r2-07500-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-07500-WAIPIOLE.0.xml||
