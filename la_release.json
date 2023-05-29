@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0-50700-89xx.0": {
+  "Date": "May 29, 2023",
+  "Tag / Build ID": "LAW.BR.4.0-50700-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-50700-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-07800-NEOLA.0": {
   "Date": "May 27, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-07800-NEOLA.0",
