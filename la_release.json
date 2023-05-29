@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.1.r3-00400-sa8155.0": {
+  "Date": "May 29, 2023",
+  "Tag / Build ID": "LA.AU.1.4.1.r3-00400-sa8155.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.1.r3-00400-sa8155.0.xml",
+  "Android Version": "10.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-07800-NEO.0": {
   "Date": "May 29, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-07800-NEO.0",
