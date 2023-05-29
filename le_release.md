@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 28, 2023|LE.AU_EAP.1.0.c16-02600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-02600-eap-fsl.xml|
 May 26, 2023|LR.AU.0.1.1.r2-01900-gen4meta.0|sa8775|LR.AU.0.1.1.r2-01900-gen4meta.0.xml|
 May 26, 2023|LE.UM.4.3.3.r1-06800-SDX55|sdxprairie|LE.UM.4.3.3.r1-06800-SDX55.xml|
 May 25, 2023|LV.AU.0.3.1.r2-04100-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-04100-gen4meta.0.xml|
