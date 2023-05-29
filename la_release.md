@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+May 29, 2023|KERNEL.PLATFORM.1.0.r2-07800-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-07800-NEO.0.xml||
 May 29, 2023|LAW.BR.4.0-50700-89xx.0|msm8937_32go|LAW.BR.4.0-50700-89xx.0.xml|08.01.00|
 May 27, 2023|KERNEL.PLATFORM.1.0.r2-07800-NEOLA.0|neo_la|KERNEL.PLATFORM.1.0.r2-07800-NEOLA.0.xml||
 May 26, 2023|LAW.BR.4.0.c1-16700-89xx.0|msm8937_32go|LAW.BR.4.0.c1-16700-89xx.0.xml|08.01.00|
