@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.1.r2-05300-gen3meta.0": {
+  "Date": "May 29, 2023",
+  "Tag / Build ID": "LV.AU.1.2.1.r2-05300-gen3meta.0",
+  "Chipset": "sa81x5",
+  "Manifest": "LV.AU.1.2.1.r2-05300-gen3meta.0.xml"
+ },
  "LE.BR.1.2.1.1-83500-9x07": {
   "Date": "May 29, 2023",
   "Tag / Build ID": "LE.BR.1.2.1.1-83500-9x07",
