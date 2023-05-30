@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.r1-19000-qssi.0": {
+  "Date": "May 30, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-19000-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-19000-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.AU.1.4.1.r3-00400-sa8155.0": {
   "Date": "May 29, 2023",
   "Tag / Build ID": "LA.AU.1.4.1.r3-00400-sa8155.0",
