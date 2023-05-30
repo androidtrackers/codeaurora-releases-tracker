@@ -1,4 +1,10 @@
 {
+ "LR.AU.0.1.1.r2-02100-gen4meta.0": {
+  "Date": "May 30, 2023",
+  "Tag / Build ID": "LR.AU.0.1.1.r2-02100-gen4meta.0",
+  "Chipset": "sa8775",
+  "Manifest": "LR.AU.0.1.1.r2-02100-gen4meta.0.xml"
+ },
  "LE.UM.2.3.6.c2-14200-9x07": {
   "Date": "May 29, 2023",
   "Tag / Build ID": "LE.UM.2.3.6.c2-14200-9x07",
