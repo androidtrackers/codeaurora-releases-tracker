@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+May 31, 2023|LV.AU.0.3.1.r2-04300-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-04300-gen4meta.0.xml|
 May 31, 2023|LR.AU.0.1.1.r2-02400-gen4meta.0|sa8775|LR.AU.0.1.1.r2-02400-gen4meta.0.xml|
 May 30, 2023|LR.AU.0.1.1.r2-02100-gen4meta.0|sa8775|LR.AU.0.1.1.r2-02100-gen4meta.0.xml|
 May 29, 2023|LE.UM.2.3.6.c2-14200-9x07|mdm9607-poky|LE.UM.2.3.6.c2-14200-9x07.xml|

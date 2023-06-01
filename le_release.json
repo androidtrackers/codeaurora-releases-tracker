@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.1.r2-04300-gen4meta.0": {
+  "Date": "May 31, 2023",
+  "Tag / Build ID": "LV.AU.0.3.1.r2-04300-gen4meta.0",
+  "Chipset": "lemanslxc",
+  "Manifest": "LV.AU.0.3.1.r2-04300-gen4meta.0.xml"
+ },
  "LR.AU.0.1.1.r2-02400-gen4meta.0": {
   "Date": "May 31, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-02400-gen4meta.0",
