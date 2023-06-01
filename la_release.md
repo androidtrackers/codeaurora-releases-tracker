@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 01, 2023|LA.QSSI.13.0.r1-10200-qssi.0|qssi|LA.QSSI.13.0.r1-10200-qssi.0.xml|13.00.00|
 May 30, 2023|LA.UM.9.12.1.r1-05900-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-05900-SMxx50.QSSI12.0.xml|11.00.00|
 May 30, 2023|LA.QSSI.12.0.r1-11400-qssi.0|qssi|LA.QSSI.12.0.r1-11400-qssi.0.xml|12.00.00|
 May 30, 2023|KERNEL.PLATFORM.1.0.r2-07800-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-07800-ANORAK.0.xml||
