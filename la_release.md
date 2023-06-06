@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 06, 2023|KERNEL.PLATFORM.1.0.r1-15200-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-15200-kernel.0.xml||
+June 06, 2023|DISPLAY.LA.2.0.r1-10800-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-10800-WAIPIO.0.xml|00.00.00|
+June 06, 2023|VIDEO.LA.2.0.r1-08400-WAIPIO.0|video|VIDEO.LA.2.0.r1-08400-WAIPIO.0.xml|00.00.00|
 June 06, 2023|LA.UM.9.15.1.c27-01000-KAMORTA.0|bengal|LA.UM.9.15.1.c27-01000-KAMORTA.0.xml|11.00.00|
 June 05, 2023|LA.AU.1.4.2.r1-04600-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-04600-gen3meta.0.xml|10.00.00|
 June 05, 2023|LA.QSSI.13.0.r1-10200.01-qssi.0|qssi|LA.QSSI.13.0.r1-10200.01-qssi.0.xml|13.00.00|
