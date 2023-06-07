@@ -1,4 +1,11 @@
 {
+ "CAMERA.LA.2.0.r1-10300-WAIPIO.0": {
+  "Date": "June 06, 2023",
+  "Tag / Build ID": "CAMERA.LA.2.0.r1-10300-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r1-10300-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r1-15200-kernel.0": {
   "Date": "June 06, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r1-15200-kernel.0",
