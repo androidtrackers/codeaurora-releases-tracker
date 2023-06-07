@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 07, 2023|LA.UM.8.2.1.c25-06300-sdm660.0|sdm660_64|LA.UM.8.2.1.c25-06300-sdm660.0.xml|10.00.00|
 June 06, 2023|LA.VENDOR.1.0.r1-21900-WAIPIO.0|taro|LA.VENDOR.1.0.r1-21900-WAIPIO.0.xml|11.00.00|
 June 06, 2023|CAMERA.LA.2.0.r1-10300-WAIPIO.0|camera|CAMERA.LA.2.0.r1-10300-WAIPIO.0.xml|00.00.00|
 June 06, 2023|KERNEL.PLATFORM.1.0.r1-15200-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-15200-kernel.0.xml||
