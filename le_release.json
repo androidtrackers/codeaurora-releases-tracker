@@ -1,4 +1,28 @@
 {
+ "WLANHOST_AU.FSL.1.0-01100-QCA6574AUARMSDIOHZ": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "WLANHOST_AU.FSL.1.0-01100-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "WLANHOST_AU.FSL.1.0-01100-QCA6574AUARMSDIOHZ.xml"
+ },
+ "CHSS.LNX_FSLS.4.14-05410-QCA6574AUARMSDIOHZ": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "CHSS.LNX_FSLS.4.14-05410-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLS.4.14-05410-QCA6574AUARMSDIOHZ.xml"
+ },
+ "CHSS.LNX_FSL.5.0.r1-02900-QCA6574AUARMSDIOHZ": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "CHSS.LNX_FSL.5.0.r1-02900-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSL.5.0.r1-02900-QCA6574AUARMSDIOHZ.xml"
+ },
+ "WLANHOST_AU.FSL.3.10-01400-QCA6574AUARMSDIOHZ": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "WLANHOST_AU.FSL.3.10-01400-QCA6574AUARMSDIOHZ",
+  "Chipset": "imxauto",
+  "Manifest": "WLANHOST_AU.FSL.3.10-01400-QCA6574AUARMSDIOHZ.xml"
+ },
  "LR.AU.0.1.1.r2-02700-gen4meta.0": {
   "Date": "June 06, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-02700-gen4meta.0",
