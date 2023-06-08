@@ -1,4 +1,16 @@
 {
+ "LE.UM.7.4.1.r1-07000-sa525m-tele": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.r1-07000-sa525m-tele",
+  "Chipset": "sa525",
+  "Manifest": "LE.UM.7.4.1.r1-07000-sa525m-tele.xml"
+ },
+ "LE.UM.2.3.2-14800-SDX24": {
+  "Date": "June 07, 2023",
+  "Tag / Build ID": "LE.UM.2.3.2-14800-SDX24",
+  "Chipset": "sdxpoorwills",
+  "Manifest": "LE.UM.2.3.2-14800-SDX24.xml"
+ },
  "WLANHOST_AU.FSL.1.0-01100-QCA6574AUARMSDIOHZ": {
   "Date": "June 07, 2023",
   "Tag / Build ID": "WLANHOST_AU.FSL.1.0-01100-QCA6574AUARMSDIOHZ",
