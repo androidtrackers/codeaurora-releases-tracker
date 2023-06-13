@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 12, 2023|LV.AU.0.3.1.r2-04600-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-04600-gen4meta.0.xml|
 June 08, 2023|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ.xml|
 June 07, 2023|LE.UM.7.4.1.r1-07000-sa525m-tele|sa525|LE.UM.7.4.1.r1-07000-sa525m-tele.xml|
 June 07, 2023|LE.UM.2.3.2-14800-SDX24|sdxpoorwills|LE.UM.2.3.2-14800-SDX24.xml|

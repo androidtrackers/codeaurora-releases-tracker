@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.3.1.r2-04600-gen4meta.0": {
+  "Date": "June 12, 2023",
+  "Tag / Build ID": "LV.AU.0.3.1.r2-04600-gen4meta.0",
+  "Chipset": "lemanslxc",
+  "Manifest": "LV.AU.0.3.1.r2-04600-gen4meta.0.xml"
+ },
  "CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ": {
   "Date": "June 08, 2023",
   "Tag / Build ID": "CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ",
