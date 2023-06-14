@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 13, 2023|LA.UM.9.15.1.c1-01200-KAMORTA.0|bengal_32go|LA.UM.9.15.1.c1-01200-KAMORTA.0.xml|11.00.00|
 June 13, 2023|LA.QSSI.13.0.r1-10300-qssi.0|qssi|LA.QSSI.13.0.r1-10300-qssi.0.xml|13.00.00|
 June 13, 2023|LA.UM.9.16.c26-01900-MANNAR.0|holi|LA.UM.9.16.c26-01900-MANNAR.0.xml|11.00.00|
 June 13, 2023|LA.QSSI.11.0.c27-01100-qssi.0|qssi|LA.QSSI.11.0.c27-01100-qssi.0.xml|11.00.00|
