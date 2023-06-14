@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 14, 2023|LE.UM.4.3.2.r1-04400-9x07|mdm9607|LE.UM.4.3.2.r1-04400-9x07.xml|
+June 14, 2023|LE.UM.6.3.5.r1-01900-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-01900-QCS610.0.xml|
 June 12, 2023|LV.AU.0.3.1.r2-04600-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-04600-gen4meta.0.xml|
 June 08, 2023|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ.xml|
 June 07, 2023|LE.UM.7.4.1.r1-07000-sa525m-tele|sa525|LE.UM.7.4.1.r1-07000-sa525m-tele.xml|
