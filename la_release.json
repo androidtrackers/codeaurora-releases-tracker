@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.r1-19100-qssi.0": {
+  "Date": "June 14, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.r1-19100-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.r1-19100-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.1.c1-01200-KAMORTA.0": {
   "Date": "June 13, 2023",
   "Tag / Build ID": "LA.UM.9.15.1.c1-01200-KAMORTA.0",
