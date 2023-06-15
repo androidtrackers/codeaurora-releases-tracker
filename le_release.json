@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.4-35200-qcs405.0": {
+  "Date": "June 14, 2023",
+  "Tag / Build ID": "LE.UM.6.3.4-35200-qcs405.0",
+  "Chipset": "qcs405-pine-robotics-fullstack-noselinux-debug",
+  "Manifest": "LE.UM.6.3.4-35200-qcs405.0.xml"
+ },
  "LE.UM.6.2.4.r1-14100-QCS610.0": {
   "Date": "June 14, 2023",
   "Tag / Build ID": "LE.UM.6.2.4.r1-14100-QCS610.0",
