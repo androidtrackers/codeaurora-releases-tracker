@@ -1,4 +1,16 @@
 {
+ "LE.UM.6.2.4.r1-14100-QCS610.0": {
+  "Date": "June 14, 2023",
+  "Tag / Build ID": "LE.UM.6.2.4.r1-14100-QCS610.0",
+  "Chipset": "QCS610",
+  "Manifest": "LE.UM.6.2.4.r1-14100-QCS610.0.xml"
+ },
+ "LE.UM.6.3.5.r1-02000-QCS610.0": {
+  "Date": "June 14, 2023",
+  "Tag / Build ID": "LE.UM.6.3.5.r1-02000-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-debug",
+  "Manifest": "LE.UM.6.3.5.r1-02000-QCS610.0.xml"
+ },
  "LE.UM.4.3.2.r1-04400-9x07": {
   "Date": "June 14, 2023",
   "Tag / Build ID": "LE.UM.4.3.2.r1-04400-9x07",
