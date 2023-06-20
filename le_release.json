@@ -1,4 +1,10 @@
 {
+ "LU.UM.3.5.1.r1-03600-QCS6490.0": {
+  "Date": "June 20, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-03600-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-03600-QCS6490.0.xml"
+ },
  "LE.UM.4.4.1.r2-17600-QRB5165.0": {
   "Date": "June 20, 2023",
   "Tag / Build ID": "LE.UM.4.4.1.r2-17600-QRB5165.0",
