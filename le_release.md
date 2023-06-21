@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 20, 2023|LV.AU.1.2.5.r1-01300-qtiquingvm.0|qtiquingvm-headless|LV.AU.1.2.5.r1-01300-qtiquingvm.0.xml|
+June 20, 2023|LR.AU.0.1.1.r2-03000-gen4meta.0|sa8775|LR.AU.0.1.1.r2-03000-gen4meta.0.xml|
+June 20, 2023|LE.UM.3.2.3.1.c1-03300-SA2150p|sa2150p|LE.UM.3.2.3.1.c1-03300-SA2150p.xml|
+June 20, 2023|LE.AU_EAP.1.0.1.c1-01900-eap-fsl|eap-imx|LE.AU_EAP.1.0.1.c1-01900-eap-fsl.xml|
 June 20, 2023|LR.AU.0.1.1.r2-02900-gen4meta.0|sa8775|LR.AU.0.1.1.r2-02900-gen4meta.0.xml|
 June 20, 2023|LU.UM.3.5.1.r1-03600-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-03600-QCS6490.0.xml|
 June 20, 2023|LE.UM.4.4.1.r2-17600-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17600-QRB5165.0.xml|
