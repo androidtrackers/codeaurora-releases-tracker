@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-16800-genericarmv8-64.0": {
+  "Date": "June 21, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-16800-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-16800-genericarmv8-64.0.xml"
+ },
  "LV.AU.1.2.5.r1-01300-qtiquingvm.0": {
   "Date": "June 20, 2023",
   "Tag / Build ID": "LV.AU.1.2.5.r1-01300-qtiquingvm.0",
