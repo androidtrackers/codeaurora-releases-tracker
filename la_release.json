@@ -1,4 +1,25 @@
 {
+ "LA.QSSI.11.0.c31-00300-qssi.0": {
+  "Date": "June 22, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.c31-00300-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.c31-00300-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r3-03200-kernel.0": {
+  "Date": "June 22, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r3-03200-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r3-03200-kernel.0.xml",
+  "Android Version": ""
+ },
+ "CAMERA.LA.2.0.r2-02000-WAIPIO.0": {
+  "Date": "June 22, 2023",
+  "Tag / Build ID": "CAMERA.LA.2.0.r2-02000-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r2-02000-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "VIDEO.LA.2.0.r2-01100-WAIPIO.0": {
   "Date": "June 22, 2023",
   "Tag / Build ID": "VIDEO.LA.2.0.r2-01100-WAIPIO.0",
