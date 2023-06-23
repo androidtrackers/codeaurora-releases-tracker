@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.1.c25-03400-QCM6490.0": {
+  "Date": "June 22, 2023",
+  "Tag / Build ID": "LA.UM.9.14.1.c25-03400-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.c25-03400-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.c26-00900-KAMORTA.QSSI12c28.0": {
   "Date": "June 22, 2023",
   "Tag / Build ID": "LA.UM.9.15.c26-00900-KAMORTA.QSSI12c28.0",
