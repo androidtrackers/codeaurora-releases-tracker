@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.2.0.r5-09200-kernel.0": {
+  "Date": "June 23, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.0.r5-09200-kernel.0",
+  "Chipset": "gen3auto_lxc",
+  "Manifest": "KERNEL.PLATFORM.2.0.r5-09200-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.AU.1.4.8.r2-00800-sa8155_gvmq.0": {
   "Date": "June 23, 2023",
   "Tag / Build ID": "LA.AU.1.4.8.r2-00800-sa8155_gvmq.0",
