@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 25, 2023|LE.UM.6.3.5.r1-02100-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-02100-QCS610.0.xml|
 June 23, 2023|LV.AU.0.3.2.r1-07400-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-07400-qtiquingvm.0.xml|
 June 22, 2023|LE.UM.5.3.1.r2-02000-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02000-genericarmv8-64.0.xml|
 June 21, 2023|LE.UM.5.3.1.r1-16800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-16800-genericarmv8-64.0.xml|
