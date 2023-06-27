@@ -1,4 +1,16 @@
 {
+ "LU.UM.3.5.1.r1-03800-QCS6490.0": {
+  "Date": "June 27, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-03800-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-03800-QCS6490.0.xml"
+ },
+ "LE.UM.4.4.2.r1-10000-SDX55": {
+  "Date": "June 27, 2023",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-10000-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-10000-SDX55.xml"
+ },
  "LV.AU.0.3.0.r1-19600-gen3meta.0": {
   "Date": "June 26, 2023",
   "Tag / Build ID": "LV.AU.0.3.0.r1-19600-gen3meta.0",
