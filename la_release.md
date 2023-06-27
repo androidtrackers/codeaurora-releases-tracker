@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 27, 2023|KERNEL.PLATFORM.2.0.r11-02500-kernel.0|kalama_le|KERNEL.PLATFORM.2.0.r11-02500-kernel.0.xml||
 June 26, 2023|KERNEL.PLATFORM.2.1.r5-02600-kernel.0|sdxbaagha|KERNEL.PLATFORM.2.1.r5-02600-kernel.0.xml||
 June 26, 2023|LA.UM.9.1.r1-13700-SMxxx0.QSSI12.0|msmnile|LA.UM.9.1.r1-13700-SMxxx0.QSSI12.0.xml|11.00.00|
 June 26, 2023|KERNEL.PLATFORM.1.0.r2-08300-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-08300-WAIPIOLE.0.xml||
