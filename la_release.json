@@ -1,4 +1,18 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-08300-ANORAK.0": {
+  "Date": "June 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-08300-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-08300-ANORAK.0.xml",
+  "Android Version": ""
+ },
+ "KERNEL.PLATFORM.1.0.r2-08300-NEOLA.0": {
+  "Date": "June 27, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-08300-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-08300-NEOLA.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.15.1.c1-01500-KAMORTA.0": {
   "Date": "June 27, 2023",
   "Tag / Build ID": "LA.UM.9.15.1.c1-01500-KAMORTA.0",
