@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+June 28, 2023|LE.UM.4.4.2.r1-10100-SDX55|sdxprairie|LE.UM.4.4.2.r1-10100-SDX55.xml|
 June 27, 2023|LU.UM.3.5.1.r1-03900-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-03900-QCS6490.0.xml|
 June 27, 2023|LE.UM.6.4.1-34600-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.6.4.1-34600-QRB5165.0.xml|
 June 27, 2023|LU.UM.3.5.1.r1-03800-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-03800-QCS6490.0.xml|

@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.2.r1-10100-SDX55": {
+  "Date": "June 28, 2023",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-10100-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-10100-SDX55.xml"
+ },
  "LU.UM.3.5.1.r1-03900-QCS6490.0": {
   "Date": "June 27, 2023",
   "Tag / Build ID": "LU.UM.3.5.1.r1-03900-QCS6490.0",
