@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+June 28, 2023|LA.QSSI.12.0.c26-00300-qssi.0|qssi|LA.QSSI.12.0.c26-00300-qssi.0.xml|12.00.00|
 June 28, 2023|LA.QSSI.11.0.c28-00300-qssi.0|qssi|LA.QSSI.11.0.c28-00300-qssi.0.xml|11.00.00|
 June 28, 2023|LA.QSSI.12.0.r1-11600-qssi.0|qssi|LA.QSSI.12.0.r1-11600-qssi.0.xml|12.00.00|
 June 28, 2023|LA.QSSI.11.0.r1-19300-qssi.0|qssi|LA.QSSI.11.0.r1-19300-qssi.0.xml|11.00.00|
