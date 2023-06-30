@@ -1,4 +1,18 @@
 {
+ "LAW.BR.4.0.c1-17600-89xx.0": {
+  "Date": "June 29, 2023",
+  "Tag / Build ID": "LAW.BR.4.0.c1-17600-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-17600-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.QSSI.13.0.r1-10700-qssi.0": {
+  "Date": "June 29, 2023",
+  "Tag / Build ID": "LA.QSSI.13.0.r1-10700-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.13.0.r1-10700-qssi.0.xml",
+  "Android Version": "13.00.00"
+ },
  "LA.UM.9.1.c25-01400-SMxxx0.QSSI12c26.0": {
   "Date": "June 29, 2023",
   "Tag / Build ID": "LA.UM.9.1.c25-01400-SMxxx0.QSSI12c26.0",
