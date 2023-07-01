@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 01, 2023|LE.UM.7.4.1.r1-08100-sa525m-tele|sa525|LE.UM.7.4.1.r1-08100-sa525m-tele.xml|
 June 29, 2023|LE.UM.4.4.1.r2-17800-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17800-QRB5165.0.xml|
 June 29, 2023|LV.AU.0.3.0.r1-19800-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-19800-gen3meta.0.xml|
 June 29, 2023|LU.UM.3.5.1.r1-04200-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-04200-QCS6490.0.xml|
