@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 03, 2023|LE.UM.1.3-14400-SDX20|sdx20|LE.UM.1.3-14400-SDX20.xml|
 July 03, 2023|LV.AU.0.3.2.r1-07600-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-07600-qtiquingvm.0.xml|
 July 02, 2023|LE.UM.4.1.1.1-21600-sa515m|sa515m|LE.UM.4.1.1.1-21600-sa515m.xml|
 July 02, 2023|LE.UM.3.2.3.1-17500-SA2150p|sa2150p-nand|LE.UM.3.2.3.1-17500-SA2150p.xml|
