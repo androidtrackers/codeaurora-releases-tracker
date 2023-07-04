@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.14.r1-22000-LAHAINA.QSSI12.0": {
+  "Date": "July 04, 2023",
+  "Tag / Build ID": "LA.UM.9.14.r1-22000-LAHAINA.QSSI12.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.r1-22000-LAHAINA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.8.4.c25-08900-8x98.0": {
   "Date": "July 04, 2023",
   "Tag / Build ID": "LA.UM.8.4.c25-08900-8x98.0",
