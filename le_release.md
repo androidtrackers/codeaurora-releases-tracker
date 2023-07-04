@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 04, 2023|LE.UM.6.3.4-35600-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-35600-qcs405.0.xml|
+June 14, 2023|LE.UM.4.3.2.r1-04400-9x07|mdm9607|LE.UM.4.3.2.r1-04400-9x07.xml|
 July 03, 2023|LE.UM.1.3-14400-SDX20|sdx20|LE.UM.1.3-14400-SDX20.xml|
 July 03, 2023|LV.AU.0.3.2.r1-07600-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-07600-qtiquingvm.0.xml|
 July 02, 2023|LE.UM.4.1.1.1-21600-sa515m|sa515m|LE.UM.4.1.1.1-21600-sa515m.xml|
@@ -32,7 +34,6 @@ June 15, 2023|LE.UM.6.3.6.r1-07300-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.
 June 14, 2023|LE.UM.6.3.4-35200-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-35200-qcs405.0.xml|
 June 14, 2023|LE.UM.6.2.4.r1-14100-QCS610.0|QCS610|LE.UM.6.2.4.r1-14100-QCS610.0.xml|
 June 14, 2023|LE.UM.6.3.5.r1-02000-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-02000-QCS610.0.xml|
-June 14, 2023|LE.UM.4.3.2.r1-04400-9x07|mdm9607|LE.UM.4.3.2.r1-04400-9x07.xml|
 June 14, 2023|LE.UM.6.3.5.r1-01900-QCS610.0|qcs610-odk-64-multimedia-fullstack-debug|LE.UM.6.3.5.r1-01900-QCS610.0.xml|
 June 12, 2023|LV.AU.0.3.1.r2-04600-gen4meta.0|lemanslxc|LV.AU.0.3.1.r2-04600-gen4meta.0.xml|
 June 08, 2023|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ|imxauto|CHSS.LNX_FSL.2.1-07310-QCA6574AUARMSDIOHZ.xml|
