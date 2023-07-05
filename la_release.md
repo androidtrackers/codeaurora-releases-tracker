@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 05, 2023|LA.AU.1.4.5.r1-02500-gen3meta.0|msmnile_au|LA.AU.1.4.5.r1-02500-gen3meta.0.xml|10.00.00|
 July 05, 2023|LA.UM.9.12.c10-60900-SAIPAN.QSSI13.0|lito|LA.UM.9.12.c10-60900-SAIPAN.QSSI13.0.xml|11.00.00|
 July 05, 2023|LA.AU.1.4.1.r2-03400-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-03400-sa8155.0.xml|10.00.00|
 July 05, 2023|LA.UM.8.12.4.r1-07400-QCS8250.0|kona|LA.UM.8.12.4.r1-07400-QCS8250.0.xml|10.00.00|
