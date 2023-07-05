@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 05, 2023|LE.UM.4.2.3.c25-03000-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-03000-QCS610.0.xml|
 July 05, 2023|LE.UM.7.4.2.r1-00400-9x07|mdm9607-tele-tele-debug|LE.UM.7.4.2.r1-00400-9x07.xml|
 July 04, 2023|LV.AU.0.3.0.r1-19900-gen3meta.0|sa81x5|LV.AU.0.3.0.r1-19900-gen3meta.0.xml|
 July 04, 2023|LE.UM.6.3.4-35600-qcs405.0|qcs405-pine-robotics-fullstack-noselinux-debug|LE.UM.6.3.4-35600-qcs405.0.xml|
