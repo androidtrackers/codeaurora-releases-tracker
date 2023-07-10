@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r3-18800-QRB5165.0": {
+  "Date": "July 10, 2023",
+  "Tag / Build ID": "LE.UM.4.4.1.r3-18800-QRB5165.0",
+  "Chipset": "qrb5165-rb5-pine-robotics-rb-debug",
+  "Manifest": "LE.UM.4.4.1.r3-18800-QRB5165.0.xml"
+ },
  "LE.UM.1.3.c25-07200-8x53": {
   "Date": "July 07, 2023",
   "Tag / Build ID": "LE.UM.1.3.c25-07200-8x53",

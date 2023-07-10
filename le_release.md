@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 10, 2023|LE.UM.4.4.1.r3-18800-QRB5165.0|qrb5165-rb5-pine-robotics-rb-debug|LE.UM.4.4.1.r3-18800-QRB5165.0.xml|
 July 07, 2023|LE.UM.1.3.c25-07200-8x53|apq8053-32|LE.UM.1.3.c25-07200-8x53.xml|
 July 05, 2023|LE.UM.4.2.3.c25-03000-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.4.2.3.c25-03000-QCS610.0.xml|
 July 05, 2023|LE.UM.7.4.2.r1-00400-9x07|mdm9607-tele-tele-debug|LE.UM.7.4.2.r1-00400-9x07.xml|
