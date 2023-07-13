@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.1.0.c17-01700-eap-fsl": {
+  "Date": "July 13, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c17-01700-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c17-01700-eap-fsl.xml"
+ },
  "LE.UM.4.1.1.c17-02300-sa515m": {
   "Date": "July 11, 2023",
   "Tag / Build ID": "LE.UM.4.1.1.c17-02300-sa515m",

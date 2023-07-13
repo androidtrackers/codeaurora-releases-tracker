@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 13, 2023|LE.AU_EAP.1.0.c17-01700-eap-fsl|eap-imx|LE.AU_EAP.1.0.c17-01700-eap-fsl.xml|
 July 11, 2023|LE.UM.4.1.1.c17-02300-sa515m|sa515m|LE.UM.4.1.1.c17-02300-sa515m.xml|
 July 11, 2023|LE.UM.3.2.3.c20-03100-SA2150p|sa2150p|LE.UM.3.2.3.c20-03100-SA2150p.xml|
 July 11, 2023|LE.AU_EAP.1.0.c17-01600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c17-01600-eap-fsl.xml|
