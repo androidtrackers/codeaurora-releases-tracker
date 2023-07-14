@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 13, 2023|KERNEL.PLATFORM.2.1.r5-03000-kernel.0|sdxbaagha|KERNEL.PLATFORM.2.1.r5-03000-kernel.0.xml||
 July 13, 2023|LA.UM.9.15.2.c3-01200-KAMORTA.QSSI12r3.0|bengal_32go|LA.UM.9.15.2.c3-01200-KAMORTA.QSSI12r3.0.xml|11.00.00|
 July 13, 2023|LA.UM.9.15.c26-01000-KAMORTA.QSSI12c28.0|bengal|LA.UM.9.15.c26-01000-KAMORTA.QSSI12c28.0.xml|11.00.00|
 July 12, 2023|LA.QSSI.12.0.r1-11700-qssi.0|qssi|LA.QSSI.12.0.r1-11700-qssi.0.xml|12.00.00|
