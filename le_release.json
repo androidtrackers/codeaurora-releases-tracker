@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.3.1.c3-38700-qcs405.0": {
+  "Date": "July 20, 2023",
+  "Tag / Build ID": "LE.UM.3.3.1.c3-38700-qcs405.0",
+  "Chipset": "nf-32-qsap",
+  "Manifest": "LE.UM.3.3.1.c3-38700-qcs405.0.xml"
+ },
  "LE.UM.5.3.1.r1-16900-genericarmv8-64.0": {
   "Date": "July 18, 2023",
   "Tag / Build ID": "LE.UM.5.3.1.r1-16900-genericarmv8-64.0",
