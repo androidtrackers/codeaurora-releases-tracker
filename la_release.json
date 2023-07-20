@@ -1,4 +1,11 @@
 {
+ "DISPLAY.LA.2.0.r3-01700-WAIPIO.0": {
+  "Date": "July 20, 2023",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r3-01700-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r3-01700-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "LA.UM.9.1.1.r1-04200-RENNELL.QSSI12.0": {
   "Date": "July 20, 2023",
   "Tag / Build ID": "LA.UM.9.1.1.r1-04200-RENNELL.QSSI12.0",

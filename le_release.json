@@ -1,4 +1,10 @@
 {
+ "LNX.LE.5.3-37600-9x40": {
+  "Date": "July 20, 2023",
+  "Tag / Build ID": "LNX.LE.5.3-37600-9x40",
+  "Chipset": "mdm9640",
+  "Manifest": "LNX.LE.5.3-37600-9x40.xml"
+ },
  "LE.UM.3.3.1.c3-38700-qcs405.0": {
   "Date": "July 20, 2023",
   "Tag / Build ID": "LE.UM.3.3.1.c3-38700-qcs405.0",
