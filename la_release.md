@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 20, 2023|LA.UM.9.1.1.r1-04200-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-04200-RENNELL.QSSI12.0.xml|11.00.00|
+July 20, 2023|LA.UM.9.14.1.r1-10300-QCM6490.QSSI12.0|lahaina|LA.UM.9.14.1.r1-10300-QCM6490.QSSI12.0.xml|11.00.00|
 July 19, 2023|LA.QSSI.13.0.r1-10900.01-qssi.0|qssi|LA.QSSI.13.0.r1-10900.01-qssi.0.xml|13.00.00|
 July 19, 2023|LA.QSSI.12.0.r1-11700.02-qssi.0|qssi|LA.QSSI.12.0.r1-11700.02-qssi.0.xml|12.00.00|
 July 19, 2023|LA.AU.1.3.7-02900-gen3_gvmgh.0|msmnile_gvmgh|LA.AU.1.3.7-02900-gen3_gvmgh.0.xml|10.00.00|
