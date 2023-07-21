@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 21, 2023|LV.AU.0.3.2.r1-07900-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-07900-qtiquingvm.0.xml|
 July 20, 2023|LE.UM.5.3.1.r2-02600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02600-genericarmv8-64.0.xml|
 July 20, 2023|LNX.LE.5.3-37600-9x40|mdm9640|LNX.LE.5.3-37600-9x40.xml|
 July 20, 2023|LE.UM.3.3.1.c3-38700-qcs405.0|nf-32-qsap|LE.UM.3.3.1.c3-38700-qcs405.0.xml|
