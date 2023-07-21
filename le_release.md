@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 21, 2023|CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ.xml|
+July 21, 2023|WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ.xml|
 July 21, 2023|LV.AU.0.3.2.r1-07900-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-07900-qtiquingvm.0.xml|
 July 20, 2023|LE.UM.5.3.1.r2-02600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02600-genericarmv8-64.0.xml|
 July 20, 2023|LNX.LE.5.3-37600-9x40|mdm9640|LNX.LE.5.3-37600-9x40.xml|

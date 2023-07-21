@@ -1,4 +1,16 @@
 {
+ "CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ": {
+  "Date": "July 21, 2023",
+  "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ",
+  "Chipset": "imxauto",
+  "Manifest": "CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ.xml"
+ },
+ "WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ": {
+  "Date": "July 21, 2023",
+  "Tag / Build ID": "WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ",
+  "Chipset": "connx_sdk",
+  "Manifest": "WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ.xml"
+ },
  "LV.AU.0.3.2.r1-07900-qtiquingvm.0": {
   "Date": "July 21, 2023",
   "Tag / Build ID": "LV.AU.0.3.2.r1-07900-qtiquingvm.0",
