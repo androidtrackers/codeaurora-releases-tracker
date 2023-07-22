@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.2.2.r1-13400-gen3meta.0": {
+  "Date": "July 21, 2023",
+  "Tag / Build ID": "LV.AU.0.2.2.r1-13400-gen3meta.0",
+  "Chipset": "sa81x5agl",
+  "Manifest": "LV.AU.0.2.2.r1-13400-gen3meta.0.xml"
+ },
  "CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ": {
   "Date": "July 21, 2023",
   "Tag / Build ID": "CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ",
