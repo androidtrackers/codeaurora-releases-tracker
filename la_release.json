@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.15.2.r1-07700-KAMORTA.QSSI14.0": {
+  "Date": "July 25, 2023",
+  "Tag / Build ID": "LA.UM.9.15.2.r1-07700-KAMORTA.QSSI14.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.2.r1-07700-KAMORTA.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.VENDOR.13.2.1.r1-07900-DIVAR.0": {
   "Date": "July 24, 2023",
   "Tag / Build ID": "LA.VENDOR.13.2.1.r1-07900-DIVAR.0",
