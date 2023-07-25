@@ -1,4 +1,10 @@
 {
+ "LE.UM.3.2.1.c1-76400-sa415m": {
+  "Date": "July 25, 2023",
+  "Tag / Build ID": "LE.UM.3.2.1.c1-76400-sa415m",
+  "Chipset": "sa415m",
+  "Manifest": "LE.UM.3.2.1.c1-76400-sa415m.xml"
+ },
  "LV.AU.0.3.1.r1-02700-qtiquingvm.0": {
   "Date": "July 24, 2023",
   "Tag / Build ID": "LV.AU.0.3.1.r1-02700-qtiquingvm.0",
