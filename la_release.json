@@ -1,4 +1,11 @@
 {
+ "DISPLAY.LA.2.0.r1-11400-WAIPIO.0": {
+  "Date": "July 27, 2023",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r1-11400-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r1-11400-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-08800-WAIPIOLE.0": {
   "Date": "July 26, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-08800-WAIPIOLE.0",
