@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 30, 2023|LE.UM.7.4.1.r1-09800-sa525m-tele|sa525|LE.UM.7.4.1.r1-09800-sa525m-tele.xml|
 July 28, 2023|LE.UM.1.3.r6-09000-8x17|apq8017-qsap|LE.UM.1.3.r6-09000-8x17.xml|
 July 27, 2023|LE.UM.5.3.1.r1-17100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17100-genericarmv8-64.0.xml|
 July 26, 2023|LE.UM.3.2.1.c1-76500-sa415m|sa415m|LE.UM.3.2.1.c1-76500-sa415m.xml|
