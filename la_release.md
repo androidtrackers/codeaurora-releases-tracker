@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+July 31, 2023|LA.VENDOR.13.2.1.r1-08000-DIVAR.QSSI14.0|bengal_515|LA.VENDOR.13.2.1.r1-08000-DIVAR.QSSI14.0.xml|11.00.00|
+July 31, 2023|KERNEL.PLATFORM.1.0.r2-08800-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-08800-ANORAK.0.xml||
 July 28, 2023|LA.UM.9.16.r1-14000-MANNAR.QSSI12.0|holi|LA.UM.9.16.r1-14000-MANNAR.QSSI12.0.xml|11.00.00|
 July 28, 2023|LA.AU.1.4.9.r1-00600-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.4.9.r1-00600-sa8155_gvmq.0.xml|10.00.00|
 July 28, 2023|LA.QSSI.13.0.r1-11000-qssi.0|qssi|LA.QSSI.13.0.r1-11000-qssi.0.xml|13.00.00|
