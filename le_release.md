@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 30, 2023|LV.AU.0.3.1.r2-05800-gen4meta.0|lemans_lxc|LV.AU.0.3.1.r2-05800-gen4meta.0.xml|
 July 30, 2023|LE.UM.7.4.1.r1-09800-sa525m-tele|sa525|LE.UM.7.4.1.r1-09800-sa525m-tele.xml|
 July 28, 2023|LE.UM.1.3.r6-09000-8x17|apq8017-qsap|LE.UM.1.3.r6-09000-8x17.xml|
 July 27, 2023|LE.UM.5.3.1.r1-17100-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17100-genericarmv8-64.0.xml|
