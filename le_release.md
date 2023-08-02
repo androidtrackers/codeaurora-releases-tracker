@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+July 24, 2023|LE.AU_EAP.1.0.c1-76900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-76900-eap-fsl.xml|
 August 01, 2023|LR.AU.0.1.1.r2-04600-gen4meta.0|sa8775|LR.AU.0.1.1.r2-04600-gen4meta.0.xml|
 July 31, 2023|LE.UM.6.3.6.r1-07400-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-07400-SDX65.0.xml|
 July 30, 2023|LV.AU.0.3.1.r2-05800-gen4meta.0|lemans_lxc|LV.AU.0.3.1.r2-05800-gen4meta.0.xml|
@@ -13,7 +14,6 @@ July 25, 2023|LE.UM.3.2.3.c14-03700-SA2150p|sa2150p|LE.UM.3.2.3.c14-03700-SA2150
 July 25, 2023|LE.AU_EAP.1.0.c13-05000-eap-fsl|eap-imx|LE.AU_EAP.1.0.c13-05000-eap-fsl.xml|
 July 25, 2023|LE.UM.3.2.1.c1-76400-sa415m|sa415m|LE.UM.3.2.1.c1-76400-sa415m.xml|
 July 24, 2023|LV.AU.0.3.1.r1-02700-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.3.1.r1-02700-qtiquingvm.0.xml|
-July 24, 2023|LE.AU_EAP.1.0.c1-76900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-76900-eap-fsl.xml|
 July 21, 2023|LV.AU.0.2.2.r1-13400-gen3meta.0|sa81x5agl|LV.AU.0.2.2.r1-13400-gen3meta.0.xml|
 July 21, 2023|CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSLR.1.0.r1-04700-QCAAUTOHOSTHZ.xml|
 July 21, 2023|WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LNX.5.4-02500-QCAAUTOHOSTHZ.xml|
