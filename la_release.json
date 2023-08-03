@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.1.r2-04000-sa8155.0": {
+  "Date": "August 03, 2023",
+  "Tag / Build ID": "LA.AU.1.4.1.r2-04000-sa8155.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.1.r2-04000-sa8155.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.UM.10.9.1.r1-04900-QCS610.0": {
   "Date": "August 03, 2023",
   "Tag / Build ID": "LA.UM.10.9.1.r1-04900-QCS610.0",
