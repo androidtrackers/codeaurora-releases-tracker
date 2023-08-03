@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.2.1.r1-10500-qcs405.0": {
+  "Date": "August 02, 2023",
+  "Tag / Build ID": "LE.UM.5.2.1.r1-10500-qcs405.0",
+  "Chipset": "vt-64-qsap",
+  "Manifest": "LE.UM.5.2.1.r1-10500-qcs405.0.xml"
+ },
  "LE.AU_EAP.1.0.c1-76900-eap-fsl": {
   "Date": "July 24, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-76900-eap-fsl",
