@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 03, 2023|LA.AU.1.3.2.r2-03700-sa8155_gvmq.0|msmnile_gvmq|LA.AU.1.3.2.r2-03700-sa8155_gvmq.0.xml|10.00.00|
 August 03, 2023|LA.QSSI.13.0.r1-11000.01-qssi.0|qssi|LA.QSSI.13.0.r1-11000.01-qssi.0.xml|13.00.00|
 August 03, 2023|LA.UM.9.12.1.r1-06200-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-06200-SMxx50.QSSI12.0.xml|11.00.00|
 August 02, 2023|LA.UM.8.2.c26-02700-sdm660.0|sdm660_64|LA.UM.8.2.c26-02700-sdm660.0.xml|10.00.00|
