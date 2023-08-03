@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 03, 2023|LA.UM.9.12.1.r1-06200-SMxx50.QSSI12.0|kona|LA.UM.9.12.1.r1-06200-SMxx50.QSSI12.0.xml|11.00.00|
 August 02, 2023|LA.UM.8.2.c26-02700-sdm660.0|sdm660_64|LA.UM.8.2.c26-02700-sdm660.0.xml|10.00.00|
 August 01, 2023|LA.UM.9.2.1.c27-04200-sdm660.0|sdm660_64|LA.UM.9.2.1.c27-04200-sdm660.0.xml|11.00.00|
 August 01, 2023|LA.UM.6.7.c26-13100-8x09.0|msm8909go|LA.UM.6.7.c26-13100-8x09.0.xml|08.01.00|
