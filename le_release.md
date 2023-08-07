@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 07, 2023|LU.UM.2.4.1.r1-13300-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-13300-QRB5165.0.xml|
 August 07, 2023|LNX.LE.5.3.2.2-88273-9x40|mdm9640|LNX.LE.5.3.2.2-88273-9x40.xml|
 August 02, 2023|LE.UM.5.2.1.r1-10500-qcs405.0|vt-64-qsap|LE.UM.5.2.1.r1-10500-qcs405.0.xml|
 July 24, 2023|LE.AU_EAP.1.0.c1-76900-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-76900-eap-fsl.xml|
