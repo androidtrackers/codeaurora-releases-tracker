@@ -1,4 +1,11 @@
 {
+ "LA.UM.7.2.r2-13500-8x98.0": {
+  "Date": "August 07, 2023",
+  "Tag / Build ID": "LA.UM.7.2.r2-13500-8x98.0",
+  "Chipset": "msm8998",
+  "Manifest": "LA.UM.7.2.r2-13500-8x98.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.AU.1.4.1.r2-04100-sa8155.0": {
   "Date": "August 06, 2023",
   "Tag / Build ID": "LA.AU.1.4.1.r2-04100-sa8155.0",
