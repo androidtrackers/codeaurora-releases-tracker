@@ -1,4 +1,22 @@
 {
+ "LE.UM.4.1.1.c19-05200-sa515m": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c19-05200-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c19-05200-sa515m.xml"
+ },
+ "LE.UM.3.2.3.c22-04500-SA2150p": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.c22-04500-SA2150p",
+  "Chipset": "sa2150p-nand",
+  "Manifest": "LE.UM.3.2.3.c22-04500-SA2150p.xml"
+ },
+ "LE.AU_EAP.1.0.c19-04400-eap-fsl": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LE.AU_EAP.1.0.c19-04400-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.1.0.c19-04400-eap-fsl.xml"
+ },
  "LV.AU.0.4.0.r1-00300-gen4meta.0": {
   "Date": "August 09, 2023",
   "Tag / Build ID": "LV.AU.0.4.0.r1-00300-gen4meta.0",

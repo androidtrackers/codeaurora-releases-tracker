@@ -1,4 +1,18 @@
 {
+ "LA.UM.8.15.c25-05900-KAMORTA.0": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LA.UM.8.15.c25-05900-KAMORTA.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.8.15.c25-05900-KAMORTA.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.7.7.c26-09800-8x09.0": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LA.UM.7.7.c26-09800-8x09.0",
+  "Chipset": "msm8909",
+  "Manifest": "LA.UM.7.7.c26-09800-8x09.0.xml",
+  "Android Version": "09.00.00"
+ },
  "LA.UM.8.6.2.c31-03300-89xx.0": {
   "Date": "August 10, 2023",
   "Tag / Build ID": "LA.UM.8.6.2.c31-03300-89xx.0",
