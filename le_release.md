@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 09, 2023|LV.AU.0.4.0.r1-00300-gen4meta.0|monaco|LV.AU.0.4.0.r1-00300-gen4meta.0.xml|
 August 09, 2023|LE.UM.1.3.2.2.4-05200-9x50|LE.UM.1.3.2.2.4|LE.UM.1.3.2.2.4-05200-9x50.xml|
 August 07, 2023|LU.UM.2.4.1.r1-13300-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-13300-QRB5165.0.xml|
 August 07, 2023|LNX.LE.5.3.2.2-88273-9x40|mdm9640|LNX.LE.5.3.2.2-88273-9x40.xml|
