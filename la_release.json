@@ -1,4 +1,11 @@
 {
+ "LA.UM.8.6.2.c31-03300-89xx.0": {
+  "Date": "August 10, 2023",
+  "Tag / Build ID": "LA.UM.8.6.2.c31-03300-89xx.0",
+  "Chipset": "msm8953_64",
+  "Manifest": "LA.UM.8.6.2.c31-03300-89xx.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.VENDOR.1.0.r2-05800-WAIPIO.QSSI14.0": {
   "Date": "August 09, 2023",
   "Tag / Build ID": "LA.VENDOR.1.0.r2-05800-WAIPIO.QSSI14.0",
