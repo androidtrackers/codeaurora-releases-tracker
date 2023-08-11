@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 10, 2023|LE.UM.5.2.3.r1-10000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10000-SDX12.xml|
 August 10, 2023|LE.UM.4.1.1.c19-05200-sa515m|sa515m|LE.UM.4.1.1.c19-05200-sa515m.xml|
 August 10, 2023|LE.UM.3.2.3.c22-04500-SA2150p|sa2150p-nand|LE.UM.3.2.3.c22-04500-SA2150p.xml|
 August 10, 2023|LE.AU_EAP.1.0.c19-04400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c19-04400-eap-fsl.xml|
