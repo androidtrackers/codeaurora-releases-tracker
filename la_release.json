@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.8.c25-01500-SDM710.0": {
+  "Date": "August 11, 2023",
+  "Tag / Build ID": "LA.UM.9.8.c25-01500-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.9.8.c25-01500-SDM710.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.0.r2-09200-NEO.0": {
   "Date": "August 11, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-09200-NEO.0",
