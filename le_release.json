@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.4.0-05800-qtiquingvm.0": {
+  "Date": "August 13, 2023",
+  "Tag / Build ID": "LV.AU.0.4.0-05800-qtiquingvm.0",
+  "Chipset": "quin-gvm-lemans",
+  "Manifest": "LV.AU.0.4.0-05800-qtiquingvm.0.xml"
+ },
  "LV.AU.0.4.0-05300-qtiquingvm.1": {
   "Date": "August 13, 2023",
   "Tag / Build ID": "LV.AU.0.4.0-05300-qtiquingvm.1",

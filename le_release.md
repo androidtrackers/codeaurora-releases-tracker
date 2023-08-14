@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 13, 2023|LV.AU.0.4.0-05800-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.0-05800-qtiquingvm.0.xml|
 August 13, 2023|LV.AU.0.4.0-05300-qtiquingvm.1|quin-gvm-lemans|LV.AU.0.4.0-05300-qtiquingvm.1.xml|
 August 10, 2023|LE.UM.5.2.3.r1-10000-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10000-SDX12.xml|
 August 10, 2023|LE.UM.4.1.1.c19-05200-sa515m|sa515m|LE.UM.4.1.1.c19-05200-sa515m.xml|
