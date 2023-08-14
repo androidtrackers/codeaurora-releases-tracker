@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 14, 2023|LA.QSSI.13.0.r1-11100-qssi.0|qssi|LA.QSSI.13.0.r1-11100-qssi.0.xml|13.00.00|
 August 14, 2023|LA.UM.9.16.c25-04100-MANNAR.0|holi|LA.UM.9.16.c25-04100-MANNAR.0.xml|11.00.00|
 August 14, 2023|LA.QSSI.12.0.r1-11900-qssi.0|qssi|LA.QSSI.12.0.r1-11900-qssi.0.xml|12.00.00|
 August 11, 2023|LA.UM.8.6.2.c29-04400-89xx.0|msm8953_64|LA.UM.8.6.2.c29-04400-89xx.0.xml|10.00.00|
