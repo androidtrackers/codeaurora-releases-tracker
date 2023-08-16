@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.4.0.r1-00800-gen4meta.0": {
+  "Date": "August 16, 2023",
+  "Tag / Build ID": "LV.AU.0.4.0.r1-00800-gen4meta.0",
+  "Chipset": "monaco",
+  "Manifest": "LV.AU.0.4.0.r1-00800-gen4meta.0.xml"
+ },
  "BTHOST_AU.LA.14.0-00500-QCAAUTOHOSTHZ": {
   "Date": "August 15, 2023",
   "Tag / Build ID": "BTHOST_AU.LA.14.0-00500-QCAAUTOHOSTHZ",
