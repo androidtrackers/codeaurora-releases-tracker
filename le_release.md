@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 16, 2023|LV.AU.0.4.0-06000-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.0-06000-qtiquingvm.0.xml|
 August 16, 2023|LV.AU.0.4.0.r1-00800-gen4meta.0|monaco|LV.AU.0.4.0.r1-00800-gen4meta.0.xml|
 August 15, 2023|BTHOST_AU.LA.14.0-00500-QCAAUTOHOSTHZ|connx_sdk|BTHOST_AU.LA.14.0-00500-QCAAUTOHOSTHZ.xml|
 August 14, 2023|WLANHOST_AU.LA.14.0-00400-QCAAUTOHOSTHZ|connx_sdk|WLANHOST_AU.LA.14.0-00400-QCAAUTOHOSTHZ.xml|
