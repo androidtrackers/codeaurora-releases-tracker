@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 17, 2023|LV.AU.0.4.0.r1-01000-gen4meta.0|monaco|LV.AU.0.4.0.r1-01000-gen4meta.0.xml|
 August 16, 2023|LV.AU.0.3.1.r2-06300-gen4meta.0|lemans_lxc|LV.AU.0.3.1.r2-06300-gen4meta.0.xml|
 August 16, 2023|LE.UM.5.4.1.r1-24800-QRB2210.0|QRB2210|LE.UM.5.4.1.r1-24800-QRB2210.0.xml|
 August 16, 2023|LV.AU.0.4.0-06000-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.0-06000-qtiquingvm.0.xml|
