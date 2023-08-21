@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 21, 2023|LA.UM.9.12.r1-15600-SMxx50.0|kona|LA.UM.9.12.r1-15600-SMxx50.0.xml|11.00.00|
 August 20, 2023|LA.UM.9.16.c26-02400-MANNAR.0|holi|LA.UM.9.16.c26-02400-MANNAR.0.xml|11.00.00|
 August 20, 2023|LA.UM.9.15.c26-01900-KAMORTA.QSSI12c28.0|bengal|LA.UM.9.15.c26-01900-KAMORTA.QSSI12c28.0.xml|11.00.00|
 August 20, 2023|LA.AU.1.4.2.r1-05400-gen3meta.0|msmnile_au|LA.AU.1.4.2.r1-05400-gen3meta.0.xml|10.00.00|
