@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 22, 2023|KERNEL.PLATFORM.1.0.r1-15600-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-15600-kernel.0.xml||
 August 22, 2023|DISPLAY.LA.2.0.r1-11500-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-11500-WAIPIO.0.xml|00.00.00|
 August 22, 2023|VIDEO.LA.2.0.r1-08700-WAIPIO.0|video|VIDEO.LA.2.0.r1-08700-WAIPIO.0.xml|00.00.00|
 August 22, 2023|LA.AU.1.4.1.r2-04300-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-04300-sa8155.0.xml|10.00.00|
