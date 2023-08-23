@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.3.1.r1-17200-genericarmv8-64.0": {
+  "Date": "August 22, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r1-17200-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r1-17200-genericarmv8-64.0.xml"
+ },
  "LE.UM.7.4.1.r1-10000-sa525m-tele": {
   "Date": "August 17, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.r1-10000-sa525m-tele",
