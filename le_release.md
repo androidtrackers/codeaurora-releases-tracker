@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 24, 2023|LE.UM.5.3.1.r2-02700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02700-genericarmv8-64.0.xml|
 August 22, 2023|LE.UM.5.3.1.r1-17200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17200-genericarmv8-64.0.xml|
 August 17, 2023|LE.UM.7.4.1.r1-10000-sa525m-tele|sa525m-tele-tele-debug|LE.UM.7.4.1.r1-10000-sa525m-tele.xml|
 August 17, 2023|LE.UM.3.2.3.1.c1-04500-SA2150p|sa2150p|LE.UM.3.2.3.1.c1-04500-SA2150p.xml|

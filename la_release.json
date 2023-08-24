@@ -1,4 +1,39 @@
 {
+ "KERNEL.PLATFORM.2.0.r11-02800-kernel.0": {
+  "Date": "August 24, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.0.r11-02800-kernel.0",
+  "Chipset": "kalama_le",
+  "Manifest": "KERNEL.PLATFORM.2.0.r11-02800-kernel.0.xml",
+  "Android Version": ""
+ },
+ "VIDEO.LA.2.0.r2-01300-WAIPIO.0": {
+  "Date": "August 24, 2023",
+  "Tag / Build ID": "VIDEO.LA.2.0.r2-01300-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r2-01300-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "DISPLAY.LA.2.0.r3-01800-WAIPIO.0": {
+  "Date": "August 24, 2023",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r3-01800-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r3-01800-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "LA.UM.8.8.1.r3-01500-QCS605.0": {
+  "Date": "August 24, 2023",
+  "Tag / Build ID": "LA.UM.8.8.1.r3-01500-QCS605.0",
+  "Chipset": "qcs605",
+  "Manifest": "LA.UM.8.8.1.r3-01500-QCS605.0.xml",
+  "Android Version": "10.00.00"
+ },
+ "LA.UM.9.14.1.c25-03900-QCM6490.0": {
+  "Date": "August 24, 2023",
+  "Tag / Build ID": "LA.UM.9.14.1.c25-03900-QCM6490.0",
+  "Chipset": "lahaina",
+  "Manifest": "LA.UM.9.14.1.c25-03900-QCM6490.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.15.2.r1-07800-KAMORTA.QSSI14.0": {
   "Date": "August 23, 2023",
   "Tag / Build ID": "LA.UM.9.15.2.r1-07800-KAMORTA.QSSI14.0",
