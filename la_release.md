@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 23, 2023|LA.UM.9.15.2.r1-07800-KAMORTA.QSSI14.0|bengal|LA.UM.9.15.2.r1-07800-KAMORTA.QSSI14.0.xml|11.00.00|
 August 23, 2023|LA.VENDOR.1.0.r1-23000-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r1-23000-WAIPIO.QSSI13.0.xml|11.00.00|
 August 22, 2023|LA.UM.9.14.1.r1-10900-QCM6490.QSSI14.0|lahaina|LA.UM.9.14.1.r1-10900-QCM6490.QSSI14.0.xml|11.00.00|
 August 22, 2023|LA.AU.1.4.1.r2-04400-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-04400-sa8155.0.xml|10.00.00|
