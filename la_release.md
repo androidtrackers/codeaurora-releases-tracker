@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+August 24, 2023|LA.UM.9.6.4.r1-05100-89xx.QSSI13.0|msm8937_lily|LA.UM.9.6.4.r1-05100-89xx.QSSI13.0.xml|11.00.00|
 August 24, 2023|CAMERA.LA.2.0.r2-02400-WAIPIO.0|camera|CAMERA.LA.2.0.r2-02400-WAIPIO.0.xml|00.00.00|
 August 24, 2023|KERNEL.PLATFORM.2.0.r11-02800-kernel.0|kalama_le|KERNEL.PLATFORM.2.0.r11-02800-kernel.0.xml||
 August 24, 2023|VIDEO.LA.2.0.r2-01300-WAIPIO.0|video|VIDEO.LA.2.0.r2-01300-WAIPIO.0.xml|00.00.00|
