@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 25, 2023|LV.AU.1.2.1.r2-06400-gen3meta.0|sa81x5|LV.AU.1.2.1.r2-06400-gen3meta.0.xml|
 August 24, 2023|LE.UM.6.2.4.r1-14400-QCS610.0|QCS610|LE.UM.6.2.4.r1-14400-QCS610.0.xml|
 August 24, 2023|CHSS.LNX_FSL.5.2-02400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2-02400-QCAAUTOHOSTHZ.xml|
 August 24, 2023|LE.UM.5.3.1.r2-02700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02700-genericarmv8-64.0.xml|
