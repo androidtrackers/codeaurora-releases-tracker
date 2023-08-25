@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 24, 2023|LE.UM.6.2.4.r1-14400-QCS610.0|QCS610|LE.UM.6.2.4.r1-14400-QCS610.0.xml|
+August 24, 2023|CHSS.LNX_FSL.5.2-02400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2-02400-QCAAUTOHOSTHZ.xml|
 August 24, 2023|LE.UM.5.3.1.r2-02700-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02700-genericarmv8-64.0.xml|
 August 22, 2023|LE.UM.5.3.1.r1-17200-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17200-genericarmv8-64.0.xml|
 August 17, 2023|LE.UM.7.4.1.r1-10000-sa525m-tele|sa525m-tele-tele-debug|LE.UM.7.4.1.r1-10000-sa525m-tele.xml|
