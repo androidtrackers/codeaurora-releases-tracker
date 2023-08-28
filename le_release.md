@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+August 28, 2023|LE.AU_EAP.1.0.c1-77400-eap-fsl|eap-imx|LE.AU_EAP.1.0.c1-77400-eap-fsl.xml|
 August 27, 2023|LE.AU_EAP.1.0.c18-02600-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-02600-eap-fsl.xml|
 August 27, 2023|LV.AU.0.3.1.r2-06600-gen4meta.0|lemans_lxc|LV.AU.0.3.1.r2-06600-gen4meta.0.xml|
 August 27, 2023|LE.UM.6.2.4.r1-14600-QCS610.0|QCS610|LE.UM.6.2.4.r1-14600-QCS610.0.xml|
