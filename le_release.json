@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.6.r1-07500-SDX65.0": {
+  "Date": "August 28, 2023",
+  "Tag / Build ID": "LE.UM.6.3.6.r1-07500-SDX65.0",
+  "Chipset": "sdxlemur-mbb-nogplv3-debug",
+  "Manifest": "LE.UM.6.3.6.r1-07500-SDX65.0.xml"
+ },
  "LE.AU_EAP.1.0.c1-77400-eap-fsl": {
   "Date": "August 28, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c1-77400-eap-fsl",
