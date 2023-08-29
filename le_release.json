@@ -1,4 +1,16 @@
 {
+ "LE.UM.3.2.3.c21-03100-SA2150p": {
+  "Date": "August 29, 2023",
+  "Tag / Build ID": "LE.UM.3.2.3.c21-03100-SA2150p",
+  "Chipset": "sa2150p",
+  "Manifest": "LE.UM.3.2.3.c21-03100-SA2150p.xml"
+ },
+ "LE.UM.4.1.1.c18-02600-sa515m": {
+  "Date": "August 29, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c18-02600-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c18-02600-sa515m.xml"
+ },
  "LR.AU.0.1.1.r2-04900-gen4meta.0": {
   "Date": "August 28, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-04900-gen4meta.0",
