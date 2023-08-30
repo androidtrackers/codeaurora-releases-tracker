@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-09300-NEOLA.0": {
+  "Date": "August 30, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-09300-NEOLA.0",
+  "Chipset": "neo_la",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-09300-NEOLA.0.xml",
+  "Android Version": ""
+ },
  "KERNEL.PLATFORM.1.0.r2-09300-ANORAK.0": {
   "Date": "August 29, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-09300-ANORAK.0",
