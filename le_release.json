@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.3.0-00600-eap-fsl": {
+  "Date": "August 31, 2023",
+  "Tag / Build ID": "LE.AU_EAP.3.0-00600-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.3.0-00600-eap-fsl.xml"
+ },
  "LE.UM.7.4.1.r1-10700-sa525m-tele": {
   "Date": "August 30, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.r1-10700-sa525m-tele",
