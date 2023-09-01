@@ -1,4 +1,10 @@
 {
+ "LR.AU.0.1.1.r2-05000-gen4meta.0": {
+  "Date": "September 01, 2023",
+  "Tag / Build ID": "LR.AU.0.1.1.r2-05000-gen4meta.0",
+  "Chipset": "sa8775",
+  "Manifest": "LR.AU.0.1.1.r2-05000-gen4meta.0.xml"
+ },
  "LE.AU_EAP.3.0-00600-eap-fsl": {
   "Date": "August 31, 2023",
   "Tag / Build ID": "LE.AU_EAP.3.0-00600-eap-fsl",
