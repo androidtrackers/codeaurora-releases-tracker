@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 04, 2023|LE.UM.7.4.1.r1-10900-sa525m-tele|sa525|LE.UM.7.4.1.r1-10900-sa525m-tele.xml|
+September 04, 2023|LE.UM.3.2.3.c19-03000-SA2150p|sa2150p|LE.UM.3.2.3.c19-03000-SA2150p.xml|
+September 04, 2023|LE.UM.6.3.6.r1-07700-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-07700-SDX65.0.xml|
+September 04, 2023|LE.AU_EAP.1.0.c16-03200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-03200-eap-fsl.xml|
 September 04, 2023|LE.UM.4.1.1.c16-03300-sa515m|sa515m|LE.UM.4.1.1.c16-03300-sa515m.xml|
 September 01, 2023|LE.UM.1.3.2.2.4-05800-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-05800-9x50.xml|
 September 01, 2023|LR.AU.0.1.1.r2-05000-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05000-gen4meta.0.xml|
