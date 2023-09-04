@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.1.1.c16-03300-sa515m": {
+  "Date": "September 04, 2023",
+  "Tag / Build ID": "LE.UM.4.1.1.c16-03300-sa515m",
+  "Chipset": "sa515m",
+  "Manifest": "LE.UM.4.1.1.c16-03300-sa515m.xml"
+ },
  "LE.UM.1.3.2.2.4-05800-9x50": {
   "Date": "September 01, 2023",
   "Tag / Build ID": "LE.UM.1.3.2.2.4-05800-9x50",
