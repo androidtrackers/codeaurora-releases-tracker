@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.4.1.r1-00100-qtiquingvm.0": {
+  "Date": "September 04, 2023",
+  "Tag / Build ID": "LV.AU.0.4.1.r1-00100-qtiquingvm.0",
+  "Chipset": "quin-gvm-lemans",
+  "Manifest": "LV.AU.0.4.1.r1-00100-qtiquingvm.0.xml"
+ },
  "LE.UM.7.4.1.r1-10900-sa525m-tele": {
   "Date": "September 04, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.r1-10900-sa525m-tele",

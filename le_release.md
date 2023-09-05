@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 04, 2023|LV.AU.0.4.1.r1-00100-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.1.r1-00100-qtiquingvm.0.xml|
 September 04, 2023|LE.UM.7.4.1.r1-10900-sa525m-tele|sa525|LE.UM.7.4.1.r1-10900-sa525m-tele.xml|
 September 04, 2023|LE.UM.3.2.3.c19-03000-SA2150p|sa2150p|LE.UM.3.2.3.c19-03000-SA2150p.xml|
 September 04, 2023|LE.UM.6.3.6.r1-07700-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-07700-SDX65.0.xml|
