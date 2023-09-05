@@ -1,4 +1,10 @@
 {
+ "LU.UM.3.5.1.r1-04900-QCS6490.0": {
+  "Date": "September 04, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-04900-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-04900-QCS6490.0.xml"
+ },
  "LV.AU.0.4.1.r1-00100-qtiquingvm.0": {
   "Date": "September 04, 2023",
   "Tag / Build ID": "LV.AU.0.4.1.r1-00100-qtiquingvm.0",
