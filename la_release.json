@@ -1,4 +1,18 @@
 {
+ "LA.UM.9.12.1.r1-06300-SMxx50.QSSI12.0": {
+  "Date": "September 05, 2023",
+  "Tag / Build ID": "LA.UM.9.12.1.r1-06300-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.1.r1-06300-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LAW.BR.4.0-51400-89xx.0": {
+  "Date": "September 05, 2023",
+  "Tag / Build ID": "LAW.BR.4.0-51400-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-51400-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.UM.8.12.4.r1-07500-QCS8250.0": {
   "Date": "September 05, 2023",
   "Tag / Build ID": "LA.UM.8.12.4.r1-07500-QCS8250.0",

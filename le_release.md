@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 05, 2023|LV.AU.0.4.0-06400-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.0-06400-qtiquingvm.0.xml|
 September 04, 2023|LU.UM.3.5.1.r1-04900-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-04900-QCS6490.0.xml|
 September 04, 2023|LV.AU.0.4.1.r1-00100-qtiquingvm.0|quin-gvm-lemans|LV.AU.0.4.1.r1-00100-qtiquingvm.0.xml|
 September 04, 2023|LE.UM.7.4.1.r1-10900-sa525m-tele|sa525|LE.UM.7.4.1.r1-10900-sa525m-tele.xml|
