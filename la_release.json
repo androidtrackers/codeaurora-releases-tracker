@@ -1,4 +1,11 @@
 {
+ "LA.VENDOR.13.2.1.r1-08500-DIVAR.0": {
+  "Date": "September 06, 2023",
+  "Tag / Build ID": "LA.VENDOR.13.2.1.r1-08500-DIVAR.0",
+  "Chipset": "bengal_515",
+  "Manifest": "LA.VENDOR.13.2.1.r1-08500-DIVAR.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.2.c25-03000-SDMxx0.0": {
   "Date": "September 06, 2023",
   "Tag / Build ID": "LA.UM.9.2.c25-03000-SDMxx0.0",
