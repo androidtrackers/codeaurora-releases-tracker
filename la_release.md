@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 08, 2023|LA.UM.8.3.c25-08600-sdm845.0|sdm845|LA.UM.8.3.c25-08600-sdm845.0.xml|10.00.00|
 September 07, 2023|LA.QSSI.11.0.c25-00900-qssi.0|qssi|LA.QSSI.11.0.c25-00900-qssi.0.xml|11.00.00|
 September 06, 2023|LA.VENDOR.13.2.1.r1-08500-DIVAR.0|bengal_515|LA.VENDOR.13.2.1.r1-08500-DIVAR.0.xml|11.00.00|
 September 06, 2023|LA.UM.9.2.c25-03000-SDMxx0.0|sdm660_64|LA.UM.9.2.c25-03000-SDMxx0.0.xml|11.00.00|
