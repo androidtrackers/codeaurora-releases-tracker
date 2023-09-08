@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.8.r1-06000-SDM710.0": {
+  "Date": "September 08, 2023",
+  "Tag / Build ID": "LA.UM.9.8.r1-06000-SDM710.0",
+  "Chipset": "sdm710",
+  "Manifest": "LA.UM.9.8.r1-06000-SDM710.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.12.0.c25-00700-qssi.0": {
   "Date": "September 08, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.c25-00700-qssi.0",
