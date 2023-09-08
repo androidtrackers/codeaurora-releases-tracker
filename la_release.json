@@ -1,4 +1,11 @@
 {
+ "LA.QSSI.11.0.c25-00900-qssi.0": {
+  "Date": "September 07, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.c25-00900-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.c25-00900-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.VENDOR.13.2.1.r1-08500-DIVAR.0": {
   "Date": "September 06, 2023",
   "Tag / Build ID": "LA.VENDOR.13.2.1.r1-08500-DIVAR.0",
