@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 09, 2023|LA.UM.10.2.1.c25-02300-sdm660.0|sdm660_64|LA.UM.10.2.1.c25-02300-sdm660.0.xml|12.00.00|
 September 08, 2023|LA.UM.9.14.r1-22400-LAHAINA.QSSI13.0|lahaina|LA.UM.9.14.r1-22400-LAHAINA.QSSI13.0.xml|11.00.00|
 September 08, 2023|LA.UM.9.11.c25-02600-NICOBAR.QSSI12c25.0|trinket|LA.UM.9.11.c25-02600-NICOBAR.QSSI12c25.0.xml|12.00.00|
 September 08, 2023|LA.UM.9.8.r1-06000-SDM710.0|sdm710|LA.UM.9.8.r1-06000-SDM710.0.xml|11.00.00|
