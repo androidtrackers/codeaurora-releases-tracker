@@ -1,4 +1,10 @@
 {
+ "LV.HB.1.1.5.c1-10800-8x96.0": {
+  "Date": "September 11, 2023",
+  "Tag / Build ID": "LV.HB.1.1.5.c1-10800-8x96.0",
+  "Chipset": "8x96autogvmgh",
+  "Manifest": "LV.HB.1.1.5.c1-10800-8x96.0.xml"
+ },
  "LE.UM.4.4.2.r1-10200-SDX55": {
   "Date": "September 08, 2023",
   "Tag / Build ID": "LE.UM.4.4.2.r1-10200-SDX55",
