@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 12, 2023|LE.UM.2.3.6.c1-32700-9x07|mdm9607-poky|LE.UM.2.3.6.c1-32700-9x07.xml|
 September 11, 2023|LV.HB.1.1.5.c1-10800-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-10800-8x96.0.xml|
 September 08, 2023|LE.UM.4.4.2.r1-10200-SDX55|sdxprairie|LE.UM.4.4.2.r1-10200-SDX55.xml|
 September 07, 2023|LR.AU.0.1.1.r2-05100-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05100-gen4meta.0.xml|
