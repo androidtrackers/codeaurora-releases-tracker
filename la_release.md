@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 12, 2023|LA.AU.1.4.1.r2-04700-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-04700-sa8155.0.xml|10.00.00|
 September 11, 2023|LA.QSSI.13.0.r1-11500-qssi.0|qssi|LA.QSSI.13.0.r1-11500-qssi.0.xml|13.00.00|
 September 11, 2023|LA.QSSI.12.0.r1-12200-qssi.0|qssi|LA.QSSI.12.0.r1-12200-qssi.0.xml|12.00.00|
 September 11, 2023|LA.QSSI.11.0.r1-20100-qssi.0|qssi|LA.QSSI.11.0.r1-20100-qssi.0.xml|11.00.00|
