@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 12, 2023|LE.UM.1.3.2.2.4-06000-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-06000-9x50.xml|
 September 12, 2023|LU.UM.3.5.1.r1-05200-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-05200-QCS6490.0.xml|
 September 12, 2023|LE.UM.2.3.6.c1-32700-9x07|mdm9607-poky|LE.UM.2.3.6.c1-32700-9x07.xml|
 September 11, 2023|LV.HB.1.1.5.c1-10800-8x96.0|8x96autogvmgh|LV.HB.1.1.5.c1-10800-8x96.0.xml|
