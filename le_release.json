@@ -1,4 +1,10 @@
 {
+ "LE.UM.6.3.5.r1-04100-QCS610.0": {
+  "Date": "September 13, 2023",
+  "Tag / Build ID": "LE.UM.6.3.5.r1-04100-QCS610.0",
+  "Chipset": "qcs610-odk-64-multimedia-fullstack-debug",
+  "Manifest": "LE.UM.6.3.5.r1-04100-QCS610.0.xml"
+ },
  "LE.UM.2.3.2-15200-SDX24": {
   "Date": "September 13, 2023",
   "Tag / Build ID": "LE.UM.2.3.2-15200-SDX24",
