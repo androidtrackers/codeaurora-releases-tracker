@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 14, 2023|LA.UM.11.2.1.r1-04500-sdm660.0|sdm660_64|LA.UM.11.2.1.r1-04500-sdm660.0.xml|13.00.00|
 September 13, 2023|LA.UM.8.8.1.r1-10300-QCS605.0|qcs605|LA.UM.8.8.1.r1-10300-QCS605.0.xml|10.00.00|
 September 13, 2023|LA.QSSI.13.0.r1-11500.01-qssi.0|qssi|LA.QSSI.13.0.r1-11500.01-qssi.0.xml|13.00.00|
 September 13, 2023|KERNEL.PLATFORM.2.1.r5-04000-kernel.0|sdxbaagha|KERNEL.PLATFORM.2.1.r5-04000-kernel.0.xml||
