@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 19, 2023|LA.UM.8.9.1.c25-00800-QCS610.0|sm6150|LA.UM.8.9.1.c25-00800-QCS610.0.xml|10.00.00|
 September 16, 2023|KERNEL.PLATFORM.2.0.r11-03100-kernel.0|kalama_le|KERNEL.PLATFORM.2.0.r11-03100-kernel.0.xml||
 September 16, 2023|LA.VENDOR.1.0.r1-23400-WAIPIO.QSSI14.0|parrot|LA.VENDOR.1.0.r1-23400-WAIPIO.QSSI14.0.xml|11.00.00|
 September 15, 2023|CAMERA.LA.2.0.r1-10700-WAIPIO.0|camera|CAMERA.LA.2.0.r1-10700-WAIPIO.0.xml|00.00.00|
