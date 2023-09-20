@@ -1,4 +1,16 @@
 {
+ "LV.AU.0.4.0.r1-01900-gen4meta.0": {
+  "Date": "September 20, 2023",
+  "Tag / Build ID": "LV.AU.0.4.0.r1-01900-gen4meta.0",
+  "Chipset": "monaco",
+  "Manifest": "LV.AU.0.4.0.r1-01900-gen4meta.0.xml"
+ },
+ "LE.UM.4.4.1.r3-19200-QRB5165.0": {
+  "Date": "September 20, 2023",
+  "Tag / Build ID": "LE.UM.4.4.1.r3-19200-QRB5165.0",
+  "Chipset": "qrb5165-rb5-pine-robotics-rb-debug",
+  "Manifest": "LE.UM.4.4.1.r3-19200-QRB5165.0.xml"
+ },
  "LV.AU.1.2.4.r1-05500-gen3meta.0": {
   "Date": "September 19, 2023",
   "Tag / Build ID": "LV.AU.1.2.4.r1-05500-gen3meta.0",
