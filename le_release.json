@@ -1,4 +1,10 @@
 {
+ "LV.AU.1.2.4.r1-05500-gen3meta.0": {
+  "Date": "September 19, 2023",
+  "Tag / Build ID": "LV.AU.1.2.4.r1-05500-gen3meta.0",
+  "Chipset": "sa81x5lxc",
+  "Manifest": "LV.AU.1.2.4.r1-05500-gen3meta.0.xml"
+ },
  "LV.AU.1.2.5.r1-01600-qtiquingvm.0": {
   "Date": "September 18, 2023",
   "Tag / Build ID": "LV.AU.1.2.5.r1-01600-qtiquingvm.0",
