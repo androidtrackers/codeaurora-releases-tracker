@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 21, 2023|LA.AU.1.3.3.r2-03300-gen3meta.0|msmnile_au|LA.AU.1.3.3.r2-03300-gen3meta.0.xml|10.00.00|
 September 20, 2023|LA.QSSI.13.0.r1-11500.02-qssi.0|qssi|LA.QSSI.13.0.r1-11500.02-qssi.0.xml|13.00.00|
 September 20, 2023|KERNEL.PLATFORM.2.0.r11-03200-kernel.0|kalama_le|KERNEL.PLATFORM.2.0.r11-03200-kernel.0.xml||
 September 20, 2023|LA.UM.9.15.c26-02800-KAMORTA.QSSI12c28.0|bengal|LA.UM.9.15.c26-02800-KAMORTA.QSSI12c28.0.xml|11.00.00|
