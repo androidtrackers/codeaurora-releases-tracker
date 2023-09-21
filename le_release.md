@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 21, 2023|LE.UM.5.3.1.r2-02900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02900-genericarmv8-64.0.xml|
 September 20, 2023|LV.AU.1.2.4.r1-05700-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-05700-gen3meta.0.xml|
 September 20, 2023|LV.AU.0.4.0.r1-01900-gen4meta.0|monaco|LV.AU.0.4.0.r1-01900-gen4meta.0.xml|
 September 20, 2023|LE.UM.4.4.1.r3-19200-QRB5165.0|qrb5165-rb5-pine-robotics-rb-debug|LE.UM.4.4.1.r3-19200-QRB5165.0.xml|
