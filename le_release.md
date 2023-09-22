@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 22, 2023|LE.UM.5.2.3.r1-10200-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10200-SDX12.xml|
 September 21, 2023|LV.AU.0.4.0.r1-02600-gen4meta.0|monaco|LV.AU.0.4.0.r1-02600-gen4meta.0.xml|
 September 21, 2023|LE.UM.5.3.1.r2-02900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-02900-genericarmv8-64.0.xml|
 September 20, 2023|LV.AU.1.2.4.r1-05700-gen3meta.0|sa81x5lxc|LV.AU.1.2.4.r1-05700-gen3meta.0.xml|
