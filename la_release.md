@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 21, 2023|LA.QSSI.12.0.r1-12200.01-qssi.0|qssi|LA.QSSI.12.0.r1-12200.01-qssi.0.xml|12.00.00|
 September 21, 2023|CAMERA.LA.2.0.r2-02500-WAIPIO.0|camera|CAMERA.LA.2.0.r2-02500-WAIPIO.0.xml|00.00.00|
 September 21, 2023|LA.VENDOR.1.0.r2-06200-WAIPIO.QSSI13.0|parrot|LA.VENDOR.1.0.r2-06200-WAIPIO.QSSI13.0.xml|13.00.00|
 September 21, 2023|KERNEL.PLATFORM.1.0.r2-09400-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-09400-WAIPIOLE.0.xml||
