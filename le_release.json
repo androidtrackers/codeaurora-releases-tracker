@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.4.0.r1-02600-gen4meta.0": {
+  "Date": "September 21, 2023",
+  "Tag / Build ID": "LV.AU.0.4.0.r1-02600-gen4meta.0",
+  "Chipset": "monaco",
+  "Manifest": "LV.AU.0.4.0.r1-02600-gen4meta.0.xml"
+ },
  "LE.UM.5.3.1.r2-02900-genericarmv8-64.0": {
   "Date": "September 21, 2023",
   "Tag / Build ID": "LE.UM.5.3.1.r2-02900-genericarmv8-64.0",
