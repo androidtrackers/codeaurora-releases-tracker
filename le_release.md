@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 24, 2023|CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ.xml|
+September 24, 2023|CHSS.LNX_FSL.5.2.1-00800-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2.1-00800-QCAAUTOHOSTHZ.xml|
 September 22, 2023|LV.AU.0.4.0.r1-02700-gen4meta.0|monaco|LV.AU.0.4.0.r1-02700-gen4meta.0.xml|
 September 22, 2023|LE.UM.5.2.3.r1-10200-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10200-SDX12.xml|
 September 21, 2023|LV.AU.0.4.0.r1-02600-gen4meta.0|monaco|LV.AU.0.4.0.r1-02600-gen4meta.0.xml|
