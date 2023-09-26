@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 26, 2023|KERNEL.PLATFORM.1.0.r2-09500-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-09500-ANORAK.0.xml||
 September 26, 2023|LA.UM.7.2.c27-04400-sdm660.0|sdm660_64|LA.UM.7.2.c27-04400-sdm660.0.xml|09.00.00|
 September 26, 2023|DISPLAY.LA.2.0.r1-12000-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-12000-WAIPIO.0.xml|00.00.00|
 September 26, 2023|CAMERA.LA.2.0.r1-10800-WAIPIO.0|camera|CAMERA.LA.2.0.r1-10800-WAIPIO.0.xml|00.00.00|
