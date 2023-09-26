@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+September 26, 2023|LA.QSSI.13.0.r1-11600-qssi.0|qssi|LA.QSSI.13.0.r1-11600-qssi.0.xml|13.00.00|
 September 26, 2023|LA.QSSI.12.0.r1-12300-qssi.0|qssi|LA.QSSI.12.0.r1-12300-qssi.0.xml|12.00.00|
 September 26, 2023|LA.UM.9.14.r1-22900-LAHAINA.QSSI14.0|lahaina|LA.UM.9.14.r1-22900-LAHAINA.QSSI14.0.xml|11.00.00|
 September 26, 2023|LA.VENDOR.1.0.c2-00600-WAIPIO.0|taro|LA.VENDOR.1.0.c2-00600-WAIPIO.0.xml|11.00.00|
