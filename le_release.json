@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.1.r2-17900-QRB5165.0": {
+  "Date": "September 27, 2023",
+  "Tag / Build ID": "LE.UM.4.4.1.r2-17900-QRB5165.0",
+  "Chipset": "qrb5165-rb5-robotics-fullstack-debug",
+  "Manifest": "LE.UM.4.4.1.r2-17900-QRB5165.0.xml"
+ },
  "CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ": {
   "Date": "September 24, 2023",
   "Tag / Build ID": "CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ",

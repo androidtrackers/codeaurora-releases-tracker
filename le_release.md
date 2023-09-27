@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 27, 2023|LE.UM.4.4.1.r2-17900-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-17900-QRB5165.0.xml|
 September 24, 2023|CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.1.r1-02400-QCAAUTOHOSTHZ.xml|
 September 24, 2023|CHSS.LNX_FSL.5.2.1-00800-QCAAUTOHOSTHZ|imxauto|CHSS.LNX_FSL.5.2.1-00800-QCAAUTOHOSTHZ.xml|
 September 22, 2023|LV.AU.0.4.0.r1-02700-gen4meta.0|monaco|LV.AU.0.4.0.r1-02700-gen4meta.0.xml|
