@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0": {
+  "Date": "September 29, 2023",
+  "Tag / Build ID": "LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0",
+  "Chipset": "atoll",
+  "Manifest": "LA.UM.9.1.r1-14200-SMxxx0.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.1.1.r1-00400-ANORAK.0": {
   "Date": "September 28, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.1.r1-00400-ANORAK.0",
