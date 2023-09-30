@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+September 30, 2023|LE.UM.7.4.1.c1-00600-sa525m-tele|sa525|LE.UM.7.4.1.c1-00600-sa525m-tele.xml|
 September 29, 2023|LR.AU.0.1.1.r2-05400-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05400-gen4meta.0.xml|
 September 29, 2023|LE.UM.1.3.2.2.4-06700-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-06700-9x50.xml|
 September 29, 2023|LE.UM.6.3.7.r1-03500-QCS7230.0|qrb5165-rb5-robotics-fullstack-perf|LE.UM.6.3.7.r1-03500-QCS7230.0.xml|
