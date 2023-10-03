@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.12.c10-67000-SAIPAN.QSSI14.0": {
+  "Date": "October 03, 2023",
+  "Tag / Build ID": "LA.UM.9.12.c10-67000-SAIPAN.QSSI14.0",
+  "Chipset": "lito",
+  "Manifest": "LA.UM.9.12.c10-67000-SAIPAN.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.12.0.c1-03600-qssi.0": {
   "Date": "October 03, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.c1-03600-qssi.0",
