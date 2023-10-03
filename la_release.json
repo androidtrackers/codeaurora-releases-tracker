@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.12.0.c1-03600-qssi.0": {
+  "Date": "October 03, 2023",
+  "Tag / Build ID": "LA.QSSI.12.0.c1-03600-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.c1-03600-qssi.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "LA.UM.9.15.2.c1-05500-KAMORTA.QSSI12.0": {
+  "Date": "October 03, 2023",
+  "Tag / Build ID": "LA.UM.9.15.2.c1-05500-KAMORTA.QSSI12.0",
+  "Chipset": "bengal_2w",
+  "Manifest": "LA.UM.9.15.2.c1-05500-KAMORTA.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.11.0.c1-00700-qssi.0": {
   "Date": "October 02, 2023",
   "Tag / Build ID": "LA.QSSI.11.0.c1-00700-qssi.0",
