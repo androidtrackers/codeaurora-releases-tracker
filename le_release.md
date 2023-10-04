@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 04, 2023|LR.AU.0.1.1.r2-05500-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05500-gen4meta.0.xml|
 September 30, 2023|LE.UM.7.4.1.c1-00600-sa525m-tele|sa525|LE.UM.7.4.1.c1-00600-sa525m-tele.xml|
 September 29, 2023|LR.AU.0.1.1.r2-05400-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05400-gen4meta.0.xml|
 September 29, 2023|LE.UM.1.3.2.2.4-06700-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-06700-9x50.xml|
