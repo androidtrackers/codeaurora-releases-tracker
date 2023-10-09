@@ -1,4 +1,16 @@
 {
+ "LE.UM.2.3.3.c25-02300-QCS605.0": {
+  "Date": "October 09, 2023",
+  "Tag / Build ID": "LE.UM.2.3.3.c25-02300-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.c25-02300-QCS605.0.xml"
+ },
+ "LE.UM.4.3.1.r1-07900-genericarmv8-64.0": {
+  "Date": "October 09, 2023",
+  "Tag / Build ID": "LE.UM.4.3.1.r1-07900-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.4.3.1.r1-07900-genericarmv8-64.0.xml"
+ },
  "LR.AU.0.1.1.r2-05500-gen4meta.0": {
   "Date": "October 04, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-05500-gen4meta.0",
