@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 09, 2023|LE.UM.1.3.2.2.4-06900-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-06900-9x50.xml|
 October 09, 2023|LE.UM.2.3.3.c25-02300-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.c25-02300-QCS605.0.xml|
 October 09, 2023|LE.UM.4.3.1.r1-07900-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.4.3.1.r1-07900-genericarmv8-64.0.xml|
 October 04, 2023|LR.AU.0.1.1.r2-05500-gen4meta.0|sa8775|LR.AU.0.1.1.r2-05500-gen4meta.0.xml|
