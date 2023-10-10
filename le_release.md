@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 10, 2023|LE.UM.4.1.1.c18-03000-sa515m|sa515m|LE.UM.4.1.1.c18-03000-sa515m.xml|
 October 09, 2023|LE.UM.3.2.3.c21-03600-SA2150p|sa2150p|LE.UM.3.2.3.c21-03600-SA2150p.xml|
 October 09, 2023|LE.UM.1.3.2.2.4-06900-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-06900-9x50.xml|
 October 09, 2023|LE.UM.2.3.3.c25-02300-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.c25-02300-QCS605.0.xml|
