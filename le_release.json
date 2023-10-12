@@ -1,4 +1,10 @@
 {
+ "LE.UM.4.4.2.r1-10300-SDX55": {
+  "Date": "October 12, 2023",
+  "Tag / Build ID": "LE.UM.4.4.2.r1-10300-SDX55",
+  "Chipset": "sdxprairie",
+  "Manifest": "LE.UM.4.4.2.r1-10300-SDX55.xml"
+ },
  "LE.AU_EAP.1.0.c18-03300-eap-fsl": {
   "Date": "October 11, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.c18-03300-eap-fsl",

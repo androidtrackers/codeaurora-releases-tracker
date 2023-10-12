@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 12, 2023|LE.UM.4.4.2.r1-10300-SDX55|sdxprairie|LE.UM.4.4.2.r1-10300-SDX55.xml|
 October 11, 2023|LE.AU_EAP.1.0.c18-03300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-03300-eap-fsl.xml|
 October 11, 2023|LE.UM.1.3.c25-08700-8x53|apq8053-32|LE.UM.1.3.c25-08700-8x53.xml|
 October 10, 2023|LE.UM.4.1.1.c18-03000-sa515m|sa515m|LE.UM.4.1.1.c18-03000-sa515m.xml|
