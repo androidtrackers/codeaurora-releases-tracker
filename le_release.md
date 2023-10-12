@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 12, 2023|LE.UM.5.3.1.r1-17600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17600-genericarmv8-64.0.xml|
+October 12, 2023|LE.UM.1.3.2.2.4-07000-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-07000-9x50.xml|
 October 12, 2023|LE.UM.4.4.2.r1-10300-SDX55|sdxprairie|LE.UM.4.4.2.r1-10300-SDX55.xml|
 October 11, 2023|LE.AU_EAP.1.0.c18-03300-eap-fsl|eap-imx|LE.AU_EAP.1.0.c18-03300-eap-fsl.xml|
 October 11, 2023|LE.UM.1.3.c25-08700-8x53|apq8053-32|LE.UM.1.3.c25-08700-8x53.xml|
