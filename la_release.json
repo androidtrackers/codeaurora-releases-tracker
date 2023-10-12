@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.12.1.r1-06700-SMxx50.QSSI12.0": {
+  "Date": "October 12, 2023",
+  "Tag / Build ID": "LA.UM.9.12.1.r1-06700-SMxx50.QSSI12.0",
+  "Chipset": "kona",
+  "Manifest": "LA.UM.9.12.1.r1-06700-SMxx50.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LAW.BR.4.0.c1-18700-89xx.0": {
   "Date": "October 11, 2023",
   "Tag / Build ID": "LAW.BR.4.0.c1-18700-89xx.0",
