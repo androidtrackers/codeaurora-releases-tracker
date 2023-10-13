@@ -1,4 +1,18 @@
 {
+ "LA.VENDOR.13.2.1.r1-08900-DIVAR.0": {
+  "Date": "October 13, 2023",
+  "Tag / Build ID": "LA.VENDOR.13.2.1.r1-08900-DIVAR.0",
+  "Chipset": "bengal_515",
+  "Manifest": "LA.VENDOR.13.2.1.r1-08900-DIVAR.0.xml",
+  "Android Version": "11.00.00"
+ },
+ "LA.UM.9.15.c26-03300-KAMORTA.QSSI12c28.0": {
+  "Date": "October 13, 2023",
+  "Tag / Build ID": "LA.UM.9.15.c26-03300-KAMORTA.QSSI12c28.0",
+  "Chipset": "bengal",
+  "Manifest": "LA.UM.9.15.c26-03300-KAMORTA.QSSI12c28.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.12.0.c28-00800-qssi.0": {
   "Date": "October 12, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.c28-00800-qssi.0",
