@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 13, 2023|LE.UM.7.4.2.r1-00900-9x07|mdm9607-tele-tele-debug|LE.UM.7.4.2.r1-00900-9x07.xml|
 October 12, 2023|LE.UM.5.3.1.r1-17600-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17600-genericarmv8-64.0.xml|
 October 12, 2023|LE.UM.1.3.2.2.4-07000-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-07000-9x50.xml|
 October 12, 2023|LE.UM.4.4.2.r1-10300-SDX55|sdxprairie|LE.UM.4.4.2.r1-10300-SDX55.xml|
