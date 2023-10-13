@@ -1,4 +1,18 @@
 {
+ "LA.QSSI.12.0.c28-00800-qssi.0": {
+  "Date": "October 12, 2023",
+  "Tag / Build ID": "LA.QSSI.12.0.c28-00800-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.12.0.c28-00800-qssi.0.xml",
+  "Android Version": "12.00.00"
+ },
+ "LA.VENDOR.1.0.r1-23800-WAIPIO.QSSI14.0": {
+  "Date": "October 12, 2023",
+  "Tag / Build ID": "LA.VENDOR.1.0.r1-23800-WAIPIO.QSSI14.0",
+  "Chipset": "parrot",
+  "Manifest": "LA.VENDOR.1.0.r1-23800-WAIPIO.QSSI14.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.11.0.c31-00600-qssi.0": {
   "Date": "October 12, 2023",
   "Tag / Build ID": "LA.QSSI.11.0.c31-00600-qssi.0",

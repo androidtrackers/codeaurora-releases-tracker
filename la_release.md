@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 12, 2023|LA.QSSI.12.0.c28-00800-qssi.0|qssi|LA.QSSI.12.0.c28-00800-qssi.0.xml|12.00.00|
+October 12, 2023|LA.VENDOR.1.0.r1-23800-WAIPIO.QSSI14.0|parrot|LA.VENDOR.1.0.r1-23800-WAIPIO.QSSI14.0.xml|11.00.00|
 October 12, 2023|LA.QSSI.11.0.c31-00600-qssi.0|qssi|LA.QSSI.11.0.c31-00600-qssi.0.xml|11.00.00|
 October 12, 2023|KERNEL.PLATFORM.1.0.r1-16300-kernel.0|parrot|KERNEL.PLATFORM.1.0.r1-16300-kernel.0.xml||
 October 12, 2023|CAMERA.LA.2.0.r1-10900-WAIPIO.0|camera|CAMERA.LA.2.0.r1-10900-WAIPIO.0.xml|00.00.00|
