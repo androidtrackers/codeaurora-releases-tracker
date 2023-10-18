@@ -1,4 +1,11 @@
 {
+ "LE.UM.2.3.3.c25-02400-QCS605.0": {
+  "Date": "October 18, 2023",
+  "Tag / Build ID": "LE.UM.2.3.3.c25-02400-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.c25-02400-QCS605.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.1.r1-14200.01-SMxxx0.QSSI14.0": {
   "Date": "October 18, 2023",
   "Tag / Build ID": "LA.UM.9.1.r1-14200.01-SMxxx0.QSSI14.0",
