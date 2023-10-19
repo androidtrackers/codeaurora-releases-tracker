@@ -1,4 +1,16 @@
 {
+ "LE.UM.2.3.3.c25-02500-QCS605.0": {
+  "Date": "October 19, 2023",
+  "Tag / Build ID": "LE.UM.2.3.3.c25-02500-QCS605.0",
+  "Chipset": "qcs605-32-concam",
+  "Manifest": "LE.UM.2.3.3.c25-02500-QCS605.0.xml"
+ },
+ "LV.AU.0.3.2.r1-13900-qtiquingvm.0": {
+  "Date": "October 19, 2023",
+  "Tag / Build ID": "LV.AU.0.3.2.r1-13900-qtiquingvm.0",
+  "Chipset": "quin-gvm-gen4-2",
+  "Manifest": "LV.AU.0.3.2.r1-13900-qtiquingvm.0.xml"
+ },
  "LU.UM.3.5.1.r1-06200-QCS6490.0": {
   "Date": "October 19, 2023",
   "Tag / Build ID": "LU.UM.3.5.1.r1-06200-QCS6490.0",

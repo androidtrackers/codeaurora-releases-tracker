@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 19, 2023|LE.UM.2.3.3.c25-02500-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.c25-02500-QCS605.0.xml|
+October 19, 2023|LV.AU.0.3.2.r1-13900-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-13900-qtiquingvm.0.xml|
 October 19, 2023|LU.UM.3.5.1.r1-06200-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-06200-QCS6490.0.xml|
 October 17, 2023|LE.AU_EAP.1.0.1.c1-03800-eap-fsl|eap-imx|LE.AU_EAP.1.0.1.c1-03800-eap-fsl.xml|
 October 17, 2023|LE.UM.6.3.6.r1-07900-SDX65.0|sdxlemur-mbb-nogplv3-debug|LE.UM.6.3.6.r1-07900-SDX65.0.xml|
