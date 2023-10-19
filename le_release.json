@@ -1,4 +1,10 @@
 {
+ "LU.UM.3.5.1.r1-06200-QCS6490.0": {
+  "Date": "October 19, 2023",
+  "Tag / Build ID": "LU.UM.3.5.1.r1-06200-QCS6490.0",
+  "Chipset": "qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.3.5.1.r1-06200-QCS6490.0.xml"
+ },
  "LE.AU_EAP.1.0.1.c1-03800-eap-fsl": {
   "Date": "October 17, 2023",
   "Tag / Build ID": "LE.AU_EAP.1.0.1.c1-03800-eap-fsl",
