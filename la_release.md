@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 20, 2023|LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0|lahaina|LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0.xml|11.00.00|
 October 20, 2023|LA.UM.8.12.c3-70800-sm8250.0|kona|LA.UM.8.12.c3-70800-sm8250.0.xml|10.00.00|
 October 20, 2023|LA.UM.9.2.1.c25-06900-sdm660.0|sdm660_64|LA.UM.9.2.1.c25-06900-sdm660.0.xml|11.00.00|
 October 20, 2023|KERNEL.PLATFORM.1.0.r2-09800-ANORAK.0|anorak|KERNEL.PLATFORM.1.0.r2-09800-ANORAK.0.xml||
