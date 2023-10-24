@@ -1,4 +1,10 @@
 {
+ "LU.UM.2.4.1.r1-14900-QRB5165.0": {
+  "Date": "October 23, 2023",
+  "Tag / Build ID": "LU.UM.2.4.1.r1-14900-QRB5165.0",
+  "Chipset": "qrb5165-ubuntu-robotics-ubuntu-fullstack-debug",
+  "Manifest": "LU.UM.2.4.1.r1-14900-QRB5165.0.xml"
+ },
  "LV.AU.0.3.2.r1-14000-qtiquingvm.0": {
   "Date": "October 20, 2023",
   "Tag / Build ID": "LV.AU.0.3.2.r1-14000-qtiquingvm.0",
