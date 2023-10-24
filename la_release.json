@@ -1,4 +1,32 @@
 {
+ "CAMERA.LA.2.0.r2-02600-WAIPIO.0": {
+  "Date": "October 23, 2023",
+  "Tag / Build ID": "CAMERA.LA.2.0.r2-02600-WAIPIO.0",
+  "Chipset": "camera",
+  "Manifest": "CAMERA.LA.2.0.r2-02600-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "KERNEL.PLATFORM.1.0.r3-03800-kernel.0": {
+  "Date": "October 23, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r3-03800-kernel.0",
+  "Chipset": "parrot",
+  "Manifest": "KERNEL.PLATFORM.1.0.r3-03800-kernel.0.xml",
+  "Android Version": ""
+ },
+ "DISPLAY.LA.2.0.r3-02100-WAIPIO.0": {
+  "Date": "October 23, 2023",
+  "Tag / Build ID": "DISPLAY.LA.2.0.r3-02100-WAIPIO.0",
+  "Chipset": "tpdu",
+  "Manifest": "DISPLAY.LA.2.0.r3-02100-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
+ "VIDEO.LA.2.0.r2-01600-WAIPIO.0": {
+  "Date": "October 23, 2023",
+  "Tag / Build ID": "VIDEO.LA.2.0.r2-01600-WAIPIO.0",
+  "Chipset": "video",
+  "Manifest": "VIDEO.LA.2.0.r2-01600-WAIPIO.0.xml",
+  "Android Version": "00.00.00"
+ },
  "LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0": {
   "Date": "October 20, 2023",
   "Tag / Build ID": "LA.UM.9.14.r1-23100-LAHAINA.QSSI14.0",

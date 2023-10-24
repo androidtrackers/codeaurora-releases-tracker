@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 23, 2023|LE.UM.5.3.1.r2-03000-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-03000-genericarmv8-64.0.xml|
 October 23, 2023|LU.UM.2.4.1.r1-14900-QRB5165.0|qrb5165-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.2.4.1.r1-14900-QRB5165.0.xml|
 October 20, 2023|LV.AU.0.3.2.r1-14000-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-14000-qtiquingvm.0.xml|
 October 19, 2023|LE.UM.2.3.3.c25-02500-QCS605.0|qcs605-32-concam|LE.UM.2.3.3.c25-02500-QCS605.0.xml|
