@@ -1,4 +1,10 @@
 {
+ "LE.FRAMEWORK.1.0.r1-07500-NEO.0": {
+  "Date": "October 27, 2023",
+  "Tag / Build ID": "LE.FRAMEWORK.1.0.r1-07500-NEO.0",
+  "Chipset": "sxrneo-generic-base-debug",
+  "Manifest": "LE.FRAMEWORK.1.0.r1-07500-NEO.0.xml"
+ },
  "LE.UM.7.4.1.c2-03900-sa525m-tele": {
   "Date": "October 26, 2023",
   "Tag / Build ID": "LE.UM.7.4.1.c2-03900-sa525m-tele",

@@ -1,5 +1,9 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 27, 2023|CAMERA.LE.2.2.r1-03600-NEO.0|sxrneo-xreality2-xr-debug|CAMERA.LE.2.2.r1-03600-NEO.0.xml|00.000.036|
+October 27, 2023|VIDEO.LE.1.0.r1-04100-NEO.0|sxrneo-xreality2-xr-debug|VIDEO.LE.1.0.r1-04100-NEO.0.xml|00.000.041|
+October 27, 2023|DISPLAY.LE.1.0.r1-05400-NEO.0|neo_le|DISPLAY.LE.1.0.r1-05400-NEO.0.xml|00.000.054|
+October 27, 2023|KERNEL.PLATFORM.1.0.r2-09800-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-09800-NEO.0.xml||
 October 26, 2023|LA.UM.9.12.r1-00000-SMxx50.QSSI14.0|lito|LA.UM.9.12.r1-00000-SMxx50.QSSI14.0.xml|11.00.00|
 October 26, 2023|LA.UM.9.12.c10-68600-SAIPAN.QSSI14.0|lito|LA.UM.9.12.c10-68600-SAIPAN.QSSI14.0.xml|11.00.00|
 October 26, 2023|LA.QSSI.12.0.r1-12500.02-qssi.0|qssi|LA.QSSI.12.0.r1-12500.02-qssi.0.xml|12.00.00|
