@@ -1,4 +1,10 @@
 {
+ "LE.PRODUCT.1.0.r1-06900-NEO.0": {
+  "Date": "October 27, 2023",
+  "Tag / Build ID": "LE.PRODUCT.1.0.r1-06900-NEO.0",
+  "Chipset": "sxrneo-xreality2-xr-debug",
+  "Manifest": "LE.PRODUCT.1.0.r1-06900-NEO.0.xml"
+ },
  "LE.FRAMEWORK.1.0.r1-07500-NEO.0": {
   "Date": "October 27, 2023",
   "Tag / Build ID": "LE.FRAMEWORK.1.0.r1-07500-NEO.0",

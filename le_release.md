@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 27, 2023|LE.PRODUCT.1.0.r1-06900-NEO.0|sxrneo-xreality2-xr-debug|LE.PRODUCT.1.0.r1-06900-NEO.0.xml|
 October 27, 2023|LE.FRAMEWORK.1.0.r1-07500-NEO.0|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07500-NEO.0.xml|
 October 26, 2023|LE.UM.7.4.1.c2-03900-sa525m-tele|sa525|LE.UM.7.4.1.c2-03900-sa525m-tele.xml|
 October 26, 2023|LU.UM.3.5.1.r1-06500-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-06500-QCS6490.0.xml|
