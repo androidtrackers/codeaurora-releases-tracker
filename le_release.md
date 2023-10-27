@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 26, 2023|LE.UM.7.4.1.c2-03900-sa525m-tele|sa525|LE.UM.7.4.1.c2-03900-sa525m-tele.xml|
 October 26, 2023|LU.UM.3.5.1.r1-06500-QCS6490.0|qcs6490-odk-ubuntu-robotics-ubuntu-fullstack-debug|LU.UM.3.5.1.r1-06500-QCS6490.0.xml|
 October 25, 2023|LE.AU_EAP.1.0.c16-04200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c16-04200-eap-fsl.xml|
 October 23, 2023|LE.UM.5.3.1.r2-03000-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r2-03000-genericarmv8-64.0.xml|
