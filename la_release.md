@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 28, 2023|KERNEL.PLATFORM.2.0.r11-03400-kernel.0|kalama_le|KERNEL.PLATFORM.2.0.r11-03400-kernel.0.xml||
 October 28, 2023|LAW.QWSI.13.0.r1-01100-qssi.0|qssi_32go|LAW.QWSI.13.0.r1-01100-qssi.0.xml|11.00.00|
 October 27, 2023|KERNEL.PLATFORM.1.1.r1-00700-ANORAK.0|anorak|KERNEL.PLATFORM.1.1.r1-00700-ANORAK.0.xml||
 October 27, 2023|CAMERA.LE.2.2.r1-03600-NEO.0|sxrneo-xreality2-xr-debug|CAMERA.LE.2.2.r1-03600-NEO.0.xml|00.000.036|

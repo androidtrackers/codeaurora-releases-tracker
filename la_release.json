@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.2.0.r11-03400-kernel.0": {
+  "Date": "October 28, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.0.r11-03400-kernel.0",
+  "Chipset": "kalama_le",
+  "Manifest": "KERNEL.PLATFORM.2.0.r11-03400-kernel.0.xml",
+  "Android Version": ""
+ },
  "LAW.QWSI.13.0.r1-01100-qssi.0": {
   "Date": "October 28, 2023",
   "Tag / Build ID": "LAW.QWSI.13.0.r1-01100-qssi.0",
