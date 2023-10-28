@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 28, 2023|LE.UM.7.4.1.c2-04300-sa525m-tele|sa525|LE.UM.7.4.1.c2-04300-sa525m-tele.xml|
 October 27, 2023|LE.PRODUCT.1.0.r1-06900-NEO.0|sxrneo-xreality2-xr-debug|LE.PRODUCT.1.0.r1-06900-NEO.0.xml|
 October 27, 2023|LE.FRAMEWORK.1.0.r1-07500-NEO.0|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07500-NEO.0.xml|
 October 26, 2023|LE.UM.7.4.1.c2-03900-sa525m-tele|sa525|LE.UM.7.4.1.c2-03900-sa525m-tele.xml|
