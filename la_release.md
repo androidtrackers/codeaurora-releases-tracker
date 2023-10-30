@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+October 30, 2023|CAMERA.LA.2.0.r1-11000-WAIPIO.0|camera|CAMERA.LA.2.0.r1-11000-WAIPIO.0.xml|00.00.00|
 October 30, 2023|DISPLAY.LA.2.0.r1-12200-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-12200-WAIPIO.0.xml|00.00.00|
 October 30, 2023|VIDEO.LA.2.0.r1-09500-WAIPIO.0|video|VIDEO.LA.2.0.r1-09500-WAIPIO.0.xml|00.00.00|
 October 30, 2023|LA.UM.9.1.r1-14300-SMxxx0.QSSI14.0|atoll|LA.UM.9.1.r1-14300-SMxxx0.QSSI14.0.xml|11.00.00|
