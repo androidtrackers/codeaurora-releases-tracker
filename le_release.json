@@ -1,4 +1,10 @@
 {
+ "LE.UM.7.4.1.c1-00800-sa525m-tele": {
+  "Date": "October 31, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.c1-00800-sa525m-tele",
+  "Chipset": "sa525m-tele-tele-debug",
+  "Manifest": "LE.UM.7.4.1.c1-00800-sa525m-tele.xml"
+ },
  "LE.AU_EAP.3.0-03500-eap-fsl": {
   "Date": "October 31, 2023",
   "Tag / Build ID": "LE.AU_EAP.3.0-03500-eap-fsl",
