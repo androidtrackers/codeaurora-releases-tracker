@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+October 31, 2023|LE.AU_EAP.3.0-03500-eap-fsl|eap-imx|LE.AU_EAP.3.0-03500-eap-fsl.xml|
 October 30, 2023|LE.UM.1.3.2.2.4-07400-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-07400-9x50.xml|
 October 30, 2023|LE.UM.5.3.1.r1-17800-genericarmv8-64.0|genericarmv8-vm-debug|LE.UM.5.3.1.r1-17800-genericarmv8-64.0.xml|
 October 29, 2023|LE.AU_EAP.3.0-03300-eap-fsl|eap-imx|LE.AU_EAP.3.0-03300-eap-fsl.xml|

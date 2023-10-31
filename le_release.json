@@ -1,4 +1,10 @@
 {
+ "LE.AU_EAP.3.0-03500-eap-fsl": {
+  "Date": "October 31, 2023",
+  "Tag / Build ID": "LE.AU_EAP.3.0-03500-eap-fsl",
+  "Chipset": "eap-imx",
+  "Manifest": "LE.AU_EAP.3.0-03500-eap-fsl.xml"
+ },
  "LE.UM.1.3.2.2.4-07400-9x50": {
   "Date": "October 30, 2023",
   "Tag / Build ID": "LE.UM.1.3.2.2.4-07400-9x50",
