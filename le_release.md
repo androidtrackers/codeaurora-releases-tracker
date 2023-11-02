@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 01, 2023|LE.UM.6.2.4.r1-14700-QCS610.0|qcs610-odk-64-multimedia-fullstack-perf|LE.UM.6.2.4.r1-14700-QCS610.0.xml|
 October 31, 2023|LE.UM.4.4.2.r1-10400-SDX55|sdxprairie|LE.UM.4.4.2.r1-10400-SDX55.xml|
 October 31, 2023|LE.UM.7.4.1.c1-00800-sa525m-tele|sa525m-tele-tele-debug|LE.UM.7.4.1.c1-00800-sa525m-tele.xml|
 October 31, 2023|LE.AU_EAP.3.0-03500-eap-fsl|eap-imx|LE.AU_EAP.3.0-03500-eap-fsl.xml|
