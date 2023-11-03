@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 03, 2023|LE.UM.1.3.2.2.4-07500-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-07500-9x50.xml|
+November 03, 2023|LE.UM.1.3.2.r1-14400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-14400-9150-cv2x.xml|
+November 03, 2023|LE.AU_FSL.1.0-27300-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-27300-eap-imx-cv2x.xml|
 November 03, 2023|LE.UM.4.1.1.1-25000-sa515m|sa515m|LE.UM.4.1.1.1-25000-sa515m.xml|
 November 03, 2023|LE.UM.3.2.3.1-20000-SA2150p|sa2150p-emmc|LE.UM.3.2.3.1-20000-SA2150p.xml|
 November 03, 2023|LE.AU_EAP.1.0.1-12100-eap-fsl|eap-imx|LE.AU_EAP.1.0.1-12100-eap-fsl.xml|
