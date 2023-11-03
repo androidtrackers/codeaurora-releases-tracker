@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 03, 2023|LR.AU.0.1.1.r2-06300-gen4meta.0|sa8775|LR.AU.0.1.1.r2-06300-gen4meta.0.xml|
 November 03, 2023|LE.UM.1.3.2.2.4-07500-9x50|mdm9650-2k|LE.UM.1.3.2.2.4-07500-9x50.xml|
 November 03, 2023|LE.UM.1.3.2.r1-14400-9150-cv2x|mdm9150-cv2x-poky|LE.UM.1.3.2.r1-14400-9150-cv2x.xml|
 November 03, 2023|LE.AU_FSL.1.0-27300-eap-imx-cv2x|eap-imx-cv2x|LE.AU_FSL.1.0-27300-eap-imx-cv2x.xml|
