@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 08, 2023|LE.UM.5.2.3.r1-10400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10400-SDX12.xml|
 November 08, 2023|LE.UM.4.1.1.c19-06700-sa515m|sa515m|LE.UM.4.1.1.c19-06700-sa515m.xml|
 November 08, 2023|LE.UM.3.2.3.c22-05900-SA2150p|sa2150p-emmc|LE.UM.3.2.3.c22-05900-SA2150p.xml|
 November 07, 2023|LV.AU.0.3.2.r1-14500-qtiquingvm.0|quin-gvm-gen4-2|LV.AU.0.3.2.r1-14500-qtiquingvm.0.xml|
