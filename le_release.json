@@ -1,4 +1,10 @@
 {
+ "LV.AU.0.4.0.r1-03700-gen4meta.0": {
+  "Date": "November 08, 2023",
+  "Tag / Build ID": "LV.AU.0.4.0.r1-03700-gen4meta.0",
+  "Chipset": "monaco",
+  "Manifest": "LV.AU.0.4.0.r1-03700-gen4meta.0.xml"
+ },
  "LE.UM.5.2.3.r1-10400-SDX12": {
   "Date": "November 08, 2023",
   "Tag / Build ID": "LE.UM.5.2.3.r1-10400-SDX12",
