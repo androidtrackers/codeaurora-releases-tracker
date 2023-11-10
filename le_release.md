@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 09, 2023|LE.UM.5.4.1.r1-25200-QRB2210.0|qrbx210-rbx-robotics-med-rb-perf|LE.UM.5.4.1.r1-25200-QRB2210.0.xml|
 November 09, 2023|LV.AU.0.4.0.r1-03800-gen4meta.0|monaco|LV.AU.0.4.0.r1-03800-gen4meta.0.xml|
 November 08, 2023|LV.AU.0.4.0.r1-03700-gen4meta.0|monaco|LV.AU.0.4.0.r1-03700-gen4meta.0.xml|
 November 08, 2023|LE.UM.5.2.3.r1-10400-SDX12|sdxnightjar|LE.UM.5.2.3.r1-10400-SDX12.xml|

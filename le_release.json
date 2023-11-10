@@ -1,4 +1,10 @@
 {
+ "LE.UM.5.4.1.r1-25200-QRB2210.0": {
+  "Date": "November 09, 2023",
+  "Tag / Build ID": "LE.UM.5.4.1.r1-25200-QRB2210.0",
+  "Chipset": "qrbx210-rbx-robotics-med-rb-perf",
+  "Manifest": "LE.UM.5.4.1.r1-25200-QRB2210.0.xml"
+ },
  "LV.AU.0.4.0.r1-03800-gen4meta.0": {
   "Date": "November 09, 2023",
   "Tag / Build ID": "LV.AU.0.4.0.r1-03800-gen4meta.0",
