@@ -1,4 +1,18 @@
 {
+ "LAW.BR.4.0.c1-19000-89xx.0": {
+  "Date": "November 10, 2023",
+  "Tag / Build ID": "LAW.BR.4.0.c1-19000-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0.c1-19000-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
+ "LA.QSSI.11.0.c25-01000-qssi.0": {
+  "Date": "November 10, 2023",
+  "Tag / Build ID": "LA.QSSI.11.0.c25-01000-qssi.0",
+  "Chipset": "qssi",
+  "Manifest": "LA.QSSI.11.0.c25-01000-qssi.0.xml",
+  "Android Version": "11.00.00"
+ },
  "KERNEL.PLATFORM.2.1.r5-04600-kernel.0": {
   "Date": "November 09, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.2.1.r5-04600-kernel.0",
