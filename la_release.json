@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.2.1.r5-04600-kernel.0": {
+  "Date": "November 09, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.2.1.r5-04600-kernel.0",
+  "Chipset": "sdxbaagha",
+  "Manifest": "KERNEL.PLATFORM.2.1.r5-04600-kernel.0.xml",
+  "Android Version": ""
+ },
  "LA.UM.9.15.2.r1-08600-KAMORTA.QSSI14.0": {
   "Date": "November 09, 2023",
   "Tag / Build ID": "LA.UM.9.15.2.r1-08600-KAMORTA.QSSI14.0",
