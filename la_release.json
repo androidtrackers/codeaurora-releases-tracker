@@ -1,4 +1,11 @@
 {
+ "LAW.BR.3.0-30700-8x09w.0": {
+  "Date": "November 12, 2023",
+  "Tag / Build ID": "LAW.BR.3.0-30700-8x09w.0",
+  "Chipset": "msm8909w",
+  "Manifest": "LAW.BR.3.0-30700-8x09w.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LA.QSSI.12.0.c25-00900-qssi.0": {
   "Date": "November 10, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.c25-00900-qssi.0",
