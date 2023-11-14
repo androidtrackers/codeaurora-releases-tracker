@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 14, 2023|LR.AU.0.1.1.r2-06400-gen4meta.0|sa8775|LR.AU.0.1.1.r2-06400-gen4meta.0.xml|
 November 10, 2023|LV.AU.0.4.0.r1-03900-gen4meta.0|monaco|LV.AU.0.4.0.r1-03900-gen4meta.0.xml|
 November 09, 2023|LE.UM.5.4.1.r1-25200-QRB2210.0|qrbx210-rbx-robotics-med-rb-perf|LE.UM.5.4.1.r1-25200-QRB2210.0.xml|
 November 09, 2023|LV.AU.0.4.0.r1-03800-gen4meta.0|monaco|LV.AU.0.4.0.r1-03800-gen4meta.0.xml|
