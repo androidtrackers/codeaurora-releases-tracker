@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 14, 2023|LA.UM.8.8.1.r3-01900-QCS605.0|qcs605|LA.UM.8.8.1.r3-01900-QCS605.0.xml|10.00.00|
 November 12, 2023|LA.UM.9.11.c25-02800-NICOBAR.QSSI12c25.0|trinket|LA.UM.9.11.c25-02800-NICOBAR.QSSI12c25.0.xml|12.00.00|
 November 12, 2023|LAW.BR.3.0-30700-8x09w.0|msm8909w|LAW.BR.3.0-30700-8x09w.0.xml|08.01.00|
 November 10, 2023|LA.QSSI.12.0.c25-00900-qssi.0|qssi|LA.QSSI.12.0.c25-00900-qssi.0.xml|12.00.00|
