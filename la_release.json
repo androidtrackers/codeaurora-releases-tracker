@@ -1,4 +1,11 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0": {
+  "Date": "November 15, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0",
+  "Chipset": "waipio_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0.xml",
+  "Android Version": ""
+ },
  "LA.QSSI.13.0.r1-12100-qssi.0": {
   "Date": "November 14, 2023",
   "Tag / Build ID": "LA.QSSI.13.0.r1-12100-qssi.0",
