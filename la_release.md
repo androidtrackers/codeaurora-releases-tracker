@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 15, 2023|DISPLAY.LE.1.0.r1-05500-NEO.0|sxrneo-xreality2-xr-debug|DISPLAY.LE.1.0.r1-05500-NEO.0.xml|00.000.055|
 November 15, 2023|KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0.xml||
 November 14, 2023|LA.QSSI.13.0.r1-12100-qssi.0|qssi|LA.QSSI.13.0.r1-12100-qssi.0.xml|13.00.00|
 November 14, 2023|LA.QSSI.12.0.r1-12700-qssi.0|qssi|LA.QSSI.12.0.r1-12700-qssi.0.xml|12.00.00|

@@ -1,4 +1,11 @@
 {
+ "DISPLAY.LE.1.0.r1-05500-NEO.0": {
+  "Date": "November 15, 2023",
+  "Tag / Build ID": "DISPLAY.LE.1.0.r1-05500-NEO.0",
+  "Chipset": "sxrneo-xreality2-xr-debug",
+  "Manifest": "DISPLAY.LE.1.0.r1-05500-NEO.0.xml",
+  "Android Version": "00.000.055"
+ },
  "KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0": {
   "Date": "November 15, 2023",
   "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0",

@@ -1,4 +1,10 @@
 {
+ "LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0": {
+  "Date": "November 15, 2023",
+  "Tag / Build ID": "LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0",
+  "Chipset": "sm8450p-generic-base-debug",
+  "Manifest": "LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0.xml"
+ },
  "LR.AU.0.1.1.r2-06400-gen4meta.0": {
   "Date": "November 14, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-06400-gen4meta.0",
