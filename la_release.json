@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.1.r2-05500-sa8155.0": {
+  "Date": "November 15, 2023",
+  "Tag / Build ID": "LA.AU.1.4.1.r2-05500-sa8155.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.1.r2-05500-sa8155.0.xml",
+  "Android Version": "10.00.00"
+ },
  "DISPLAY.LE.1.0.r1-05500-NEO.0": {
   "Date": "November 15, 2023",
   "Tag / Build ID": "DISPLAY.LE.1.0.r1-05500-NEO.0",
