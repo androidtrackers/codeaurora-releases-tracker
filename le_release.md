@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 16, 2023|LR.AU.0.1.1.r2-06600-gen4meta.0|sa8775|LR.AU.0.1.1.r2-06600-gen4meta.0.xml|
 November 15, 2023|LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0|sm8450p-generic-base-debug|LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0.xml|
 November 14, 2023|LR.AU.0.1.1.r2-06400-gen4meta.0|sa8775|LR.AU.0.1.1.r2-06400-gen4meta.0.xml|
 November 10, 2023|LV.AU.0.4.0.r1-03900-gen4meta.0|monaco|LV.AU.0.4.0.r1-03900-gen4meta.0.xml|

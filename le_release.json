@@ -1,4 +1,10 @@
 {
+ "LR.AU.0.1.1.r2-06600-gen4meta.0": {
+  "Date": "November 16, 2023",
+  "Tag / Build ID": "LR.AU.0.1.1.r2-06600-gen4meta.0",
+  "Chipset": "sa8775",
+  "Manifest": "LR.AU.0.1.1.r2-06600-gen4meta.0.xml"
+ },
  "LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0": {
   "Date": "November 15, 2023",
   "Tag / Build ID": "LE.FRAMEWORK.1.0.r1-07600-WAIPIOLE.0",
