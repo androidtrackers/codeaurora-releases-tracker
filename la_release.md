@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 17, 2023|LA.AU.1.4.3.c1-15900-gen3meta.0|sm6150_au|LA.AU.1.4.3.c1-15900-gen3meta.0.xml|10.00.00|
 November 15, 2023|LA.AU.1.4.1.r2-05500-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-05500-sa8155.0.xml|10.00.00|
 November 15, 2023|DISPLAY.LE.1.0.r1-05500-NEO.0|sxrneo-xreality2-xr-debug|DISPLAY.LE.1.0.r1-05500-NEO.0.xml|00.000.055|
 November 15, 2023|KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0|waipio_le|KERNEL.PLATFORM.1.0.r2-10000-WAIPIOLE.0.xml||
