@@ -1,4 +1,10 @@
 {
+ "LR.AU.0.1.1.r2-06700-gen4meta.0": {
+  "Date": "November 20, 2023",
+  "Tag / Build ID": "LR.AU.0.1.1.r2-06700-gen4meta.0",
+  "Chipset": "sa8775",
+  "Manifest": "LR.AU.0.1.1.r2-06700-gen4meta.0.xml"
+ },
  "LE.LNXHOSTSW.1.0-06600-LNXHOSTSW.0": {
   "Date": "November 20, 2023",
   "Tag / Build ID": "LE.LNXHOSTSW.1.0-06600-LNXHOSTSW.0",
