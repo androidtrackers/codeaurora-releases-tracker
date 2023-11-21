@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 20, 2023|CAMERA.LA.2.0.r2-02800-WAIPIO.0|camera|CAMERA.LA.2.0.r2-02800-WAIPIO.0.xml|00.00.00|
 November 20, 2023|LA.UM.10.3.c25-00400-sdm845.0|sdm845|LA.UM.10.3.c25-00400-sdm845.0.xml|12.00.00|
 November 17, 2023|LA.AU.1.4.3.c1-15900-gen3meta.0|sm6150_au|LA.AU.1.4.3.c1-15900-gen3meta.0.xml|10.00.00|
 November 15, 2023|LA.AU.1.4.1.r2-05500-sa8155.0|msmnile_gvmq|LA.AU.1.4.1.r2-05500-sa8155.0.xml|10.00.00|
