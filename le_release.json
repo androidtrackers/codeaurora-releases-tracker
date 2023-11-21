@@ -1,4 +1,16 @@
 {
+ "LE.UM.7.4.1.c2-06000-sa525m-tele.Int": {
+  "Date": "November 21, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.c2-06000-sa525m-tele.Int",
+  "Chipset": "sa515m-tele-tele-debug",
+  "Manifest": "LE.UM.7.4.1.c2-06000-sa525m-tele.Int.xml"
+ },
+ "LE.UM.5.3.1.r2-03300-genericarmv8-64.0": {
+  "Date": "November 21, 2023",
+  "Tag / Build ID": "LE.UM.5.3.1.r2-03300-genericarmv8-64.0",
+  "Chipset": "genericarmv8-vm-debug",
+  "Manifest": "LE.UM.5.3.1.r2-03300-genericarmv8-64.0.xml"
+ },
  "LR.AU.0.1.1.r2-06700-gen4meta.0": {
   "Date": "November 20, 2023",
   "Tag / Build ID": "LR.AU.0.1.1.r2-06700-gen4meta.0",
