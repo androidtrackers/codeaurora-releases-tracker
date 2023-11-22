@@ -1,5 +1,8 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 22, 2023|LA.UM.11.2.1.c25-00100-sdm660.0|sdm660_64|LA.UM.11.2.1.c25-00100-sdm660.0.xml|13.00.00|
+November 22, 2023|DISPLAY.LA.2.0.r1-12300-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r1-12300-WAIPIO.0.xml|00.00.00|
+November 22, 2023|KERNEL.PLATFORM.1.1.r1-01000-ANORAK.0|anorak|KERNEL.PLATFORM.1.1.r1-01000-ANORAK.0.xml||
 November 21, 2023|LAW.BR.4.0-52000-89xx.0|msm8937_32go|LAW.BR.4.0-52000-89xx.0.xml|08.01.00|
 November 21, 2023|LAW.BR.5.1.r1-15300-89xx.0|sdm429w_law|LAW.BR.5.1.r1-15300-89xx.0.xml|11.00.00|
 November 21, 2023|DISPLAY.LA.2.0.r3-02200-WAIPIO.0|tpdu|DISPLAY.LA.2.0.r3-02200-WAIPIO.0.xml|00.00.00|
