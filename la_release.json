@@ -1,4 +1,11 @@
 {
+ "LAW.BR.4.0-52000-89xx.0": {
+  "Date": "November 21, 2023",
+  "Tag / Build ID": "LAW.BR.4.0-52000-89xx.0",
+  "Chipset": "msm8937_32go",
+  "Manifest": "LAW.BR.4.0-52000-89xx.0.xml",
+  "Android Version": "08.01.00"
+ },
  "LAW.BR.5.1.r1-15300-89xx.0": {
   "Date": "November 21, 2023",
   "Tag / Build ID": "LAW.BR.5.1.r1-15300-89xx.0",
