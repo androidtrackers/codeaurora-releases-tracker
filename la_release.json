@@ -1,4 +1,11 @@
 {
+ "LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0": {
+  "Date": "November 22, 2023",
+  "Tag / Build ID": "LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0",
+  "Chipset": "atoll",
+  "Manifest": "LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.QSSI.12.0.r1-12700.01-qssi.0": {
   "Date": "November 22, 2023",
   "Tag / Build ID": "LA.QSSI.12.0.r1-12700.01-qssi.0",

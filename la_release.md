@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 22, 2023|LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0.xml|11.00.00|
 November 22, 2023|LA.QSSI.12.0.r1-12700.01-qssi.0|qssi|LA.QSSI.12.0.r1-12700.01-qssi.0.xml|12.00.00|
 November 22, 2023|LA.VENDOR.1.0.r1-24200-WAIPIO.QSSI14.0|parrot|LA.VENDOR.1.0.r1-24200-WAIPIO.QSSI14.0.xml|11.00.00|
 November 22, 2023|CAMERA.LA.2.3.r1-00500-ANORAK.0|camera|CAMERA.LA.2.3.r1-00500-ANORAK.0.xml|00.00.00|
