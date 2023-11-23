@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 23, 2023|LAW.BR.4.0.c1-19100-89xx.0|msm8937_32go|LAW.BR.4.0.c1-19100-89xx.0.xml|08.01.00|
 November 23, 2023|LA.VENDOR.14.3.4.r1-00900-ANORAK.0|anorak|LA.VENDOR.14.3.4.r1-00900-ANORAK.0.xml|11.00.00|
 November 22, 2023|LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0|atoll|LA.UM.9.1.1.r1-04300-RENNELL.QSSI12.0.xml|11.00.00|
 November 22, 2023|LA.QSSI.12.0.r1-12700.01-qssi.0|qssi|LA.QSSI.12.0.r1-12700.01-qssi.0.xml|12.00.00|
