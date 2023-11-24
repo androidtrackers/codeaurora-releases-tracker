@@ -1,4 +1,11 @@
 {
+ "LA.AU.1.4.9.r1-00700-sa8155_gvmq.0": {
+  "Date": "November 24, 2023",
+  "Tag / Build ID": "LA.AU.1.4.9.r1-00700-sa8155_gvmq.0",
+  "Chipset": "msmnile_gvmq",
+  "Manifest": "LA.AU.1.4.9.r1-00700-sa8155_gvmq.0.xml",
+  "Android Version": "10.00.00"
+ },
  "LA.VENDOR.14.3.4.r1-01100-ANORAK.0": {
   "Date": "November 23, 2023",
   "Tag / Build ID": "LA.VENDOR.14.3.4.r1-01100-ANORAK.0",
