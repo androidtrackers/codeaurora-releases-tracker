@@ -1,4 +1,11 @@
 {
+ "LA.VENDOR.14.3.4.r1-01100-ANORAK.0": {
+  "Date": "November 23, 2023",
+  "Tag / Build ID": "LA.VENDOR.14.3.4.r1-01100-ANORAK.0",
+  "Chipset": "anorak",
+  "Manifest": "LA.VENDOR.14.3.4.r1-01100-ANORAK.0.xml",
+  "Android Version": "11.00.00"
+ },
  "LA.UM.9.14.r1-23300-LAHAINA.QSSI14.0": {
   "Date": "November 23, 2023",
   "Tag / Build ID": "LA.UM.9.14.r1-23300-LAHAINA.QSSI14.0",
