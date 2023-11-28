@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 28, 2023|LE.PRODUCT.1.0.r1-07000-NEO.1|neo_le|LE.PRODUCT.1.0.r1-07000-NEO.1.xml|
 November 28, 2023|LE.FRAMEWORK.1.0.r1-07700-NEO.1|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07700-NEO.1.xml|
 November 28, 2023|LNX.LE.5.3.2.2-88294-9x40|mdm9640|LNX.LE.5.3.2.2-88294-9x40.xml|
 November 26, 2023|LE.UM.4.4.1.r2-18100-QRB5165.0|qrb5165-rb5-robotics-fullstack-debug|LE.UM.4.4.1.r2-18100-QRB5165.0.xml|

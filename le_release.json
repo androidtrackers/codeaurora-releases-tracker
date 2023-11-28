@@ -1,4 +1,10 @@
 {
+ "LE.PRODUCT.1.0.r1-07000-NEO.1": {
+  "Date": "November 28, 2023",
+  "Tag / Build ID": "LE.PRODUCT.1.0.r1-07000-NEO.1",
+  "Chipset": "neo_le",
+  "Manifest": "LE.PRODUCT.1.0.r1-07000-NEO.1.xml"
+ },
  "LE.FRAMEWORK.1.0.r1-07700-NEO.1": {
   "Date": "November 28, 2023",
   "Tag / Build ID": "LE.FRAMEWORK.1.0.r1-07700-NEO.1",
