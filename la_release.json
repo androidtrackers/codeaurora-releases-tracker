@@ -1,4 +1,32 @@
 {
+ "KERNEL.PLATFORM.1.0.r2-10300-NEO.1": {
+  "Date": "November 28, 2023",
+  "Tag / Build ID": "KERNEL.PLATFORM.1.0.r2-10300-NEO.1",
+  "Chipset": "neo_le",
+  "Manifest": "KERNEL.PLATFORM.1.0.r2-10300-NEO.1.xml",
+  "Android Version": ""
+ },
+ "CAMERA.LE.2.2.r1-03700-NEO.1": {
+  "Date": "November 28, 2023",
+  "Tag / Build ID": "CAMERA.LE.2.2.r1-03700-NEO.1",
+  "Chipset": "sxrneo-xreality2-xr-debug",
+  "Manifest": "CAMERA.LE.2.2.r1-03700-NEO.1.xml",
+  "Android Version": "00.000.037"
+ },
+ "DISPLAY.LE.1.0.r1-05600-NEO.1": {
+  "Date": "November 28, 2023",
+  "Tag / Build ID": "DISPLAY.LE.1.0.r1-05600-NEO.1",
+  "Chipset": "sxrneo-xreality2-xr-debug",
+  "Manifest": "DISPLAY.LE.1.0.r1-05600-NEO.1.xml",
+  "Android Version": "00.000.056"
+ },
+ "VIDEO.LE.1.0.r1-04200-NEO.1": {
+  "Date": "November 28, 2023",
+  "Tag / Build ID": "VIDEO.LE.1.0.r1-04200-NEO.1",
+  "Chipset": "sxrneo-xreality2-xr-debug",
+  "Manifest": "VIDEO.LE.1.0.r1-04200-NEO.1.xml",
+  "Android Version": "00.000.042"
+ },
  "LA.UM.11.2.1.c25-00300-sdm660.0": {
   "Date": "November 28, 2023",
   "Tag / Build ID": "LA.UM.11.2.1.c25-00300-sdm660.0",
