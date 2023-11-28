@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 28, 2023|LA.UM.11.2.1.c25-00300-sdm660.0|sdm660_64|LA.UM.11.2.1.c25-00300-sdm660.0.xml|13.00.00|
 November 27, 2023|LA.QSSI.11.0.c1-00900-qssi.0|qssi|LA.QSSI.11.0.c1-00900-qssi.0.xml|11.00.00|
 November 27, 2023|LA.QSSI.12.0.c1-04500-qssi.0|qssi|LA.QSSI.12.0.c1-04500-qssi.0.xml|12.00.00|
 November 27, 2023|LA.VENDOR.12.2.r1-06100-NEOLA.0|neo|LA.VENDOR.12.2.r1-06100-NEOLA.0.xml|11.00.00|
