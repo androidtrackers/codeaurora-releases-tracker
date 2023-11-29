@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+November 29, 2023|LE.PRODUCT.1.0.r1-07000-NEO.0|sxrneo-xreality2-xr-debug|LE.PRODUCT.1.0.r1-07000-NEO.0.xml|
 November 28, 2023|LE.FRAMEWORK.1.0.r1-07700-NEO.0|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07700-NEO.0.xml|
 November 28, 2023|LE.PRODUCT.1.0.r1-07000-NEO.1|neo_le|LE.PRODUCT.1.0.r1-07000-NEO.1.xml|
 November 28, 2023|LE.FRAMEWORK.1.0.r1-07700-NEO.1|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07700-NEO.1.xml|
