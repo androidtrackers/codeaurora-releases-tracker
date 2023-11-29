@@ -1,5 +1,6 @@
 Date|Tag / Build ID|Chipset|Manifest|Android Version|
 |---|---|---|---|---|
+November 29, 2023|KERNEL.PLATFORM.1.0.r2-10300-NEO.0|neo_le|KERNEL.PLATFORM.1.0.r2-10300-NEO.0.xml||
 November 28, 2023|LA.UM.9.12.c10-70700-SAIPAN.QSSI14.0|lito|LA.UM.9.12.c10-70700-SAIPAN.QSSI14.0.xml|11.00.00|
 November 28, 2023|CAMERA.LE.2.2.r1-03700-NEO.0|sxrneo-xreality2-xr-debug|CAMERA.LE.2.2.r1-03700-NEO.0.xml|00.000.037|
 November 28, 2023|VIDEO.LE.1.0.r1-04200-NEO.0|sxrneo-xreality2-xr-debug|VIDEO.LE.1.0.r1-04200-NEO.0.xml|00.000.042|
