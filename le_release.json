@@ -1,4 +1,10 @@
 {
+ "LE.UM.7.4.1.c1-01000-sa525m-tele": {
+  "Date": "December 01, 2023",
+  "Tag / Build ID": "LE.UM.7.4.1.c1-01000-sa525m-tele",
+  "Chipset": "sa525m-tele-tele-debug",
+  "Manifest": "LE.UM.7.4.1.c1-01000-sa525m-tele.xml"
+ },
  "LE.PRODUCT.1.0.r1-07000-NEO.0": {
   "Date": "November 29, 2023",
   "Tag / Build ID": "LE.PRODUCT.1.0.r1-07000-NEO.0",
