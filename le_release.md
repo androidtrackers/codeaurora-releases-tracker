@@ -1,5 +1,7 @@
 Date|Tag / Build ID|Chipset|Manifest|
 |---|---|---|---|
+December 01, 2023|LE.UM.4.1.1.c8-21600-sa515m|sa515m|LE.UM.4.1.1.c8-21600-sa515m.xml|
+December 01, 2023|LE.AU_EAP.1.0.c9-22200-eap-fsl|eap-imx|LE.AU_EAP.1.0.c9-22200-eap-fsl.xml|
 December 01, 2023|LE.UM.7.4.1.c1-01000-sa525m-tele|sa525m-tele-tele-debug|LE.UM.7.4.1.c1-01000-sa525m-tele.xml|
 November 29, 2023|LE.PRODUCT.1.0.r1-07000-NEO.0|sxrneo-xreality2-xr-debug|LE.PRODUCT.1.0.r1-07000-NEO.0.xml|
 November 28, 2023|LE.FRAMEWORK.1.0.r1-07700-NEO.0|sxrneo-generic-base-debug|LE.FRAMEWORK.1.0.r1-07700-NEO.0.xml|
