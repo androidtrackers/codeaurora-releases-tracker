@@ -1,49 +1,128 @@
 import json
 import re
-from datetime import datetime
-from os import environ, system
+from datetime import datetime, timedelta
+from os import environ
+from subprocess import run
 from pathlib import Path
 from time import sleep
 
-from bs4 import BeautifulSoup
-from requests import get, head, post
+from httpx import Client, codes
 
 TELEGRAM_CHATS = ["@CAFReleases", "@CLOReleases"]
 BOT_TOKEN = environ["bottoken"]
 GIT_OAUTH_TOKEN = environ["XFU"]
 
-BRANCHES = ["la", "le"]
+BRANCHES = {
+    "la": {
+        "platform": 13321,
+        "system": 13127,
+        "vendor": 13079,
+    },
+    "le": {
+        "manifest": 13127,
+    },
+}
+
+chipsets_base_exclude = [
+    "wlan",
+    "sepolicy",
+    "sepolicy_vndr",
+    "common",
+    "vendor-common",
+    "kernelscripts",
+]
+chipsets_exclude = {
+    r"LA\.UM\.\d+\.1.*": [*chipsets_base_exclude, "skunk", "thulium"],
+    r"LA\.UM\.\d+\.2.*": [
+        *chipsets_base_exclude,
+        "sdm845",
+        "atoll",
+        "msm8909",
+        "msm8909go",
+        "msm8996",
+        "msmnile",
+        "sm6150",
+    ],
+    r"LA\.UM\.\d+\.6.*": [
+        *chipsets_base_exclude,
+        "msmnile",
+        "atoll",
+        "msm8909",
+        "msm8909go",
+        "msm8996",
+        "sdm845",
+        "sm6150",
+        "trinket",
+    ],
+    r"LA\.UM\.\d+\.8.*": [
+        *chipsets_base_exclude,
+        "atoll",
+        "msm8909",
+        "msm8909go",
+        "msmnile",
+        "sdm845",
+        "sm6150",
+        "msm8996",
+    ],
+    r"LA\.UM\.\d+\.12.*": [
+        *chipsets_base_exclude,
+        "msm8909",
+        "msm8909go",
+        "msm8996",
+        "msmnile",
+        "sdm845",
+    ],
+    r"LA\.UM\.\d+\.15.*": [
+        *chipsets_base_exclude,
+        "kona",
+        "lito",
+        "msm8909",
+        "msm8909go",
+        "msm8996",
+        "msmnile",
+        "sdm845",
+    ],
+    r"LA\.VENDOR\.12\.2.*": [*chipsets_base_exclude, "lahaina", "taro"],
+}
+
+client = Client(timeout=30)
 
 
 class Scraper:
-    def __init__(self, url):
-        self.url = url
-        self.table = BeautifulSoup(get(self.url).content, "html.parser").select_one(
-            "table"
-        )
-        self.name = f'{self.url.split("/")[-2].split("-")[-1]}_release'
-        self.head = [th.string.strip() for th in self.table.select("th")]
+    def __init__(self, project: str, parts: dict[str, int]) -> None:
+        self._base_url = "https://git.codelinaro.org/api/v4/projects/{}/repository/tags?page={}&per_page=100"
+        self.project = project
+        self.parts = parts
         self.data = {}
-        self.to_json()
 
-    def to_json(self):
-        for row in self.table.select("tr")[1:]:
-            cells = row.select("td")
-            self.data.update(
-                {
-                    cells[1].string.strip(): {
-                        title: cell.string.strip() if cell.string else ""
-                        for title, cell in zip(self.head, cells)
-                    }
-                }
-            )
-        return self.data
+    def _get_data(self, project_id: int, page: int) -> tuple[dict, bool]:
+        response = client.get(self._base_url.format(project_id, page))
+        return response.json(), response.headers.get("X-Next-Page", False)
+
+    def _add_to_data(self, data: dict, project: str):
+        for tag in data:
+            self.data[tag["name"]] = {
+                "tag": tag["name"],
+                "project": project,
+                "date": tag["commit"]["committed_date"],
+            }
+
+    def fetch(self):
+        for part, project_id in self.parts.items():
+            page = 1
+            response, next_page = self._get_data(project_id, page)
+            self._add_to_data(response, f"{self.project}_{part}")
+            while next_page:
+                page += 1
+                response, next_page = self._get_data(project_id, page)
+                self._add_to_data(response, f"{self.project}_{part}")
 
     def to_markdown(self):
-        markdown = f"{'|'.join(i for i in self.head)}|\n"
-        markdown += f"|{''.join('---|' for _ in range(len(self.head)))}\n"
-        for _, data in self.data.items():
-            markdown += f"{'|'.join(i for __, i in data.items())}|\n"
+        header = ["date", "tag"]
+        markdown = f"{'|'.join(header)}\n"
+        markdown += f"|{''.join('---|' for _ in range(len(header)))}\n"
+        for _, release in self.data.items():
+            markdown += f"{'|'.join(f'{release.get(key)}' for key in header)}\n"
         return markdown
 
 
@@ -53,31 +132,28 @@ def diff(old, new):
 
 def get_android_versions(commit_sha: str):
     security_patch, android_version = "", ""
-    version_defaults = get(
+    version_defaults = client.get(
         f"https://git.codelinaro.org/clo/la/platform/build_repo/-/raw/{commit_sha}/core/version_defaults.mk"
     ).text
-    security_patch_match = re.search(
+    if security_patch_match := re.search(
         r"PLATFORM_SECURITY_PATCH := ([\w-]+)",
         version_defaults,
-    )
-    if security_patch_match:
+    ):
         security_patch = security_patch_match.group(1)
-    android_version_match = re.search(
+    if android_version_match := re.search(
         r"PLATFORM_VERSION_LAST_STABLE :=\s+([\w.]+)", version_defaults
-    )
-    if android_version_match:
+    ):
         android_version = android_version_match.group(1)
     return security_patch, android_version
 
 
 def get_build_id(commit_sha):
-    build_id = re.search(
+    if build_id := re.search(
         r"BUILD_ID=(.*)",
-        get(
+        client.get(
             f"https://git.codelinaro.org/clo/la/platform/build_repo/-/raw/{commit_sha}/core/build_id.mk"
         ).text,
-    )
-    if build_id:
+    ):
         return build_id.group(1)
 
 
@@ -89,7 +165,7 @@ def get_manifests(tag):
     manifests = [
         match.groupdict()
         for match in manifests_pattern.finditer(
-            get(
+            client.get(
                 f"https://git.codelinaro.org/clo/la/la/vendor/manifest/-/raw/{tag}/{tag}.xml"
             ).text
         )
@@ -110,7 +186,7 @@ def get_kernel_version(manifest):
         kernel_repo = kernel_repo.replace("clo/la/", "")
     kernel_version = re.search(
         r"VERSION = (\d+)\nPATCHLEVEL = (\d+)\nSUBLEVEL = (\d+)",
-        get(
+        client.get(
             f"https://git.codelinaro.org/clo/la/{kernel_repo}/-/raw/{kernel_repo_regex.group(2)}/Makefile"
         ).text,
     )
@@ -119,128 +195,113 @@ def get_kernel_version(manifest):
 
 
 def get_info_from_system_manifest(manifest):
-    version_defaults_revision = re.search(
+    if version_defaults_revision := re.search(
         r"name=\"platform/build_repo\"\s+path=\"[\w\d/]+\"\s+revision=\"([\d\w]{40})\"",
         manifest,
-    )
-    if version_defaults_revision:
+    ):
         commit_sha = version_defaults_revision.group(1)
         security_patch, android_version = get_android_versions(commit_sha)
         build_id = get_build_id(commit_sha)
         return security_patch, android_version, build_id
 
 
+def get_chipsets(project: str, tag: str, manifest: str) -> str:
+    _property = "name" if project == "system" else "path"
+    pattern = re.compile(r"<project.*?{}=\"device/qcom/(.*?)\"".format(_property))
+    chipsets = set()
+    for match in pattern.finditer(manifest):
+        chipset = match.group(1)
+        to_exclude = [
+            items
+            for tag_pattern, items in chipsets_exclude.items()
+            if re.match(tag_pattern, tag)
+        ]
+        to_exclude = to_exclude.pop() if to_exclude else chipsets_base_exclude
+        if chipset not in to_exclude:
+            chipsets.add(chipset)
+    return ", ".join(sorted(chipsets))
+
+
 def generate_telegram_message(update):
-    tag = update.get("Tag / Build ID")
-    chipset = update.get("Chipset")
-    message = (
-        f"New CodeLinaro OSS release detected!\n"
-        f"Chipset: *{chipset}* \n"
-        f"*Tag:* `{tag}` \n"
-    )
-    if chipset in ["camera", "display", "video"]:
-        tech_pack = (
-            f"Techpack: [{chipset}]"
-            f"(https://git.codelinaro.org/clo/la/techpack/{chipset}/"
-            f"manifest/-/blob/{tag}/{tag}.xml)"
-        )
-        message = re.sub("Chipset:.*", tech_pack, message)
-        message += f"Date: {update.get('Date')}"
-        return message
+    tag = update.get("tag", "")
+    message = f"New CodeLinaro OSS release detected!\n" f"*Tag:* `{tag}` \n"
     if tag.startswith("LE.BR.") or tag.startswith("LNX.LE."):
         manifest_url = (
             f"https://git.codelinaro.org/clo/le/le/manifest/-/blob/{tag}/{tag}.xml"
         )
         message += f"Manifest: [Here]({manifest_url}) \n"
-        message += f"Date: {update.get('Date')}"
+        message += f"Date: {update.get('date')}"
         return message
-    manifest_url = f"https://git.codelinaro.org/clo/la/platform/manifest/-/raw/{tag}/{update.get('Manifest')}"
-    manifest = get(manifest_url).text
-    android_version = update.get("Android Version")
-    kernel_version = None
-    system_info = None
-    if android_version:
-        android_version_number = android_version
-        if android_version[0].isdigit():
-            android_version_number = int(android_version.split(".")[0])
-        if not manifest.startswith("<!DOCTYPE html>"):
-            system_info = get_info_from_system_manifest(manifest)
-        try:
-            if head(manifest_url).ok:
-                message += (
-                    f"Manifest: [Platform]({manifest_url.replace('/raw/', '/blob/')})\n"
-                )
-            elif android_version_number >= 11:
-                if chipset.startswith("qssi"):
-                    system_manifest = (
-                        f"https://git.codelinaro.org/clo/la/la/"
-                        f"system/manifest/-/raw/{tag}/{update.get('Manifest')}"
+    project = update.get("project", "").split("_")[1]
+    try:
+        system_info = None
+        kernel_version = None
+        manifest = ""
+        if project == "platform":
+            manifest_url = f"https://git.codelinaro.org/clo/la/platform/manifest/-/raw/{tag}/{tag}.xml"
+            if client.head(manifest_url).status_code == codes.OK:
+                message += f"Manifest: [Platform]({manifest_url})\n"
+                manifest = client.get(manifest_url).text
+                system_info = get_info_from_system_manifest(manifest)
+                kernel_version = get_kernel_version(manifest)
+        if project == "system":
+            manifest_url = (
+                f"https://git.codelinaro.org/clo/la/la/"
+                f"system/manifest/-/raw/{tag}/{tag}.xml"
+            )
+            if client.head(manifest_url).status_code == codes.OK:
+                message += f"Manifest: [System]({manifest_url})\n"
+                manifest = client.get(manifest_url).text
+                system_info = get_info_from_system_manifest(manifest)
+        if project == "vendor":
+            manifest_url = f"https://git.codelinaro.org/clo/la/la/vendor/manifest/-/raw/release/{tag}.xml"
+            manifest = client.get(manifest_url).text
+            message += f"Manifests: [Vendor]({manifest_url}) - "
+            if manifests := get_manifests(tag):
+                for manifest_data in manifests:
+                    sub_manifest_url = (
+                        f"https://git.codelinaro.org/clo/la/{manifest_data.get('project')}/-/"
+                        f"raw/{manifest_data.get('tag')}/"
+                        f"{manifest_data.get('tag')}.xml"
                     )
-                    if head(system_manifest).ok:
-                        message += f"Manifest: [System]({system_manifest})\n"
-                        system_info = get_info_from_system_manifest(
-                            get(system_manifest).text
+                    if client.head(sub_manifest_url).status_code == codes.OK:
+                        message += (
+                            f"[{manifest_data.get('targets')} ({manifest_data.get('name')})]"
+                            f"(https://git.codelinaro.org/clo/la/{manifest_data.get('project')}"
+                            f"/-/blob/{manifest_data.get('tag')}/"
+                            f"{manifest_data.get('tag')}.xml) - "
                         )
-                else:
-                    message += (
-                        f"Manifests: [Vendor](https://git.codelinaro.org/clo/la/la/vendor/"
-                        f"manifest/-/blob/release/{tag}.xml) - "
-                    )
-                    manifests = get_manifests(tag)
-                    if manifests:
-                        for manifest_data in manifests:
-                            sub_manifest_url = (
-                                f"https://git.codelinaro.org/clo/la/{manifest_data.get('project')}/-/"
-                                f"raw/{manifest_data.get('tag')}/"
-                                f"{manifest_data.get('tag')}.xml"
-                            )
-                            if head(sub_manifest_url).ok:
-                                message += (
-                                    f"[{manifest_data.get('targets')} ({manifest_data.get('name')})]"
-                                    f"(https://git.codelinaro.org/clo/la/{manifest_data.get('project')}"
-                                    f"/-/blob/{manifest_data.get('tag')}/"
-                                    f"{manifest_data.get('tag')}.xml) - "
-                                )
-                            if manifest_data.get("project") == "la/system/manifest":
-                                system_info = get_info_from_system_manifest(
-                                    get(sub_manifest_url).text
-                                )
-                            if (
-                                manifest_data.get("project")
-                                == "kernelplatform/manifest"
-                            ):
-                                kernel_version = get_kernel_version(
-                                    get(sub_manifest_url).text
-                                )
-                    message = message.rstrip(" - ")
-                    message += "\n"
+                    if manifest_data.get("project") == "la/system/manifest":
+                        system_info = get_info_from_system_manifest(
+                            client.get(sub_manifest_url).text
+                        )
+                    if manifest_data.get("project") == "kernelplatform/manifest":
+                        kernel_version = get_kernel_version(
+                            client.get(sub_manifest_url).text
+                        )
+            message = message.rstrip(" - ")
+            message += "\n"
 
-            if system_info:
-                security_patch, real_android_version, build_id = system_info
-                if real_android_version:
-                    message += f"Android: *{real_android_version}* \n"
-                if security_patch:
-                    message += f"Security Patch: *{security_patch}*\n"
-                if build_id:
-                    message += f"Build ID: *{build_id}*\n"
-            else:
-                message += f"Android: *{update.get('Android Version')}* \n"
+        if manifest:
+            if chipsets := get_chipsets(project, tag, manifest):
+                message += f"Chipsets: `{chipsets}`\n"
 
-        except AttributeError:
-            pass
-    else:
-        manifest_url = (
-            f"https://git.codelinaro.org/clo/le/le/manifest/-/blob/{tag}/{tag}.xml"
-        )
-        if head(manifest_url).ok:
-            message += f"Manifest: [Here]({manifest_url}) \n"
+        if system_info:
+            security_patch, real_android_version, build_id = system_info
+            if real_android_version:
+                message += f"Android: *{real_android_version}* \n"
+            if security_patch:
+                message += f"Security Patch: *{security_patch}*\n"
+            if build_id:
+                message += f"Build ID: *{build_id}*\n"
 
-    if not kernel_version:
-        kernel_version = get_kernel_version(manifest)
-    if kernel_version:
-        message += f"Kernel Version: *{kernel_version}* \n"
-    message += f"Date: {update.get('Date')}"
-    return message
+        if kernel_version:
+            message += f"Kernel Version: *{kernel_version}* \n"
+    except AttributeError:
+        pass
+
+    message += f"Date: {update.get('date')}"
+    return message.replace("/raw/", "/blob/")
 
 
 def send_telegram_message(telegram_message, chat):
@@ -251,58 +312,54 @@ def send_telegram_message(telegram_message, chat):
         ("disable_web_page_preview", "yes"),
     )
     telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    response = post(telegram_url, params=params)
-    if not response.status_code == 200:
-        print(f"Response: {response.reason}")
+    response = client.post(telegram_url, params=params)
+    if response.status_code != codes.OK:
+        print(f"Response: {response.reason_phrase}")
     sleep(3)
 
 
 def post_updates(changes):
     for update in changes:
+        # safe to ignore
+        if update.get("tag").startswith("AU_LINUX_"):
+            continue
+        # post only last 15 days updates
+        update_date = datetime.strptime(update.get("date"), "%Y-%m-%dT%H:%M:%S.%f%z")
+        if (datetime.now(update_date.tzinfo) - update_date) > timedelta(days=15):
+            continue
         telegram_message = generate_telegram_message(update)
         print(telegram_message)
         for chat in TELEGRAM_CHATS:
             send_telegram_message(telegram_message, chat)
 
 
-def write_markdown(file, content):
-    with open(file, "w") as out:
-        out.write(content)
-
-
-def write_json(file, content):
-    with open(file, "w") as out:
-        json.dump(content, out, indent=1)
-
-
-def read_json(file):
-    with open(file, "r") as json_file:
-        return json.load(json_file)
-
-
 def git_command_push():
-    # commit and push
-    system(
+    run(
         f'git add *.md *.json && git -c "user.name=XiaomiFirmwareUpdater" -c '
         f'"user.email=xiaomifirmwareupdater@gmail.com" commit -m '
         f'"[skip ci] sync: {datetime.today().strftime("%d-%m-%Y %H:%M:%S")}" && '
         f"git push -q https://{GIT_OAUTH_TOKEN}@github.com/androidtrackers/"
-        f"codeaurora-releases-tracker.git HEAD:master"
+        f"codeaurora-releases-tracker.git HEAD:master",
+        shell=True,
+        check=True,
+        capture_output=True,
+        encoding="utf-8",
     )
 
 
 def main():
-    for branch in BRANCHES:
-        scraper = Scraper(f"https://wiki.codelinaro.org/en/clo/{branch}/release")
-        print(f"Working on {scraper.name}")
-        file = Path(f"{scraper.name}.json")
+    for project, parts in BRANCHES.items():
+        scraper = Scraper(project, parts)
+        print(f"Working on {project}")
+        file = Path(f"{project}_release.json")
         if file.exists():
             file.rename(f"{file}.bak")
+        scraper.fetch()
         if not scraper.data:
             continue
-        write_json(file, scraper.data)
-        write_markdown(f"{file.stem}.md", scraper.to_markdown())
-        changes = diff(read_json(f"{file}.bak"), scraper.data)
+        file.with_suffix(".json").write_text(json.dumps(scraper.data, indent=1))
+        file.with_suffix(".md").write_text(scraper.to_markdown())
+        changes = diff(json.loads(Path(f"{file}.bak").read_text()), scraper.data)
         if changes:
             post_updates(changes)
     git_command_push()

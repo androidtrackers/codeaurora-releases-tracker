@@ -3,3 +3,4 @@
 *.log
 venv/
 .python-version
+.mise.local.toml
