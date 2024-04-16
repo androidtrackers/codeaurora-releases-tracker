@@ -32,7 +32,11 @@ chipsets_base_exclude = [
     "kernelscripts",
 ]
 chipsets_exclude = {
-    r"LA\.UM\.\d+\.1.*": [*chipsets_base_exclude, "skunk", "thulium"],
+    r"LA\.UM\.\d+\.1.*": [
+        *chipsets_base_exclude,
+        "sdm845",
+        "msm8996"
+    ],
     r"LA\.UM\.\d+\.2.*": [
         *chipsets_base_exclude,
         "sdm845",
@@ -82,7 +86,37 @@ chipsets_exclude = {
         "msmnile",
         "sdm845",
     ],
-    r"LA\.VENDOR\.12\.2.*": [*chipsets_base_exclude, "lahaina", "taro"],
+    r"LA\.UM\.\d+\.16.*": [
+        *chipsets_base_exclude,
+        "kona",
+        "lahaina",
+    ],
+    r"LA\.VENDOR\.1\.0.*": [
+        *chipsets_base_exclude,
+        "lahaina",
+    ],
+    r"LA\.VENDOR\.12\.2.*": [
+        *chipsets_base_exclude,
+        "lahaina",
+        "taro",
+    ],
+    r"LA\.VENDOR\.12\.3.*": [
+        *chipsets_base_exclude,
+        "lahaina",
+        "taro",
+    ],
+    r"LA\.VENDOR\.14\.3\.0.*": [
+        *chipsets_base_exclude,
+        "blair",
+        "kalama",
+        "lahaina",
+        "taro",
+    ],
+    r"LA\.VENDOR\.14\.3\.4.*": [
+        *chipsets_base_exclude,
+        "lahaina",
+        "taro",
+    ],
 }
 
 client = Client(timeout=30)
