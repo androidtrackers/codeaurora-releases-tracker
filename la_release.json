@@ -24439,6 +24439,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.1.r1-13200-QCM6490.QSSI14.0": {
+  "tag": "LA.UM.9.14.1.r1-13200-QCM6490.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-04-18T11:13:38.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.132": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.132",
   "project": "la_vendor",
