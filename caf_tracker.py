@@ -32,11 +32,7 @@ chipsets_base_exclude = [
     "kernelscripts",
 ]
 chipsets_exclude = {
-    r"LA\.UM\.\d+\.1.*": [
-        *chipsets_base_exclude,
-        "sdm845",
-        "msm8996"
-    ],
+    r"LA\.UM\.\d+\.1.*": [*chipsets_base_exclude, "sdm845", "msm8996"],
     r"LA\.UM\.\d+\.2.*": [
         *chipsets_base_exclude,
         "sdm845",
@@ -75,6 +71,11 @@ chipsets_exclude = {
         "msm8996",
         "msmnile",
         "sdm845",
+    ],
+    r"LA\.UM\.\d+\.14.*": [
+        *chipsets_base_exclude,
+        "holi",
+        "kona",
     ],
     r"LA\.UM\.\d+\.15.*": [
         *chipsets_base_exclude,
@@ -210,7 +211,7 @@ def get_manifests(tag):
 
 def get_kernel_version(manifest):
     kernel_repo_regex = re.search(
-        r"name=\"(.*kernel/msm-[0-9.]+)\".*revision=\"([\d\w]{40})\".*upstream=\"(?:refs/heads/)?([\w/.-]+)\"",
+        r"name=\"(.*kernel/msm-[0-9.]+)\".*revision=\"(\w{40})\".*upstream=\"(?:refs/heads/)?([\w/.-]+)\"",
         manifest,
     )
     if not kernel_repo_regex:
@@ -225,12 +226,15 @@ def get_kernel_version(manifest):
         ).text,
     )
     if kernel_version:
-        return f"{kernel_version.group(1)}.{kernel_version.group(2)}.{kernel_version.group(3)} ({kernel_repo_regex.group(3)})"
+        return (
+            f"{kernel_version.group(1)}.{kernel_version.group(2)}.{kernel_version.group(3)} "
+            f"({kernel_repo_regex.group(3)})"
+        )
 
 
 def get_info_from_system_manifest(manifest):
     if version_defaults_revision := re.search(
-        r"name=\"platform/build_repo\"\s+path=\"[\w\d/]+\"\s+revision=\"([\d\w]{40})\"",
+        r"name=\"platform/build_repo\"\s+path=\"[\w/]+\"\s+revision=\"(\w{40})\"",
         manifest,
     ):
         commit_sha = version_defaults_revision.group(1)
@@ -239,20 +243,22 @@ def get_info_from_system_manifest(manifest):
         return security_patch, android_version, build_id
 
 
-def get_chipsets(project: str, tag: str, manifest: str) -> str:
-    _property = "name" if project == "system" else "path"
-    pattern = re.compile(r"<project.*?{}=\"device/qcom/(.*?)\"".format(_property))
+def get_chipsets(tag: str, manifest: str) -> str:
+    properties = ["path", "name"]
     chipsets = set()
-    for match in pattern.finditer(manifest):
-        chipset = match.group(1)
-        to_exclude = [
-            items
-            for tag_pattern, items in chipsets_exclude.items()
-            if re.match(tag_pattern, tag)
-        ]
-        to_exclude = to_exclude.pop() if to_exclude else chipsets_base_exclude
-        if chipset not in to_exclude:
-            chipsets.add(chipset)
+    for _property in properties:
+        pattern = re.compile(r"<project.*?{}=\"device/qcom/(.*?)\"".format(_property))
+        matches = pattern.finditer(manifest)
+        chipsets.update(
+            match.group(1)
+            for match in matches
+            if not any(
+                re.match(tag_pattern, tag) and match.group(1) in items
+                for tag_pattern, items in chipsets_exclude.items()
+            )
+        )
+        if chipsets:
+            break
     return ", ".join(sorted(chipsets))
 
 
@@ -317,7 +323,7 @@ def generate_telegram_message(update):
             message += "\n"
 
         if manifest:
-            if chipsets := get_chipsets(project, tag, manifest):
+            if chipsets := get_chipsets(tag, manifest):
                 message += f"Chipsets: `{chipsets}`\n"
 
         if system_info:
