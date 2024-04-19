@@ -24439,6 +24439,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.0.r1-11800-lanai.QSSI15.0": {
+  "tag": "LA.VENDOR.14.3.0.r1-11800-lanai.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-04-19T07:54:55.000+00:00"
+ },
  "LA.UM.9.12.c10-78900-SAIPAN.QSSI14.0": {
   "tag": "LA.UM.9.12.c10-78900-SAIPAN.QSSI14.0",
   "project": "la_vendor",
