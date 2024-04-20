@@ -24439,6 +24439,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r2-05000-DIVAR.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-05000-DIVAR.0",
+  "project": "la_vendor",
+  "date": "2024-04-20T04:05:05.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.050": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.050",
+  "project": "la_vendor",
+  "date": "2024-04-20T03:50:12.000-07:00"
+ },
  "LA.VENDOR.13.2.1.r2-04900-DIVAR.0": {
   "tag": "LA.VENDOR.13.2.1.r2-04900-DIVAR.0",
   "project": "la_vendor",
