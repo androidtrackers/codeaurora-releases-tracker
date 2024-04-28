@@ -124,6 +124,13 @@ chipsets_exclude = {
         "lahaina",
         "taro",
     ],
+    r"LA\.VENDOR\.13\.2\.2.*": [
+        *chipsets_base_exclude,
+        "crow",
+        "kalama",
+        "lahaina",
+        "taro",
+    ],
     r"LA\.VENDOR\.13\.2\.5.*": [
         *chipsets_base_exclude,
         "crow",
