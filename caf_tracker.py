@@ -39,6 +39,7 @@ chipsets_exclude = {
         "atoll",
         "msm8909",
         "msm8909go",
+        "msm8937_32go",
         "msm8996",
         "msmnile",
         "sm6150",
@@ -55,6 +56,16 @@ chipsets_exclude = {
         "trinket",
     ],
     r"LA\.UM\.\d+\.8.*": [
+        *chipsets_base_exclude,
+        "atoll",
+        "msm8909",
+        "msm8909go",
+        "msmnile",
+        "sdm845",
+        "sm6150",
+        "msm8996",
+    ],
+    r"LA\.UM\.\d+\.11.*": [
         *chipsets_base_exclude,
         "atoll",
         "msm8909",
@@ -107,6 +118,13 @@ chipsets_exclude = {
         "taro",
     ],
     r"LA\.VENDOR\.13\.2\.1.*": [
+        *chipsets_base_exclude,
+        "crow",
+        "kalama",
+        "lahaina",
+        "taro",
+    ],
+    r"LA\.VENDOR\.13\.2\.5.*": [
         *chipsets_base_exclude,
         "crow",
         "kalama",
