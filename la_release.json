@@ -24559,6 +24559,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r1-10400-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r1-10400-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-04-30T17:52:50.000+00:00"
+ },
  "LA_AU.VENDOR.13.0.0.r4-01400-gen3meta.0": {
   "tag": "LA_AU.VENDOR.13.0.0.r4-01400-gen3meta.0",
   "project": "la_vendor",
