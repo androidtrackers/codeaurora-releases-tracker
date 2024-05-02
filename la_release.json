@@ -24559,6 +24559,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.104": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.104",
+  "project": "la_vendor",
+  "date": "2024-05-02T05:06:58.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r1-10400-DIVAR.QSSI14.0": {
   "tag": "LA.VENDOR.13.2.1.r1-10400-DIVAR.QSSI14.0",
   "project": "la_vendor",
