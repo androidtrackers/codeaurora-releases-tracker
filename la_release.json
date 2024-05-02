@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.4.r1-08100-QCS8250.0": {
+  "tag": "LA.UM.8.12.4.r1-08100-QCS8250.0",
+  "project": "la_platform",
+  "date": "2024-05-02T11:59:32.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.4.R1.10.00.00.843.081": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.4.R1.10.00.00.843.081",
+  "project": "la_platform",
+  "date": "2024-05-02T11:27:50.000-07:00"
+ },
  "LA.UM.8.3.c25-09100-sdm845.0": {
   "tag": "LA.UM.8.3.c25-09100-sdm845.0",
   "project": "la_platform",
