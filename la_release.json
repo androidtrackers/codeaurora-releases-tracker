@@ -24569,6 +24569,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.15.2.r1-09700-KAMORTA.QSSI14.0": {
+  "tag": "LA.UM.9.15.2.r1-09700-KAMORTA.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-05-02T21:33:13.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.2.R1.11.00.00.879.097": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.2.R1.11.00.00.879.097",
+  "project": "la_vendor",
+  "date": "2024-05-02T21:18:13.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.104": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.104",
   "project": "la_vendor",
