@@ -1,4 +1,14 @@
 {
+ "LA.UM.12.2.1.r1-03300-sdm660.0": {
+  "tag": "LA.UM.12.2.1.r1-03300-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-05-14T11:10:08.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.033": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.033",
+  "project": "la_platform",
+  "date": "2024-05-14T10:35:13.000-07:00"
+ },
  "LA.UM.7.2.c25-09100-sdm660.0": {
   "tag": "LA.UM.7.2.c25-09100-sdm660.0",
   "project": "la_platform",
