@@ -19879,6 +19879,16 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.12.0.c29-01900-qssi.0": {
+  "tag": "LA.QSSI.12.0.c29-01900-qssi.0",
+  "project": "la_system",
+  "date": "2024-05-14T01:03:08.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.12.0.C29.11.00.00.1165.019": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.12.0.C29.11.00.00.1165.019",
+  "project": "la_system",
+  "date": "2024-05-14T00:35:22.000-07:00"
+ },
  "LA.QSSI.11.0.c32-02100-qssi.0": {
   "tag": "LA.QSSI.11.0.c32-02100-qssi.0",
   "project": "la_system",
