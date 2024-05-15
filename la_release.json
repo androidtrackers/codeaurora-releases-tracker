@@ -24709,6 +24709,21 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.108": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.108",
+  "project": "la_vendor",
+  "date": "2024-05-15T05:57:58.000-07:00"
+ },
+ "LA.VENDOR.12.2.r1-07700-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-07700-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2024-05-15T05:27:04.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.077": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.077",
+  "project": "la_vendor",
+  "date": "2024-05-15T05:10:59.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.14.4.R1.04.11.00.1091.049": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.14.4.R1.04.11.00.1091.049",
   "project": "la_vendor",
