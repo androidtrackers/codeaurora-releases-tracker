@@ -24709,6 +24709,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.14.4.R1.04.11.00.1091.049": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.4.R1.04.11.00.1091.049",
+  "project": "la_vendor",
+  "date": "2024-05-15T09:21:42.000+00:00"
+ },
  "LA.UM.9.15.c27-02200-KAMORTA.QSSI12c29.0": {
   "tag": "LA.UM.9.15.c27-02200-KAMORTA.QSSI12c29.0",
   "project": "la_vendor",
