@@ -1,4 +1,24 @@
 {
+ "LA.UM.9.8.c26-01400-SDM710.0": {
+  "tag": "LA.UM.9.8.c26-01400-SDM710.0",
+  "project": "la_platform",
+  "date": "2024-05-17T06:57:48.000-07:00"
+ },
+ "LA.AU.1.4.1.r2-07100-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-07100-sa8155.0",
+  "project": "la_platform",
+  "date": "2024-05-17T13:34:29.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.071": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.071",
+  "project": "la_platform",
+  "date": "2024-05-17T13:33:56.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.8.C26.11.00.00.1144.014": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.8.C26.11.00.00.1144.014",
+  "project": "la_platform",
+  "date": "2024-05-17T06:13:49.000-07:00"
+ },
  "LAW.BR.5.1.r1-15600-89xx.0": {
   "tag": "LAW.BR.5.1.r1-15600-89xx.0",
   "project": "la_platform",
