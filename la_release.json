@@ -24809,6 +24809,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.1.c25-05500-QCM6490.0": {
+  "tag": "LA.UM.9.14.1.c25-05500-QCM6490.0",
+  "project": "la_vendor",
+  "date": "2024-05-17T09:53:42.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.C25.11.00.00.1060.055": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.C25.11.00.00.1060.055",
+  "project": "la_vendor",
+  "date": "2024-05-17T09:39:58.000-07:00"
+ },
  "LA.AU.0.5.1.r2-07300-gen3meta.0": {
   "tag": "LA.AU.0.5.1.r2-07300-gen3meta.0",
   "project": "la_vendor",
