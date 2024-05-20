@@ -1,4 +1,19 @@
 {
+ "LAW.BR.3.0-30800-8x09w.0": {
+  "tag": "LAW.BR.3.0-30800-8x09w.0",
+  "project": "la_platform",
+  "date": "2024-05-20T07:56:51.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.6.2.C25.08.01.00.609.092": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.6.2.C25.08.01.00.609.092",
+  "project": "la_platform",
+  "date": "2024-05-20T07:33:33.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.BR.3.0.08.01.00.418.308": {
+  "tag": "AU_LINUX_ANDROID_LAW.BR.3.0.08.01.00.418.308",
+  "project": "la_platform",
+  "date": "2024-05-20T07:22:17.000-07:00"
+ },
  "LA.UM.8.12.c3-76600-sm8250.0": {
   "tag": "LA.UM.8.12.c3-76600-sm8250.0",
   "project": "la_platform",
