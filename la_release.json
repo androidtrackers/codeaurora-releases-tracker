@@ -24889,6 +24889,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.1.1.r1-04800-RENNELL.QSSI12.0": {
+  "tag": "LA.UM.9.1.1.r1-04800-RENNELL.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2024-05-22T09:37:00.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.1.1.R1.11.00.00.862.048": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.1.1.R1.11.00.00.862.048",
+  "project": "la_vendor",
+  "date": "2024-05-22T09:19:37.000-07:00"
+ },
  "LA.UM.9.14.1.r1-13400-QCM6490.QSSI14.0": {
   "tag": "LA.UM.9.14.1.r1-13400-QCM6490.QSSI14.0",
   "project": "la_vendor",
