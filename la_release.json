@@ -24899,6 +24899,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c10-81300-SAIPAN.QSSI14.0": {
+  "tag": "LA.UM.9.12.c10-81300-SAIPAN.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-05-23T07:09:17.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.12.C10.11.00.00.840.813": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C10.11.00.00.840.813",
   "project": "la_vendor",
