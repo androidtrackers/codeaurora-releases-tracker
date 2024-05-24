@@ -1,4 +1,14 @@
 {
+ "LA.UM.10.9.1.r1-05500-QCS610.0": {
+  "tag": "LA.UM.10.9.1.r1-05500-QCS610.0",
+  "project": "la_platform",
+  "date": "2024-05-24T07:03:18.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.10.9.1.R1.12.00.00.894.055": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.10.9.1.R1.12.00.00.894.055",
+  "project": "la_platform",
+  "date": "2024-05-24T06:22:13.000-07:00"
+ },
  "LA.UM.8.15.c25-06900-KAMORTA.0": {
   "tag": "LA.UM.8.15.c25-06900-KAMORTA.0",
   "project": "la_platform",
