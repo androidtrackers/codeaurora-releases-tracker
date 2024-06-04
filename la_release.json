@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.6.2.c29-05600-89xx.0": {
+  "tag": "LA.UM.8.6.2.c29-05600-89xx.0",
+  "project": "la_platform",
+  "date": "2024-06-04T03:47:36.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.6.2.C29.10.00.00.902.056": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.6.2.C29.10.00.00.902.056",
+  "project": "la_platform",
+  "date": "2024-06-04T03:15:12.000-07:00"
+ },
  "LA.UM.9.8.c26-01500-SDM710.0": {
   "tag": "LA.UM.9.8.c26-01500-SDM710.0",
   "project": "la_platform",
