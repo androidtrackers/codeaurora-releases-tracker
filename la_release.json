@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.072": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.072",
+  "project": "la_platform",
+  "date": "2024-06-05T06:08:35.000+00:00"
+ },
+ "LA.AU.1.4.1.r2-07200-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-07200-sa8155.0",
+  "project": "la_platform",
+  "date": "2024-06-05T06:08:03.000+00:00"
+ },
  "LA.UM.8.2.1.c25-08400-sdm660.0": {
   "tag": "LA.UM.8.2.1.c25-08400-sdm660.0",
   "project": "la_platform",
