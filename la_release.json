@@ -1,4 +1,14 @@
 {
+ "LA.UM.9.15.1.c27-02200-KAMORTA.0": {
+  "tag": "LA.UM.9.15.1.c27-02200-KAMORTA.0",
+  "project": "la_platform",
+  "date": "2024-06-06T05:55:05.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.022": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.022",
+  "project": "la_platform",
+  "date": "2024-06-06T04:24:12.000-07:00"
+ },
  "LA.UM.11.2.1.c26-00700-sdm660.0": {
   "tag": "LA.UM.11.2.1.c26-00700-sdm660.0",
   "project": "la_platform",
@@ -25128,6 +25138,21 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.066": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.066",
+  "project": "la_vendor",
+  "date": "2024-06-06T05:50:31.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.6.R1.13.00.00.1109.016": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.6.R1.13.00.00.1109.016",
+  "project": "la_vendor",
+  "date": "2024-06-06T12:08:51.000+00:00"
+ },
+ "LA.VENDOR.13.2.6.r1-01600-KAILUA.0": {
+  "tag": "LA.VENDOR.13.2.6.r1-01600-KAILUA.0",
+  "project": "la_vendor",
+  "date": "2024-06-06T12:08:42.000+00:00"
  },
  "LA.VENDOR.14.3.2.r1-01300-KALPENI.0": {
   "tag": "LA.VENDOR.14.3.2.r1-01300-KALPENI.0",
