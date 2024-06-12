@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.1.r2-07300-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-07300-sa8155.0",
+  "project": "la_platform",
+  "date": "2024-06-12T16:59:51.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.073": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.073",
+  "project": "la_platform",
+  "date": "2024-06-12T16:59:22.000+00:00"
+ },
  "LA.UM.9.8.c27-04100-SDM710.0": {
   "tag": "LA.UM.9.8.c27-04100-SDM710.0",
   "project": "la_platform",
@@ -25218,6 +25228,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.12.2.r1-08600-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-08600-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2024-06-12T10:36:24.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.086": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.086",
+  "project": "la_vendor",
+  "date": "2024-06-12T10:21:40.000-07:00"
  },
  "LA.VENDOR.13.2.2.r1-05000-QCS8250.0": {
   "tag": "LA.VENDOR.13.2.2.r1-05000-QCS8250.0",
