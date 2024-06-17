@@ -1,4 +1,14 @@
 {
+ "LA.UM.7.2.r2-13900-8x98.0": {
+  "tag": "LA.UM.7.2.r2-13900-8x98.0",
+  "project": "la_platform",
+  "date": "2024-06-17T03:06:35.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.R2.09.00.00.560.139": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.R2.09.00.00.560.139",
+  "project": "la_platform",
+  "date": "2024-06-17T02:35:29.000-07:00"
+ },
  "LA.UM.5.7.c25-14700-8x98.0": {
   "tag": "LA.UM.5.7.c25-14700-8x98.0",
   "project": "la_platform",
