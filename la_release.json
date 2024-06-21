@@ -25319,6 +25319,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c10-82900-SAIPAN.QSSI14.0": {
+  "tag": "LA.UM.9.12.c10-82900-SAIPAN.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-06-21T11:19:50.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C10.11.00.00.840.829": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C10.11.00.00.840.829",
+  "project": "la_vendor",
+  "date": "2024-06-21T10:59:27.000-07:00"
+ },
  "LA.UM.9.16.r1-17000-MANNAR.QSSI14.0": {
   "tag": "LA.UM.9.16.r1-17000-MANNAR.QSSI14.0",
   "project": "la_vendor",
