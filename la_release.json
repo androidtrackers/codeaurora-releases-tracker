@@ -25379,6 +25379,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.1.0.r2-11700-WAIPIO.QSSI15.0": {
+  "tag": "LA.VENDOR.1.0.r2-11700-WAIPIO.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-06-28T10:01:31.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.117": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.117",
+  "project": "la_vendor",
+  "date": "2024-06-28T10:00:49.000+00:00"
+ },
  "LA.UM.9.14.1.r1-14300-QCM6490.QSSI15.0": {
   "tag": "LA.UM.9.14.1.r1-14300-QCM6490.QSSI15.0",
   "project": "la_vendor",
