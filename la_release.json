@@ -25379,6 +25379,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r2-05300-DIVAR.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-05300-DIVAR.0",
+  "project": "la_vendor",
+  "date": "2024-06-28T12:55:54.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.053": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.053",
+  "project": "la_vendor",
+  "date": "2024-06-28T12:55:46.000+00:00"
+ },
  "LA.VENDOR.1.0.r2-11700-WAIPIO.QSSI15.0": {
   "tag": "LA.VENDOR.1.0.r2-11700-WAIPIO.QSSI15.0",
   "project": "la_vendor",
