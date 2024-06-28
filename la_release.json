@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.c3-77400-sm8250.0": {
+  "tag": "LA.UM.8.12.c3-77400-sm8250.0",
+  "project": "la_platform",
+  "date": "2024-06-28T10:44:28.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.C3.10.00.00.670.774": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.C3.10.00.00.670.774",
+  "project": "la_platform",
+  "date": "2024-06-28T10:07:36.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.8.9.1.R1.10.00.00.745.014": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.9.1.R1.10.00.00.745.014",
   "project": "la_platform",
