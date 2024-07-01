@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.048": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.048",
+  "project": "la_platform",
+  "date": "2024-07-01T09:52:46.000-07:00"
+ },
  "LA.UM.8.12.c3-77400-sm8250.0": {
   "tag": "LA.UM.8.12.c3-77400-sm8250.0",
   "project": "la_platform",
