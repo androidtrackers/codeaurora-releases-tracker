@@ -1,4 +1,9 @@
 {
+ "LA.UM.7.2.c25-09700-sdm660.0": {
+  "tag": "LA.UM.7.2.c25-09700-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-07-06T22:32:08.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.7.2.C25.09.00.00.799.097": {
   "tag": "AU_LINUX_ANDROID_LA.UM.7.2.C25.09.00.00.799.097",
   "project": "la_platform",
