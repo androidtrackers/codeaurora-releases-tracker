@@ -1,4 +1,24 @@
 {
+ "LA.UM.7.2.r1-05500-sdm660.0": {
+  "tag": "LA.UM.7.2.r1-05500-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-07-08T19:55:12.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.R1.09.00.00.442.055": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.R1.09.00.00.442.055",
+  "project": "la_platform",
+  "date": "2024-07-08T19:55:12.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.7.R1.09.00.00.475.049": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.7.R1.09.00.00.475.049",
+  "project": "la_platform",
+  "date": "2024-07-08T19:43:52.000-07:00"
+ },
+ "LA.UM.7.7.r1-04900-8x09.0": {
+  "tag": "LA.UM.7.7.r1-04900-8x09.0",
+  "project": "la_platform",
+  "date": "2024-07-08T19:43:52.000-07:00"
+ },
  "LA.UM.8.12.c25-02200-sm8250.0": {
   "tag": "LA.UM.8.12.c25-02200-sm8250.0",
   "project": "la_platform",
