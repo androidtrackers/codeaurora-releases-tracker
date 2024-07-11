@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.1.r2-07400-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-07400-sa8155.0",
+  "project": "la_platform",
+  "date": "2024-07-11T13:20:27.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.074": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.074",
+  "project": "la_platform",
+  "date": "2024-07-11T13:19:54.000+00:00"
+ },
  "LA.UM.10.9.1.c25-00700-QCS610.0": {
   "tag": "LA.UM.10.9.1.c25-00700-QCS610.0",
   "project": "la_platform",
