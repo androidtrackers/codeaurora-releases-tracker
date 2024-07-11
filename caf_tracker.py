@@ -138,11 +138,33 @@ chipsets_exclude = {
         "lahaina",
         "taro",
     ],
+    r"LA\.VENDOR\.13\.2\.6.*": [
+        *chipsets_base_exclude,
+        "crow",
+        "lahaina",
+        "taro",
+    ],
+    r"LA\.VENDOR\.13\.2\.8.*": [
+        *chipsets_base_exclude,
+        "crow",
+        "lahaina",
+        "taro",
+    ],
     r"LA\.VENDOR\.14\.3\.0.*": [
         *chipsets_base_exclude,
         "blair",
         "kalama",
         "lahaina",
+        "pitti",
+        "pitti_32go"
+        "taro",
+    ],
+    r"LA\.VENDOR\.14\.3\.2.*": [
+        *chipsets_base_exclude,
+        "blair",
+        "kalama",
+        "lahaina",
+        "pineapple",
         "taro",
     ],
     r"LA\.VENDOR\.14\.3\.4.*": [
