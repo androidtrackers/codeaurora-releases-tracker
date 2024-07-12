@@ -159,6 +159,13 @@ chipsets_exclude = {
         "pitti_32go"
         "taro",
     ],
+    r"LA\.VENDOR\.14\.3\.1.*": [
+        *chipsets_base_exclude,
+        "kalama",
+        "lahaina",
+        "pineapple",
+        "taro",
+    ],
     r"LA\.VENDOR\.14\.3\.2.*": [
         *chipsets_base_exclude,
         "blair",
