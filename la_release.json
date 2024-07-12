@@ -25649,6 +25649,21 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.AU.0.5.1.r2-08800-gen3meta.0": {
+  "tag": "LA.AU.0.5.1.r2-08800-gen3meta.0",
+  "project": "la_vendor",
+  "date": "2024-07-12T04:07:06.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.1.R1.11.00.00.1119.023": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.1.R1.11.00.00.1119.023",
+  "project": "la_vendor",
+  "date": "2024-07-12T10:59:56.000+00:00"
+ },
+ "LA.VENDOR.14.3.1.r1-02300-MANNAR.0": {
+  "tag": "LA.VENDOR.14.3.1.r1-02300-MANNAR.0",
+  "project": "la_vendor",
+  "date": "2024-07-12T10:59:46.000+00:00"
+ },
  "AU_LINUX_ANDROID_LA.AU.0.5.1.R2.11.00.00.1022.088": {
   "tag": "AU_LINUX_ANDROID_LA.AU.0.5.1.R2.11.00.00.1022.088",
   "project": "la_vendor",
