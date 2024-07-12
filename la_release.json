@@ -25649,6 +25649,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.AU.0.5.1.R2.11.00.00.1022.088": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.0.5.1.R2.11.00.00.1022.088",
+  "project": "la_vendor",
+  "date": "2024-07-12T03:39:24.000-07:00"
+ },
  "LA.UM.9.16.r1-17100-MANNAR.QSSI13.0": {
   "tag": "LA.UM.9.16.r1-17100-MANNAR.QSSI13.0",
   "project": "la_vendor",
