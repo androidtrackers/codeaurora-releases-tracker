@@ -1,4 +1,9 @@
 {
+ "LA.UM.9.2.1.c26-07900-sdm660.0": {
+  "tag": "LA.UM.9.2.1.c26-07900-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-07-15T02:04:17.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.2.1.C26.11.00.00.896.079": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.2.1.C26.11.00.00.896.079",
   "project": "la_platform",
