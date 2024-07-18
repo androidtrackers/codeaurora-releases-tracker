@@ -25759,6 +25759,36 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.3.r1-09900-ANORAK.0": {
+  "tag": "LA.VENDOR.12.3.r1-09900-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2024-07-18T02:00:06.000-07:00"
+ },
+ "LA.UM.9.14.1.r1-14800-QCM6490.QSSI14.0": {
+  "tag": "LA.UM.9.14.1.r1-14800-QCM6490.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-07-18T01:55:32.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.148": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.148",
+  "project": "la_vendor",
+  "date": "2024-07-18T01:39:15.000-07:00"
+ },
+ "LA.VENDOR.12.2.r1-09300-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-09300-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2024-07-18T01:30:44.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.093": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.093",
+  "project": "la_vendor",
+  "date": "2024-07-18T01:17:45.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.3.R1.11.00.00.1006.099": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.3.R1.11.00.00.1006.099",
+  "project": "la_vendor",
+  "date": "2024-07-18T00:33:48.000-07:00"
+ },
  "LA.UM.9.12.c10-84300-SAIPAN.QSSI14.0": {
   "tag": "LA.UM.9.12.c10-84300-SAIPAN.QSSI14.0",
   "project": "la_vendor",
