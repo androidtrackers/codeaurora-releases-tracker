@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.2.1.c27-00100-sdm660.0": {
+  "tag": "LA.UM.8.2.1.c27-00100-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-07-31T01:50:12.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.2.1.C27.10.00.00.1235.001": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.2.1.C27.10.00.00.1235.001",
+  "project": "la_platform",
+  "date": "2024-07-31T01:27:52.000-07:00"
+ },
  "LAW.UM.2.1.r3.1-03600-SW5100.0": {
   "tag": "LAW.UM.2.1.r3.1-03600-SW5100.0",
   "project": "la_platform",
@@ -25898,6 +25908,26 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LAW.UM.2.2.r1-10400-SW5100.QSSI12.0": {
+  "tag": "LAW.UM.2.2.r1-10400-SW5100.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2024-07-31T00:58:21.000-07:00"
+ },
+ "LA.UM.9.14.3.r1-07300-QCS5430.0": {
+  "tag": "LA.UM.9.14.3.r1-07300-QCS5430.0",
+  "project": "la_vendor",
+  "date": "2024-07-31T00:56:18.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.UM.2.2.R1.11.00.00.948.104": {
+  "tag": "AU_LINUX_ANDROID_LAW.UM.2.2.R1.11.00.00.948.104",
+  "project": "la_vendor",
+  "date": "2024-07-31T00:46:06.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.3.R1.11.00.00.1029.073": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.3.R1.11.00.00.1029.073",
+  "project": "la_vendor",
+  "date": "2024-07-31T00:44:01.000-07:00"
  },
  "LA.UM.9.12.1.r2-00700-SMxx50.QSSI12.0": {
   "tag": "LA.UM.9.12.1.r2-00700-SMxx50.QSSI12.0",
