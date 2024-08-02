@@ -1,4 +1,19 @@
 {
+ "LA.UM.12.2.1.r1-03700-sdm660.0": {
+  "tag": "LA.UM.12.2.1.r1-03700-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-08-02T04:53:18.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.037": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.037",
+  "project": "la_platform",
+  "date": "2024-08-02T04:26:15.000-07:00"
+ },
+ "LA.UM.9.15.1.c27-02400-KAMORTA.0": {
+  "tag": "LA.UM.9.15.1.c27-02400-KAMORTA.0",
+  "project": "la_platform",
+  "date": "2024-08-02T04:04:40.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.024": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.024",
   "project": "la_platform",
