@@ -1,4 +1,59 @@
 {
+ "AU_LINUX_ANDROID_LA.UM.11.2.1.C26.13.00.00.1173.013": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.11.2.1.C26.13.00.00.1173.013",
+  "project": "la_platform",
+  "date": "2024-08-01T23:51:17.000-07:00"
+ },
+ "LA.UM.8.15.c25-07600-KAMORTA.0": {
+  "tag": "LA.UM.8.15.c25-07600-KAMORTA.0",
+  "project": "la_platform",
+  "date": "2024-08-01T23:36:21.000-07:00"
+ },
+ "LA.UM.8.12.c25-02600-sm8250.0": {
+  "tag": "LA.UM.8.12.c25-02600-sm8250.0",
+  "project": "la_platform",
+  "date": "2024-08-01T23:31:09.000-07:00"
+ },
+ "LA.UM.5.7.c25-15500-8x98.0": {
+  "tag": "LA.UM.5.7.c25-15500-8x98.0",
+  "project": "la_platform",
+  "date": "2024-08-01T23:16:51.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.15.C25.10.00.00.937.076": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.15.C25.10.00.00.937.076",
+  "project": "la_platform",
+  "date": "2024-08-01T23:13:11.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.026": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.026",
+  "project": "la_platform",
+  "date": "2024-08-01T23:06:59.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.155": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.155",
+  "project": "la_platform",
+  "date": "2024-08-01T22:58:19.000-07:00"
+ },
+ "LA.UM.8.2.1.c25-08700-sdm660.0": {
+  "tag": "LA.UM.8.2.1.c25-08700-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-08-01T22:47:39.000-07:00"
+ },
+ "LA.UM.7.2.c27-06400-sdm660.0": {
+  "tag": "LA.UM.7.2.c27-06400-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-08-01T22:39:35.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.087": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.087",
+  "project": "la_platform",
+  "date": "2024-08-01T22:26:04.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.C27.09.00.00.1012.064": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.C27.09.00.00.1012.064",
+  "project": "la_platform",
+  "date": "2024-08-01T22:20:18.000-07:00"
+ },
  "LA.UM.11.2.1.c25-03700-sdm660.0": {
   "tag": "LA.UM.11.2.1.c25-03700-sdm660.0",
   "project": "la_platform",
@@ -25958,6 +26013,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.13.2.1.r2-05500-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-05500-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-08-01T23:54:05.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.055": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.055",
+  "project": "la_vendor",
+  "date": "2024-08-01T23:43:16.000-07:00"
  },
  "LA.VENDOR.13.2.2.r1-05100-QCS8250.0": {
   "tag": "LA.VENDOR.13.2.2.r1-05100-QCS8250.0",
