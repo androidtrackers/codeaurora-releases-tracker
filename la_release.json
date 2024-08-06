@@ -26069,6 +26069,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.15.2.r1-10100-KAMORTA.QSSI13.0": {
+  "tag": "LA.UM.9.15.2.r1-10100-KAMORTA.QSSI13.0",
+  "project": "la_vendor",
+  "date": "2024-08-06T03:28:28.000-07:00"
+ },
  "LA.UM.9.14.r1-24900-LAHAINA.QSSI14.0": {
   "tag": "LA.UM.9.14.r1-24900-LAHAINA.QSSI14.0",
   "project": "la_vendor",
