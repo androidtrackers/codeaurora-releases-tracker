@@ -26129,6 +26129,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.150": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.150",
+  "project": "la_vendor",
+  "date": "2024-08-08T09:59:32.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.13.2.0.R1.11.00.00.925.243": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.0.R1.11.00.00.925.243",
   "project": "la_vendor",
