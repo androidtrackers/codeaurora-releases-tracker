@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.1.r2-07700-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-07700-sa8155.0",
+  "project": "la_platform",
+  "date": "2024-08-16T09:26:11.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.077": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.077",
+  "project": "la_platform",
+  "date": "2024-08-16T09:25:35.000+00:00"
+ },
  "LAW.BR.5.1.r1-15900-89xx.0": {
   "tag": "LAW.BR.5.1.r1-15900-89xx.0",
   "project": "la_platform",
