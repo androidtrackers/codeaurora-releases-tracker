@@ -26249,6 +26249,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.VENDOR.14.0.r1-09100-SW5100.0": {
+  "tag": "LAW.VENDOR.14.0.r1-09100-SW5100.0",
+  "project": "la_vendor",
+  "date": "2024-08-20T03:44:22.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.091": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.091",
+  "project": "la_vendor",
+  "date": "2024-08-20T03:28:31.000-07:00"
+ },
  "LA.UM.9.14.1.r1-15100-QCM6490.QSSI14.0": {
   "tag": "LA.UM.9.14.1.r1-15100-QCM6490.QSSI14.0",
   "project": "la_vendor",
