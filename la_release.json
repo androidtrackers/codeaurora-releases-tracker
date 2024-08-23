@@ -26289,6 +26289,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.13.0.0.r3-03200-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.13.0.0.r3-03200-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2024-08-23T06:01:13.000+00:00"
+ },
  "LA.UM.9.12.c10-86000-SAIPAN.QSSI14.0": {
   "tag": "LA.UM.9.12.c10-86000-SAIPAN.QSSI14.0",
   "project": "la_vendor",
