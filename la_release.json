@@ -26399,6 +26399,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r1-12500-DIVAR.QSSI15.0": {
+  "tag": "LA.VENDOR.13.2.1.r1-12500-DIVAR.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-09-03T15:38:13.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.125": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R1.11.00.00.587.125",
+  "project": "la_vendor",
+  "date": "2024-09-03T15:38:02.000+00:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.14.3.0.R1.00.00.00.000.168": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.0.R1.00.00.00.000.168",
   "project": "la_vendor",
