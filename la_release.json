@@ -1,4 +1,94 @@
 {
+ "android-platform-12.0.0_r35": {
+  "tag": "android-platform-12.0.0_r35",
+  "project": "la_platform",
+  "date": "2024-09-04T17:37:01.000-07:00"
+ },
+ "android-platform-12.1.0_r31": {
+  "tag": "android-platform-12.1.0_r31",
+  "project": "la_platform",
+  "date": "2024-09-04T16:28:40.000-07:00"
+ },
+ "android-platform-13.0.0_r23": {
+  "tag": "android-platform-13.0.0_r23",
+  "project": "la_platform",
+  "date": "2024-09-04T15:20:53.000-07:00"
+ },
+ "android-platform-14.0.0_r11": {
+  "tag": "android-platform-14.0.0_r11",
+  "project": "la_platform",
+  "date": "2024-09-04T14:27:03.000-07:00"
+ },
+ "android-security-12.0.0_r63": {
+  "tag": "android-security-12.0.0_r63",
+  "project": "la_platform",
+  "date": "2024-09-03T23:22:26.000-07:00"
+ },
+ "android-security-13.0.0_r21": {
+  "tag": "android-security-13.0.0_r21",
+  "project": "la_platform",
+  "date": "2024-09-03T21:01:50.000-07:00"
+ },
+ "android-security-14.0.0_r12": {
+  "tag": "android-security-14.0.0_r12",
+  "project": "la_platform",
+  "date": "2024-09-03T19:52:50.000-07:00"
+ },
+ "android-14.0.0_r74": {
+  "tag": "android-14.0.0_r74",
+  "project": "la_platform",
+  "date": "2024-09-03T19:19:51.000-07:00"
+ },
+ "android-14.0.0_r73": {
+  "tag": "android-14.0.0_r73",
+  "project": "la_platform",
+  "date": "2024-09-03T18:15:00.000-07:00"
+ },
+ "android-14.0.0_r72": {
+  "tag": "android-14.0.0_r72",
+  "project": "la_platform",
+  "date": "2024-09-03T18:08:24.000-07:00"
+ },
+ "android-14.0.0_r71": {
+  "tag": "android-14.0.0_r71",
+  "project": "la_platform",
+  "date": "2024-09-03T18:07:11.000-07:00"
+ },
+ "android-14.0.0_r70": {
+  "tag": "android-14.0.0_r70",
+  "project": "la_platform",
+  "date": "2024-09-03T17:48:48.000-07:00"
+ },
+ "android-14.0.0_r69": {
+  "tag": "android-14.0.0_r69",
+  "project": "la_platform",
+  "date": "2024-09-03T16:30:27.000-07:00"
+ },
+ "android-14.0.0_r68": {
+  "tag": "android-14.0.0_r68",
+  "project": "la_platform",
+  "date": "2024-09-03T16:23:52.000-07:00"
+ },
+ "android-14.0.0_r67": {
+  "tag": "android-14.0.0_r67",
+  "project": "la_platform",
+  "date": "2024-09-03T16:14:30.000-07:00"
+ },
+ "android-vts-15.0_r1": {
+  "tag": "android-vts-15.0_r1",
+  "project": "la_platform",
+  "date": "2024-09-03T15:39:35.000-07:00"
+ },
+ "android-cts-15.0_r1": {
+  "tag": "android-cts-15.0_r1",
+  "project": "la_platform",
+  "date": "2024-09-03T15:13:05.000-07:00"
+ },
+ "android-15.0.0_r1": {
+  "tag": "android-15.0.0_r1",
+  "project": "la_platform",
+  "date": "2024-09-03T11:25:58.000-07:00"
+ },
  "LA.UM.5.7.c25-15900-8x98.0": {
   "tag": "LA.UM.5.7.c25-15900-8x98.0",
   "project": "la_platform",
@@ -39,6 +129,36 @@
   "project": "la_platform",
   "date": "2024-09-01T23:24:37.000-07:00"
  },
+ "studio-2024.1.2": {
+  "tag": "studio-2024.1.2",
+  "project": "la_platform",
+  "date": "2024-08-29T16:09:41.000-07:00"
+ },
+ "studio-2024.1.2-canary7": {
+  "tag": "studio-2024.1.2-canary7",
+  "project": "la_platform",
+  "date": "2024-08-29T15:52:45.000-07:00"
+ },
+ "android-wear-13.0.0-gpl_r4": {
+  "tag": "android-wear-13.0.0-gpl_r4",
+  "project": "la_platform",
+  "date": "2024-08-29T14:53:27.000-07:00"
+ },
+ "android-14.0.0_r66": {
+  "tag": "android-14.0.0_r66",
+  "project": "la_platform",
+  "date": "2024-08-28T13:20:39.000-07:00"
+ },
+ "android-14.0.0_r63": {
+  "tag": "android-14.0.0_r63",
+  "project": "la_platform",
+  "date": "2024-08-28T13:18:57.000-07:00"
+ },
+ "android-14.0.0_r62": {
+  "tag": "android-14.0.0_r62",
+  "project": "la_platform",
+  "date": "2024-08-28T13:03:04.000-07:00"
+ },
  "LAW.BR.4.0.c1-22200-89xx.0": {
   "tag": "LAW.BR.4.0.c1-22200-89xx.0",
   "project": "la_platform",
@@ -58,6 +178,26 @@
   "tag": "AU_LINUX_ANDROID_LAW.BR.4.0.08.01.00.548.537",
   "project": "la_platform",
   "date": "2024-08-26T19:41:42.000-07:00"
+ },
+ "android-15-qpr1-beta-1-gpl": {
+  "tag": "android-15-qpr1-beta-1-gpl",
+  "project": "la_platform",
+  "date": "2024-08-22T13:48:52.000-07:00"
+ },
+ "studio-2024.2.1-alpha07": {
+  "tag": "studio-2024.2.1-alpha07",
+  "project": "la_platform",
+  "date": "2024-08-20T15:14:21.000-07:00"
+ },
+ "android-14.0.0_r65": {
+  "tag": "android-14.0.0_r65",
+  "project": "la_platform",
+  "date": "2024-08-20T15:07:18.000-07:00"
+ },
+ "android-14.0.0_r64": {
+  "tag": "android-14.0.0_r64",
+  "project": "la_platform",
+  "date": "2024-08-20T15:06:19.000-07:00"
  },
  "LA.AU.1.4.1.r2-07700-sa8155.0": {
   "tag": "LA.AU.1.4.1.r2-07700-sa8155.0",
@@ -119,6 +259,81 @@
   "project": "la_platform",
   "date": "2024-08-08T13:21:24.000+00:00"
  },
+ "android-vts-12.0_r13": {
+  "tag": "android-vts-12.0_r13",
+  "project": "la_platform",
+  "date": "2024-08-06T23:24:36.000-07:00"
+ },
+ "android-vts-12.1_r11": {
+  "tag": "android-vts-12.1_r11",
+  "project": "la_platform",
+  "date": "2024-08-06T23:16:13.000-07:00"
+ },
+ "android-vts-13.0_r9": {
+  "tag": "android-vts-13.0_r9",
+  "project": "la_platform",
+  "date": "2024-08-06T23:14:39.000-07:00"
+ },
+ "android-vts-14.0_r5": {
+  "tag": "android-vts-14.0_r5",
+  "project": "la_platform",
+  "date": "2024-08-06T23:04:35.000-07:00"
+ },
+ "android-cts-12.0_r13": {
+  "tag": "android-cts-12.0_r13",
+  "project": "la_platform",
+  "date": "2024-08-06T22:52:48.000-07:00"
+ },
+ "android-cts-12.1_r11": {
+  "tag": "android-cts-12.1_r11",
+  "project": "la_platform",
+  "date": "2024-08-06T22:40:42.000-07:00"
+ },
+ "android-cts-13.0_r9": {
+  "tag": "android-cts-13.0_r9",
+  "project": "la_platform",
+  "date": "2024-08-06T22:29:36.000-07:00"
+ },
+ "android-cts-14.0_r5": {
+  "tag": "android-cts-14.0_r5",
+  "project": "la_platform",
+  "date": "2024-08-06T21:55:23.000-07:00"
+ },
+ "android-14.0.0_r61": {
+  "tag": "android-14.0.0_r61",
+  "project": "la_platform",
+  "date": "2024-08-06T14:39:56.000-07:00"
+ },
+ "android-14.0.0_r60": {
+  "tag": "android-14.0.0_r60",
+  "project": "la_platform",
+  "date": "2024-08-06T14:26:32.000-07:00"
+ },
+ "android-14.0.0_r59": {
+  "tag": "android-14.0.0_r59",
+  "project": "la_platform",
+  "date": "2024-08-06T14:15:45.000-07:00"
+ },
+ "android-14.0.0_r58": {
+  "tag": "android-14.0.0_r58",
+  "project": "la_platform",
+  "date": "2024-08-06T14:13:51.000-07:00"
+ },
+ "android-14.0.0_r57": {
+  "tag": "android-14.0.0_r57",
+  "project": "la_platform",
+  "date": "2024-08-06T14:12:48.000-07:00"
+ },
+ "android-14.0.0_r56": {
+  "tag": "android-14.0.0_r56",
+  "project": "la_platform",
+  "date": "2024-08-06T14:03:29.000-07:00"
+ },
+ "android-14.0.0_r55": {
+  "tag": "android-14.0.0_r55",
+  "project": "la_platform",
+  "date": "2024-08-06T13:48:05.000-07:00"
+ },
  "LA.UM.8.4.c25-11300-8x98.0": {
   "tag": "LA.UM.8.4.c25-11300-8x98.0",
   "project": "la_platform",
@@ -128,6 +343,46 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.4.C25.10.00.00.832.113",
   "project": "la_platform",
   "date": "2024-08-06T05:22:52.000-07:00"
+ },
+ "android-platform-14.0.0_r10": {
+  "tag": "android-platform-14.0.0_r10",
+  "project": "la_platform",
+  "date": "2024-08-05T15:52:31.000-07:00"
+ },
+ "android-platform-13.0.0_r22": {
+  "tag": "android-platform-13.0.0_r22",
+  "project": "la_platform",
+  "date": "2024-08-05T15:36:15.000-07:00"
+ },
+ "android-platform-12.1.0_r30": {
+  "tag": "android-platform-12.1.0_r30",
+  "project": "la_platform",
+  "date": "2024-08-05T15:35:01.000-07:00"
+ },
+ "android-platform-12.0.0_r34": {
+  "tag": "android-platform-12.0.0_r34",
+  "project": "la_platform",
+  "date": "2024-08-05T15:33:35.000-07:00"
+ },
+ "platform-tools-35.0.2": {
+  "tag": "platform-tools-35.0.2",
+  "project": "la_platform",
+  "date": "2024-08-05T15:14:43.000-07:00"
+ },
+ "android-security-13.0.0_r20": {
+  "tag": "android-security-13.0.0_r20",
+  "project": "la_platform",
+  "date": "2024-08-05T08:55:22.000-07:00"
+ },
+ "android-security-12.0.0_r62": {
+  "tag": "android-security-12.0.0_r62",
+  "project": "la_platform",
+  "date": "2024-08-05T08:54:34.000-07:00"
+ },
+ "android-security-14.0.0_r11": {
+  "tag": "android-security-14.0.0_r11",
+  "project": "la_platform",
+  "date": "2024-08-05T08:51:25.000-07:00"
  },
  "LA.UM.8.3.c25-09400-sdm845.0": {
   "tag": "LA.UM.8.3.c25-09400-sdm845.0",
@@ -259,6 +514,11 @@
   "project": "la_platform",
   "date": "2024-08-01T20:33:46.000-07:00"
  },
+ "ub-automotive-master-20240731": {
+  "tag": "ub-automotive-master-20240731",
+  "project": "la_platform",
+  "date": "2024-07-31T15:14:18.000-07:00"
+ },
  "LA.UM.8.2.1.c27-00100-sdm660.0": {
   "tag": "LA.UM.8.2.1.c27-00100-sdm660.0",
   "project": "la_platform",
@@ -289,6 +549,26 @@
   "project": "la_platform",
   "date": "2024-07-30T00:24:19.000-07:00"
  },
+ "android-automotiveos-14.0.0_lts2": {
+  "tag": "android-automotiveos-14.0.0_lts2",
+  "project": "la_platform",
+  "date": "2024-07-29T16:37:35.000-07:00"
+ },
+ "studio-2024.1.3-alpha01": {
+  "tag": "studio-2024.1.3-alpha01",
+  "project": "la_platform",
+  "date": "2024-07-18T12:50:36.000-07:00"
+ },
+ "studio-2024.1.1-patch01": {
+  "tag": "studio-2024.1.1-patch01",
+  "project": "la_platform",
+  "date": "2024-07-18T12:29:34.000-07:00"
+ },
+ "studio-2024.1.2-beta01": {
+  "tag": "studio-2024.1.2-beta01",
+  "project": "la_platform",
+  "date": "2024-07-18T11:57:12.000-07:00"
+ },
  "LAW.UM.2.0.r1-17100-SW5100.0": {
   "tag": "LAW.UM.2.0.r1-17100-SW5100.0",
   "project": "la_platform",
@@ -298,6 +578,16 @@
   "tag": "AU_LINUX_ANDROID_LAW.UM.2.0.R1.11.00.00.846.171",
   "project": "la_platform",
   "date": "2024-07-18T04:40:19.000-07:00"
+ },
+ "ndk-r27-beta1": {
+  "tag": "ndk-r27-beta1",
+  "project": "la_platform",
+  "date": "2024-07-17T15:33:44.000-07:00"
+ },
+ "ndk-r27": {
+  "tag": "ndk-r27",
+  "project": "la_platform",
+  "date": "2024-07-16T16:24:10.000-07:00"
  },
  "LA.UM.8.8.1.c25-04900-QCS605.0": {
   "tag": "LA.UM.8.8.1.c25-04900-QCS605.0",
@@ -378,6 +668,96 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.150",
   "project": "la_platform",
   "date": "2024-07-10T07:46:43.000-07:00"
+ },
+ "aml_wif_341810030": {
+  "tag": "aml_wif_341810030",
+  "project": "la_platform",
+  "date": "2024-07-09T22:35:11.000-07:00"
+ },
+ "aml_tet_341810050": {
+  "tag": "aml_tet_341810050",
+  "project": "la_platform",
+  "date": "2024-07-09T22:34:15.000-07:00"
+ },
+ "aml_rkp_341810000": {
+  "tag": "aml_rkp_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:33:16.000-07:00"
+ },
+ "aml_res_341810000": {
+  "tag": "aml_res_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:32:20.000-07:00"
+ },
+ "aml_per_341810000": {
+  "tag": "aml_per_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:31:22.000-07:00"
+ },
+ "aml_sta_341810000": {
+  "tag": "aml_sta_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:30:21.000-07:00"
+ },
+ "aml_odp_341812000": {
+  "tag": "aml_odp_341812000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:29:21.000-07:00"
+ },
+ "aml_net_341810040": {
+  "tag": "aml_net_341810040",
+  "project": "la_platform",
+  "date": "2024-07-09T22:28:22.000-07:00"
+ },
+ "aml_mpr_341812060": {
+  "tag": "aml_mpr_341812060",
+  "project": "la_platform",
+  "date": "2024-07-09T22:27:23.000-07:00"
+ },
+ "aml_hef_341811030": {
+  "tag": "aml_hef_341811030",
+  "project": "la_platform",
+  "date": "2024-07-09T22:26:26.000-07:00"
+ },
+ "aml_ext_341816020": {
+  "tag": "aml_ext_341816020",
+  "project": "la_platform",
+  "date": "2024-07-09T22:25:28.000-07:00"
+ },
+ "aml_doc_341813030": {
+  "tag": "aml_doc_341813030",
+  "project": "la_platform",
+  "date": "2024-07-09T22:24:29.000-07:00"
+ },
+ "aml_con_341810060": {
+  "tag": "aml_con_341810060",
+  "project": "la_platform",
+  "date": "2024-07-09T22:23:33.000-07:00"
+ },
+ "aml_cbr_341810000": {
+  "tag": "aml_cbr_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:22:31.000-07:00"
+ },
+ "aml_art_341810020": {
+  "tag": "aml_art_341810020",
+  "project": "la_platform",
+  "date": "2024-07-09T22:21:31.000-07:00"
+ },
+ "aml_ase_341810000": {
+  "tag": "aml_ase_341810000",
+  "project": "la_platform",
+  "date": "2024-07-09T22:20:18.000-07:00"
+ },
+ "aml_ads_341826300": {
+  "tag": "aml_ads_341826300",
+  "project": "la_platform",
+  "date": "2024-07-09T16:33:06.000-07:00"
+ },
+ "aml_ads_341826060": {
+  "tag": "aml_ads_341826060",
+  "project": "la_platform",
+  "date": "2024-07-09T14:30:45.000-07:00"
  },
  "LA.UM.8.15.c25-07300-KAMORTA.0": {
   "tag": "LA.UM.8.15.c25-07300-KAMORTA.0",
@@ -499,6 +879,56 @@
   "project": "la_platform",
   "date": "2024-07-04T01:14:07.000-07:00"
  },
+ "android-14.0.0_r54": {
+  "tag": "android-14.0.0_r54",
+  "project": "la_platform",
+  "date": "2024-07-02T13:41:33.000-07:00"
+ },
+ "android-14.0.0_r53": {
+  "tag": "android-14.0.0_r53",
+  "project": "la_platform",
+  "date": "2024-07-02T13:31:02.000-07:00"
+ },
+ "android-14.0.0_r52": {
+  "tag": "android-14.0.0_r52",
+  "project": "la_platform",
+  "date": "2024-07-02T12:18:57.000-07:00"
+ },
+ "android-platform-14.0.0_r9": {
+  "tag": "android-platform-14.0.0_r9",
+  "project": "la_platform",
+  "date": "2024-07-02T10:14:36.000-07:00"
+ },
+ "android-platform-13.0.0_r21": {
+  "tag": "android-platform-13.0.0_r21",
+  "project": "la_platform",
+  "date": "2024-07-02T05:52:53.000-07:00"
+ },
+ "android-platform-12.0.0_r33": {
+  "tag": "android-platform-12.0.0_r33",
+  "project": "la_platform",
+  "date": "2024-07-02T05:51:37.000-07:00"
+ },
+ "android-platform-12.1.0_r29": {
+  "tag": "android-platform-12.1.0_r29",
+  "project": "la_platform",
+  "date": "2024-07-01T19:54:50.000-07:00"
+ },
+ "android-security-12.0.0_r61": {
+  "tag": "android-security-12.0.0_r61",
+  "project": "la_platform",
+  "date": "2024-07-01T15:44:41.000-07:00"
+ },
+ "android-security-13.0.0_r19": {
+  "tag": "android-security-13.0.0_r19",
+  "project": "la_platform",
+  "date": "2024-07-01T12:54:49.000-07:00"
+ },
+ "android-security-14.0.0_r10": {
+  "tag": "android-security-14.0.0_r10",
+  "project": "la_platform",
+  "date": "2024-07-01T11:03:21.000-07:00"
+ },
  "LA.UM.6.6.c32-04800-89xx.0": {
   "tag": "LA.UM.6.6.c32-04800-89xx.0",
   "project": "la_platform",
@@ -549,6 +979,11 @@
   "project": "la_platform",
   "date": "2024-06-19T12:45:41.000-07:00"
  },
+ "android-14.0.0_r51": {
+  "tag": "android-14.0.0_r51",
+  "project": "la_platform",
+  "date": "2024-06-17T16:14:32.000-07:00"
+ },
  "LA.UM.7.2.r2-13900-8x98.0": {
   "tag": "LA.UM.7.2.r2-13900-8x98.0",
   "project": "la_platform",
@@ -559,6 +994,16 @@
   "project": "la_platform",
   "date": "2024-06-17T02:35:29.000-07:00"
  },
+ "studio-2024.1.1": {
+  "tag": "studio-2024.1.1",
+  "project": "la_platform",
+  "date": "2024-06-14T13:36:48.000-07:00"
+ },
+ "studio-2023.3.1-patch2": {
+  "tag": "studio-2023.3.1-patch2",
+  "project": "la_platform",
+  "date": "2024-06-14T13:35:12.000-07:00"
+ },
  "LA.UM.5.7.c25-14700-8x98.0": {
   "tag": "LA.UM.5.7.c25-14700-8x98.0",
   "project": "la_platform",
@@ -568,6 +1013,26 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.147",
   "project": "la_platform",
   "date": "2024-06-14T00:08:30.000-07:00"
+ },
+ "android-platform-14.0.0_r8": {
+  "tag": "android-platform-14.0.0_r8",
+  "project": "la_platform",
+  "date": "2024-06-13T16:04:10.000-07:00"
+ },
+ "android-platform-13.0.0_r20": {
+  "tag": "android-platform-13.0.0_r20",
+  "project": "la_platform",
+  "date": "2024-06-13T16:00:44.000-07:00"
+ },
+ "android-platform-12.1.0_r28": {
+  "tag": "android-platform-12.1.0_r28",
+  "project": "la_platform",
+  "date": "2024-06-13T15:58:28.000-07:00"
+ },
+ "android-platform-12.0.0_r32": {
+  "tag": "android-platform-12.0.0_r32",
+  "project": "la_platform",
+  "date": "2024-06-13T15:55:29.000-07:00"
  },
  "LA.AU.1.4.1.r2-07300-sa8155.0": {
   "tag": "LA.AU.1.4.1.r2-07300-sa8155.0",
@@ -598,6 +1063,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.4.C25.10.00.00.832.110",
   "project": "la_platform",
   "date": "2024-06-11T02:12:41.000-07:00"
+ },
+ "android-14.0.0_r50": {
+  "tag": "android-14.0.0_r50",
+  "project": "la_platform",
+  "date": "2024-06-10T15:06:12.000-07:00"
  },
  "LA.UM.7.2.c27-05700-sdm660.0": {
   "tag": "LA.UM.7.2.c27-05700-sdm660.0",
@@ -649,6 +1119,11 @@
   "project": "la_platform",
   "date": "2024-06-06T02:40:11.000-07:00"
  },
+ "ndk-r27-rc1": {
+  "tag": "ndk-r27-rc1",
+  "project": "la_platform",
+  "date": "2024-06-05T16:06:43.000-07:00"
+ },
  "LA.UM.12.2.1.r1-03500-sdm660.0": {
   "tag": "LA.UM.12.2.1.r1-03500-sdm660.0",
   "project": "la_platform",
@@ -699,6 +1174,21 @@
   "project": "la_platform",
   "date": "2024-06-04T03:15:12.000-07:00"
  },
+ "android-security-14.0.0_r9": {
+  "tag": "android-security-14.0.0_r9",
+  "project": "la_platform",
+  "date": "2024-06-03T09:29:23.000-07:00"
+ },
+ "android-security-13.0.0_r18": {
+  "tag": "android-security-13.0.0_r18",
+  "project": "la_platform",
+  "date": "2024-06-03T09:27:58.000-07:00"
+ },
+ "android-security-12.0.0_r60": {
+  "tag": "android-security-12.0.0_r60",
+  "project": "la_platform",
+  "date": "2024-06-03T09:26:58.000-07:00"
+ },
  "LA.UM.9.8.c26-01500-SDM710.0": {
   "tag": "LA.UM.9.8.c26-01500-SDM710.0",
   "project": "la_platform",
@@ -739,6 +1229,16 @@
   "project": "la_platform",
   "date": "2024-05-31T01:35:43.000-07:00"
  },
+ "android-wear-13.0.0-gpl_r3": {
+  "tag": "android-wear-13.0.0-gpl_r3",
+  "project": "la_platform",
+  "date": "2024-05-30T15:31:31.000-07:00"
+ },
+ "android-wear-13.0.0-gpl_r2": {
+  "tag": "android-wear-13.0.0-gpl_r2",
+  "project": "la_platform",
+  "date": "2024-05-30T15:27:56.000-07:00"
+ },
  "LA.UM.10.9.1.r1-05500-QCS610.0": {
   "tag": "LA.UM.10.9.1.r1-05500-QCS610.0",
   "project": "la_platform",
@@ -748,6 +1248,96 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.10.9.1.R1.12.00.00.894.055",
   "project": "la_platform",
   "date": "2024-05-24T06:22:13.000-07:00"
+ },
+ "ub-automotive-master-20240521": {
+  "tag": "ub-automotive-master-20240521",
+  "project": "la_platform",
+  "date": "2024-05-22T10:53:14.000-07:00"
+ },
+ "aml_cbr_341710000": {
+  "tag": "aml_cbr_341710000",
+  "project": "la_platform",
+  "date": "2024-05-22T10:09:40.000-07:00"
+ },
+ "aml_per_341711000": {
+  "tag": "aml_per_341711000",
+  "project": "la_platform",
+  "date": "2024-05-22T10:08:02.000-07:00"
+ },
+ "aml_med_341711000": {
+  "tag": "aml_med_341711000",
+  "project": "la_platform",
+  "date": "2024-05-22T10:06:25.000-07:00"
+ },
+ "aml_swc_341711000": {
+  "tag": "aml_swc_341711000",
+  "project": "la_platform",
+  "date": "2024-05-22T10:05:00.000-07:00"
+ },
+ "aml_sta_341710000": {
+  "tag": "aml_sta_341710000",
+  "project": "la_platform",
+  "date": "2024-05-22T10:03:40.000-07:00"
+ },
+ "aml_doc_341713000": {
+  "tag": "aml_doc_341713000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:57:24.000-07:00"
+ },
+ "aml_sdk_341710000": {
+  "tag": "aml_sdk_341710000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:55:57.000-07:00"
+ },
+ "aml_art_341711000": {
+  "tag": "aml_art_341711000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:53:40.000-07:00"
+ },
+ "aml_uwb_341710010": {
+  "tag": "aml_uwb_341710010",
+  "project": "la_platform",
+  "date": "2024-05-22T09:51:57.000-07:00"
+ },
+ "aml_odp_341717000": {
+  "tag": "aml_odp_341717000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:48:01.000-07:00"
+ },
+ "aml_hef_341717050": {
+  "tag": "aml_hef_341717050",
+  "project": "la_platform",
+  "date": "2024-05-22T09:46:41.000-07:00"
+ },
+ "aml_tet_341712060": {
+  "tag": "aml_tet_341712060",
+  "project": "la_platform",
+  "date": "2024-05-22T09:44:15.000-07:00"
+ },
+ "aml_net_341710020": {
+  "tag": "aml_net_341710020",
+  "project": "la_platform",
+  "date": "2024-05-22T09:42:07.000-07:00"
+ },
+ "aml_ext_341716000": {
+  "tag": "aml_ext_341716000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:33:36.000-07:00"
+ },
+ "aml_ads_341720000": {
+  "tag": "aml_ads_341720000",
+  "project": "la_platform",
+  "date": "2024-05-22T09:31:11.000-07:00"
+ },
+ "aml_wif_341711020": {
+  "tag": "aml_wif_341711020",
+  "project": "la_platform",
+  "date": "2024-05-22T09:29:29.000-07:00"
+ },
+ "aml_mpr_341713020": {
+  "tag": "aml_mpr_341713020",
+  "project": "la_platform",
+  "date": "2024-05-22T09:27:00.000-07:00"
  },
  "LA.UM.8.15.c25-06900-KAMORTA.0": {
   "tag": "LA.UM.8.15.c25-06900-KAMORTA.0",
@@ -789,6 +1379,21 @@
   "project": "la_platform",
   "date": "2024-05-18T00:14:26.000-07:00"
  },
+ "studio-2024.1.2-canary1": {
+  "tag": "studio-2024.1.2-canary1",
+  "project": "la_platform",
+  "date": "2024-05-17T16:47:55.000-07:00"
+ },
+ "studio-2024.1.1-canary8": {
+  "tag": "studio-2024.1.1-canary8",
+  "project": "la_platform",
+  "date": "2024-05-17T16:43:28.000-07:00"
+ },
+ "studio-2024.1.1-beta2": {
+  "tag": "studio-2024.1.1-beta2",
+  "project": "la_platform",
+  "date": "2024-05-17T16:32:48.000-07:00"
+ },
  "LA.UM.9.8.c26-01400-SDM710.0": {
   "tag": "LA.UM.9.8.c26-01400-SDM710.0",
   "project": "la_platform",
@@ -829,10 +1434,105 @@
   "project": "la_platform",
   "date": "2024-05-16T04:24:58.000+00:00"
  },
+ "android-15-beta-2-gpl": {
+  "tag": "android-15-beta-2-gpl",
+  "project": "la_platform",
+  "date": "2024-05-15T12:04:35.000-07:00"
+ },
+ "android-wear-14.0.0-gpl_r1": {
+  "tag": "android-wear-14.0.0-gpl_r1",
+  "project": "la_platform",
+  "date": "2024-05-15T11:21:54.000-07:00"
+ },
+ "android-14.0.0_r45": {
+  "tag": "android-14.0.0_r45",
+  "project": "la_platform",
+  "date": "2024-05-14T18:21:38.000-07:00"
+ },
+ "android-14.0.0_r44": {
+  "tag": "android-14.0.0_r44",
+  "project": "la_platform",
+  "date": "2024-05-14T18:20:27.000-07:00"
+ },
+ "android-14.0.0_r43": {
+  "tag": "android-14.0.0_r43",
+  "project": "la_platform",
+  "date": "2024-05-14T18:19:20.000-07:00"
+ },
+ "android-14.0.0_r42": {
+  "tag": "android-14.0.0_r42",
+  "project": "la_platform",
+  "date": "2024-05-14T18:18:07.000-07:00"
+ },
+ "android-14.0.0_r41": {
+  "tag": "android-14.0.0_r41",
+  "project": "la_platform",
+  "date": "2024-05-14T18:16:57.000-07:00"
+ },
+ "android-14.0.0_r40": {
+  "tag": "android-14.0.0_r40",
+  "project": "la_platform",
+  "date": "2024-05-14T18:15:49.000-07:00"
+ },
+ "android-14.0.0_r39": {
+  "tag": "android-14.0.0_r39",
+  "project": "la_platform",
+  "date": "2024-05-14T18:14:39.000-07:00"
+ },
+ "android-14.0.0_r38": {
+  "tag": "android-14.0.0_r38",
+  "project": "la_platform",
+  "date": "2024-05-14T17:56:18.000-07:00"
+ },
+ "android-14.0.0_r37": {
+  "tag": "android-14.0.0_r37",
+  "project": "la_platform",
+  "date": "2024-05-14T11:42:34.000-07:00"
+ },
+ "android-14.0.0_r36": {
+  "tag": "android-14.0.0_r36",
+  "project": "la_platform",
+  "date": "2024-05-14T11:41:48.000-07:00"
+ },
+ "android-14.0.0_r35": {
+  "tag": "android-14.0.0_r35",
+  "project": "la_platform",
+  "date": "2024-05-14T11:40:05.000-07:00"
+ },
+ "android-14.0.0_r34": {
+  "tag": "android-14.0.0_r34",
+  "project": "la_platform",
+  "date": "2024-05-14T11:38:37.000-07:00"
+ },
+ "android-14.0.0_r33": {
+  "tag": "android-14.0.0_r33",
+  "project": "la_platform",
+  "date": "2024-05-14T11:36:58.000-07:00"
+ },
+ "android-14.0.0_r32": {
+  "tag": "android-14.0.0_r32",
+  "project": "la_platform",
+  "date": "2024-05-14T11:23:32.000-07:00"
+ },
+ "android-14.0.0_r31": {
+  "tag": "android-14.0.0_r31",
+  "project": "la_platform",
+  "date": "2024-05-14T11:21:13.000-07:00"
+ },
+ "android-14.0.0_r30": {
+  "tag": "android-14.0.0_r30",
+  "project": "la_platform",
+  "date": "2024-05-14T11:16:42.000-07:00"
+ },
  "LA.UM.12.2.1.r1-03300-sdm660.0": {
   "tag": "LA.UM.12.2.1.r1-03300-sdm660.0",
   "project": "la_platform",
   "date": "2024-05-14T11:10:08.000-07:00"
+ },
+ "android-14.0.0_r29": {
+  "tag": "android-14.0.0_r29",
+  "project": "la_platform",
+  "date": "2024-05-14T11:04:48.000-07:00"
  },
  "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.033": {
   "tag": "AU_LINUX_ANDROID_LA.UM.12.2.1.R1.14.00.00.1104.033",
@@ -869,6 +1569,61 @@
   "project": "la_platform",
   "date": "2024-05-09T13:23:15.000+00:00"
  },
+ "studio-2023.3.1-rc2": {
+  "tag": "studio-2023.3.1-rc2",
+  "project": "la_platform",
+  "date": "2024-05-08T23:16:59.000-07:00"
+ },
+ "android-cts-14.0_r4": {
+  "tag": "android-cts-14.0_r4",
+  "project": "la_platform",
+  "date": "2024-05-08T00:18:21.000-07:00"
+ },
+ "android-cts-13.0_r8": {
+  "tag": "android-cts-13.0_r8",
+  "project": "la_platform",
+  "date": "2024-05-08T00:17:47.000-07:00"
+ },
+ "android-cts-12.1_r10": {
+  "tag": "android-cts-12.1_r10",
+  "project": "la_platform",
+  "date": "2024-05-08T00:06:32.000-07:00"
+ },
+ "android-cts-12.0_r12": {
+  "tag": "android-cts-12.0_r12",
+  "project": "la_platform",
+  "date": "2024-05-08T00:03:03.000-07:00"
+ },
+ "android-cts-11.0_r16": {
+  "tag": "android-cts-11.0_r16",
+  "project": "la_platform",
+  "date": "2024-05-07T23:57:04.000-07:00"
+ },
+ "android-vts-14.0_r4": {
+  "tag": "android-vts-14.0_r4",
+  "project": "la_platform",
+  "date": "2024-05-07T15:29:10.000-07:00"
+ },
+ "android-vts-13.0_r8": {
+  "tag": "android-vts-13.0_r8",
+  "project": "la_platform",
+  "date": "2024-05-07T15:01:20.000-07:00"
+ },
+ "android-vts-12.1_r10": {
+  "tag": "android-vts-12.1_r10",
+  "project": "la_platform",
+  "date": "2024-05-07T14:46:58.000-07:00"
+ },
+ "android-vts-12.0_r12": {
+  "tag": "android-vts-12.0_r12",
+  "project": "la_platform",
+  "date": "2024-05-07T13:43:39.000-07:00"
+ },
+ "android-vts-11.0_r16": {
+  "tag": "android-vts-11.0_r16",
+  "project": "la_platform",
+  "date": "2024-05-07T13:30:06.000-07:00"
+ },
  "LAW.BR.4.0.c1-20600-89xx.0": {
   "tag": "LAW.BR.4.0.c1-20600-89xx.0",
   "project": "la_platform",
@@ -878,6 +1633,41 @@
   "tag": "AU_LINUX_ANDROID_LAW.BR.4.0.C1.08.01.00.759.206",
   "project": "la_platform",
   "date": "2024-05-07T05:46:42.000-07:00"
+ },
+ "android-platform-14.0.0_r7": {
+  "tag": "android-platform-14.0.0_r7",
+  "project": "la_platform",
+  "date": "2024-05-06T21:50:15.000-07:00"
+ },
+ "android-platform-13.0.0_r19": {
+  "tag": "android-platform-13.0.0_r19",
+  "project": "la_platform",
+  "date": "2024-05-06T18:04:40.000-07:00"
+ },
+ "android-platform-12.1.0_r27": {
+  "tag": "android-platform-12.1.0_r27",
+  "project": "la_platform",
+  "date": "2024-05-06T17:03:30.000-07:00"
+ },
+ "android-platform-12.0.0_r31": {
+  "tag": "android-platform-12.0.0_r31",
+  "project": "la_platform",
+  "date": "2024-05-06T15:30:54.000-07:00"
+ },
+ "android-security-13.0.0_r17": {
+  "tag": "android-security-13.0.0_r17",
+  "project": "la_platform",
+  "date": "2024-05-06T12:54:29.000-07:00"
+ },
+ "android-security-12.0.0_r59": {
+  "tag": "android-security-12.0.0_r59",
+  "project": "la_platform",
+  "date": "2024-05-06T11:52:38.000-07:00"
+ },
+ "android-security-14.0.0_r8": {
+  "tag": "android-security-14.0.0_r8",
+  "project": "la_platform",
+  "date": "2024-05-06T10:22:56.000-07:00"
  },
  "LA.UM.5.7.c25-14400-8x98.0": {
   "tag": "LA.UM.5.7.c25-14400-8x98.0",
@@ -909,15 +1699,50 @@
   "project": "la_platform",
   "date": "2024-05-02T11:27:50.000-07:00"
  },
+ "studio-2023.3.1": {
+  "tag": "studio-2023.3.1",
+  "project": "la_platform",
+  "date": "2024-04-30T10:18:47.000-07:00"
+ },
+ "aml_tz5_341510070": {
+  "tag": "aml_tz5_341510070",
+  "project": "la_platform",
+  "date": "2024-04-29T10:39:52.000-07:00"
+ },
  "LA.UM.8.3.c25-09100-sdm845.0": {
   "tag": "LA.UM.8.3.c25-09100-sdm845.0",
   "project": "la_platform",
   "date": "2024-04-29T10:37:58.000-07:00"
  },
+ "aml_tz4_332714070": {
+  "tag": "aml_tz4_332714070",
+  "project": "la_platform",
+  "date": "2024-04-29T10:37:46.000-07:00"
+ },
+ "aml_tz3_314012070": {
+  "tag": "aml_tz3_314012070",
+  "project": "la_platform",
+  "date": "2024-04-29T10:35:34.000-07:00"
+ },
+ "aml_tz2_305400500": {
+  "tag": "aml_tz2_305400500",
+  "project": "la_platform",
+  "date": "2024-04-29T10:33:23.000-07:00"
+ },
+ "q_tzdata_aml_297100400": {
+  "tag": "q_tzdata_aml_297100400",
+  "project": "la_platform",
+  "date": "2024-04-29T10:31:25.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.091": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.091",
   "project": "la_platform",
   "date": "2024-04-29T10:08:56.000-07:00"
+ },
+ "aml_art_341514450": {
+  "tag": "aml_art_341514450",
+  "project": "la_platform",
+  "date": "2024-04-29T09:53:30.000-07:00"
  },
  "LA.UM.10.6.2.c26-01300-89xx.0": {
   "tag": "LA.UM.10.6.2.c26-01300-89xx.0",
@@ -929,6 +1754,101 @@
   "project": "la_platform",
   "date": "2024-04-29T00:25:42.000-07:00"
  },
+ "aml_odp_341610000": {
+  "tag": "aml_odp_341610000",
+  "project": "la_platform",
+  "date": "2024-04-24T20:14:10.000-07:00"
+ },
+ "aml_cbr_341610000": {
+  "tag": "aml_cbr_341610000",
+  "project": "la_platform",
+  "date": "2024-04-24T20:12:19.000-07:00"
+ },
+ "aml_wif_341610000": {
+  "tag": "aml_wif_341610000",
+  "project": "la_platform",
+  "date": "2024-04-24T20:10:44.000-07:00"
+ },
+ "aml_ips_341611000": {
+  "tag": "aml_ips_341611000",
+  "project": "la_platform",
+  "date": "2024-04-24T20:09:01.000-07:00"
+ },
+ "aml_sta_341615000": {
+  "tag": "aml_sta_341615000",
+  "project": "la_platform",
+  "date": "2024-04-24T20:07:24.000-07:00"
+ },
+ "aml_per_341614000": {
+  "tag": "aml_per_341614000",
+  "project": "la_platform",
+  "date": "2024-04-24T19:43:42.000-07:00"
+ },
+ "aml_hef_341613000": {
+  "tag": "aml_hef_341613000",
+  "project": "la_platform",
+  "date": "2024-04-24T19:37:30.000-07:00"
+ },
+ "aml_con_341614000": {
+  "tag": "aml_con_341614000",
+  "project": "la_platform",
+  "date": "2024-04-24T19:35:50.000-07:00"
+ },
+ "aml_med_341619000": {
+  "tag": "aml_med_341619000",
+  "project": "la_platform",
+  "date": "2024-04-24T19:33:02.000-07:00"
+ },
+ "aml_uwb_341513070": {
+  "tag": "aml_uwb_341513070",
+  "project": "la_platform",
+  "date": "2024-04-24T17:08:21.000-07:00"
+ },
+ "aml_swc_341619000": {
+  "tag": "aml_swc_341619000",
+  "project": "la_platform",
+  "date": "2024-04-24T17:02:59.000-07:00"
+ },
+ "aml_net_341610030": {
+  "tag": "aml_net_341610030",
+  "project": "la_platform",
+  "date": "2024-04-24T16:56:44.000-07:00"
+ },
+ "aml_tet_341610020": {
+  "tag": "aml_tet_341610020",
+  "project": "la_platform",
+  "date": "2024-04-24T16:53:42.000-07:00"
+ },
+ "aml_doc_341610010": {
+  "tag": "aml_doc_341610010",
+  "project": "la_platform",
+  "date": "2024-04-24T16:49:35.000-07:00"
+ },
+ "aml_adb_341520010": {
+  "tag": "aml_adb_341520010",
+  "project": "la_platform",
+  "date": "2024-04-24T16:48:12.000-07:00"
+ },
+ "aml_mpr_341614010": {
+  "tag": "aml_mpr_341614010",
+  "project": "la_platform",
+  "date": "2024-04-24T16:46:14.000-07:00"
+ },
+ "aml_art_341615020": {
+  "tag": "aml_art_341615020",
+  "project": "la_platform",
+  "date": "2024-04-24T16:44:01.000-07:00"
+ },
+ "aml_ext_341620040": {
+  "tag": "aml_ext_341620040",
+  "project": "la_platform",
+  "date": "2024-04-24T16:42:05.000-07:00"
+ },
+ "aml_ads_341615050": {
+  "tag": "aml_ads_341615050",
+  "project": "la_platform",
+  "date": "2024-04-24T16:39:13.000-07:00"
+ },
  "LA.UM.8.2.1.c25-08000-sdm660.0": {
   "tag": "LA.UM.8.2.1.c25-08000-sdm660.0",
   "project": "la_platform",
@@ -938,6 +1858,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.080",
   "project": "la_platform",
   "date": "2024-04-24T06:12:24.000-07:00"
+ },
+ "platform-tools-35.0.1": {
+  "tag": "platform-tools-35.0.1",
+  "project": "la_platform",
+  "date": "2024-04-23T16:26:22.000-07:00"
  },
  "LA.UM.8.12.c3-75900-sm8250.0": {
   "tag": "LA.UM.8.12.c3-75900-sm8250.0",
@@ -989,6 +1914,11 @@
   "project": "la_platform",
   "date": "2024-04-15T00:01:52.000-07:00"
  },
+ "ndk-r26d": {
+  "tag": "ndk-r26d",
+  "project": "la_platform",
+  "date": "2024-04-10T15:11:24.000-07:00"
+ },
  "LA.UM.9.15.1.c27-02000-KAMORTA.0": {
   "tag": "LA.UM.9.15.1.c27-02000-KAMORTA.0",
   "project": "la_platform",
@@ -1018,6 +1948,31 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.11.2.1.C25.13.00.00.1155.012",
   "project": "la_platform",
   "date": "2024-04-05T07:23:21.000-07:00"
+ },
+ "aml_tz5_341510050": {
+  "tag": "aml_tz5_341510050",
+  "project": "la_platform",
+  "date": "2024-04-04T19:54:48.000-07:00"
+ },
+ "aml_tz2_305400300": {
+  "tag": "aml_tz2_305400300",
+  "project": "la_platform",
+  "date": "2024-04-04T19:37:03.000-07:00"
+ },
+ "aml_tz3_314012050": {
+  "tag": "aml_tz3_314012050",
+  "project": "la_platform",
+  "date": "2024-04-04T19:35:26.000-07:00"
+ },
+ "q_tzdata_aml_297100300": {
+  "tag": "q_tzdata_aml_297100300",
+  "project": "la_platform",
+  "date": "2024-04-04T19:20:07.000-07:00"
+ },
+ "aml_tz4_332714050": {
+  "tag": "aml_tz4_332714050",
+  "project": "la_platform",
+  "date": "2024-04-04T19:11:28.000-07:00"
  },
  "LA.UM.5.7.c25-14300-8x98.0": {
   "tag": "LA.UM.5.7.c25-14300-8x98.0",
@@ -1059,6 +2014,26 @@
   "project": "la_platform",
   "date": "2024-04-03T08:07:58.000-07:00"
  },
+ "android-platform-12.0.0_r30": {
+  "tag": "android-platform-12.0.0_r30",
+  "project": "la_platform",
+  "date": "2024-04-02T11:40:14.000-07:00"
+ },
+ "android-platform-12.1.0_r26": {
+  "tag": "android-platform-12.1.0_r26",
+  "project": "la_platform",
+  "date": "2024-04-02T11:39:21.000-07:00"
+ },
+ "android-platform-13.0.0_r18": {
+  "tag": "android-platform-13.0.0_r18",
+  "project": "la_platform",
+  "date": "2024-04-02T11:36:27.000-07:00"
+ },
+ "android-platform-14.0.0_r6": {
+  "tag": "android-platform-14.0.0_r6",
+  "project": "la_platform",
+  "date": "2024-04-02T11:20:02.000-07:00"
+ },
  "LA.UM.9.8.c26-01100-SDM710.0": {
   "tag": "LA.UM.9.8.c26-01100-SDM710.0",
   "project": "la_platform",
@@ -1078,6 +2053,21 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.9.2.1.C27.11.00.00.949.052",
   "project": "la_platform",
   "date": "2024-04-02T01:55:30.000-07:00"
+ },
+ "android-security-12.0.0_r58": {
+  "tag": "android-security-12.0.0_r58",
+  "project": "la_platform",
+  "date": "2024-04-01T08:40:55.000-07:00"
+ },
+ "android-security-13.0.0_r16": {
+  "tag": "android-security-13.0.0_r16",
+  "project": "la_platform",
+  "date": "2024-04-01T08:38:27.000-07:00"
+ },
+ "android-security-14.0.0_r7": {
+  "tag": "android-security-14.0.0_r7",
+  "project": "la_platform",
+  "date": "2024-04-01T08:36:04.000-07:00"
  },
  "LA.UM.8.12.c25-01600-sm8250.0": {
   "tag": "LA.UM.8.12.c25-01600-sm8250.0",
@@ -1149,6 +2139,136 @@
   "project": "la_platform",
   "date": "2024-03-28T06:31:30.000-07:00"
  },
+ "aml_art_341514410": {
+  "tag": "aml_art_341514410",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:20.000-07:00"
+ },
+ "aml_ads_341517040": {
+  "tag": "aml_ads_341517040",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:18.000-07:00"
+ },
+ "aml_adb_341517070": {
+  "tag": "aml_adb_341517070",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:16.000-07:00"
+ },
+ "aml_net_341510050": {
+  "tag": "aml_net_341510050",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:15.000-07:00"
+ },
+ "aml_mpr_341511070": {
+  "tag": "aml_mpr_341511070",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:13.000-07:00"
+ },
+ "aml_doc_341510050": {
+  "tag": "aml_doc_341510050",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:11.000-07:00"
+ },
+ "aml_ext_341518010": {
+  "tag": "aml_ext_341518010",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:09.000-07:00"
+ },
+ "aml_con_341511080": {
+  "tag": "aml_con_341511080",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:07.000-07:00"
+ },
+ "aml_tet_341511010": {
+  "tag": "aml_tet_341511010",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:05.000-07:00"
+ },
+ "aml_hef_341512030": {
+  "tag": "aml_hef_341512030",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:03.000-07:00"
+ },
+ "aml_uwb_341511050": {
+  "tag": "aml_uwb_341511050",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:02.000-07:00"
+ },
+ "aml_swc_341513600": {
+  "tag": "aml_swc_341513600",
+  "project": "la_platform",
+  "date": "2024-03-27T11:30:00.000-07:00"
+ },
+ "aml_med_341513600": {
+  "tag": "aml_med_341513600",
+  "project": "la_platform",
+  "date": "2024-03-27T11:29:58.000-07:00"
+ },
+ "aml_sta_341511040": {
+  "tag": "aml_sta_341511040",
+  "project": "la_platform",
+  "date": "2024-03-27T11:29:56.000-07:00"
+ },
+ "aml_cbr_341510010": {
+  "tag": "aml_cbr_341510010",
+  "project": "la_platform",
+  "date": "2024-03-27T11:29:54.000-07:00"
+ },
+ "aml_per_341510010": {
+  "tag": "aml_per_341510010",
+  "project": "la_platform",
+  "date": "2024-03-27T11:29:52.000-07:00"
+ },
+ "aml_cfg_341510000": {
+  "tag": "aml_cfg_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:29:50.000-07:00"
+ },
+ "aml_rkp_341510000": {
+  "tag": "aml_rkp_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:20:44.000-07:00"
+ },
+ "aml_ase_341510000": {
+  "tag": "aml_ase_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:20:08.000-07:00"
+ },
+ "aml_neu_341510000": {
+  "tag": "aml_neu_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:19:22.000-07:00"
+ },
+ "aml_sch_341510000": {
+  "tag": "aml_sch_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:18:47.000-07:00"
+ },
+ "aml_wif_341510000": {
+  "tag": "aml_wif_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:18:01.000-07:00"
+ },
+ "aml_ips_341510000": {
+  "tag": "aml_ips_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:16:49.000-07:00"
+ },
+ "aml_res_341510000": {
+  "tag": "aml_res_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:15:43.000-07:00"
+ },
+ "aml_net_341510000": {
+  "tag": "aml_net_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:14:36.000-07:00"
+ },
+ "aml_sdk_341510000": {
+  "tag": "aml_sdk_341510000",
+  "project": "la_platform",
+  "date": "2024-03-27T11:01:47.000-07:00"
+ },
  "LA.AU.1.4.4.r1-03200-sa8155_gvmq.0": {
   "tag": "LA.AU.1.4.4.r1-03200-sa8155_gvmq.0",
   "project": "la_platform",
@@ -1179,6 +2299,11 @@
   "project": "la_platform",
   "date": "2024-03-26T03:05:29.000-07:00"
  },
+ "android-15-dp-2-gpl": {
+  "tag": "android-15-dp-2-gpl",
+  "project": "la_platform",
+  "date": "2024-03-21T11:24:39.000-07:00"
+ },
  "LA.UM.9.8.c27-02600-SDM710.0": {
   "tag": "LA.UM.9.8.c27-02600-SDM710.0",
   "project": "la_platform",
@@ -1188,6 +2313,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.9.8.C27.11.00.00.1175.026",
   "project": "la_platform",
   "date": "2024-03-21T01:52:46.000-07:00"
+ },
+ "ub-automotive-master-20240314": {
+  "tag": "ub-automotive-master-20240314",
+  "project": "la_platform",
+  "date": "2024-03-18T13:06:20.000-07:00"
  },
  "LA.UM.8.9.1.c25-04600-QCS610.0": {
   "tag": "LA.UM.8.9.1.c25-04600-QCS610.0",
@@ -1228,6 +2358,31 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.15.C25.10.00.00.937.067",
   "project": "la_platform",
   "date": "2024-03-15T22:58:37.000-07:00"
+ },
+ "q_tzdata_aml_297100000": {
+  "tag": "q_tzdata_aml_297100000",
+  "project": "la_platform",
+  "date": "2024-03-14T22:05:46.000-07:00"
+ },
+ "aml_tz5_341510010": {
+  "tag": "aml_tz5_341510010",
+  "project": "la_platform",
+  "date": "2024-03-14T20:42:35.000-07:00"
+ },
+ "aml_tz4_332714010": {
+  "tag": "aml_tz4_332714010",
+  "project": "la_platform",
+  "date": "2024-03-14T14:37:21.000-07:00"
+ },
+ "aml_tz3_314012010": {
+  "tag": "aml_tz3_314012010",
+  "project": "la_platform",
+  "date": "2024-03-14T13:51:29.000-07:00"
+ },
+ "aml_tz2_305400100": {
+  "tag": "aml_tz2_305400100",
+  "project": "la_platform",
+  "date": "2024-03-14T11:18:58.000-07:00"
  },
  "AU_LINUX_ANDROID_LA.UM.8.6.2.R2.10.00.00.626.024": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.6.2.R2.10.00.00.626.024",
@@ -1279,6 +2434,101 @@
   "project": "la_platform",
   "date": "2024-03-13T09:24:56.000-07:00"
  },
+ "aml_wif_341410080": {
+  "tag": "aml_wif_341410080",
+  "project": "la_platform",
+  "date": "2024-03-12T18:15:44.000-07:00"
+ },
+ "aml_uwb_341310300": {
+  "tag": "aml_uwb_341310300",
+  "project": "la_platform",
+  "date": "2024-03-12T18:14:45.000-07:00"
+ },
+ "aml_tet_341411060": {
+  "tag": "aml_tet_341411060",
+  "project": "la_platform",
+  "date": "2024-03-12T18:13:44.000-07:00"
+ },
+ "aml_sdk_341410000": {
+  "tag": "aml_sdk_341410000",
+  "project": "la_platform",
+  "date": "2024-03-12T18:12:42.000-07:00"
+ },
+ "aml_res_341410010": {
+  "tag": "aml_res_341410010",
+  "project": "la_platform",
+  "date": "2024-03-12T18:11:39.000-07:00"
+ },
+ "aml_per_341410020": {
+  "tag": "aml_per_341410020",
+  "project": "la_platform",
+  "date": "2024-03-12T18:10:41.000-07:00"
+ },
+ "aml_sta_341410000": {
+  "tag": "aml_sta_341410000",
+  "project": "la_platform",
+  "date": "2024-03-12T18:09:42.000-07:00"
+ },
+ "aml_net_341411030": {
+  "tag": "aml_net_341411030",
+  "project": "la_platform",
+  "date": "2024-03-12T18:08:38.000-07:00"
+ },
+ "aml_swc_341312300": {
+  "tag": "aml_swc_341312300",
+  "project": "la_platform",
+  "date": "2024-03-12T18:07:35.000-07:00"
+ },
+ "aml_med_341312300": {
+  "tag": "aml_med_341312300",
+  "project": "la_platform",
+  "date": "2024-03-12T18:06:39.000-07:00"
+ },
+ "aml_mpr_341411070": {
+  "tag": "aml_mpr_341411070",
+  "project": "la_platform",
+  "date": "2024-03-12T18:05:44.000-07:00"
+ },
+ "aml_hef_341415040": {
+  "tag": "aml_hef_341415040",
+  "project": "la_platform",
+  "date": "2024-03-12T18:04:45.000-07:00"
+ },
+ "aml_ext_341414010": {
+  "tag": "aml_ext_341414010",
+  "project": "la_platform",
+  "date": "2024-03-12T18:03:42.000-07:00"
+ },
+ "aml_con_341410300": {
+  "tag": "aml_con_341410300",
+  "project": "la_platform",
+  "date": "2024-03-12T18:02:49.000-07:00"
+ },
+ "aml_cbr_341410010": {
+  "tag": "aml_cbr_341410010",
+  "project": "la_platform",
+  "date": "2024-03-12T18:01:52.000-07:00"
+ },
+ "aml_art_341411300": {
+  "tag": "aml_art_341411300",
+  "project": "la_platform",
+  "date": "2024-03-12T18:00:50.000-07:00"
+ },
+ "aml_ase_341410000": {
+  "tag": "aml_ase_341410000",
+  "project": "la_platform",
+  "date": "2024-03-12T17:59:54.000-07:00"
+ },
+ "aml_ads_341413000": {
+  "tag": "aml_ads_341413000",
+  "project": "la_platform",
+  "date": "2024-03-12T17:58:37.000-07:00"
+ },
+ "aml_adb_340912530": {
+  "tag": "aml_adb_340912530",
+  "project": "la_platform",
+  "date": "2024-03-12T17:45:58.000-07:00"
+ },
  "LAW.BR.4.0-52400-89xx.0": {
   "tag": "LAW.BR.4.0-52400-89xx.0",
   "project": "la_platform",
@@ -1308,6 +2558,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.12.C3.10.00.00.670.751",
   "project": "la_platform",
   "date": "2024-03-09T02:39:15.000-08:00"
+ },
+ "android-u-qpr3-beta-2-gpl": {
+  "tag": "android-u-qpr3-beta-2-gpl",
+  "project": "la_platform",
+  "date": "2024-03-07T11:31:53.000-08:00"
  },
  "LA.UM.9.8.c27-02500-SDM710.0": {
   "tag": "LA.UM.9.8.c27-02500-SDM710.0",
@@ -1339,6 +2594,46 @@
   "project": "la_platform",
   "date": "2024-03-05T03:46:08.000-08:00"
  },
+ "android-platform-14.0.0_r5": {
+  "tag": "android-platform-14.0.0_r5",
+  "project": "la_platform",
+  "date": "2024-03-04T21:19:52.000-08:00"
+ },
+ "android-platform-13.0.0_r17": {
+  "tag": "android-platform-13.0.0_r17",
+  "project": "la_platform",
+  "date": "2024-03-04T20:31:53.000-08:00"
+ },
+ "android-platform-12.1.0_r25": {
+  "tag": "android-platform-12.1.0_r25",
+  "project": "la_platform",
+  "date": "2024-03-04T19:22:31.000-08:00"
+ },
+ "android-platform-12.0.0_r29": {
+  "tag": "android-platform-12.0.0_r29",
+  "project": "la_platform",
+  "date": "2024-03-04T18:38:12.000-08:00"
+ },
+ "android-platform-11.0.0_r40": {
+  "tag": "android-platform-11.0.0_r40",
+  "project": "la_platform",
+  "date": "2024-03-04T17:32:38.000-08:00"
+ },
+ "android-security-14.0.0_r6": {
+  "tag": "android-security-14.0.0_r6",
+  "project": "la_platform",
+  "date": "2024-03-04T13:32:55.000-08:00"
+ },
+ "android-security-13.0.0_r15": {
+  "tag": "android-security-13.0.0_r15",
+  "project": "la_platform",
+  "date": "2024-03-04T12:42:20.000-08:00"
+ },
+ "android-security-12.0.0_r57": {
+  "tag": "android-security-12.0.0_r57",
+  "project": "la_platform",
+  "date": "2024-03-04T11:18:05.000-08:00"
+ },
  "LA.UM.8.12.c25-01200-sm8250.0": {
   "tag": "LA.UM.8.12.c25-01200-sm8250.0",
   "project": "la_platform",
@@ -1358,6 +2653,11 @@
   "tag": "AU_LINUX_ANDROID_LAW.BR.4.0.C1.08.01.00.759.198",
   "project": "la_platform",
   "date": "2024-03-04T03:55:09.000-08:00"
+ },
+ "studio-2023.2.1": {
+  "tag": "studio-2023.2.1",
+  "project": "la_platform",
+  "date": "2024-03-01T10:02:44.000-08:00"
  },
  "LA.UM.12.2.1.r1-02900-sdm660.0": {
   "tag": "LA.UM.12.2.1.r1-02900-sdm660.0",
@@ -1439,6 +2739,131 @@
   "project": "la_platform",
   "date": "2024-02-15T06:59:20.000-08:00"
  },
+ "ub-automotive-master-20240125": {
+  "tag": "ub-automotive-master-20240125",
+  "project": "la_platform",
+  "date": "2024-02-14T16:15:45.000-08:00"
+ },
+ "aml_adb_340912350": {
+  "tag": "aml_adb_340912350",
+  "project": "la_platform",
+  "date": "2024-02-14T14:33:58.000-08:00"
+ },
+ "aml_con_341310090": {
+  "tag": "aml_con_341310090",
+  "project": "la_platform",
+  "date": "2024-02-14T14:14:41.000-08:00"
+ },
+ "aml_art_341311100": {
+  "tag": "aml_art_341311100",
+  "project": "la_platform",
+  "date": "2024-02-14T14:13:18.000-08:00"
+ },
+ "aml_med_341312020": {
+  "tag": "aml_med_341312020",
+  "project": "la_platform",
+  "date": "2024-02-14T13:56:04.000-08:00"
+ },
+ "aml_swc_341312020": {
+  "tag": "aml_swc_341312020",
+  "project": "la_platform",
+  "date": "2024-02-14T13:54:53.000-08:00"
+ },
+ "aml_tet_341310230": {
+  "tag": "aml_tet_341310230",
+  "project": "la_platform",
+  "date": "2024-02-14T13:38:51.000-08:00"
+ },
+ "aml_neu_341010080": {
+  "tag": "aml_neu_341010080",
+  "project": "la_platform",
+  "date": "2024-02-14T13:36:57.000-08:00"
+ },
+ "aml_sdk_341110080": {
+  "tag": "aml_sdk_341110080",
+  "project": "la_platform",
+  "date": "2024-02-14T13:24:45.000-08:00"
+ },
+ "aml_ips_340914280": {
+  "tag": "aml_ips_340914280",
+  "project": "la_platform",
+  "date": "2024-02-14T13:22:29.000-08:00"
+ },
+ "aml_net_341310020": {
+  "tag": "aml_net_341310020",
+  "project": "la_platform",
+  "date": "2024-02-14T12:58:51.000-08:00"
+ },
+ "aml_ext_341317010": {
+  "tag": "aml_ext_341317010",
+  "project": "la_platform",
+  "date": "2024-02-14T12:56:54.000-08:00"
+ },
+ "aml_net_341311010": {
+  "tag": "aml_net_341311010",
+  "project": "la_platform",
+  "date": "2024-02-14T12:55:48.000-08:00"
+ },
+ "aml_ads_341316030": {
+  "tag": "aml_ads_341316030",
+  "project": "la_platform",
+  "date": "2024-02-14T11:47:45.000-08:00"
+ },
+ "aml_wif_341310010": {
+  "tag": "aml_wif_341310010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:42:52.000-08:00"
+ },
+ "aml_hef_341311010": {
+  "tag": "aml_hef_341311010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:41:36.000-08:00"
+ },
+ "aml_doc_341312010": {
+  "tag": "aml_doc_341312010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:40:31.000-08:00"
+ },
+ "aml_ase_341310010": {
+  "tag": "aml_ase_341310010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:36:32.000-08:00"
+ },
+ "aml_res_341311030": {
+  "tag": "aml_res_341311030",
+  "project": "la_platform",
+  "date": "2024-02-14T11:35:26.000-08:00"
+ },
+ "aml_cbr_341311010": {
+  "tag": "aml_cbr_341311010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:23:50.000-08:00"
+ },
+ "aml_mpr_341313030": {
+  "tag": "aml_mpr_341313030",
+  "project": "la_platform",
+  "date": "2024-02-14T11:21:14.000-08:00"
+ },
+ "aml_sta_341311010": {
+  "tag": "aml_sta_341311010",
+  "project": "la_platform",
+  "date": "2024-02-14T11:16:34.000-08:00"
+ },
+ "aml_rkp_341311000": {
+  "tag": "aml_rkp_341311000",
+  "project": "la_platform",
+  "date": "2024-02-14T11:15:07.000-08:00"
+ },
+ "aml_per_341311000": {
+  "tag": "aml_per_341311000",
+  "project": "la_platform",
+  "date": "2024-02-14T10:16:16.000-08:00"
+ },
+ "aml_uwb_341310030": {
+  "tag": "aml_uwb_341310030",
+  "project": "la_platform",
+  "date": "2024-02-14T09:39:08.000-08:00"
+ },
  "LA.UM.11.2.1.c26-00400-sdm660.0": {
   "tag": "LA.UM.11.2.1.c26-00400-sdm660.0",
   "project": "la_platform",
@@ -1448,6 +2873,56 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.11.2.1.C26.13.00.00.1173.004",
   "project": "la_platform",
   "date": "2024-02-14T07:01:16.000-08:00"
+ },
+ "android-vts-14.0_r3": {
+  "tag": "android-vts-14.0_r3",
+  "project": "la_platform",
+  "date": "2024-02-13T22:18:42.000-08:00"
+ },
+ "android-vts-13.0_r7": {
+  "tag": "android-vts-13.0_r7",
+  "project": "la_platform",
+  "date": "2024-02-13T22:08:00.000-08:00"
+ },
+ "android-vts-12.1_r9": {
+  "tag": "android-vts-12.1_r9",
+  "project": "la_platform",
+  "date": "2024-02-13T21:56:11.000-08:00"
+ },
+ "android-vts-12.0_r11": {
+  "tag": "android-vts-12.0_r11",
+  "project": "la_platform",
+  "date": "2024-02-13T21:32:34.000-08:00"
+ },
+ "android-vts-11.0_r15": {
+  "tag": "android-vts-11.0_r15",
+  "project": "la_platform",
+  "date": "2024-02-13T15:43:10.000-08:00"
+ },
+ "android-cts-14.0_r3": {
+  "tag": "android-cts-14.0_r3",
+  "project": "la_platform",
+  "date": "2024-02-13T15:28:27.000-08:00"
+ },
+ "android-cts-13.0_r7": {
+  "tag": "android-cts-13.0_r7",
+  "project": "la_platform",
+  "date": "2024-02-13T14:51:45.000-08:00"
+ },
+ "android-cts-12.1_r9": {
+  "tag": "android-cts-12.1_r9",
+  "project": "la_platform",
+  "date": "2024-02-13T14:07:32.000-08:00"
+ },
+ "android-cts-12.0_r11": {
+  "tag": "android-cts-12.0_r11",
+  "project": "la_platform",
+  "date": "2024-02-13T13:40:55.000-08:00"
+ },
+ "android-cts-11.0_r15": {
+  "tag": "android-cts-11.0_r15",
+  "project": "la_platform",
+  "date": "2024-02-13T09:53:59.000-08:00"
  },
  "LA.UM.8.12.c25-01100-sm8250.0": {
   "tag": "LA.UM.8.12.c25-01100-sm8250.0",
@@ -1469,6 +2944,11 @@
   "project": "la_platform",
   "date": "2024-02-12T21:58:48.000-08:00"
  },
+ "ndk-r26c": {
+  "tag": "ndk-r26c",
+  "project": "la_platform",
+  "date": "2024-02-12T14:38:26.000-08:00"
+ },
  "LA.AU.1.4.1.r2-06400-sa8155.0": {
   "tag": "LA.AU.1.4.1.r2-06400-sa8155.0",
   "project": "la_platform",
@@ -1488,6 +2968,21 @@
   "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.064",
   "project": "la_platform",
   "date": "2024-02-08T11:33:46.000-08:00"
+ },
+ "studio-2023.3.1-canary8": {
+  "tag": "studio-2023.3.1-canary8",
+  "project": "la_platform",
+  "date": "2024-02-08T11:04:42.000-08:00"
+ },
+ "studio-2023.2.1-rc1": {
+  "tag": "studio-2023.2.1-rc1",
+  "project": "la_platform",
+  "date": "2024-02-08T10:58:30.000-08:00"
+ },
+ "studio-2023.1.1-patch2": {
+  "tag": "studio-2023.1.1-patch2",
+  "project": "la_platform",
+  "date": "2024-02-08T10:56:40.000-08:00"
  },
  "LA.UM.8.12.c3-73900-sm8250.0": {
   "tag": "LA.UM.8.12.c3-73900-sm8250.0",
@@ -1529,6 +3024,11 @@
   "project": "la_platform",
   "date": "2024-02-07T12:15:02.000-08:00"
  },
+ "android-u-qpr3-beta-1-gpl": {
+  "tag": "android-u-qpr3-beta-1-gpl",
+  "project": "la_platform",
+  "date": "2024-02-07T11:31:26.000-08:00"
+ },
  "LA.UM.12.2.1.r1-02700-sdm660.0": {
   "tag": "LA.UM.12.2.1.r1-02700-sdm660.0",
   "project": "la_platform",
@@ -1558,6 +3058,66 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.138",
   "project": "la_platform",
   "date": "2024-02-07T04:45:35.000-08:00"
+ },
+ "android-platform-14.0.0_r4": {
+  "tag": "android-platform-14.0.0_r4",
+  "project": "la_platform",
+  "date": "2024-02-06T14:02:11.000-08:00"
+ },
+ "android-platform-13.0.0_r16": {
+  "tag": "android-platform-13.0.0_r16",
+  "project": "la_platform",
+  "date": "2024-02-06T14:00:47.000-08:00"
+ },
+ "android-platform-12.1.0_r24": {
+  "tag": "android-platform-12.1.0_r24",
+  "project": "la_platform",
+  "date": "2024-02-06T13:58:02.000-08:00"
+ },
+ "android-platform-12.0.0_r28": {
+  "tag": "android-platform-12.0.0_r28",
+  "project": "la_platform",
+  "date": "2024-02-06T13:56:20.000-08:00"
+ },
+ "android-platform-11.0.0_r39": {
+  "tag": "android-platform-11.0.0_r39",
+  "project": "la_platform",
+  "date": "2024-02-06T13:55:06.000-08:00"
+ },
+ "android-14.0.0_r28": {
+  "tag": "android-14.0.0_r28",
+  "project": "la_platform",
+  "date": "2024-02-06T11:28:30.000-08:00"
+ },
+ "android-14.0.0_r27": {
+  "tag": "android-14.0.0_r27",
+  "project": "la_platform",
+  "date": "2024-02-05T11:37:43.000-08:00"
+ },
+ "android-14.0.0_r26": {
+  "tag": "android-14.0.0_r26",
+  "project": "la_platform",
+  "date": "2024-02-05T11:36:44.000-08:00"
+ },
+ "android-14.0.0_r25": {
+  "tag": "android-14.0.0_r25",
+  "project": "la_platform",
+  "date": "2024-02-05T11:35:55.000-08:00"
+ },
+ "android-14.0.0_r24": {
+  "tag": "android-14.0.0_r24",
+  "project": "la_platform",
+  "date": "2024-02-05T11:34:54.000-08:00"
+ },
+ "android-14.0.0_r23": {
+  "tag": "android-14.0.0_r23",
+  "project": "la_platform",
+  "date": "2024-02-05T11:34:11.000-08:00"
+ },
+ "android-14.0.0_r22": {
+  "tag": "android-14.0.0_r22",
+  "project": "la_platform",
+  "date": "2024-02-05T11:33:15.000-08:00"
  },
  "android-security-11.0.0_r76": {
   "tag": "android-security-11.0.0_r76",
@@ -1613,11 +3173,6 @@
   "tag": "platform-tools-34.0.5",
   "project": "la_platform",
   "date": "2024-01-30T15:10:52.000-08:00"
- },
- "ub-automotive-master-20240125": {
-  "tag": "ub-automotive-master-20240125",
-  "project": "la_platform",
-  "date": "2024-01-30T14:54:56.000-08:00"
  },
  "AU_LINUX_ANDROID_LA.UM.8.6.2.R2.10.00.00.626.016": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.6.2.R2.10.00.00.626.016",
