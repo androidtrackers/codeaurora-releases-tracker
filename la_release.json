@@ -1,4 +1,14 @@
 {
+ "studio-2024.2.1-canary9": {
+  "tag": "studio-2024.2.1-canary9",
+  "project": "la_platform",
+  "date": "2024-09-06T11:19:29.000-07:00"
+ },
+ "studio-2024.2.1-beta1": {
+  "tag": "studio-2024.2.1-beta1",
+  "project": "la_platform",
+  "date": "2024-09-06T11:13:54.000-07:00"
+ },
  "LA.UM.8.12.4.r1-08400-QCS8250.0": {
   "tag": "LA.UM.8.12.4.r1-08400-QCS8250.0",
   "project": "la_platform",
@@ -28063,6 +28073,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.13.2.1.r2-06200-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-06200-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-09-07T01:46:20.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.062": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.062",
+  "project": "la_vendor",
+  "date": "2024-09-07T01:35:15.000-07:00"
  },
  "LA.UM.9.6.4.r2-03700-89xx.QSSI13r2.0": {
   "tag": "LA.UM.9.6.4.r2-03700-89xx.QSSI13r2.0",
