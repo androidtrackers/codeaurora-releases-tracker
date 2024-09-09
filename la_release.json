@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.8.1.c25-05300-QCS605.0": {
+  "tag": "LA.UM.8.8.1.c25-05300-QCS605.0",
+  "project": "la_platform",
+  "date": "2024-09-09T10:37:54.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.8.1.C25.10.00.00.891.053": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.8.1.C25.10.00.00.891.053",
+  "project": "la_platform",
+  "date": "2024-09-09T10:14:38.000-07:00"
+ },
  "studio-2024.2.1-canary9": {
   "tag": "studio-2024.2.1-canary9",
   "project": "la_platform",
