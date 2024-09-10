@@ -9,6 +9,11 @@
   "project": "la_platform",
   "date": "2024-09-10T00:19:35.000-07:00"
  },
+ "android-wear-14.0.0-gpl_r2": {
+  "tag": "android-wear-14.0.0-gpl_r2",
+  "project": "la_platform",
+  "date": "2024-09-09T13:11:18.000-07:00"
+ },
  "LA.UM.8.8.1.c25-05300-QCS605.0": {
   "tag": "LA.UM.8.8.1.c25-05300-QCS605.0",
   "project": "la_platform",
