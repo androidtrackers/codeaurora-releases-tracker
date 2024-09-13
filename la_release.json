@@ -28149,6 +28149,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.16.r1-17300-MANNAR.QSSI15.0": {
+  "tag": "LA.UM.9.16.r1-17300-MANNAR.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-09-13T15:30:46.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.16.R1.11.00.00.737.173.00": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.16.R1.11.00.00.737.173.00",
+  "project": "la_vendor",
+  "date": "2024-09-13T15:29:41.000+00:00"
+ },
  "LA.UM.9.15.2.r1-10400-KAMORTA.QSSI14.0": {
   "tag": "LA.UM.9.15.2.r1-10400-KAMORTA.QSSI14.0",
   "project": "la_vendor",
