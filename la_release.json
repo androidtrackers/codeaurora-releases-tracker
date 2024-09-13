@@ -1,4 +1,9 @@
 {
+ "android-15-qpr1-beta-2-gpl": {
+  "tag": "android-15-qpr1-beta-2-gpl",
+  "project": "la_platform",
+  "date": "2024-09-12T18:19:15.000-07:00"
+ },
  "android-u-qpr2-beta-2-gpl": {
   "tag": "android-u-qpr2-beta-2-gpl",
   "project": "la_platform",
