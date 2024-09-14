@@ -1,4 +1,9 @@
 {
+ "studio-2024.2.1-beta2": {
+  "tag": "studio-2024.2.1-beta2",
+  "project": "la_platform",
+  "date": "2024-09-13T13:25:30.000-07:00"
+ },
  "android-15-qpr1-beta-2-gpl": {
   "tag": "android-15-qpr1-beta-2-gpl",
   "project": "la_platform",
