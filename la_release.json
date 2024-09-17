@@ -1,4 +1,24 @@
 {
+ "LA.UM.10.2.1.c25-04300-sdm660.0": {
+  "tag": "LA.UM.10.2.1.c25-04300-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-09-17T05:39:16.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.043": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.043",
+  "project": "la_platform",
+  "date": "2024-09-17T05:11:21.000-07:00"
+ },
+ "LA.UM.9.2.1.c26-08300-sdm660.0": {
+  "tag": "LA.UM.9.2.1.c26-08300-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-09-17T04:44:26.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.2.1.C26.11.00.00.896.083": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.2.1.C26.11.00.00.896.083",
+  "project": "la_platform",
+  "date": "2024-09-17T04:22:00.000-07:00"
+ },
  "studio-2024.2.1-beta2": {
   "tag": "studio-2024.2.1-beta2",
   "project": "la_platform",
@@ -28183,6 +28203,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.12.2.r1-09900-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-09900-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2024-09-17T04:25:23.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.099": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.099",
+  "project": "la_vendor",
+  "date": "2024-09-17T04:13:12.000-07:00"
  },
  "LA.VENDOR.12.3.r1-10300-ANORAK.0": {
   "tag": "LA.VENDOR.12.3.r1-10300-ANORAK.0",
