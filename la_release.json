@@ -28204,6 +28204,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.092": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.092",
+  "project": "la_vendor",
+  "date": "2024-09-17T19:59:34.000-07:00"
+ },
  "LA.VENDOR.12.2.r1-09900-NEOLA.0": {
   "tag": "LA.VENDOR.12.2.r1-09900-NEOLA.0",
   "project": "la_vendor",
