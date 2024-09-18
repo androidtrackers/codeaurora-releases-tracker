@@ -1,4 +1,14 @@
 {
+ "LAW.QWSI.14.0.r1-03900-qssi.0": {
+  "tag": "LAW.QWSI.14.0.r1-03900-qssi.0",
+  "project": "le_manifest",
+  "date": "2024-09-17T20:55:59.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.039": {
+  "tag": "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.039",
+  "project": "le_manifest",
+  "date": "2024-09-17T20:35:46.000-07:00"
+ },
  "LA_AU.QSSI.14.0.0.r1-06900-qssi.0": {
   "tag": "LA_AU.QSSI.14.0.0.r1-06900-qssi.0",
   "project": "le_manifest",
