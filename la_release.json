@@ -1,4 +1,19 @@
 {
+ "ub-automotive-master-20240924": {
+  "tag": "ub-automotive-master-20240924",
+  "project": "la_platform",
+  "date": "2024-09-25T13:10:50.000-07:00"
+ },
+ "studio-2024.2.1-rc01": {
+  "tag": "studio-2024.2.1-rc01",
+  "project": "la_platform",
+  "date": "2024-09-24T23:20:40.000-07:00"
+ },
+ "studio-2024.2.2-alpha03": {
+  "tag": "studio-2024.2.2-alpha03",
+  "project": "la_platform",
+  "date": "2024-09-24T23:14:54.000-07:00"
+ },
  "LA.AU.1.4.3.r2-00400-gen3meta.0": {
   "tag": "LA.AU.1.4.3.r2-00400-gen3meta.0",
   "project": "la_platform",
