@@ -1,4 +1,9 @@
 {
+ "LAW.QWSI.14.0.r1-04100-qssi.0": {
+  "tag": "LAW.QWSI.14.0.r1-04100-qssi.0",
+  "project": "le_manifest",
+  "date": "2024-09-26T22:07:24.000-07:00"
+ },
  "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.041": {
   "tag": "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.041",
   "project": "le_manifest",
