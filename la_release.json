@@ -28459,6 +28459,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.r1-25000.02-LAHAINA.QSSI14.0": {
+  "tag": "LA.UM.9.14.r1-25000.02-LAHAINA.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-09-29T00:12:23.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.14.R1.11.00.00.651.250.02": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.14.R1.11.00.00.651.250.02",
   "project": "la_vendor",
