@@ -28489,6 +28489,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r2-06500-DIVAR.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-06500-DIVAR.0",
+  "project": "la_vendor",
+  "date": "2024-10-01T05:48:48.000+00:00"
+ },
  "LA.VENDOR.14.3.4.c1-00600-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.c1-00600-ANORAK.0",
   "project": "la_vendor",
