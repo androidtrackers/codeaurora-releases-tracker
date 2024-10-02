@@ -1,4 +1,14 @@
 {
+ "android-security-12.1.0_r1": {
+  "tag": "android-security-12.1.0_r1",
+  "project": "la_platform",
+  "date": "2024-10-01T19:08:31.000-07:00"
+ },
+ "ndk-r28-beta1": {
+  "tag": "ndk-r28-beta1",
+  "project": "la_platform",
+  "date": "2024-10-01T16:37:41.000-07:00"
+ },
  "LAW.BR.4.0.c1-22600-89xx.0": {
   "tag": "LAW.BR.4.0.c1-22600-89xx.0",
   "project": "la_platform",
