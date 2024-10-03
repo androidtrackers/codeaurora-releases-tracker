@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.c25-03800-sm8250": {
+  "tag": "LA.UM.8.12.c25-03800-sm8250",
+  "project": "la_platform",
+  "date": "2024-10-02T23:22:23.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.038": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.038",
+  "project": "la_platform",
+  "date": "2024-10-02T22:57:00.000-07:00"
+ },
  "android-security-12.1.0_r1": {
   "tag": "android-security-12.1.0_r1",
   "project": "la_platform",
