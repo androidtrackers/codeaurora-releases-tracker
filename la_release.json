@@ -22539,6 +22539,26 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.13.0.r1-14400-qssi.0": {
+  "tag": "LA.QSSI.13.0.r1-14400-qssi.0",
+  "project": "la_system",
+  "date": "2024-10-04T05:22:03.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.144.00": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.144.00",
+  "project": "la_system",
+  "date": "2024-10-04T04:59:26.000-07:00"
+ },
+ "LA.QSSI.15.0.r1-10300-qssi.0": {
+  "tag": "LA.QSSI.15.0.r1-10300-qssi.0",
+  "project": "la_system",
+  "date": "2024-10-04T11:33:40.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.15.0.R1.11.00.00.1136.103.00": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.15.0.R1.11.00.00.1136.103.00",
+  "project": "la_system",
+  "date": "2024-10-04T11:31:47.000+00:00"
+ },
  "LA.QSSI.13.0.c27-00400-qssi.0": {
   "tag": "LA.QSSI.13.0.c27-00400-qssi.0",
   "project": "la_system",
@@ -28568,6 +28588,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.2.r1-03100-KALPENI.QSSI15.0": {
+  "tag": "LA.VENDOR.14.3.2.r1-03100-KALPENI.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-10-04T11:34:05.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.2.R1.11.00.00.1176.031": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.2.R1.11.00.00.1176.031",
+  "project": "la_vendor",
+  "date": "2024-10-04T11:32:10.000+00:00"
  },
  "LA.VENDOR.1.0.r2-12900-WAIPIO.QSSI14.0": {
   "tag": "LA.VENDOR.1.0.r2-12900-WAIPIO.QSSI14.0",
