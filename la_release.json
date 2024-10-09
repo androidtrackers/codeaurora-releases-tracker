@@ -1,4 +1,9 @@
 {
+ "android-platform-15.0.0_r1": {
+  "tag": "android-platform-15.0.0_r1",
+  "project": "la_platform",
+  "date": "2024-10-08T00:25:36.000-07:00"
+ },
  "android-platform-14.0.0_r12": {
   "tag": "android-platform-14.0.0_r12",
   "project": "la_platform",
