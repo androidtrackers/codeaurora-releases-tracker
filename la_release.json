@@ -1,4 +1,24 @@
 {
+ "LA.UM.10.3.c25-03200-sdm845.0": {
+  "tag": "LA.UM.10.3.c25-03200-sdm845.0",
+  "project": "la_platform",
+  "date": "2024-10-11T07:34:19.000-07:00"
+ },
+ "LA.UM.9.8.c26-02700-SDM710.0": {
+  "tag": "LA.UM.9.8.c26-02700-SDM710.0",
+  "project": "la_platform",
+  "date": "2024-10-11T07:18:19.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.10.3.C25.12.00.00.1152.032": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.10.3.C25.12.00.00.1152.032",
+  "project": "la_platform",
+  "date": "2024-10-11T07:06:33.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.8.C26.11.00.00.1144.027": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.8.C26.11.00.00.1144.027",
+  "project": "la_platform",
+  "date": "2024-10-11T06:49:42.000-07:00"
+ },
  "LA.UM.8.6.2.c29-07000-89xx.0": {
   "tag": "LA.UM.8.6.2.c29-07000-89xx.0",
   "project": "la_platform",
