@@ -9,6 +9,16 @@
   "project": "la_platform",
   "date": "2024-10-10T22:48:47.000-07:00"
  },
+ "android-security-12.1.0_r2": {
+  "tag": "android-security-12.1.0_r2",
+  "project": "la_platform",
+  "date": "2024-10-10T11:05:14.000-07:00"
+ },
+ "android-security-12.0.0_r64": {
+  "tag": "android-security-12.0.0_r64",
+  "project": "la_platform",
+  "date": "2024-10-10T09:47:52.000-07:00"
+ },
  "LA.UM.11.2.1.c25-04800-sdm660.0": {
   "tag": "LA.UM.11.2.1.c25-04800-sdm660.0",
   "project": "la_platform",
