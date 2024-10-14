@@ -28849,6 +28849,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.3.r1-10500-ANORAK.0": {
+  "tag": "LA.VENDOR.12.3.r1-10500-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2024-10-13T23:33:53.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.3.R1.11.00.00.1006.105": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.3.R1.11.00.00.1006.105",
+  "project": "la_vendor",
+  "date": "2024-10-13T23:20:23.000-07:00"
+ },
  "LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0": {
   "tag": "LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0",
   "project": "la_vendor",
