@@ -1,4 +1,14 @@
 {
+ "LA.UM.5.7.c25-16900-8x98.0": {
+  "tag": "LA.UM.5.7.c25-16900-8x98.0",
+  "project": "la_platform",
+  "date": "2024-10-14T04:52:36.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.169": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.5.7.C25.07.01.01.563.169",
+  "project": "la_platform",
+  "date": "2024-10-14T04:26:38.000-07:00"
+ },
  "LA.UM.10.3.c25-03200-sdm845.0": {
   "tag": "LA.UM.10.3.c25-03200-sdm845.0",
   "project": "la_platform",
