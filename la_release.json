@@ -9,6 +9,21 @@
   "project": "la_platform",
   "date": "2024-10-15T14:57:39.000+00:00"
  },
+ "studio-2024.2.1-patch1": {
+  "tag": "studio-2024.2.1-patch1",
+  "project": "la_platform",
+  "date": "2024-10-14T15:20:20.000-07:00"
+ },
+ "android-15.0.0_r3": {
+  "tag": "android-15.0.0_r3",
+  "project": "la_platform",
+  "date": "2024-10-14T13:38:50.000-07:00"
+ },
+ "android-15.0.0_r2": {
+  "tag": "android-15.0.0_r2",
+  "project": "la_platform",
+  "date": "2024-10-14T13:35:16.000-07:00"
+ },
  "studio-2024.2.1": {
   "tag": "studio-2024.2.1",
   "project": "la_platform",
