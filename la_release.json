@@ -28874,6 +28874,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.UM.2.2.r1-11000-SW5100.QSSI12.0": {
+  "tag": "LAW.UM.2.2.r1-11000-SW5100.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2024-10-15T04:17:46.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.UM.2.2.R1.11.00.00.948.110": {
+  "tag": "AU_LINUX_ANDROID_LAW.UM.2.2.R1.11.00.00.948.110",
+  "project": "la_vendor",
+  "date": "2024-10-15T04:03:14.000-07:00"
+ },
  "LA.VENDOR.12.3.r1-10500-ANORAK.0": {
   "tag": "LA.VENDOR.12.3.r1-10500-ANORAK.0",
   "project": "la_vendor",
