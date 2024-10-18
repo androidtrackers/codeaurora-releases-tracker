@@ -28969,6 +28969,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.c25-02400-DIVAR.0": {
+  "tag": "LA.VENDOR.13.2.1.c25-02400-DIVAR.0",
+  "project": "la_vendor",
+  "date": "2024-10-18T10:23:29.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.C25.11.00.00.1211.024": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.C25.11.00.00.1211.024",
+  "project": "la_vendor",
+  "date": "2024-10-18T10:11:16.000-07:00"
+ },
  "LA.VENDOR.12.3.r1-10600-ANORAK.0": {
   "tag": "LA.VENDOR.12.3.r1-10600-ANORAK.0",
   "project": "la_vendor",
