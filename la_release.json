@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.15.c25-08700-KAMORTA.0": {
+  "tag": "LA.UM.8.15.c25-08700-KAMORTA.0",
+  "project": "la_platform",
+  "date": "2024-11-04T04:45:02.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.15.C25.10.00.00.937.087": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.15.C25.10.00.00.937.087",
+  "project": "la_platform",
+  "date": "2024-11-04T04:21:29.000-08:00"
+ },
  "LA.UM.8.12.c25-04100-sm8250.0": {
   "tag": "LA.UM.8.12.c25-04100-sm8250.0",
   "project": "la_platform",
