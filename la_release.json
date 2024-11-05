@@ -9,15 +9,80 @@
   "project": "la_platform",
   "date": "2024-11-04T23:36:54.000-08:00"
  },
+ "android-platform-15.0.0_r2": {
+  "tag": "android-platform-15.0.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-04T23:15:02.000-08:00"
+ },
+ "android-platform-15.0.0_r1": {
+  "tag": "android-platform-15.0.0_r1",
+  "project": "la_platform",
+  "date": "2024-11-04T23:13:41.000-08:00"
+ },
+ "android-platform-14.0.0_r13": {
+  "tag": "android-platform-14.0.0_r13",
+  "project": "la_platform",
+  "date": "2024-11-04T21:53:28.000-08:00"
+ },
  "LA.UM.10.2.1.c25-04500-sdm660.0": {
   "tag": "LA.UM.10.2.1.c25-04500-sdm660.0",
   "project": "la_platform",
   "date": "2024-11-04T21:23:51.000-08:00"
  },
+ "android-platform-13.0.0_r25": {
+  "tag": "android-platform-13.0.0_r25",
+  "project": "la_platform",
+  "date": "2024-11-04T21:16:01.000-08:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.045": {
   "tag": "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.045",
   "project": "la_platform",
   "date": "2024-11-04T20:52:48.000-08:00"
+ },
+ "android-platform-12.1.0_r33": {
+  "tag": "android-platform-12.1.0_r33",
+  "project": "la_platform",
+  "date": "2024-11-04T20:26:39.000-08:00"
+ },
+ "android-platform-12.0.0_r37": {
+  "tag": "android-platform-12.0.0_r37",
+  "project": "la_platform",
+  "date": "2024-11-04T18:32:46.000-08:00"
+ },
+ "android-security-12.0.0_r65": {
+  "tag": "android-security-12.0.0_r65",
+  "project": "la_platform",
+  "date": "2024-11-04T16:30:42.000-08:00"
+ },
+ "android-security-12.1.0_r3": {
+  "tag": "android-security-12.1.0_r3",
+  "project": "la_platform",
+  "date": "2024-11-04T15:36:22.000-08:00"
+ },
+ "android-security-12.1.0_r2": {
+  "tag": "android-security-12.1.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-04T15:13:10.000-08:00"
+ },
+ "android-security-13.0.0_r23": {
+  "tag": "android-security-13.0.0_r23",
+  "project": "la_platform",
+  "date": "2024-11-04T13:11:54.000-08:00"
+ },
+ "android-security-14.0.0_r14": {
+  "tag": "android-security-14.0.0_r14",
+  "project": "la_platform",
+  "date": "2024-11-04T12:18:33.000-08:00"
+ },
+ "android-security-15.0.0_r2": {
+  "tag": "android-security-15.0.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-04T11:30:03.000-08:00"
+ },
+ "android-security-15.0.0_r1": {
+  "tag": "android-security-15.0.0_r1",
+  "project": "la_platform",
+  "date": "2024-11-04T11:25:03.000-08:00"
  },
  "LA.UM.8.15.c25-08700-KAMORTA.0": {
   "tag": "LA.UM.8.15.c25-08700-KAMORTA.0",
@@ -284,11 +349,6 @@
   "project": "la_platform",
   "date": "2024-10-10T22:48:47.000-07:00"
  },
- "android-security-12.1.0_r2": {
-  "tag": "android-security-12.1.0_r2",
-  "project": "la_platform",
-  "date": "2024-10-10T11:05:14.000-07:00"
- },
  "android-security-12.0.0_r64": {
   "tag": "android-security-12.0.0_r64",
   "project": "la_platform",
@@ -313,11 +373,6 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.027",
   "project": "la_platform",
   "date": "2024-10-09T21:43:45.000-07:00"
- },
- "android-platform-15.0.0_r1": {
-  "tag": "android-platform-15.0.0_r1",
-  "project": "la_platform",
-  "date": "2024-10-08T00:25:36.000-07:00"
  },
  "android-platform-14.0.0_r12": {
   "tag": "android-platform-14.0.0_r12",
@@ -383,11 +438,6 @@
   "tag": "android-security-14.0.0_r13",
   "project": "la_platform",
   "date": "2024-10-07T01:13:26.000-07:00"
- },
- "android-security-15.0.0_r1": {
-  "tag": "android-security-15.0.0_r1",
-  "project": "la_platform",
-  "date": "2024-10-07T01:09:35.000-07:00"
  },
  "LA.UM.8.12.c25-03800-sm8250.0": {
   "tag": "LA.UM.8.12.c25-03800-sm8250.0",
@@ -29333,6 +29383,11 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.1.r1-03300-MANNAR.0": {
+  "tag": "LA.VENDOR.14.3.1.r1-03300-MANNAR.0",
+  "project": "la_vendor",
+  "date": "2024-11-05T11:22:52.000+00:00"
  },
  "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.072": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.072",
