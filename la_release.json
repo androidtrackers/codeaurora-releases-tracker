@@ -1,4 +1,64 @@
 {
+ "android-cts-12.0_r14": {
+  "tag": "android-cts-12.0_r14",
+  "project": "la_platform",
+  "date": "2024-11-06T16:31:52.000-08:00"
+ },
+ "android-cts-12.1_r12": {
+  "tag": "android-cts-12.1_r12",
+  "project": "la_platform",
+  "date": "2024-11-06T16:30:27.000-08:00"
+ },
+ "android-cts-13.0_r10": {
+  "tag": "android-cts-13.0_r10",
+  "project": "la_platform",
+  "date": "2024-11-06T16:26:40.000-08:00"
+ },
+ "android-cts-15.0_r2": {
+  "tag": "android-cts-15.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-06T16:21:41.000-08:00"
+ },
+ "android-cts-14.0_r6": {
+  "tag": "android-cts-14.0_r6",
+  "project": "la_platform",
+  "date": "2024-11-06T16:18:34.000-08:00"
+ },
+ "android-vts-12.0_r14": {
+  "tag": "android-vts-12.0_r14",
+  "project": "la_platform",
+  "date": "2024-11-06T16:13:59.000-08:00"
+ },
+ "android-vts-12.1_r12": {
+  "tag": "android-vts-12.1_r12",
+  "project": "la_platform",
+  "date": "2024-11-06T15:51:21.000-08:00"
+ },
+ "android-vts-13.0_r10": {
+  "tag": "android-vts-13.0_r10",
+  "project": "la_platform",
+  "date": "2024-11-06T15:44:17.000-08:00"
+ },
+ "android-vts-14.0_r6": {
+  "tag": "android-vts-14.0_r6",
+  "project": "la_platform",
+  "date": "2024-11-06T15:27:56.000-08:00"
+ },
+ "android-vts-15.0_r2": {
+  "tag": "android-vts-15.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-06T15:11:58.000-08:00"
+ },
+ "android-15.0.0_r5": {
+  "tag": "android-15.0.0_r5",
+  "project": "la_platform",
+  "date": "2024-11-06T13:59:14.000-08:00"
+ },
+ "android-15.0.0_r4": {
+  "tag": "android-15.0.0_r4",
+  "project": "la_platform",
+  "date": "2024-11-06T13:52:03.000-08:00"
+ },
  "LA.UM.5.7.c25-17400-8x98.0": {
   "tag": "LA.UM.5.7.c25-17400-8x98.0",
   "project": "la_platform",
