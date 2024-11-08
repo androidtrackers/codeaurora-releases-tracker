@@ -1,4 +1,14 @@
 {
+ "studio-2024.2.2-alpha09": {
+  "tag": "studio-2024.2.2-alpha09",
+  "project": "la_platform",
+  "date": "2024-11-08T00:03:19.000-08:00"
+ },
+ "studio-2024.2.1-patch02": {
+  "tag": "studio-2024.2.1-patch02",
+  "project": "la_platform",
+  "date": "2024-11-07T23:59:56.000-08:00"
+ },
  "android-cts-12.0_r14": {
   "tag": "android-cts-12.0_r14",
   "project": "la_platform",
