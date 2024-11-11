@@ -1,4 +1,14 @@
 {
+ "LA.UM.7.2.c25-11600-sdm660.0": {
+  "tag": "LA.UM.7.2.c25-11600-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-11-11T02:44:07.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.C25.09.00.00.799.116": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.C25.09.00.00.799.116",
+  "project": "la_platform",
+  "date": "2024-11-11T02:21:00.000-08:00"
+ },
  "studio-2024.2.2-alpha09": {
   "tag": "studio-2024.2.2-alpha09",
   "project": "la_platform",
