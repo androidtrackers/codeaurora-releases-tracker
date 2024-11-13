@@ -1,4 +1,19 @@
 {
+ "android-14.0.0_r75": {
+  "tag": "android-14.0.0_r75",
+  "project": "la_platform",
+  "date": "2024-11-12T19:15:10.000-08:00"
+ },
+ "android-wear-14.0.0-gpl_r3": {
+  "tag": "android-wear-14.0.0-gpl_r3",
+  "project": "la_platform",
+  "date": "2024-11-12T16:47:44.000-08:00"
+ },
+ "android-15-qpr2-beta-1-gpl": {
+  "tag": "android-15-qpr2-beta-1-gpl",
+  "project": "la_platform",
+  "date": "2024-11-12T11:55:11.000-08:00"
+ },
  "LA.UM.7.2.c25-11600-sdm660.0": {
   "tag": "LA.UM.7.2.c25-11600-sdm660.0",
   "project": "la_platform",
