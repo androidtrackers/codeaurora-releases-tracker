@@ -29684,6 +29684,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.5.r1-05600-QCM6125.0": {
+  "tag": "LA.VENDOR.13.2.5.r1-05600-QCM6125.0",
+  "project": "la_vendor",
+  "date": "2024-11-13T08:18:43.000+00:00"
+ },
  "LA_AU.VENDOR.13.0.0.r4-02000-gen3meta.QSSI14.0": {
   "tag": "LA_AU.VENDOR.13.0.0.r4-02000-gen3meta.QSSI14.0",
   "project": "la_vendor",
