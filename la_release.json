@@ -1,4 +1,9 @@
 {
+ "android-automotiveos-14.0.0_lts3": {
+  "tag": "android-automotiveos-14.0.0_lts3",
+  "project": "la_platform",
+  "date": "2024-11-15T05:51:58.000-08:00"
+ },
  "LAW.UM.2.1.r3.1-04100-SW5100.0": {
   "tag": "LAW.UM.2.1.r3.1-04100-SW5100.0",
   "project": "la_platform",
@@ -8,6 +13,11 @@
   "tag": "AU_LINUX_ANDROID_LAW.UM.2.1.R3.1.11.00.00.1154.041",
   "project": "la_platform",
   "date": "2024-11-15T01:47:07.000-08:00"
+ },
+ "studio-2024.3.1-canary1": {
+  "tag": "studio-2024.3.1-canary1",
+  "project": "la_platform",
+  "date": "2024-11-14T22:53:55.000-08:00"
  },
  "android-14.0.0_r75": {
   "tag": "android-14.0.0_r75",
