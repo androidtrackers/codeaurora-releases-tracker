@@ -1,4 +1,39 @@
 {
+ "ndk-r27c": {
+  "tag": "ndk-r27c",
+  "project": "la_platform",
+  "date": "2024-11-19T15:55:18.000-08:00"
+ },
+ "ndk-r27b": {
+  "tag": "ndk-r27b",
+  "project": "la_platform",
+  "date": "2024-11-19T15:54:13.000-08:00"
+ },
+ "ndk-r28-rc1": {
+  "tag": "ndk-r28-rc1",
+  "project": "la_platform",
+  "date": "2024-11-19T15:45:45.000-08:00"
+ },
+ "android-16-preview-1-gpl": {
+  "tag": "android-16-preview-1-gpl",
+  "project": "la_platform",
+  "date": "2024-11-19T14:13:05.000-08:00"
+ },
+ "android-wear-15.0.0-gpl_r1": {
+  "tag": "android-wear-15.0.0-gpl_r1",
+  "project": "la_platform",
+  "date": "2024-11-19T14:08:08.000-08:00"
+ },
+ "android-wear-15.0.0_r1": {
+  "tag": "android-wear-15.0.0_r1",
+  "project": "la_platform",
+  "date": "2024-11-19T13:58:25.000-08:00"
+ },
+ "android-15-qpr2-wear-5.1-gpl": {
+  "tag": "android-15-qpr2-wear-5.1-gpl",
+  "project": "la_platform",
+  "date": "2024-11-19T13:44:21.000-08:00"
+ },
  "studio-2024.2.2-beta01": {
   "tag": "studio-2024.2.2-beta01",
   "project": "la_platform",
