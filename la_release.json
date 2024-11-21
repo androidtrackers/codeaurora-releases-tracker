@@ -23289,6 +23289,26 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.12.0.r3-01400-qssi.0": {
+  "tag": "LA.QSSI.12.0.r3-01400-qssi.0",
+  "project": "la_system",
+  "date": "2024-11-21T05:23:46.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.12.0.R3.11.00.00.1098.014": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.12.0.R3.11.00.00.1098.014",
+  "project": "la_system",
+  "date": "2024-11-21T05:04:09.000-08:00"
+ },
+ "LA.QSSI.11.0.r3-01900-qssi.0": {
+  "tag": "LA.QSSI.11.0.r3-01900-qssi.0",
+  "project": "la_system",
+  "date": "2024-11-21T04:53:37.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.11.0.R3.11.00.00.1110.019": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R3.11.00.00.1110.019",
+  "project": "la_system",
+  "date": "2024-11-21T04:33:17.000-08:00"
+ },
  "AU_LINUX_ANDROID_LA.QSSI.12.0.C2.11.00.00.1137.019": {
   "tag": "AU_LINUX_ANDROID_LA.QSSI.12.0.C2.11.00.00.1137.019",
   "project": "la_system",
@@ -29888,6 +29908,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.UM.9.15.2.c3-03800-KAMORTA.QSSI12r3.0": {
+  "tag": "LA.UM.9.15.2.c3-03800-KAMORTA.QSSI12r3.0",
+  "project": "la_vendor",
+  "date": "2024-11-21T04:54:49.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.2.C3.11.00.00.1094.038": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.2.C3.11.00.00.1094.038",
+  "project": "la_vendor",
+  "date": "2024-11-21T04:43:21.000-08:00"
  },
  "LA.VENDOR.1.0.c2-02900-WAIPIO.0": {
   "tag": "LA.VENDOR.1.0.c2-02900-WAIPIO.0",
