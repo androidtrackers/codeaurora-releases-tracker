@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_ANDROID_LAW.BR.4.0.C1.08.01.00.759.239": {
+  "tag": "AU_LINUX_ANDROID_LAW.BR.4.0.C1.08.01.00.759.239",
+  "project": "la_platform",
+  "date": "2024-11-25T23:47:51.000-08:00"
+ },
+ "android-cts-15.0_r2": {
+  "tag": "android-cts-15.0_r2",
+  "project": "la_platform",
+  "date": "2024-11-25T11:01:24.000-08:00"
+ },
  "LA.AU.1.4.1.r2-08000-sa8155.0": {
   "tag": "LA.AU.1.4.1.r2-08000-sa8155.0",
   "project": "la_platform",
@@ -118,11 +128,6 @@
   "tag": "android-cts-13.0_r10",
   "project": "la_platform",
   "date": "2024-11-06T16:26:40.000-08:00"
- },
- "android-cts-15.0_r2": {
-  "tag": "android-cts-15.0_r2",
-  "project": "la_platform",
-  "date": "2024-11-06T16:21:41.000-08:00"
  },
  "android-cts-14.0_r6": {
   "tag": "android-cts-14.0_r6",
