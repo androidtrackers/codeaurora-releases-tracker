@@ -30019,6 +30019,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.1.r2-01300-SMxx50.QSSI12.0": {
+  "tag": "LA.UM.9.12.1.r2-01300-SMxx50.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2024-11-28T00:44:51.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.013": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.013",
+  "project": "la_vendor",
+  "date": "2024-11-28T00:32:46.000-08:00"
+ },
  "LA_AU.VENDOR.14.0.4-08100-gen5_gvm_gy.0": {
   "tag": "LA_AU.VENDOR.14.0.4-08100-gen5_gvm_gy.0",
   "project": "la_vendor",
