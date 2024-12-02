@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.c25-04700-sm8250.0": {
+  "tag": "LA.UM.8.12.c25-04700-sm8250.0",
+  "project": "la_platform",
+  "date": "2024-12-02T02:35:43.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.047": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.C25.10.00.00.1148.047",
+  "project": "la_platform",
+  "date": "2024-12-02T02:07:16.000-08:00"
+ },
  "LAW.BR.4.0.c1-24200-89xx.0": {
   "tag": "LAW.BR.4.0.c1-24200-89xx.0",
   "project": "la_platform",
