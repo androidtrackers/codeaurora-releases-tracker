@@ -1,4 +1,24 @@
 {
+ "LA.UM.10.3.c25-03500-sdm845.0": {
+  "tag": "LA.UM.10.3.c25-03500-sdm845.0",
+  "project": "la_platform",
+  "date": "2024-12-05T00:56:56.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.10.3.C25.12.00.00.1152.035": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.10.3.C25.12.00.00.1152.035",
+  "project": "la_platform",
+  "date": "2024-12-05T00:28:16.000-08:00"
+ },
+ "LAW.UM.2.0.r1-21900-SW5100.0": {
+  "tag": "LAW.UM.2.0.r1-21900-SW5100.0",
+  "project": "la_platform",
+  "date": "2024-12-05T00:12:54.000-08:00"
+ },
+ "LA.UM.8.2.1.c25-09600-sdm660.0": {
+  "tag": "LA.UM.8.2.1.c25-09600-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-12-05T00:06:14.000-08:00"
+ },
  "AU_LINUX_ANDROID_LAW.UM.2.0.R1.11.00.00.846.219": {
   "tag": "AU_LINUX_ANDROID_LAW.UM.2.0.R1.11.00.00.846.219",
   "project": "la_platform",
