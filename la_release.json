@@ -1,4 +1,19 @@
 {
+ "android-15.0.0_r8": {
+  "tag": "android-15.0.0_r8",
+  "project": "la_platform",
+  "date": "2024-12-05T15:22:43.000-08:00"
+ },
+ "android-15.0.0_r7": {
+  "tag": "android-15.0.0_r7",
+  "project": "la_platform",
+  "date": "2024-12-05T15:03:46.000-08:00"
+ },
+ "android-15.0.0_r6": {
+  "tag": "android-15.0.0_r6",
+  "project": "la_platform",
+  "date": "2024-12-05T14:06:18.000-08:00"
+ },
  "LA.UM.11.2.1.c25-06200-sdm660.0": {
   "tag": "LA.UM.11.2.1.c25-06200-sdm660.0",
   "project": "la_platform",
