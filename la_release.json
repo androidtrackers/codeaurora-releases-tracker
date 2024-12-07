@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.3.c25-10100-sdm845.0": {
+  "tag": "LA.UM.8.3.c25-10100-sdm845.0",
+  "project": "la_platform",
+  "date": "2024-12-06T15:18:00.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.101": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.101",
+  "project": "la_platform",
+  "date": "2024-12-06T14:55:18.000-08:00"
+ },
  "android-15.0.0_r8": {
   "tag": "android-15.0.0_r8",
   "project": "la_platform",
@@ -30323,6 +30333,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.1.0.r1-26900-WAIPIO.QSSI15.0": {
+  "tag": "LA.VENDOR.1.0.r1-26900-WAIPIO.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-12-06T15:34:09.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R1.11.00.00.816.269": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R1.11.00.00.816.269",
+  "project": "la_vendor",
+  "date": "2024-12-06T15:20:38.000-08:00"
  },
  "LA.VENDOR.14.3.2.r1-04200-KALPENI.QSSI15.0": {
   "tag": "LA.VENDOR.14.3.2.r1-04200-KALPENI.QSSI15.0",
