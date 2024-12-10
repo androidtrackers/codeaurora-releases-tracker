@@ -1,4 +1,14 @@
 {
+ "android-15.0.0_r9": {
+  "tag": "android-15.0.0_r9",
+  "project": "la_platform",
+  "date": "2024-12-10T09:21:27.000-08:00"
+ },
+ "ub-automotive-master-20241205": {
+  "tag": "ub-automotive-master-20241205",
+  "project": "la_platform",
+  "date": "2024-12-09T16:08:22.000-08:00"
+ },
  "LA.UM.8.3.c25-10100-sdm845.0": {
   "tag": "LA.UM.8.3.c25-10100-sdm845.0",
   "project": "la_platform",
