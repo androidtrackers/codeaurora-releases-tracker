@@ -30614,6 +30614,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r2-07900-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-07900-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-12-14T16:16:17.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.079": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.079",
+  "project": "la_vendor",
+  "date": "2024-12-14T16:15:52.000+00:00"
+ },
  "LA.UM.9.15.2.c26-01700-KAMORTA.QSSI13c26.0": {
   "tag": "LA.UM.9.15.2.c26-01700-KAMORTA.QSSI13c26.0",
   "project": "la_vendor",
