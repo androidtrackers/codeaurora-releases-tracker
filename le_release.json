@@ -1,4 +1,19 @@
 {
+ "LAW.QWSI.14.0.r1-04300-qssi.0": {
+  "tag": "LAW.QWSI.14.0.r1-04300-qssi.0",
+  "project": "le_manifest",
+  "date": "2024-12-17T00:16:06.000-08:00"
+ },
+ "LA_AU.QSSI.15.0.0.r1-02100-qssi.0": {
+  "tag": "LA_AU.QSSI.15.0.0.r1-02100-qssi.0",
+  "project": "le_manifest",
+  "date": "2024-12-17T08:03:45.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.15.0.0.R1.11.00.00.1198.021": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.15.0.0.R1.11.00.00.1198.021",
+  "project": "le_manifest",
+  "date": "2024-12-17T08:02:42.000+00:00"
+ },
  "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.043": {
   "tag": "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.043",
   "project": "le_manifest",
