@@ -1,4 +1,9 @@
 {
+ "android-15-qpr2-beta-2-gpl": {
+  "tag": "android-15-qpr2-beta-2-gpl",
+  "project": "la_platform",
+  "date": "2024-12-16T16:50:05.000-08:00"
+ },
  "LA.UM.8.6.2.c29-07500-89xx.0": {
   "tag": "LA.UM.8.6.2.c29-07500-89xx.0",
   "project": "la_platform",
