@@ -30674,6 +30674,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.VENDOR.14.0.r1-10200-SW5100.0": {
+  "tag": "LAW.VENDOR.14.0.r1-10200-SW5100.0",
+  "project": "la_vendor",
+  "date": "2024-12-19T19:30:05.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.102": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.102",
+  "project": "la_vendor",
+  "date": "2024-12-19T19:00:04.000-08:00"
+ },
  "LA.VENDOR.13.2.6.r1-02200-KAILUA.0": {
   "tag": "LA.VENDOR.13.2.6.r1-02200-KAILUA.0",
   "project": "la_vendor",
