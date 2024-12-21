@@ -9,6 +9,11 @@
   "project": "la_platform",
   "date": "2024-12-20T06:40:32.000-08:00"
  },
+ "android-automotiveos-14.0.0_lts4": {
+  "tag": "android-automotiveos-14.0.0_lts4",
+  "project": "la_platform",
+  "date": "2024-12-19T22:51:05.000-08:00"
+ },
  "studio-2024.3.1-alpha05": {
   "tag": "studio-2024.3.1-alpha05",
   "project": "la_platform",
