@@ -30709,6 +30709,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.1.r2-08000-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-08000-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2024-12-21T17:45:44.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.080": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.080",
+  "project": "la_vendor",
+  "date": "2024-12-21T17:45:31.000+00:00"
+ },
  "LA.VENDOR.14.3.2.r1-04400-KALPENI.0": {
   "tag": "LA.VENDOR.14.3.2.r1-04400-KALPENI.0",
   "project": "la_vendor",
