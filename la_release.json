@@ -30719,6 +30719,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.1.r1-17100-QCM6490.QSSI15.0": {
+  "tag": "LA.UM.9.14.1.r1-17100-QCM6490.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2024-12-23T03:22:44.000-08:00"
+ },
  "LA.VENDOR.13.2.1.r2-08000-DIVAR.QSSI14.0": {
   "tag": "LA.VENDOR.13.2.1.r2-08000-DIVAR.QSSI14.0",
   "project": "la_vendor",
