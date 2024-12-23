@@ -1,4 +1,14 @@
 {
+ "LA.UM.7.2.c27-07900-sdm660.0": {
+  "tag": "LA.UM.7.2.c27-07900-sdm660.0",
+  "project": "la_platform",
+  "date": "2024-12-22T23:54:17.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.C27.09.00.00.1012.079": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.C27.09.00.00.1012.079",
+  "project": "la_platform",
+  "date": "2024-12-22T23:33:55.000-08:00"
+ },
  "LA.UM.11.2.1.c26-02200-sdm660.0": {
   "tag": "LA.UM.11.2.1.c26-02200-sdm660.0",
   "project": "la_platform",
