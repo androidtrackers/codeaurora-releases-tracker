@@ -1,4 +1,24 @@
 {
+ "android-security-12.1.0_r5": {
+  "tag": "android-security-12.1.0_r5",
+  "project": "la_platform",
+  "date": "2025-01-06T14:36:31.000-08:00"
+ },
+ "android-security-12.0.0_r67": {
+  "tag": "android-security-12.0.0_r67",
+  "project": "la_platform",
+  "date": "2025-01-06T12:38:17.000-08:00"
+ },
+ "android-wear-13.0.0-gpl_r6": {
+  "tag": "android-wear-13.0.0-gpl_r6",
+  "project": "la_platform",
+  "date": "2025-01-06T10:50:14.000-08:00"
+ },
+ "android-security-14.0.0_r16": {
+  "tag": "android-security-14.0.0_r16",
+  "project": "la_platform",
+  "date": "2025-01-06T10:27:58.000-08:00"
+ },
  "aml_ext_351312060": {
   "tag": "aml_ext_351312060",
   "project": "la_platform",
@@ -983,6 +1003,11 @@
   "tag": "aml_rkp_350910000",
   "project": "la_platform",
   "date": "2024-10-28T16:47:36.000-07:00"
+ },
+ "android-wear-13.0.0-gpl_r5": {
+  "tag": "android-wear-13.0.0-gpl_r5",
+  "project": "la_platform",
+  "date": "2024-10-25T10:25:00.000-07:00"
  },
  "android-15-qpr1-beta-3-gpl": {
   "tag": "android-15-qpr1-beta-3-gpl",
