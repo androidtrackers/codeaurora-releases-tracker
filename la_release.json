@@ -1,4 +1,64 @@
 {
+ "android-15.0.0_r12": {
+  "tag": "android-15.0.0_r12",
+  "project": "la_platform",
+  "date": "2025-01-07T15:52:21.000-08:00"
+ },
+ "android-15.0.0_r11": {
+  "tag": "android-15.0.0_r11",
+  "project": "la_platform",
+  "date": "2025-01-07T14:54:58.000-08:00"
+ },
+ "android-15.0.0_r10": {
+  "tag": "android-15.0.0_r10",
+  "project": "la_platform",
+  "date": "2025-01-07T13:48:11.000-08:00"
+ },
+ "android-15.0.0_r9": {
+  "tag": "android-15.0.0_r9",
+  "project": "la_platform",
+  "date": "2025-01-07T12:49:09.000-08:00"
+ },
+ "android-platform-14.0.0_r15": {
+  "tag": "android-platform-14.0.0_r15",
+  "project": "la_platform",
+  "date": "2025-01-07T07:56:38.000-08:00"
+ },
+ "android-platform-15.0.0_r4": {
+  "tag": "android-platform-15.0.0_r4",
+  "project": "la_platform",
+  "date": "2025-01-06T22:58:28.000-08:00"
+ },
+ "android-platform-13.0.0_r27": {
+  "tag": "android-platform-13.0.0_r27",
+  "project": "la_platform",
+  "date": "2025-01-06T21:48:05.000-08:00"
+ },
+ "android-platform-12.1.0_r35": {
+  "tag": "android-platform-12.1.0_r35",
+  "project": "la_platform",
+  "date": "2025-01-06T20:53:04.000-08:00"
+ },
+ "android-platform-12.0.0_r39": {
+  "tag": "android-platform-12.0.0_r39",
+  "project": "la_platform",
+  "date": "2025-01-06T19:54:23.000-08:00"
+ },
+ "android-security-15.0.0_r4": {
+  "tag": "android-security-15.0.0_r4",
+  "project": "la_platform",
+  "date": "2025-01-06T16:37:22.000-08:00"
+ },
+ "studio-2024.3.1-alpha08": {
+  "tag": "studio-2024.3.1-alpha08",
+  "project": "la_platform",
+  "date": "2025-01-06T16:03:53.000-08:00"
+ },
+ "android-security-13.0.0_r25": {
+  "tag": "android-security-13.0.0_r25",
+  "project": "la_platform",
+  "date": "2025-01-06T15:31:25.000-08:00"
+ },
  "android-security-12.1.0_r5": {
   "tag": "android-security-12.1.0_r5",
   "project": "la_platform",
@@ -263,11 +323,6 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.9.1.C25.10.00.00.1130.074",
   "project": "la_platform",
   "date": "2024-12-11T00:33:49.000-08:00"
- },
- "android-15.0.0_r9": {
-  "tag": "android-15.0.0_r9",
-  "project": "la_platform",
-  "date": "2024-12-10T09:21:27.000-08:00"
  },
  "ub-automotive-master-20241205": {
   "tag": "ub-automotive-master-20241205",
