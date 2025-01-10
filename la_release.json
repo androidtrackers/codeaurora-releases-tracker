@@ -31019,6 +31019,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-12200-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-12200-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2025-01-10T11:58:11.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.122": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.122",
+  "project": "la_vendor",
+  "date": "2025-01-10T11:46:39.000-08:00"
+ },
  "LA.VENDOR.14.3.4.c1-05700-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.c1-05700-ANORAK.0",
   "project": "la_vendor",
