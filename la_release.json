@@ -9,6 +9,11 @@
   "project": "la_platform",
   "date": "2025-01-15T22:52:19.000-08:00"
  },
+ "ndk-r28-rc2": {
+  "tag": "ndk-r28-rc2",
+  "project": "la_platform",
+  "date": "2025-01-15T14:09:01.000-08:00"
+ },
  "studio-2024.2.2": {
   "tag": "studio-2024.2.2",
   "project": "la_platform",
@@ -23853,6 +23858,16 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QSSI.11.0.r1-24100-qssi.0": {
+  "tag": "LA.QSSI.11.0.r1-24100-qssi.0",
+  "project": "la_system",
+  "date": "2025-01-16T00:35:49.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.241.00": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.241.00",
+  "project": "la_system",
+  "date": "2025-01-16T00:14:57.000-08:00"
  },
  "LA.QSSI.13.0.c25-02000-qssi.0": {
   "tag": "LA.QSSI.13.0.c25-02000-qssi.0",
