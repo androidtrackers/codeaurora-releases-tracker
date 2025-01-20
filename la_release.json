@@ -31189,6 +31189,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.1.r1-17200-QCM6490.QSSI15.0": {
+  "tag": "LA.UM.9.14.1.r1-17200-QCM6490.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-01-19T22:38:49.000-08:00"
+ },
  "LA.UM.9.14.1.r1-17200-QCM6490.QSSI14.0": {
   "tag": "LA.UM.9.14.1.r1-17200-QCM6490.QSSI14.0",
   "project": "la_vendor",
