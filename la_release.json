@@ -1,4 +1,14 @@
 {
+ "android-15-qpr2-beta-3-gpl": {
+  "tag": "android-15-qpr2-beta-3-gpl",
+  "project": "la_platform",
+  "date": "2025-01-21T16:40:02.000-08:00"
+ },
+ "android-15.0.0_r13": {
+  "tag": "android-15.0.0_r13",
+  "project": "la_platform",
+  "date": "2025-01-21T07:36:48.000-08:00"
+ },
  "LA.UM.8.15.c25-09500-KAMORTA.0": {
   "tag": "LA.UM.8.15.c25-09500-KAMORTA.0",
   "project": "la_platform",
