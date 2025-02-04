@@ -31594,6 +31594,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.15.c26-10900-KAMORTA.QSSI12c28.0": {
+  "tag": "LA.UM.9.15.c26-10900-KAMORTA.QSSI12c28.0",
+  "project": "la_vendor",
+  "date": "2025-02-03T23:50:26.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.109": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.109",
+  "project": "la_vendor",
+  "date": "2025-02-03T23:38:48.000-08:00"
+ },
+ "LA.VENDOR.14.3.2.r1-04900-KALPENI.QSSI16.0": {
+  "tag": "LA.VENDOR.14.3.2.r1-04900-KALPENI.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2025-02-04T06:29:40.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.2.R1.11.00.00.1176.049": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.2.R1.11.00.00.1176.049",
+  "project": "la_vendor",
+  "date": "2025-02-04T06:27:22.000+00:00"
+ },
  "LA_AU.VENDOR.14.0.1.r1-07400-gen4_gvm.QSSI15.0": {
   "tag": "LA_AU.VENDOR.14.0.1.r1-07400-gen4_gvm.QSSI15.0",
   "project": "la_vendor",
