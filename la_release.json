@@ -1,4 +1,14 @@
 {
+ "ndk-r28": {
+  "tag": "ndk-r28",
+  "project": "la_platform",
+  "date": "2025-02-05T15:58:44.000-08:00"
+ },
+ "studio-2024.3.2-alpha03": {
+  "tag": "studio-2024.3.2-alpha03",
+  "project": "la_platform",
+  "date": "2025-02-05T10:43:41.000-08:00"
+ },
  "LA.UM.8.3.c25-10700-sdm845.0": {
   "tag": "LA.UM.8.3.c25-10700-sdm845.0",
   "project": "la_platform",
