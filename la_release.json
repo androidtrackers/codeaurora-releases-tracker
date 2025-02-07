@@ -31679,6 +31679,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.1.r1-11000-SMxx50.QSSI12.0": {
+  "tag": "LA.UM.9.12.1.r1-11000-SMxx50.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2025-02-06T21:35:11.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.1.R1.11.00.00.893.110": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.1.R1.11.00.00.893.110",
+  "project": "la_vendor",
+  "date": "2025-02-06T21:24:32.000-08:00"
+ },
  "LA.VENDOR.14.3.4.c1-06400-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.c1-06400-ANORAK.0",
   "project": "la_vendor",
