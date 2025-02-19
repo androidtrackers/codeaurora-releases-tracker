@@ -31834,6 +31834,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-12500-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-12500-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2025-02-19T05:56:12.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.125": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.125",
+  "project": "la_vendor",
+  "date": "2025-02-19T05:45:05.000-08:00"
+ },
  "LA.VENDOR.13.2.0.r1-26600-KAILUA.QSSI16.0": {
   "tag": "LA.VENDOR.13.2.0.r1-26600-KAILUA.QSSI16.0",
   "project": "la_vendor",
