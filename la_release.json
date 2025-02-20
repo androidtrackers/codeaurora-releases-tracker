@@ -9,6 +9,11 @@
   "project": "la_platform",
   "date": "2025-02-20T10:00:13.000+00:00"
  },
+ "ub-automotive-master-20250219": {
+  "tag": "ub-automotive-master-20250219",
+  "project": "la_platform",
+  "date": "2025-02-19T13:39:59.000-08:00"
+ },
  "studio-2024.3.1-rc02": {
   "tag": "studio-2024.3.1-rc02",
   "project": "la_platform",
