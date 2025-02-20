@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.1.r2-08300-sa8155.0": {
+  "tag": "LA.AU.1.4.1.r2-08300-sa8155.0",
+  "project": "la_platform",
+  "date": "2025-02-20T10:00:55.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.083": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.1.R2.10.00.00.957.083",
+  "project": "la_platform",
+  "date": "2025-02-20T10:00:13.000+00:00"
+ },
  "studio-2024.3.1-rc02": {
   "tag": "studio-2024.3.1-rc02",
   "project": "la_platform",
