@@ -1,4 +1,29 @@
 {
+ "android-cts-15.0_r3": {
+  "tag": "android-cts-15.0_r3",
+  "project": "la_platform",
+  "date": "2025-02-24T15:03:08.000-08:00"
+ },
+ "android-cts-14.0_r7": {
+  "tag": "android-cts-14.0_r7",
+  "project": "la_platform",
+  "date": "2025-02-24T14:50:48.000-08:00"
+ },
+ "android-cts-13.0_r11": {
+  "tag": "android-cts-13.0_r11",
+  "project": "la_platform",
+  "date": "2025-02-24T14:38:11.000-08:00"
+ },
+ "android-cts-12.1_r13": {
+  "tag": "android-cts-12.1_r13",
+  "project": "la_platform",
+  "date": "2025-02-24T14:27:01.000-08:00"
+ },
+ "android-cts-12.0_r15": {
+  "tag": "android-cts-12.0_r15",
+  "project": "la_platform",
+  "date": "2025-02-24T12:23:35.000-08:00"
+ },
  "LA.AU.1.4.1.r2-08300-sa8155.0": {
   "tag": "LA.AU.1.4.1.r2-08300-sa8155.0",
   "project": "la_platform",
