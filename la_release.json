@@ -31994,6 +31994,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.8.R1.11.00.00.1262.019": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.8.R1.11.00.00.1262.019",
+  "project": "la_vendor",
+  "date": "2025-02-28T09:50:23.000-08:00"
+ },
  "LA.VENDOR.13.2.8.r1-02900-KAILUA.0": {
   "tag": "LA.VENDOR.13.2.8.r1-02900-KAILUA.0",
   "project": "la_vendor",
