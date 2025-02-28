@@ -31994,6 +31994,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.8.r1-02900-KAILUA.0": {
+  "tag": "LA.VENDOR.13.2.8.r1-02900-KAILUA.0",
+  "project": "la_vendor",
+  "date": "2025-02-28T13:59:08.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.8.R1.13.00.00.1212.029": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.8.R1.13.00.00.1212.029",
+  "project": "la_vendor",
+  "date": "2025-02-28T13:58:54.000+00:00"
+ },
  "LA.VENDOR.14.3.4.r1-05900-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.r1-05900-ANORAK.0",
   "project": "la_vendor",
