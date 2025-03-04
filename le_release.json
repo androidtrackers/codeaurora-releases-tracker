@@ -1,4 +1,9 @@
 {
+ "LA.QSSI.15.0.r1-14400-qssi.0": {
+  "tag": "LA.QSSI.15.0.r1-14400-qssi.0",
+  "project": "le_manifest",
+  "date": "2025-03-04T18:17:52.000+00:00"
+ },
  "LA.QSSI.11.0.r1-24400-qssi.0": {
   "tag": "LA.QSSI.11.0.r1-24400-qssi.0",
   "project": "le_manifest",
