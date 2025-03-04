@@ -1,4 +1,29 @@
 {
+ "android-security-12.1.0_r7": {
+  "tag": "android-security-12.1.0_r7",
+  "project": "la_platform",
+  "date": "2025-03-03T11:27:58.000-08:00"
+ },
+ "android-security-15.0.0_r6": {
+  "tag": "android-security-15.0.0_r6",
+  "project": "la_platform",
+  "date": "2025-03-03T10:16:00.000-08:00"
+ },
+ "android-security-14.0.0_r18": {
+  "tag": "android-security-14.0.0_r18",
+  "project": "la_platform",
+  "date": "2025-03-03T10:15:12.000-08:00"
+ },
+ "android-security-13.0.0_r27": {
+  "tag": "android-security-13.0.0_r27",
+  "project": "la_platform",
+  "date": "2025-03-03T10:10:32.000-08:00"
+ },
+ "android-security-12.0.0_r69": {
+  "tag": "android-security-12.0.0_r69",
+  "project": "la_platform",
+  "date": "2025-03-03T09:58:16.000-08:00"
+ },
  "studio-2024.3.2-alpha07": {
   "tag": "studio-2024.3.2-alpha07",
   "project": "la_platform",
@@ -32048,6 +32073,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA_AU.VENDOR.13.0.0.r4-03200-gen3meta.QSSI15.0": {
+  "tag": "LA_AU.VENDOR.13.0.0.r4-03200-gen3meta.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-03-04T13:27:21.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.13.0.0.R4.11.00.00.1177.032": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.13.0.0.R4.11.00.00.1177.032",
+  "project": "la_vendor",
+  "date": "2025-03-04T13:27:03.000+00:00"
  },
  "LA.UM.9.1.1.c25-00800-RENNELL.QSSI12c33.0": {
   "tag": "LA.UM.9.1.1.c25-00800-RENNELL.QSSI12c33.0",
