@@ -1,4 +1,29 @@
 {
+ "android-wear-15.0.0-gpl_r2": {
+  "tag": "android-wear-15.0.0-gpl_r2",
+  "project": "la_platform",
+  "date": "2025-03-04T23:42:30.000-08:00"
+ },
+ "android-15.0.0_r23": {
+  "tag": "android-15.0.0_r23",
+  "project": "la_platform",
+  "date": "2025-03-04T21:27:55.000-08:00"
+ },
+ "android-15.0.0_r22": {
+  "tag": "android-15.0.0_r22",
+  "project": "la_platform",
+  "date": "2025-03-04T21:06:18.000-08:00"
+ },
+ "android-15.0.0_r21": {
+  "tag": "android-15.0.0_r21",
+  "project": "la_platform",
+  "date": "2025-03-04T19:50:24.000-08:00"
+ },
+ "android-15.0.0_r20": {
+  "tag": "android-15.0.0_r20",
+  "project": "la_platform",
+  "date": "2025-03-04T17:03:42.000-08:00"
+ },
  "android-security-12.1.0_r7": {
   "tag": "android-security-12.1.0_r7",
   "project": "la_platform",
