@@ -1,4 +1,9 @@
 {
+ "studio-2024.3.1": {
+  "tag": "studio-2024.3.1",
+  "project": "la_platform",
+  "date": "2025-03-05T13:13:52.000-08:00"
+ },
  "android-wear-15.0.0-gpl_r2": {
   "tag": "android-wear-15.0.0-gpl_r2",
   "project": "la_platform",
