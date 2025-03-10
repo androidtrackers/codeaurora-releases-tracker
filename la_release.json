@@ -32159,6 +32159,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.1.R1.11.00.00.1119.037": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.1.R1.11.00.00.1119.037",
+  "project": "la_vendor",
+  "date": "2025-03-10T07:24:40.000+00:00"
+ },
+ "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI16.0": {
+  "tag": "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2025-03-10T07:23:04.000+00:00"
+ },
  "LA.UM.9.12.1.r1-11100-SMxx50.QSSI12.0": {
   "tag": "LA.UM.9.12.1.r1-11100-SMxx50.QSSI12.0",
   "project": "la_vendor",
