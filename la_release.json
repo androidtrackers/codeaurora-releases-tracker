@@ -32209,6 +32209,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI15.0": {
+  "tag": "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-03-13T05:42:53.000+00:00"
+ },
  "LA.UM.9.15.c26-11300-KAMORTA.QSSI12c28.0": {
   "tag": "LA.UM.9.15.c26-11300-KAMORTA.QSSI12c28.0",
   "project": "la_vendor",
