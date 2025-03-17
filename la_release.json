@@ -32309,6 +32309,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.VENDOR.14.0.r1-10500-SW5100.0": {
+  "tag": "LAW.VENDOR.14.0.r1-10500-SW5100.0",
+  "project": "la_vendor",
+  "date": "2025-03-16T21:03:52.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.105": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.105",
+  "project": "la_vendor",
+  "date": "2025-03-16T20:50:36.000-07:00"
+ },
  "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI15.0": {
   "tag": "LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI15.0",
   "project": "la_vendor",
