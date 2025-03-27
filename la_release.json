@@ -32609,6 +32609,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.VENDOR.14.0.r1-10800-SW5100.0": {
+  "tag": "LAW.VENDOR.14.0.r1-10800-SW5100.0",
+  "project": "la_vendor",
+  "date": "2025-03-26T20:58:35.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.108": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.0.R1.11.00.00.1139.108",
+  "project": "la_vendor",
+  "date": "2025-03-26T20:44:50.000-07:00"
+ },
  "LA_AU.VENDOR.14.0.4.r1-01500-gen5_gvm_gy.0": {
   "tag": "LA_AU.VENDOR.14.0.4.r1-01500-gen5_gvm_gy.0",
   "project": "la_vendor",
