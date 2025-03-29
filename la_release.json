@@ -32649,6 +32649,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.14.0.0.r2-10300-sa8155_gvmq.QSSI15.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r2-10300-sa8155_gvmq.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-03-29T07:57:21.000+00:00"
+ },
  "LA.VENDOR.14.3.4.r1-06100-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.r1-06100-ANORAK.0",
   "project": "la_vendor",
