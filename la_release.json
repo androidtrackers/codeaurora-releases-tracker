@@ -32659,6 +32659,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.5.R1.01.11.00.1124.064": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.5.R1.01.11.00.1124.064",
+  "project": "la_vendor",
+  "date": "2025-04-01T10:21:14.000+00:00"
+ },
+ "LA.VENDOR.13.2.5.r1-06400-QCM6125.QSSI15.0": {
+  "tag": "LA.VENDOR.13.2.5.r1-06400-QCM6125.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-04-01T10:21:00.000+00:00"
+ },
  "LA_AU.VENDOR.14.0.1.r1-09000-gen4_gvm.QSSI15.0": {
   "tag": "LA_AU.VENDOR.14.0.1.r1-09000-gen4_gvm.QSSI15.0",
   "project": "la_vendor",
