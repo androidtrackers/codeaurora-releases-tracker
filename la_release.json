@@ -32759,6 +32759,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.1.r2-02100-SMxx50.QSSI12.0": {
+  "tag": "LA.UM.9.12.1.r2-02100-SMxx50.QSSI12.0",
+  "project": "la_vendor",
+  "date": "2025-04-08T22:57:56.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.021": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.021",
+  "project": "la_vendor",
+  "date": "2025-04-08T22:47:52.000-07:00"
+ },
  "LA.UM.9.14.1.c27-00900-QCM6490.QSSI13c30.0": {
   "tag": "LA.UM.9.14.1.c27-00900-QCM6490.QSSI13c30.0",
   "project": "la_vendor",
