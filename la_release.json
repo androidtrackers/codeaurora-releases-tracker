@@ -1,4 +1,14 @@
 {
+ "studio-2025.1.1-alpha05": {
+  "tag": "studio-2025.1.1-alpha05",
+  "project": "la_platform",
+  "date": "2025-04-11T15:12:19.000-07:00"
+ },
+ "studio-2024.3.2-rc02": {
+  "tag": "studio-2024.3.2-rc02",
+  "project": "la_platform",
+  "date": "2025-04-11T14:55:31.000-07:00"
+ },
  "android-15.0.0_r25": {
   "tag": "android-15.0.0_r25",
   "project": "la_platform",
