@@ -33139,6 +33139,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.1.0.r2-14400-WAIPIO.QSSI14.0": {
+  "tag": "LA.VENDOR.1.0.r2-14400-WAIPIO.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2025-04-22T04:50:35.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.144": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.144",
+  "project": "la_vendor",
+  "date": "2025-04-22T04:50:20.000+00:00"
+ },
  "LA.UM.9.15.c29-03200-KAMORTA.QSSI13c27.0": {
   "tag": "LA.UM.9.15.c29-03200-KAMORTA.QSSI13c27.0",
   "project": "la_vendor",
