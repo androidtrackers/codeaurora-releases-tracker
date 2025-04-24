@@ -1,4 +1,14 @@
 {
+ "studio-2024.3.1-patch02": {
+  "tag": "studio-2024.3.1-patch02",
+  "project": "la_platform",
+  "date": "2025-04-21T14:41:28.000-07:00"
+ },
+ "ndk-r28b": {
+  "tag": "ndk-r28b",
+  "project": "la_platform",
+  "date": "2025-04-21T13:59:00.000-07:00"
+ },
  "ub-automotive-master-20250418": {
   "tag": "ub-automotive-master-20250418",
   "project": "la_platform",
