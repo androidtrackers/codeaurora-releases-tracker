@@ -1,4 +1,29 @@
 {
+ "LA.UM.8.8.2.c25-00800-QCS605.0": {
+  "tag": "LA.UM.8.8.2.c25-00800-QCS605.0",
+  "project": "la_platform",
+  "date": "2025-05-05T05:56:08.000-07:00"
+ },
+ "LA.UM.10.2.1.c25-05700-sdm660.0": {
+  "tag": "LA.UM.10.2.1.c25-05700-sdm660.0",
+  "project": "la_platform",
+  "date": "2025-05-05T05:52:48.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.12.2.1.C25.14.00.00.1289.004": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.12.2.1.C25.14.00.00.1289.004",
+  "project": "la_platform",
+  "date": "2025-05-05T05:33:29.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.8.2.C25.10.00.00.1298.008": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.8.2.C25.10.00.00.1298.008",
+  "project": "la_platform",
+  "date": "2025-05-05T05:30:13.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.057": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.057",
+  "project": "la_platform",
+  "date": "2025-05-05T05:27:01.000-07:00"
+ },
  "android-automotiveos-15.0.0_lts1": {
   "tag": "android-automotiveos-15.0.0_lts1",
   "project": "la_platform",
@@ -33323,6 +33348,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.4.c1-09400-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.c1-09400-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2025-05-05T04:44:17.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.094": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.094",
+  "project": "la_vendor",
+  "date": "2025-05-05T04:32:49.000-07:00"
  },
  "LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0": {
   "tag": "LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0",
