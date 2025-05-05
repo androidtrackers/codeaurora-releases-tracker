@@ -1,4 +1,9 @@
 {
+ "android-automotiveos-15.0.0_lts1": {
+  "tag": "android-automotiveos-15.0.0_lts1",
+  "project": "la_platform",
+  "date": "2025-05-04T18:25:12.000-07:00"
+ },
  "android-automotiveos-14.0.0_lts6": {
   "tag": "android-automotiveos-14.0.0_lts6",
   "project": "la_platform",
