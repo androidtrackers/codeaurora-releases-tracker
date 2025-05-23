@@ -33599,6 +33599,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.15.4.4.r1-01600-QCS8250.QISI15.0": {
+  "tag": "LA.VENDOR.15.4.4.r1-01600-QCS8250.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-05-22T19:23:14.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.016": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.016",
+  "project": "la_vendor",
+  "date": "2025-05-22T19:11:22.000-07:00"
+ },
  "LA.VENDOR.15.4.0.r1-17000-pakala.0": {
   "tag": "LA.VENDOR.15.4.0.r1-17000-pakala.0",
   "project": "la_vendor",
