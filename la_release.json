@@ -33744,6 +33744,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.11.r1-01100-NEOLA.0": {
+  "tag": "LA.VENDOR.14.3.11.r1-01100-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2025-05-29T21:36:00.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.11.R1.11.00.00.1327.011": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.11.R1.11.00.00.1327.011",
+  "project": "la_vendor",
+  "date": "2025-05-29T21:24:08.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.116": {
   "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.116",
   "project": "la_vendor",
