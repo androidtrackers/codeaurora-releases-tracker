@@ -33774,6 +33774,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-13700-NEOLA.QSSI14.0": {
+  "tag": "LA.VENDOR.12.2.r1-13700-NEOLA.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2025-05-30T02:49:08.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.137": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.137",
+  "project": "la_vendor",
+  "date": "2025-05-30T02:38:15.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.070": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.070",
+  "project": "la_vendor",
+  "date": "2025-05-30T09:25:24.000+00:00"
+ },
+ "LA.VENDOR.14.3.4.r1-07000-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.r1-07000-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2025-05-30T09:24:50.000+00:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.1.0.R1.11.00.00.816.276": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R1.11.00.00.816.276",
   "project": "la_vendor",
