@@ -1,4 +1,9 @@
 {
+ "LA_AU.QSSI.15.0.0.r1-04600-qssi.0": {
+  "tag": "LA_AU.QSSI.15.0.0.r1-04600-qssi.0",
+  "project": "le_manifest",
+  "date": "2025-06-12T06:13:47.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA_AU.QSSI.15.0.0.R1.11.00.00.1198.046": {
   "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.15.0.0.R1.11.00.00.1198.046",
   "project": "le_manifest",
