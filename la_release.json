@@ -1,4 +1,19 @@
 {
+ "android-platform-14.0.0_r20": {
+  "tag": "android-platform-14.0.0_r20",
+  "project": "la_platform",
+  "date": "2025-06-10T20:09:09.000-07:00"
+ },
+ "android-platform-13.0.0_r32": {
+  "tag": "android-platform-13.0.0_r32",
+  "project": "la_platform",
+  "date": "2025-06-10T19:03:15.000-07:00"
+ },
+ "android-platform-15.0.0_r9": {
+  "tag": "android-platform-15.0.0_r9",
+  "project": "la_platform",
+  "date": "2025-06-10T17:18:23.000-07:00"
+ },
  "android-16.0.0_r2": {
   "tag": "android-16.0.0_r2",
   "project": "la_platform",
