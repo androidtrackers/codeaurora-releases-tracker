@@ -1,4 +1,14 @@
 {
+ "android-vts-16.0_r1": {
+  "tag": "android-vts-16.0_r1",
+  "project": "la_platform",
+  "date": "2025-06-12T16:54:34.000-07:00"
+ },
+ "android-cts-16.0_r1": {
+  "tag": "android-cts-16.0_r1",
+  "project": "la_platform",
+  "date": "2025-06-12T16:41:20.000-07:00"
+ },
  "android-platform-14.0.0_r20": {
   "tag": "android-platform-14.0.0_r20",
   "project": "la_platform",
