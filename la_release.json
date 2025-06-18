@@ -34049,6 +34049,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c25-02800-SMxx50.QSSI13c28.0": {
+  "tag": "LA.UM.9.12.c25-02800-SMxx50.QSSI13c28.0",
+  "project": "la_vendor",
+  "date": "2025-06-18T09:45:27.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.028": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.028",
+  "project": "la_vendor",
+  "date": "2025-06-18T09:35:02.000-07:00"
+ },
  "LAW.VENDOR.14.0.r1-11000-SW5100.0": {
   "tag": "LAW.VENDOR.14.0.r1-11000-SW5100.0",
   "project": "la_vendor",
