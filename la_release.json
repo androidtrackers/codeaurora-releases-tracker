@@ -1,4 +1,14 @@
 {
+ "studio-2025.1.2-alpha05": {
+  "tag": "studio-2025.1.2-alpha05",
+  "project": "la_platform",
+  "date": "2025-06-17T23:53:37.000-07:00"
+ },
+ "studio-2025.1.1-rc02": {
+  "tag": "studio-2025.1.1-rc02",
+  "project": "la_platform",
+  "date": "2025-06-17T23:33:09.000-07:00"
+ },
  "LA.UM.11.2.1.c25-09500-sdm660.0": {
   "tag": "LA.UM.11.2.1.c25-09500-sdm660.0",
   "project": "la_platform",
