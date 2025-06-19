@@ -25084,6 +25084,11 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LAW.QWSI.14.0.r1-04800-qssi.0": {
+  "tag": "LAW.QWSI.14.0.r1-04800-qssi.0",
+  "project": "la_system",
+  "date": "2025-06-18T22:12:35.000-07:00"
+ },
  "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.048": {
   "tag": "AU_LINUX_ANDROID_LAW.QWSI.14.0.R1.11.00.00.1143.048",
   "project": "la_system",
