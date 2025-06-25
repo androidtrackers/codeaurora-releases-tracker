@@ -1,4 +1,19 @@
 {
+ "AU_LINUX_ANDROID_LA.QISI.11.0.R1.11.00.00.1315.005": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.11.0.R1.11.00.00.1315.005",
+  "project": "le_manifest",
+  "date": "2025-06-25T02:01:54.000-07:00"
+ },
+ "LA_AU.QSSI.13.0.0.r2-02500-qssi.0": {
+  "tag": "LA_AU.QSSI.13.0.0.r2-02500-qssi.0",
+  "project": "le_manifest",
+  "date": "2025-06-25T07:48:37.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.13.0.0.R2.11.00.00.1141.025": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.13.0.0.R2.11.00.00.1141.025",
+  "project": "le_manifest",
+  "date": "2025-06-25T07:48:18.000+00:00"
+ },
  "LA.QSSI.15.0.r1-16100-qssi.0": {
   "tag": "LA.QSSI.15.0.r1-16100-qssi.0",
   "project": "le_manifest",
