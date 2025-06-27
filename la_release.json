@@ -1,4 +1,14 @@
 {
+ "studio-2025.1.2-alpha07": {
+  "tag": "studio-2025.1.2-alpha07",
+  "project": "la_platform",
+  "date": "2025-06-26T13:39:07.000-07:00"
+ },
+ "studio-2025.1.1": {
+  "tag": "studio-2025.1.1",
+  "project": "la_platform",
+  "date": "2025-06-26T13:10:23.000-07:00"
+ },
  "LA.AU.1.4.5.r1-04900-gen3meta.0": {
   "tag": "LA.AU.1.4.5.r1-04900-gen3meta.0",
   "project": "la_platform",
