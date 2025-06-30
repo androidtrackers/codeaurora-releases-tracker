@@ -34329,6 +34329,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.055": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.055",
+  "project": "la_vendor",
+  "date": "2025-06-30T10:27:17.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r4-05500-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r4-05500-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2025-06-30T10:26:26.000+00:00"
+ },
  "LA.VENDOR.15.4.0.r1-18000-pakala.QSSI16.0": {
   "tag": "LA.VENDOR.15.4.0.r1-18000-pakala.QSSI16.0",
   "project": "la_vendor",
