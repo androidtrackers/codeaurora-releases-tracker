@@ -34349,6 +34349,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.13.2.6.r1-02500-KAILUA.0": {
+  "tag": "LA.VENDOR.13.2.6.r1-02500-KAILUA.0",
+  "project": "la_vendor",
+  "date": "2025-07-02T06:33:14.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.6.R1.13.00.00.1109.025": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.6.R1.13.00.00.1109.025",
+  "project": "la_vendor",
+  "date": "2025-07-02T06:32:38.000+00:00"
+ },
  "LA.VENDOR.1.0.r2-14600-WAIPIO.QSSI14.0": {
   "tag": "LA.VENDOR.1.0.r2-14600-WAIPIO.QSSI14.0",
   "project": "la_vendor",
