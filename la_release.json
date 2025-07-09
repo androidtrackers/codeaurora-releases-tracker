@@ -1,4 +1,9 @@
 {
+ "ndk-r28c": {
+  "tag": "ndk-r28c",
+  "project": "la_platform",
+  "date": "2025-07-08T13:54:17.000-07:00"
+ },
  "LA.UM.12.2.1.c26-00600-sdm660.0": {
   "tag": "LA.UM.12.2.1.c26-00600-sdm660.0",
   "project": "la_platform",
