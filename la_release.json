@@ -34509,6 +34509,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.028": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.1.R2.11.00.00.1223.028",
+  "project": "la_vendor",
+  "date": "2025-07-08T23:55:40.000-07:00"
+ },
  "LA.VENDOR.13.2.2.r1-05800-QCS8250.0": {
   "tag": "LA.VENDOR.13.2.2.r1-05800-QCS8250.0",
   "project": "la_vendor",
