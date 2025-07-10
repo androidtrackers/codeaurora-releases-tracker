@@ -1,4 +1,9 @@
 {
+ "android-automotiveos-15.0.0_lts2": {
+  "tag": "android-automotiveos-15.0.0_lts2",
+  "project": "la_platform",
+  "date": "2025-07-09T11:22:05.000-07:00"
+ },
  "ndk-r28c": {
   "tag": "ndk-r28c",
   "project": "la_platform",
