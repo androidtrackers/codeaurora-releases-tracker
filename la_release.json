@@ -1,4 +1,14 @@
 {
+ "studio-2025.1.2-alpha09": {
+  "tag": "studio-2025.1.2-alpha09",
+  "project": "la_platform",
+  "date": "2025-07-16T08:49:49.000-07:00"
+ },
+ "ndk-r27d": {
+  "tag": "ndk-r27d",
+  "project": "la_platform",
+  "date": "2025-07-15T16:23:22.000-07:00"
+ },
  "android-automotiveos-15.0.0_lts2": {
   "tag": "android-automotiveos-15.0.0_lts2",
   "project": "la_platform",
