@@ -34784,6 +34784,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-14200-NEOLA.QSSI14.0": {
+  "tag": "LA.VENDOR.12.2.r1-14200-NEOLA.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2025-07-23T10:53:17.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r2-11000-DIVAR.QISI14.0": {
   "tag": "LA.VENDOR.13.2.1.r2-11000-DIVAR.QISI14.0",
   "project": "la_vendor",
