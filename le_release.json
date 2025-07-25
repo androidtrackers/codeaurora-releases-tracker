@@ -1,4 +1,14 @@
 {
+ "LA.QISI.16.0.r1-00500-qssi.0": {
+  "tag": "LA.QISI.16.0.r1-00500-qssi.0",
+  "project": "le_manifest",
+  "date": "2025-07-25T20:26:38.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QISI.16.0.R1.11.00.00.1400.005": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.16.0.R1.11.00.00.1400.005",
+  "project": "le_manifest",
+  "date": "2025-07-25T20:26:11.000+00:00"
+ },
  "LA_AU.QSSI.16.0.0.r1-01400-qssi.0": {
   "tag": "LA_AU.QSSI.16.0.0.r1-01400-qssi.0",
   "project": "le_manifest",
