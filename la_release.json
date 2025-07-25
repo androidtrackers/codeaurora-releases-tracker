@@ -25179,6 +25179,11 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.14.0.r3-02502-qssi.0": {
+  "tag": "LA.QSSI.14.0.r3-02502-qssi.0",
+  "project": "la_system",
+  "date": "2025-07-25T10:25:17.000+00:00"
+ },
  "LA.QISI.11.0.r1-00700-qssi.0": {
   "tag": "LA.QISI.11.0.r1-00700-qssi.0",
   "project": "la_system",
