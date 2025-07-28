@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.5.r1-05000-gen3meta.0": {
+  "tag": "LA.AU.1.4.5.r1-05000-gen3meta.0",
+  "project": "la_platform",
+  "date": "2025-07-28T11:58:44.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.5.R1.10.00.00.999.050": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.5.R1.10.00.00.999.050",
+  "project": "la_platform",
+  "date": "2025-07-28T11:57:54.000+00:00"
+ },
  "ub-automotive-master-20250722": {
   "tag": "ub-automotive-master-20250722",
   "project": "la_platform",
