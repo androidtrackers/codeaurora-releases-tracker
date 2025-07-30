@@ -1,4 +1,9 @@
 {
+ "studio-2025.1.2-alpha09": {
+  "tag": "studio-2025.1.2-alpha09",
+  "project": "la_platform",
+  "date": "2025-07-29T08:59:30.000-07:00"
+ },
  "LA.AU.1.4.5.r1-05000-gen3meta.0": {
   "tag": "LA.AU.1.4.5.r1-05000-gen3meta.0",
   "project": "la_platform",
@@ -33,11 +38,6 @@
   "tag": "studio-2025.1.1-patch1",
   "project": "la_platform",
   "date": "2025-07-17T15:13:42.000-07:00"
- },
- "studio-2025.1.2-alpha09": {
-  "tag": "studio-2025.1.2-alpha09",
-  "project": "la_platform",
-  "date": "2025-07-16T08:49:49.000-07:00"
  },
  "ndk-r27d": {
   "tag": "ndk-r27d",
