@@ -25189,6 +25189,16 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.QISI.12.0.R1.11.00.00.1401.002": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.12.0.R1.11.00.00.1401.002",
+  "project": "la_system",
+  "date": "2025-07-30T11:42:40.000+00:00"
+ },
+ "LA.QISI.12.0.r1-00200-qssi.0": {
+  "tag": "LA.QISI.12.0.r1-00200-qssi.0",
+  "project": "la_system",
+  "date": "2025-07-30T11:41:24.000+00:00"
+ },
  "LA.QSSI.14.0.r1-21600-qssi.0": {
   "tag": "LA.QSSI.14.0.r1-21600-qssi.0",
   "project": "la_system",
@@ -34953,6 +34963,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.150": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.150",
+  "project": "la_vendor",
+  "date": "2025-07-30T11:40:38.000+00:00"
+ },
+ "LA.VENDOR.1.0.r2-15000-WAIPIO.QISI15.0": {
+  "tag": "LA.VENDOR.1.0.r2-15000-WAIPIO.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-07-30T11:39:49.000+00:00"
  },
  "LA.VENDOR.14.3.4.r1-07600-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.r1-07600-ANORAK.0",
