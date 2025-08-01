@@ -1,4 +1,14 @@
 {
+ "ndk-r29-beta3": {
+  "tag": "ndk-r29-beta3",
+  "project": "la_platform",
+  "date": "2025-07-31T13:30:17.000-07:00"
+ },
+ "studio-2025.1.2": {
+  "tag": "studio-2025.1.2",
+  "project": "la_platform",
+  "date": "2025-07-31T11:22:28.000-07:00"
+ },
  "studio-2025.1.2-alpha09": {
   "tag": "studio-2025.1.2-alpha09",
   "project": "la_platform",
@@ -25188,6 +25198,26 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QISI.15.0.r1-01300-qssi.0": {
+  "tag": "LA.QISI.15.0.r1-01300-qssi.0",
+  "project": "la_system",
+  "date": "2025-08-01T12:44:25.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.013": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.013",
+  "project": "la_system",
+  "date": "2025-08-01T12:43:59.000+00:00"
+ },
+ "LA.QISI.14.0.r1-01700-qssi.0": {
+  "tag": "LA.QISI.14.0.r1-01700-qssi.0",
+  "project": "la_system",
+  "date": "2025-08-01T12:43:36.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QISI.14.0.R1.14.00.00.1329.017": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.14.0.R1.14.00.00.1329.017",
+  "project": "la_system",
+  "date": "2025-08-01T12:43:15.000+00:00"
  },
  "LA.QSSI.16.0.r1-08000-qssi.0": {
   "tag": "LA.QSSI.16.0.r1-08000-qssi.0",
