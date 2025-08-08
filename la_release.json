@@ -1,4 +1,14 @@
 {
+ "LA.UM.11.2.1.c25-10300-sdm660.0": {
+  "tag": "LA.UM.11.2.1.c25-10300-sdm660.0",
+  "project": "la_platform",
+  "date": "2025-08-08T01:08:51.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.11.2.1.C25.13.00.00.1155.103": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.11.2.1.C25.13.00.00.1155.103",
+  "project": "la_platform",
+  "date": "2025-08-08T00:35:51.000-07:00"
+ },
  "android-vts-15.0_r5": {
   "tag": "android-vts-15.0_r5",
   "project": "la_platform",
