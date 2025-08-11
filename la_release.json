@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.2.1.c25-10800-sdm660.0": {
+  "tag": "LA.UM.8.2.1.c25-10800-sdm660.0",
+  "project": "la_platform",
+  "date": "2025-08-11T00:56:01.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.108": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.108",
+  "project": "la_platform",
+  "date": "2025-08-11T00:32:38.000-07:00"
+ },
  "LAW.UM.2.1.c3-17900-SW5100.0": {
   "tag": "LAW.UM.2.1.c3-17900-SW5100.0",
   "project": "la_platform",
@@ -25283,6 +25293,11 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QSSI.13.0.r1-16700-qssi.0": {
+  "tag": "LA.QSSI.13.0.r1-16700-qssi.0",
+  "project": "la_system",
+  "date": "2025-08-11T00:22:51.000-07:00"
  },
  "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.167.00": {
   "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.167.00",
