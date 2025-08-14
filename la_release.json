@@ -35409,6 +35409,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-14400-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-14400-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2025-08-14T05:56:00.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.144": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.144",
+  "project": "la_vendor",
+  "date": "2025-08-14T05:44:57.000-07:00"
+ },
  "LA.VENDOR.13.2.1.c25-05800-DIVAR.QSSI15c1.0": {
   "tag": "LA.VENDOR.13.2.1.c25-05800-DIVAR.QSSI15c1.0",
   "project": "la_vendor",
