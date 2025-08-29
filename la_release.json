@@ -1,4 +1,9 @@
 {
+ "LA.UM.6.6.c32-09300-89xx.0": {
+  "tag": "LA.UM.6.6.c32-09300-89xx.0",
+  "project": "la_platform",
+  "date": "2025-08-29T00:01:39.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.093": {
   "tag": "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.093",
   "project": "la_platform",
