@@ -1,4 +1,14 @@
 {
+ "LA.UM.12.2.1.c25-00600-sdm660.0": {
+  "tag": "LA.UM.12.2.1.c25-00600-sdm660.0",
+  "project": "la_platform",
+  "date": "2025-09-03T01:04:56.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.12.2.1.C25.14.00.00.1289.006": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.12.2.1.C25.14.00.00.1289.006",
+  "project": "la_platform",
+  "date": "2025-09-03T00:26:30.000-07:00"
+ },
  "android-security-13.0.0_r31": {
   "tag": "android-security-13.0.0_r31",
   "project": "la_platform",
@@ -25318,6 +25328,16 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QSSI.13.0.c32-00800-qssi.0": {
+  "tag": "LA.QSSI.13.0.c32-00800-qssi.0",
+  "project": "la_system",
+  "date": "2025-09-03T00:50:51.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.13.0.C32.13.00.00.1392.008": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.C32.13.00.00.1392.008",
+  "project": "la_system",
+  "date": "2025-09-03T00:28:13.000-07:00"
  },
  "AU_LINUX_ANDROID_LA.QISI.14.0.R1.14.00.00.1329.021": {
   "tag": "AU_LINUX_ANDROID_LA.QISI.14.0.R1.14.00.00.1329.021",
