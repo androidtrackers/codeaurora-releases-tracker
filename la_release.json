@@ -1,4 +1,19 @@
 {
+ "android-security-13.0.0_r31": {
+  "tag": "android-security-13.0.0_r31",
+  "project": "la_platform",
+  "date": "2025-09-02T10:05:24.000-07:00"
+ },
+ "android-security-14.0.0_r22": {
+  "tag": "android-security-14.0.0_r22",
+  "project": "la_platform",
+  "date": "2025-09-02T10:02:00.000-07:00"
+ },
+ "android-security-15.0.0_r10": {
+  "tag": "android-security-15.0.0_r10",
+  "project": "la_platform",
+  "date": "2025-09-02T10:00:14.000-07:00"
+ },
  "LA.UM.6.6.c32-09300-89xx.0": {
   "tag": "LA.UM.6.6.c32-09300-89xx.0",
   "project": "la_platform",
