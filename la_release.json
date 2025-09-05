@@ -35874,6 +35874,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.16.c27-02000-MANNAR.0": {
+  "tag": "LA.UM.9.16.c27-02000-MANNAR.0",
+  "project": "la_vendor",
+  "date": "2025-09-05T05:03:13.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.16.C27.11.00.00.1300.020": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.16.C27.11.00.00.1300.020",
+  "project": "la_vendor",
+  "date": "2025-09-05T04:44:36.000-07:00"
+ },
  "LA_AU.VENDOR.14.11.0.c1-01200-gen3_gvm_coqos.0": {
   "tag": "LA_AU.VENDOR.14.11.0.c1-01200-gen3_gvm_coqos.0",
   "project": "la_vendor",
