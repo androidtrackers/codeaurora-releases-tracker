@@ -1,4 +1,29 @@
 {
+ "android-platform-13.0.0_r34": {
+  "tag": "android-platform-13.0.0_r34",
+  "project": "la_platform",
+  "date": "2025-09-04T12:06:33.000-07:00"
+ },
+ "android-platform-14.0.0_r22": {
+  "tag": "android-platform-14.0.0_r22",
+  "project": "la_platform",
+  "date": "2025-09-04T11:53:20.000-07:00"
+ },
+ "android-platform-15.0.0_r11": {
+  "tag": "android-platform-15.0.0_r11",
+  "project": "la_platform",
+  "date": "2025-09-04T11:22:12.000-07:00"
+ },
+ "android-automotiveos-15.0.0_lts3": {
+  "tag": "android-automotiveos-15.0.0_lts3",
+  "project": "la_platform",
+  "date": "2025-09-04T17:15:13.000+00:00"
+ },
+ "ndk-r29-rc1": {
+  "tag": "ndk-r29-rc1",
+  "project": "la_platform",
+  "date": "2025-09-04T10:11:34.000-07:00"
+ },
  "LA.UM.10.2.1.c25-06300-sdm660.0": {
   "tag": "LA.UM.10.2.1.c25-06300-sdm660.0",
   "project": "la_platform",
@@ -8,6 +33,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.10.2.1.C25.12.00.00.1034.063",
   "project": "la_platform",
   "date": "2025-09-04T04:51:22.000-07:00"
+ },
+ "studio-2025.1.3": {
+  "tag": "studio-2025.1.3",
+  "project": "la_platform",
+  "date": "2025-09-03T15:22:50.000-07:00"
  },
  "LA.UM.12.2.1.c25-00600-sdm660.0": {
   "tag": "LA.UM.12.2.1.c25-00600-sdm660.0",
