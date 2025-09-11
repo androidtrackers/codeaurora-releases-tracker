@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.4.c25-00700-QCS8250.0": {
+  "tag": "LA.UM.8.12.4.c25-00700-QCS8250.0",
+  "project": "la_platform",
+  "date": "2025-09-11T05:10:30.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.007": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.007",
+  "project": "la_platform",
+  "date": "2025-09-11T04:22:53.000-07:00"
+ },
  "studio-2025.1.4-alpha04": {
   "tag": "studio-2025.1.4-alpha04",
   "project": "la_platform",
@@ -25378,6 +25388,16 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA_AU.QSSI.14.11.0.c1-01300-qssi.0": {
+  "tag": "LA_AU.QSSI.14.11.0.c1-01300-qssi.0",
+  "project": "la_system",
+  "date": "2025-09-11T05:12:47.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.14.11.0.C1.11.00.00.1412.013": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.14.11.0.C1.11.00.00.1412.013",
+  "project": "la_system",
+  "date": "2025-09-11T04:31:15.000-07:00"
  },
  "LA.QSSI.15.0.r5-00300-qssi.0": {
   "tag": "LA.QSSI.15.0.r5-00300-qssi.0",
