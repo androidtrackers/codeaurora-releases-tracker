@@ -35904,6 +35904,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.14.1.r1-19500-QCM6490.QISI15.0": {
+  "tag": "LA.UM.9.14.1.r1-19500-QCM6490.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-09-11T03:34:01.000-07:00"
+ },
+ "LA.VENDOR.14.3.12.r1-01800-lanai.QSSI15.0": {
+  "tag": "LA.VENDOR.14.3.12.r1-01800-lanai.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-09-11T03:26:10.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.195": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.R1.11.00.00.835.195",
+  "project": "la_vendor",
+  "date": "2025-09-11T03:10:41.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.12.R1.11.00.00.1397.018": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.12.R1.11.00.00.1397.018",
+  "project": "la_vendor",
+  "date": "2025-09-11T03:08:00.000-07:00"
+ },
  "LA.UM.9.1.1.c25-01100-RENNELL.QSSI12c33.0": {
   "tag": "LA.UM.9.1.1.c25-01100-RENNELL.QSSI12c33.0",
   "project": "la_vendor",
