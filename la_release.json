@@ -35984,6 +35984,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.015": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.015",
+  "project": "la_vendor",
+  "date": "2025-09-12T19:48:53.000-07:00"
+ },
  "LA_AU.VENDOR.14.11.0.c1-01300-gen3_gvm_coqos.0": {
   "tag": "LA_AU.VENDOR.14.11.0.c1-01300-gen3_gvm_coqos.0",
   "project": "la_vendor",
