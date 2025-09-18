@@ -25414,6 +25414,16 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QISI.15.0.r1-02200-qssi.0": {
+  "tag": "LA.QISI.15.0.r1-02200-qssi.0",
+  "project": "la_system",
+  "date": "2025-09-18T11:41:18.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.022": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.022",
+  "project": "la_system",
+  "date": "2025-09-18T11:39:42.000+00:00"
+ },
  "LA.QSSI.15.0.r1-17100-qssi.0": {
   "tag": "LA.QSSI.15.0.r1-17100-qssi.0",
   "project": "la_system",
@@ -36088,6 +36098,41 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.12.2.r1-14800-NEOLA.QSSI14.0": {
+  "tag": "LA.VENDOR.12.2.r1-14800-NEOLA.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2025-09-18T05:48:09.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.5.R1.11.00.00.1208.030": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.5.R1.11.00.00.1208.030",
+  "project": "la_vendor",
+  "date": "2025-09-18T12:00:47.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r4-06100-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r4-06100-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2025-09-18T11:59:30.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.061": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.061",
+  "project": "la_vendor",
+  "date": "2025-09-18T11:58:00.000+00:00"
+ },
+ "LA.UM.9.14.5.r1-03000-QCM6490.QSSI13.0": {
+  "tag": "LA.UM.9.14.5.r1-03000-QCM6490.QSSI13.0",
+  "project": "la_vendor",
+  "date": "2025-09-18T11:56:35.000+00:00"
+ },
+ "LA.VENDOR.1.0.r2-15400-WAIPIO.QISI15.0": {
+  "tag": "LA.VENDOR.1.0.r2-15400-WAIPIO.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-09-18T11:43:20.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.154": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.154",
+  "project": "la_vendor",
+  "date": "2025-09-18T11:42:16.000+00:00"
  },
  "AU_LINUX_ANDROID_LA.VENDOR.13.2.5.R1.01.11.00.1124.066": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.5.R1.01.11.00.1124.066",
