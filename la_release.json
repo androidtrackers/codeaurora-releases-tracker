@@ -1,4 +1,19 @@
 {
+ "studio-2025.2.1-alpha01": {
+  "tag": "studio-2025.2.1-alpha01",
+  "project": "la_platform",
+  "date": "2025-09-30T16:27:43.000-07:00"
+ },
+ "studio-2025.1.4-rc02": {
+  "tag": "studio-2025.1.4-rc02",
+  "project": "la_platform",
+  "date": "2025-09-30T16:25:55.000-07:00"
+ },
+ "studio-2025.1.4-alpha05": {
+  "tag": "studio-2025.1.4-alpha05",
+  "project": "la_platform",
+  "date": "2025-09-30T16:24:13.000-07:00"
+ },
  "LA.UM.8.12.4.c25-01300-QCS8250.0": {
   "tag": "LA.UM.8.12.4.c25-01300-QCS8250.0",
   "project": "la_platform",
