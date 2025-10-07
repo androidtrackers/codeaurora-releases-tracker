@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.3.r2-00600-gen3meta.0": {
+  "tag": "LA.AU.1.4.3.r2-00600-gen3meta.0",
+  "project": "la_platform",
+  "date": "2025-10-07T07:35:37.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.3.R2.10.00.00.1222.006": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.3.R2.10.00.00.1222.006",
+  "project": "la_platform",
+  "date": "2025-10-07T07:34:38.000+00:00"
+ },
  "LA.UM.9.2.1.c25-10100-sdm660.0": {
   "tag": "LA.UM.9.2.1.c25-10100-sdm660.0",
   "project": "la_platform",
