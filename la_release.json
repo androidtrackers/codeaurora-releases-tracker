@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.3.c25-11400-sdm845.0": {
+  "tag": "LA.UM.8.3.c25-11400-sdm845.0",
+  "project": "la_platform",
+  "date": "2025-10-07T06:32:03.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.114": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.114",
+  "project": "la_platform",
+  "date": "2025-10-07T06:09:03.000-07:00"
+ },
  "LA.AU.1.4.3.r2-00600-gen3meta.0": {
   "tag": "LA.AU.1.4.3.r2-00600-gen3meta.0",
   "project": "la_platform",
