@@ -36569,6 +36569,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.16.r1-18400-MANNAR.QSSI15.0": {
+  "tag": "LA.UM.9.16.r1-18400-MANNAR.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-10-10T11:28:14.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r2-12300-DIVAR.QSSI14.0": {
   "tag": "LA.VENDOR.13.2.1.r2-12300-DIVAR.QSSI14.0",
   "project": "la_vendor",
