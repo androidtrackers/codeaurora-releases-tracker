@@ -25534,6 +25534,16 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.11.0.c31-06200-qssi.0": {
+  "tag": "LA.QSSI.11.0.c31-06200-qssi.0",
+  "project": "la_system",
+  "date": "2025-10-14T11:28:41.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.11.0.C31.11.00.00.1108.062": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.C31.11.00.00.1108.062",
+  "project": "la_system",
+  "date": "2025-10-14T11:09:30.000-07:00"
+ },
  "LA.QSSI.12.0.c28-07100-qssi.0": {
   "tag": "LA.QSSI.12.0.c28-07100-qssi.0",
   "project": "la_system",
@@ -36618,6 +36628,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.4.c1-13700-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.c1-13700-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2025-10-14T10:26:18.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.137": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.137",
+  "project": "la_vendor",
+  "date": "2025-10-14T10:12:52.000-07:00"
  },
  "LA.VENDOR.14.3.11.r1-03000-ALISO.0": {
   "tag": "LA.VENDOR.14.3.11.r1-03000-ALISO.0",
