@@ -36659,6 +36659,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.151": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.151",
+  "project": "la_vendor",
+  "date": "2025-10-16T05:52:43.000-07:00"
+ },
  "LA_AU.VENDOR.13.0.0.c5-01300-gen3meta.QSSI15.0": {
   "tag": "LA_AU.VENDOR.13.0.0.c5-01300-gen3meta.QSSI15.0",
   "project": "la_vendor",
