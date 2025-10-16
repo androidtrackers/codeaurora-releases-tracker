@@ -36649,6 +36649,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.1.r1-05100-LAHAINA.0": {
+  "tag": "LA.VENDOR.16.2.1.r1-05100-LAHAINA.0",
+  "project": "la_vendor",
+  "date": "2025-10-16T00:26:44.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.1.R1.11.00.00.1348.051": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.1.R1.11.00.00.1348.051",
+  "project": "la_vendor",
+  "date": "2025-10-16T00:25:04.000+00:00"
+ },
  "LA.UM.9.15.c26-14300-KAMORTA.QSSI12c28.0": {
   "tag": "LA.UM.9.15.c26-14300-KAMORTA.QSSI12c28.0",
   "project": "la_vendor",
