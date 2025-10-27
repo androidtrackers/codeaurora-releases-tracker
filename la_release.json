@@ -36859,6 +36859,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.015": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.015",
+  "project": "la_vendor",
+  "date": "2025-10-27T09:51:22.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.0.1.r1-01500-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.1.r1-01500-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2025-10-27T09:50:50.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.3.1.R1.11.00.00.1444.004": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.3.1.R1.11.00.00.1444.004",
+  "project": "la_vendor",
+  "date": "2025-10-27T09:36:40.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.3.1.r1-00400-gen4_gvm.0": {
+  "tag": "LA_AU.VENDOR.14.0.3.1.r1-00400-gen4_gvm.0",
+  "project": "la_vendor",
+  "date": "2025-10-27T09:35:59.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r2-12600-DIVAR.QISI16.0": {
   "tag": "LA.VENDOR.13.2.1.r2-12600-DIVAR.QISI16.0",
   "project": "la_vendor",
