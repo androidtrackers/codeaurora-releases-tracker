@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.10-03500-kalama_gvm_gy.0": {
+  "tag": "LA.AU.1.4.10-03500-kalama_gvm_gy.0",
+  "project": "la_platform",
+  "date": "2025-10-29T03:47:06.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.10.10.00.00.1339.035": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.10.10.00.00.1339.035",
+  "project": "la_platform",
+  "date": "2025-10-29T03:45:48.000+00:00"
+ },
  "LA.UM.10.9.1.c25-04900-QCS610.0": {
   "tag": "LA.UM.10.9.1.c25-04900-QCS610.0",
   "project": "la_platform",
@@ -36918,6 +36928,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.UM.9.14.7.r1-01600-QCM6490.QISI15.0": {
+  "tag": "LA.UM.9.14.7.r1-01600-QCM6490.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-10-28T21:38:49.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.7.R1.11.00.00.1359.016": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.7.R1.11.00.00.1359.016",
+  "project": "la_vendor",
+  "date": "2025-10-28T21:22:29.000-07:00"
  },
  "LA_AU.VENDOR.15.0.0.1.r1-00500-sa8155_gvmq.0": {
   "tag": "LA_AU.VENDOR.15.0.0.1.r1-00500-sa8155_gvmq.0",
