@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.12.4.c25-01500-QCS8250.0": {
+  "tag": "LA.UM.8.12.4.c25-01500-QCS8250.0",
+  "project": "la_platform",
+  "date": "2025-11-06T09:57:41.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.015": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.015",
+  "project": "la_platform",
+  "date": "2025-11-06T09:21:47.000-08:00"
+ },
  "android-vts-15.0_r6": {
   "tag": "android-vts-15.0_r6",
   "project": "la_platform",
