@@ -1,4 +1,9 @@
 {
+ "LA.UM.8.8.1.c25-06300-QCS605.0": {
+  "tag": "LA.UM.8.8.1.c25-06300-QCS605.0",
+  "project": "la_platform",
+  "date": "2025-11-07T04:01:37.000-08:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.8.8.1.C25.10.00.00.891.063": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.8.1.C25.10.00.00.891.063",
   "project": "la_platform",
