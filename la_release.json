@@ -1,4 +1,14 @@
 {
+ "LA.UM.6.6.c32-09700-89xx.0": {
+  "tag": "LA.UM.6.6.c32-09700-89xx.0",
+  "project": "la_platform",
+  "date": "2025-11-11T23:56:51.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.097": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.097",
+  "project": "la_platform",
+  "date": "2025-11-11T23:28:11.000-08:00"
+ },
  "LA.UM.8.8.1.c25-06300-QCS605.0": {
   "tag": "LA.UM.8.8.1.c25-06300-QCS605.0",
   "project": "la_platform",
@@ -25669,6 +25679,16 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QISI.12.0.r1-01100-qssi.0": {
+  "tag": "LA.QISI.12.0.r1-01100-qssi.0",
+  "project": "la_system",
+  "date": "2025-11-12T07:39:51.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QISI.12.0.R1.11.00.00.1401.011": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.12.0.R1.11.00.00.1401.011",
+  "project": "la_system",
+  "date": "2025-11-12T07:39:40.000+00:00"
+ },
  "LA.QISI.15.0.r1-02700-qssi.0": {
   "tag": "LA.QISI.15.0.r1-02700-qssi.0",
   "project": "la_system",
@@ -37198,6 +37218,31 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.1.R1.11.00.00.893.116": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.1.R1.11.00.00.893.116",
+  "project": "la_vendor",
+  "date": "2025-11-11T23:51:26.000-08:00"
+ },
+ "LA_AU.VENDOR.14.0.0.1.r2-00500-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.1.r2-00500-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2025-11-12T07:43:08.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R2.11.00.00.1454.005": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R2.11.00.00.1454.005",
+  "project": "la_vendor",
+  "date": "2025-11-12T07:42:26.000+00:00"
+ },
+ "LA.VENDOR.1.0.r2-15700-WAIPIO.QISI15.0": {
+  "tag": "LA.VENDOR.1.0.r2-15700-WAIPIO.QISI15.0",
+  "project": "la_vendor",
+  "date": "2025-11-12T07:38:41.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.157": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.R2.13.00.00.000.157",
+  "project": "la_vendor",
+  "date": "2025-11-12T07:37:34.000+00:00"
  },
  "LA.UM.9.14.1.r1-19900-QCM6490.QISI15.0": {
   "tag": "LA.UM.9.14.1.r1-19900-QCM6490.QISI15.0",
