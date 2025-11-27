@@ -1,4 +1,19 @@
 {
+ "studio-2025.2.3-alpha02": {
+  "tag": "studio-2025.2.3-alpha02",
+  "project": "la_platform",
+  "date": "2025-11-26T11:57:33.000-08:00"
+ },
+ "studio-2025.2.2-rc02": {
+  "tag": "studio-2025.2.2-rc02",
+  "project": "la_platform",
+  "date": "2025-11-26T11:50:59.000-08:00"
+ },
+ "studio-2025.2.2-alpha01": {
+  "tag": "studio-2025.2.2-alpha01",
+  "project": "la_platform",
+  "date": "2025-11-26T11:36:40.000-08:00"
+ },
  "LAW.UM.2.0.r1-28400-SW5100.0": {
   "tag": "LAW.UM.2.0.r1-28400-SW5100.0",
   "project": "la_platform",
@@ -25748,6 +25763,16 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QSSI.12.0.r1-18900-qssi.0": {
+  "tag": "LA.QSSI.12.0.r1-18900-qssi.0",
+  "project": "la_system",
+  "date": "2025-11-27T03:57:30.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.12.0.R1.11.00.00.782.189.00": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.12.0.R1.11.00.00.782.189.00",
+  "project": "la_system",
+  "date": "2025-11-27T03:30:52.000-08:00"
  },
  "LA_AU.QSSI.14.1.1.r1-01800-qssi.0": {
   "tag": "LA_AU.QSSI.14.1.1.r1-01800-qssi.0",
