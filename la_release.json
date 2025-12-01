@@ -37669,6 +37669,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.2.r1-15900-NEOLA.0": {
+  "tag": "LA.VENDOR.12.2.r1-15900-NEOLA.0",
+  "project": "la_vendor",
+  "date": "2025-12-01T07:21:07.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.159": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.2.R1.11.00.00.965.159",
+  "project": "la_vendor",
+  "date": "2025-12-01T07:06:37.000-08:00"
+ },
  "LA.VENDOR.15.4.4.r1-03000-QCS8250.QISI15.0": {
   "tag": "LA.VENDOR.15.4.4.r1-03000-QCS8250.QISI15.0",
   "project": "la_vendor",
