@@ -19,6 +19,41 @@
   "project": "la_platform",
   "date": "2025-12-01T22:55:18.000-08:00"
  },
+ "android-platform-15.0.0_r13": {
+  "tag": "android-platform-15.0.0_r13",
+  "project": "la_platform",
+  "date": "2025-12-02T00:43:55.000+00:00"
+ },
+ "android-platform-14.0.0_r24": {
+  "tag": "android-platform-14.0.0_r24",
+  "project": "la_platform",
+  "date": "2025-12-01T22:33:32.000+00:00"
+ },
+ "android-platform-13.0.0_r36": {
+  "tag": "android-platform-13.0.0_r36",
+  "project": "la_platform",
+  "date": "2025-12-01T21:53:16.000+00:00"
+ },
+ "android-security-13.0.0_r33": {
+  "tag": "android-security-13.0.0_r33",
+  "project": "la_platform",
+  "date": "2025-12-01T20:03:11.000+00:00"
+ },
+ "android-security-14.0.0_r24": {
+  "tag": "android-security-14.0.0_r24",
+  "project": "la_platform",
+  "date": "2025-12-01T19:29:54.000+00:00"
+ },
+ "android-security-15.0.0_r12": {
+  "tag": "android-security-15.0.0_r12",
+  "project": "la_platform",
+  "date": "2025-12-01T18:47:15.000+00:00"
+ },
+ "android-security-16.0.0_r3": {
+  "tag": "android-security-16.0.0_r3",
+  "project": "la_platform",
+  "date": "2025-12-01T18:12:48.000+00:00"
+ },
  "studio-2025.2.3-alpha02": {
   "tag": "studio-2025.2.3-alpha02",
   "project": "la_platform",
