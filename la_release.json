@@ -37864,6 +37864,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.066": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R4.11.00.00.1180.066",
+  "project": "la_vendor",
+  "date": "2025-12-08T15:27:07.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r4-06600-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r4-06600-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2025-12-08T15:26:24.000+00:00"
+ },
  "LA.VENDOR.15.4.3.r1-01600-KAILUA.QISI15.0": {
   "tag": "LA.VENDOR.15.4.3.r1-01600-KAILUA.QISI15.0",
   "project": "la_vendor",
