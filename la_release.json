@@ -37974,6 +37974,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c25-03400-SMxx50.QSSI13c28.0": {
+  "tag": "LA.UM.9.12.c25-03400-SMxx50.QSSI13c28.0",
+  "project": "la_vendor",
+  "date": "2025-12-12T18:38:40.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.034": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.034",
+  "project": "la_vendor",
+  "date": "2025-12-12T18:27:13.000-08:00"
+ },
  "LA_AU.VENDOR.14.11.0.c2-01300-gen3_gvm_coqos.0": {
   "tag": "LA_AU.VENDOR.14.11.0.c2-01300-gen3_gvm_coqos.0",
   "project": "la_vendor",
