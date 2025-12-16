@@ -1,4 +1,9 @@
 {
+ "LV.AU.0.2.2.c3-01600-gen3meta.0": {
+  "tag": "LV.AU.0.2.2.c3-01600-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2025-12-16T04:31:54.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.016": {
   "tag": "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.016",
   "project": "le_manifest",
