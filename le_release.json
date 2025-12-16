@@ -1,4 +1,14 @@
 {
+ "LE.VM.1.0.r4-00400-genericarmv8-64.0": {
+  "tag": "LE.VM.1.0.r4-00400-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2025-12-16T18:15:13.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.1.0.R4_TARGET_ALL.01.763.004": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.0.R4_TARGET_ALL.01.763.004",
+  "project": "le_manifest",
+  "date": "2025-12-16T18:09:13.000+00:00"
+ },
  "LV.AU.0.2.2.c3-01600-gen3meta.0": {
   "tag": "LV.AU.0.2.2.c3-01600-gen3meta.0",
   "project": "le_manifest",
