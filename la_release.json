@@ -38034,6 +38034,31 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.4.c1-14900-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.c1-14900-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2025-12-17T00:44:15.000-08:00"
+ },
+ "LA.VENDOR.15.4.5.r1-01900-WAIPIO.QISI16.0": {
+  "tag": "LA.VENDOR.15.4.5.r1-01900-WAIPIO.QISI16.0",
+  "project": "la_vendor",
+  "date": "2025-12-17T08:28:04.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.019": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.019",
+  "project": "la_vendor",
+  "date": "2025-12-17T08:27:15.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.149": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.149",
+  "project": "la_vendor",
+  "date": "2025-12-17T00:23:42.000-08:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r2-13700-sa8155_gvmq.QSSI15.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r2-13700-sa8155_gvmq.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2025-12-17T07:56:53.000+00:00"
+ },
  "LA_AU.VENDOR.14.0.0.r2-13700-gen3meta.QSSI15.0": {
   "tag": "LA_AU.VENDOR.14.0.0.r2-13700-gen3meta.QSSI15.0",
   "project": "la_vendor",
