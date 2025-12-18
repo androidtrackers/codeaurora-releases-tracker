@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.0.r1-29400-gen4meta.0": {
+  "tag": "LY.AU.0.1.0.r1-29400-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2025-12-18T06:08:04.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.0.R1_TARGET_ALL.01.647.294": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.0.R1_TARGET_ALL.01.647.294",
+  "project": "le_manifest",
+  "date": "2025-12-18T06:07:43.000+00:00"
+ },
  "LY.AU.0.1.0.r3-09100-gen4meta.0": {
   "tag": "LY.AU.0.1.0.r3-09100-gen4meta.0",
   "project": "le_manifest",
