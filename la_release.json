@@ -38054,6 +38054,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.16.0.2.r5-01100-gen5_gvm.0": {
+  "tag": "LA_AU.VENDOR.16.0.2.r5-01100-gen5_gvm.0",
+  "project": "la_vendor",
+  "date": "2025-12-19T02:23:10.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.2.R5.11.00.00.1459.011": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.2.R5.11.00.00.1459.011",
+  "project": "la_vendor",
+  "date": "2025-12-19T02:22:47.000+00:00"
+ },
  "LA.UM.9.14.5.r1-03300-QCM6490.QSSI13.0": {
   "tag": "LA.UM.9.14.5.r1-03300-QCM6490.QSSI13.0",
   "project": "la_vendor",
