@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.3.c25-11800-sdm845.0": {
+  "tag": "LA.UM.8.3.c25-11800-sdm845.0",
+  "project": "la_platform",
+  "date": "2025-12-22T23:00:35.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.118": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.118",
+  "project": "la_platform",
+  "date": "2025-12-22T22:35:38.000-08:00"
+ },
  "LA.UM.8.3.c25-11700-sdm845.0": {
   "tag": "LA.UM.8.3.c25-11700-sdm845.0",
   "project": "la_platform",
