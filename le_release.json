@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.066": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.066",
+  "project": "le_manifest",
+  "date": "2025-12-23T16:19:01.000+00:00"
+ },
+ "OWRT.PRODUCT.2.0.1.r1-06600-SDX75.0": {
+  "tag": "OWRT.PRODUCT.2.0.1.r1-06600-SDX75.0",
+  "project": "le_manifest",
+  "date": "2025-12-23T16:18:24.000+00:00"
+ },
  "LE.UM.9.3.1.c1-01000-9650-tele": {
   "tag": "LE.UM.9.3.1.c1-01000-9650-tele",
   "project": "le_manifest",
