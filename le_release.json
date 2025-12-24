@@ -1,4 +1,9 @@
 {
+ "LE.UM.7.4.1.1.c4-01300-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.c4-01300-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2025-12-24T06:08:29.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C4_TARGET_ALL.01.747.013": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C4_TARGET_ALL.01.747.013",
   "project": "le_manifest",
