@@ -1,4 +1,14 @@
 {
+ "CHSS.LNX_FSL.5.3.r1-00300-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.3.r1-00300-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2025-12-24T22:38:02.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3.R1_TARGET_ALL.01.768.003": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3.R1_TARGET_ALL.01.768.003",
+  "project": "le_manifest",
+  "date": "2025-12-24T22:26:59.000-08:00"
+ },
  "CHSS.LNX_FSL.5.2.2.r1-01500-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSL.5.2.2.r1-01500-QCAAUTOHOSTHZ",
   "project": "le_manifest",
