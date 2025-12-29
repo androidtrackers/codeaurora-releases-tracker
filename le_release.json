@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c5-12700-9x07": {
+  "tag": "LE.UM.2.3.6.c5-12700-9x07",
+  "project": "le_manifest",
+  "date": "2025-12-29T08:42:52.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C5_TARGET_ALL.01.468.127": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C5_TARGET_ALL.01.468.127",
+  "project": "le_manifest",
+  "date": "2025-12-29T08:29:30.000-08:00"
+ },
  "CHSS.LNX_FSL.5.3.r1-00300-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSL.5.3.r1-00300-QCAAUTOHOSTHZ",
   "project": "le_manifest",
