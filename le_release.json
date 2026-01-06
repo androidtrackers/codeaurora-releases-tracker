@@ -1,4 +1,14 @@
 {
+ "LE.UM.3.2.1.c7-02100-sa415m": {
+  "tag": "LE.UM.3.2.1.c7-02100-sa415m",
+  "project": "le_manifest",
+  "date": "2026-01-05T20:48:34.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.021": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.021",
+  "project": "le_manifest",
+  "date": "2026-01-05T20:35:14.000-08:00"
+ },
  "LE.UM.3.2.3.1.c3-05200-SA2150p": {
   "tag": "LE.UM.3.2.3.1.c3-05200-SA2150p",
   "project": "le_manifest",
