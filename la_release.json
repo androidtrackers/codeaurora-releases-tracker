@@ -1,4 +1,14 @@
 {
+ "LA.AU.1.4.3.r2-00800-gen3meta.0": {
+  "tag": "LA.AU.1.4.3.r2-00800-gen3meta.0",
+  "project": "la_platform",
+  "date": "2026-01-07T07:45:48.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.AU.1.4.3.R2.10.00.00.1222.008": {
+  "tag": "AU_LINUX_ANDROID_LA.AU.1.4.3.R2.10.00.00.1222.008",
+  "project": "la_platform",
+  "date": "2026-01-07T07:45:02.000+00:00"
+ },
  "LA.UM.8.8.1.c25-06500-QCS605.0": {
   "tag": "LA.UM.8.8.1.c25-06500-QCS605.0",
   "project": "la_platform",
