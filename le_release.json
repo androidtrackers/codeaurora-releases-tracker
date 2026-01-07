@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.447": {
+  "tag": "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.447",
+  "project": "le_manifest",
+  "date": "2026-01-07T20:25:38.000+00:00"
+ },
+ "LE.LNXHOSTSW.2.0-44700-LNXHOSTSW.0": {
+  "tag": "LE.LNXHOSTSW.2.0-44700-LNXHOSTSW.0",
+  "project": "le_manifest",
+  "date": "2026-01-07T20:25:13.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C2_TARGET_ALL.01.727.011": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C2_TARGET_ALL.01.727.011",
   "project": "le_manifest",
