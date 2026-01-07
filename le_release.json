@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.4.3.r1-05300-QRB4210.0": {
+  "tag": "LE.UM.5.4.3.r1-05300-QRB4210.0",
+  "project": "le_manifest",
+  "date": "2026-01-07T03:56:22.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.4.3.R1_TARGET_ALL.01.644.053": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.4.3.R1_TARGET_ALL.01.644.053",
+  "project": "le_manifest",
+  "date": "2026-01-07T03:39:18.000-08:00"
+ },
  "LE.UM.3.2.1.c7-02100-sa415m": {
   "tag": "LE.UM.3.2.1.c7-02100-sa415m",
   "project": "le_manifest",
