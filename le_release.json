@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.3.1.c25-01500-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.c25-01500-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-01-08T05:20:47.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.015": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.015",
+  "project": "le_manifest",
+  "date": "2026-01-08T05:06:26.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.447": {
   "tag": "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.447",
   "project": "le_manifest",

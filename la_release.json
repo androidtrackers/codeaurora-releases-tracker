@@ -38214,6 +38214,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.017": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.017",
+  "project": "la_vendor",
+  "date": "2026-01-08T04:35:10.000-08:00"
+ },
  "LA.VENDOR.14.3.11.r1-04200-NEOLA.0": {
   "tag": "LA.VENDOR.14.3.11.r1-04200-NEOLA.0",
   "project": "la_vendor",
