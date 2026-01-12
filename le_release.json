@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.009": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.009",
+  "project": "le_manifest",
+  "date": "2026-01-11T23:56:08.000-08:00"
+ },
  "LE.UM.2.3.6.c8-00200-9x07": {
   "tag": "LE.UM.2.3.6.c8-00200-9x07",
   "project": "le_manifest",
