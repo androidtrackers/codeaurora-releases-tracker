@@ -1,4 +1,9 @@
 {
+ "LV.AU.0.5.1.r3-00900-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.1.r3-00900-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-01-12T00:13:12.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.009": {
   "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.009",
   "project": "le_manifest",
