@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.0.c1-02100-gen4meta.0": {
+  "tag": "LY.AU.0.1.0.c1-02100-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-01-13T07:05:27.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.0.C1_TARGET_ALL.01.755.021": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.0.C1_TARGET_ALL.01.755.021",
+  "project": "le_manifest",
+  "date": "2026-01-13T06:50:20.000-08:00"
+ },
  "LE.UM.3.2.1.c7-02200-sa415m": {
   "tag": "LE.UM.3.2.1.c7-02200-sa415m",
   "project": "le_manifest",

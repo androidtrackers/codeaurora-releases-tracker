@@ -1,4 +1,14 @@
 {
+ "LA.UM.7.2.c28-00700-8x98.0": {
+  "tag": "LA.UM.7.2.c28-00700-8x98.0",
+  "project": "la_platform",
+  "date": "2026-01-13T07:29:57.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.7.2.C28.09.00.00.1450.007": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.7.2.C28.09.00.00.1450.007",
+  "project": "la_platform",
+  "date": "2026-01-13T07:03:30.000-08:00"
+ },
  "LA.AU.1.4.3.r2-00800-gen3meta.0": {
   "tag": "LA.AU.1.4.3.r2-00800-gen3meta.0",
   "project": "la_platform",
@@ -25888,6 +25898,11 @@
   "tag": "android-2.3.7_r1",
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
+ },
+ "LA.QSSI.12.0.c28-07900-qssi.0": {
+  "tag": "LA.QSSI.12.0.c28-07900-qssi.0",
+  "project": "la_system",
+  "date": "2026-01-13T06:20:53.000-08:00"
  },
  "AU_LINUX_ANDROID_LA.QSSI.12.0.C28.11.00.00.1107.079": {
   "tag": "AU_LINUX_ANDROID_LA.QSSI.12.0.C28.11.00.00.1107.079",
