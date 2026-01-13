@@ -1,4 +1,19 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.022": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.022",
+  "project": "le_manifest",
+  "date": "2026-01-13T02:01:26.000-08:00"
+ },
+ "LE.UM.6.3.6.r1-13500-SDX65.0": {
+  "tag": "LE.UM.6.3.6.r1-13500-SDX65.0",
+  "project": "le_manifest",
+  "date": "2026-01-13T01:30:33.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.135": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.135",
+  "project": "le_manifest",
+  "date": "2026-01-13T01:14:47.000-08:00"
+ },
  "LE.UM.4.1.1.c12-04600-sa515m": {
   "tag": "LE.UM.4.1.1.c12-04600-sa515m",
   "project": "le_manifest",
