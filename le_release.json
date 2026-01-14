@@ -1,4 +1,19 @@
 {
+ "LE.AU_EAP.1.0.1.c6-00600-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c6-00600-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-01-14T03:05:09.000-08:00"
+ },
+ "LE.AU_EAP.1.0.c20-01600-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c20-01600-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-01-14T03:00:51.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C6_TARGET_ALL.01.750.006": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C6_TARGET_ALL.01.750.006",
+  "project": "le_manifest",
+  "date": "2026-01-14T02:49:28.000-08:00"
+ },
  "LY.AU.0.1.0.c1-02100-gen4meta.0": {
   "tag": "LY.AU.0.1.0.c1-02100-gen4meta.0",
   "project": "le_manifest",
