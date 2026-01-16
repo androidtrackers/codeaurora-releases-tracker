@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.1.0.1.c1-10800-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c1-10800-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-01-16T01:50:26.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C1_TARGET_ALL.01.556.108": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C1_TARGET_ALL.01.556.108",
+  "project": "le_manifest",
+  "date": "2026-01-16T01:36:26.000-08:00"
+ },
  "LY.AU.0.1.1.r1-14800-gen5meta.0": {
   "tag": "LY.AU.0.1.1.r1-14800-gen5meta.0",
   "project": "le_manifest",
