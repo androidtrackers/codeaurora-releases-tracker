@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C14_TARGET_ALL.01.442.049": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C14_TARGET_ALL.01.442.049",
+  "project": "le_manifest",
+  "date": "2026-01-19T06:01:40.000-08:00"
+ },
  "CHSS.LNX_FSLR.1.0.r1-06200-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSLR.1.0.r1-06200-QCAAUTOHOSTHZ",
   "project": "le_manifest",
