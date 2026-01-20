@@ -1,4 +1,24 @@
 {
+ "LE.UM.7.4.1.c6-02000-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.c6-02000-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-01-20T03:29:30.000-08:00"
+ },
+ "LE.AU_EAP.1.0.1.c5-00700-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c5-00700-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-01-20T03:23:31.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C6_TARGET_ALL.01.735.020": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C6_TARGET_ALL.01.735.020",
+  "project": "le_manifest",
+  "date": "2026-01-20T03:13:57.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C5_TARGET_ALL.01.724.007": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C5_TARGET_ALL.01.724.007",
+  "project": "le_manifest",
+  "date": "2026-01-20T03:09:51.000-08:00"
+ },
  "LE.UM.5.3.1.c26-01100-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.c26-01100-genericarmv8-64.0",
   "project": "le_manifest",
