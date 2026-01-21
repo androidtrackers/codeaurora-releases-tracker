@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c1-43700-9x07": {
+  "tag": "LE.UM.2.3.6.c1-43700-9x07",
+  "project": "le_manifest",
+  "date": "2026-01-21T09:56:12.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C1_TARGET_ALL.01.130.437": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C1_TARGET_ALL.01.130.437",
+  "project": "le_manifest",
+  "date": "2026-01-21T09:42:16.000-08:00"
+ },
  "LE.UM.4.4.2.r1-11700-SDX55": {
   "tag": "LE.UM.4.4.2.r1-11700-SDX55",
   "project": "le_manifest",
