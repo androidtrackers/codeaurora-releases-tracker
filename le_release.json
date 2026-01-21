@@ -1,4 +1,14 @@
 {
+ "LE.UM.4.4.2.r1-11700-SDX55": {
+  "tag": "LE.UM.4.4.2.r1-11700-SDX55",
+  "project": "le_manifest",
+  "date": "2026-01-21T04:49:24.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.4.4.2.R1_TARGET_ALL.01.252.117": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.4.4.2.R1_TARGET_ALL.01.252.117",
+  "project": "le_manifest",
+  "date": "2026-01-21T04:33:44.000-08:00"
+ },
  "LE.UM.4.1.1.1.c2-01700-sa515m": {
   "tag": "LE.UM.4.1.1.1.c2-01700-sa515m",
   "project": "le_manifest",
