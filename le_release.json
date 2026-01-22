@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.1.0.c1-86600-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c1-86600-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-01-21T23:24:43.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C1_TARGET_ALL.01.207.866": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C1_TARGET_ALL.01.207.866",
+  "project": "le_manifest",
+  "date": "2026-01-21T23:09:16.000-08:00"
+ },
  "OWRT.PRODUCT.5.0.r1-00700-qmb415.0": {
   "tag": "OWRT.PRODUCT.5.0.r1-00700-qmb415.0",
   "project": "le_manifest",
