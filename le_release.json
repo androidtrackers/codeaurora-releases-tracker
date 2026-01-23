@@ -1,4 +1,14 @@
 {
+ "LE.UM.6.3.6.r1-13600-SDX65.0": {
+  "tag": "LE.UM.6.3.6.r1-13600-SDX65.0",
+  "project": "le_manifest",
+  "date": "2026-01-22T19:08:29.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.136": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.136",
+  "project": "le_manifest",
+  "date": "2026-01-22T18:51:08.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LV.AU.0.4.1.R1_TARGET_ALL.01.584.158": {
   "tag": "AU_LINUX_EMBEDDED_LV.AU.0.4.1.R1_TARGET_ALL.01.584.158",
   "project": "le_manifest",
