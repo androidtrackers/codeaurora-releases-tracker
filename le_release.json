@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C26_TARGET_ALL.01.770.013": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C26_TARGET_ALL.01.770.013",
+  "project": "le_manifest",
+  "date": "2026-01-22T21:56:29.000-08:00"
+ },
  "LE.UM.6.3.6.r1-13600-SDX65.0": {
   "tag": "LE.UM.6.3.6.r1-13600-SDX65.0",
   "project": "le_manifest",
