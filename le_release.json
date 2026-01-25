@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.1.1.r2-06400-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.r2-06400-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-01-25T01:24:44.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.064": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.064",
+  "project": "le_manifest",
+  "date": "2026-01-25T01:10:34.000-08:00"
+ },
  "LE.UM.7.4.2.c1-19700-9x07": {
   "tag": "LE.UM.7.4.2.c1-19700-9x07",
   "project": "le_manifest",
