@@ -1,4 +1,24 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.019": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.019",
+  "project": "le_manifest",
+  "date": "2026-01-27T01:44:28.000-08:00"
+ },
+ "LE.UM.5.3.1.r1-20800-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.r1-20800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-01-27T01:41:13.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R1_TARGET_ALL.01.298.208": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R1_TARGET_ALL.01.298.208",
+  "project": "le_manifest",
+  "date": "2026-01-27T01:23:02.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.009": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.009",
+  "project": "le_manifest",
+  "date": "2026-01-27T01:14:29.000-08:00"
+ },
  "LE.UM.5.3.1.r1-20700-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.r1-20700-genericarmv8-64.0",
   "project": "le_manifest",
