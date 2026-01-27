@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.3.1.r1-20700-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.r1-20700-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-01-27T00:00:41.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R1_TARGET_ALL.01.298.207": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R1_TARGET_ALL.01.298.207",
+  "project": "le_manifest",
+  "date": "2026-01-26T23:46:51.000-08:00"
+ },
  "LE.UM.7.4.1.1.r2-06400-sa525m-tele": {
   "tag": "LE.UM.7.4.1.1.r2-06400-sa525m-tele",
   "project": "le_manifest",
