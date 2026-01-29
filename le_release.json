@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.0.r1-01300-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.r1-01300-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-01-29T18:34:06.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.R1_TARGET_ALL.01.772.013": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.R1_TARGET_ALL.01.772.013",
+  "project": "le_manifest",
+  "date": "2026-01-29T18:33:50.000+00:00"
+ },
  "LE.UM.3.2.3.1.c1-33800-SA2150p": {
   "tag": "LE.UM.3.2.3.1.c1-33800-SA2150p",
   "project": "le_manifest",
