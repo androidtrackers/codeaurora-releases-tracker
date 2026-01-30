@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.3.0.r1-05800-sdx85.0": {
+  "tag": "OWRT.PRODUCT.3.0.r1-05800-sdx85.0",
+  "project": "le_manifest",
+  "date": "2026-01-30T10:13:22.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.058": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.058",
+  "project": "le_manifest",
+  "date": "2026-01-30T10:12:36.000+00:00"
+ },
  "LY.AU.0.1.1.r4-00900-gen5meta.0": {
   "tag": "LY.AU.0.1.1.r4-00900-gen5meta.0",
   "project": "le_manifest",
