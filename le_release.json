@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.1.c3-27400-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.c3-27400-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-02-03T00:38:49.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.274": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.274",
+  "project": "le_manifest",
+  "date": "2026-02-03T00:21:50.000-08:00"
+ },
  "LE.LNXHOSTSW.2.0-45500-LNXHOSTSW.0": {
   "tag": "LE.LNXHOSTSW.2.0-45500-LNXHOSTSW.0",
   "project": "le_manifest",
