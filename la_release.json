@@ -38634,6 +38634,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.15.4.4.r1-03200-QCS8250.QISI15.0": {
+  "tag": "LA.VENDOR.15.4.4.r1-03200-QCS8250.QISI15.0",
+  "project": "la_vendor",
+  "date": "2026-02-02T20:00:08.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.032": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.032",
+  "project": "la_vendor",
+  "date": "2026-02-02T19:46:23.000-08:00"
+ },
  "LA.VENDOR.16.2.7.r1-01200-LAHAINA1.0": {
   "tag": "LA.VENDOR.16.2.7.r1-01200-LAHAINA1.0",
   "project": "la_vendor",
