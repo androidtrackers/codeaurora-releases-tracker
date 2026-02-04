@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1_TARGET_ALL.01.412.186": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1_TARGET_ALL.01.412.186",
+  "project": "le_manifest",
+  "date": "2026-02-04T01:49:06.000-08:00"
+ },
  "LE.UM.7.4.1.c3-27400-sa525m-tele": {
   "tag": "LE.UM.7.4.1.c3-27400-sa525m-tele",
   "project": "le_manifest",
