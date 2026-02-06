@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.3.1.r2-04800-genericarmv8-64.0": {
+  "tag": "LE.UM.7.3.1.r2-04800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-02-06T18:15:54.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.3.1.R2_TARGET_ALL.01.635.048": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.3.1.R2_TARGET_ALL.01.635.048",
+  "project": "le_manifest",
+  "date": "2026-02-06T18:14:45.000+00:00"
+ },
  "CHSS.LNX_FSL.5.2.r1-00300-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSL.5.2.r1-00300-QCAAUTOHOSTHZ",
   "project": "le_manifest",
