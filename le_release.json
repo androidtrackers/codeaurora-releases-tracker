@@ -1,4 +1,14 @@
 {
+ "CHSS.LNX_FSL.5.2.r1-00300-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.2.r1-00300-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-02-05T18:51:41.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.R1_TARGET_ALL.01.763.003": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.R1_TARGET_ALL.01.763.003",
+  "project": "le_manifest",
+  "date": "2026-02-05T18:39:52.000-08:00"
+ },
  "LE.UM.3.2.3.1-34900-SA2150p": {
   "tag": "LE.UM.3.2.3.1-34900-SA2150p",
   "project": "le_manifest",
