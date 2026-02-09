@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C20_TARGET_ALL.01.595.017": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C20_TARGET_ALL.01.595.017",
+  "project": "le_manifest",
+  "date": "2026-02-08T21:52:17.000-08:00"
+ },
  "LE.UM.7.3.1.r2-04800-genericarmv8-64.0": {
   "tag": "LE.UM.7.3.1.r2-04800-genericarmv8-64.0",
   "project": "le_manifest",
