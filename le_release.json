@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C3_TARGET_ALL.01.642.018": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C3_TARGET_ALL.01.642.018",
+  "project": "le_manifest",
+  "date": "2026-02-10T03:34:50.000-08:00"
+ },
  "LE.AU_EAP.1.0.1.c3-01800-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.1.c3-01800-eap-fsl",
   "project": "le_manifest",
