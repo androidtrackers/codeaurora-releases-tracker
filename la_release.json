@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.103": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.6.6.C32.08.01.00.1111.103",
+  "project": "la_platform",
+  "date": "2026-02-11T23:36:57.000-08:00"
+ },
  "studio-2025.3.2-alpha03": {
   "tag": "studio-2025.3.2-alpha03",
   "project": "la_platform",
@@ -25944,6 +25949,11 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.16.1.1.R1.11.00.00.1465.014": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.16.1.1.R1.11.00.00.1465.014",
+  "project": "la_system",
+  "date": "2026-02-11T23:48:41.000-08:00"
+ },
  "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.180.00": {
   "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.R1.13.00.00.913.180.00",
   "project": "la_system",
@@ -38768,6 +38778,11 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.4.r1-08300-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.r1-08300-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2026-02-11T22:12:37.000-08:00"
  },
  "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.083": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.083",
