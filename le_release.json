@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.0.c1-03400-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-03400-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-02-13T04:54:22.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.034": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.034",
+  "project": "le_manifest",
+  "date": "2026-02-13T04:53:58.000+00:00"
+ },
  "LE.AU_EAP.1.0.1.c3-02000-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.1.c3-02000-eap-fsl",
   "project": "le_manifest",
