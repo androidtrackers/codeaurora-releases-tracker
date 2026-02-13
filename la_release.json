@@ -38834,6 +38834,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.038": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.038",
+  "project": "la_vendor",
+  "date": "2026-02-12T17:55:09.000-08:00"
+ },
  "LA.VENDOR.14.3.4.r1-08300-ANORAK.0": {
   "tag": "LA.VENDOR.14.3.4.r1-08300-ANORAK.0",
   "project": "la_vendor",
