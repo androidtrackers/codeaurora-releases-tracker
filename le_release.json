@@ -1,4 +1,24 @@
 {
+ "OWRT.PRODUCT.2.0.1.r1-06900-SDX75.0": {
+  "tag": "OWRT.PRODUCT.2.0.1.r1-06900-SDX75.0",
+  "project": "le_manifest",
+  "date": "2026-02-17T07:54:40.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.069": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.069",
+  "project": "le_manifest",
+  "date": "2026-02-17T07:54:13.000+00:00"
+ },
+ "LE.AU_FSL.1.1-02500-eap-fsl": {
+  "tag": "LE.AU_FSL.1.1-02500-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-02-16T23:47:08.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_FSL.1.1_TARGET_ALL.01.721.025": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_FSL.1.1_TARGET_ALL.01.721.025",
+  "project": "le_manifest",
+  "date": "2026-02-16T23:34:31.000-08:00"
+ },
  "LE.UM.5.4.3.r1-05700-QRB4210.0": {
   "tag": "LE.UM.5.4.3.r1-05700-QRB4210.0",
   "project": "le_manifest",
