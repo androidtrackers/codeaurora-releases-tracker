@@ -1,4 +1,9 @@
 {
+ "android-vts-15.0_r7": {
+  "tag": "android-vts-15.0_r7",
+  "project": "la_platform",
+  "date": "2026-02-17T16:06:00.000-08:00"
+ },
  "LA.UM.8.2.1.c25-11700-sdm660.0": {
   "tag": "LA.UM.8.2.1.c25-11700-sdm660.0",
   "project": "la_platform",
