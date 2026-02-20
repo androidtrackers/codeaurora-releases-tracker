@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.1.c4-02500-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.c4-02500-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-02-19T19:14:49.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C4_TARGET_ALL.01.663.025": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C4_TARGET_ALL.01.663.025",
+  "project": "le_manifest",
+  "date": "2026-02-19T18:58:59.000-08:00"
+ },
  "LY.AU.0.1.1.c1-01500-gen5meta.0": {
   "tag": "LY.AU.0.1.1.c1-01500-gen5meta.0",
   "project": "le_manifest",
