@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.5.0.r1-03300-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.0.r1-03300-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-02-24T10:43:36.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.033": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.033",
+  "project": "le_manifest",
+  "date": "2026-02-24T10:42:48.000+00:00"
+ },
  "LE.UM.4.1.1.c16-07400-sa515m": {
   "tag": "LE.UM.4.1.1.c16-07400-sa515m",
   "project": "le_manifest",
