@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.2.2.c3-04000-gen3meta.0": {
+  "tag": "LV.AU.0.2.2.c3-04000-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2026-02-24T21:42:32.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.040": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.040",
+  "project": "le_manifest",
+  "date": "2026-02-24T21:27:56.000-08:00"
+ },
  "LV.AU.0.5.0.r1-03300-qtiquingvm.0": {
   "tag": "LV.AU.0.5.0.r1-03300-qtiquingvm.0",
   "project": "le_manifest",
