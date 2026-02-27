@@ -1,4 +1,24 @@
 {
+ "LE.UM.7.1.1.r1-19200-LASSEN.0": {
+  "tag": "LE.UM.7.1.1.r1-19200-LASSEN.0",
+  "project": "le_manifest",
+  "date": "2026-02-27T21:25:35.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.1.1.R1_TARGET_ALL.01.484.192": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.1.1.R1_TARGET_ALL.01.484.192",
+  "project": "le_manifest",
+  "date": "2026-02-27T21:25:09.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.465": {
+  "tag": "AU_LINUX_EMBEDDED_LE.LNXHOSTSW.2.0_TARGET_ALL.01.404.465",
+  "project": "le_manifest",
+  "date": "2026-02-27T21:24:13.000+00:00"
+ },
+ "LE.LNXHOSTSW.2.0-46500-LNXHOSTSW.0": {
+  "tag": "LE.LNXHOSTSW.2.0-46500-LNXHOSTSW.0",
+  "project": "le_manifest",
+  "date": "2026-02-27T21:23:41.000+00:00"
+ },
  "OWRT.PRODUCT.5.0.r1-01200-qmb415.0": {
   "tag": "OWRT.PRODUCT.5.0.r1-01200-qmb415.0",
   "project": "le_manifest",
