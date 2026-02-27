@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.2.c2-00600-9x07": {
+  "tag": "LE.UM.7.4.2.c2-00600-9x07",
+  "project": "le_manifest",
+  "date": "2026-02-27T01:59:05.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C2_TARGET_ALL.01.787.006": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C2_TARGET_ALL.01.787.006",
+  "project": "le_manifest",
+  "date": "2026-02-27T01:44:15.000-08:00"
+ },
  "OWRT.PRODUCT.2.2.r2-01100-SDX72_IOT.0": {
   "tag": "OWRT.PRODUCT.2.2.r2-01100-SDX72_IOT.0",
   "project": "le_manifest",
