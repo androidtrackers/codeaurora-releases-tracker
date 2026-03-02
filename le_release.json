@@ -1,4 +1,29 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.4.1.1.1.C1_TARGET_ALL.01.619.064": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.4.1.1.1.C1_TARGET_ALL.01.619.064",
+  "project": "le_manifest",
+  "date": "2026-03-01T19:51:15.000-08:00"
+ },
+ "LE.UM.3.2.3.1.c3-05800-SA2150p": {
+  "tag": "LE.UM.3.2.3.1.c3-05800-SA2150p",
+  "project": "le_manifest",
+  "date": "2026-03-01T19:49:05.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.3.2.3.1.C3_TARGET_ALL.01.620.058": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.3.1.C3_TARGET_ALL.01.620.058",
+  "project": "le_manifest",
+  "date": "2026-03-01T19:34:48.000-08:00"
+ },
+ "LE.AU_EAP.1.0.1.c2-04200-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c2-04200-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-03-01T19:32:32.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.042": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.042",
+  "project": "le_manifest",
+  "date": "2026-03-01T19:20:29.000-08:00"
+ },
  "LE.UM.7.1.1.r1-19200-LASSEN.0": {
   "tag": "LE.UM.7.1.1.r1-19200-LASSEN.0",
   "project": "le_manifest",
