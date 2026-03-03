@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.3.1.r2-07500-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.r2-07500-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-03-02T23:01:48.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R2_TARGET_ALL.01.538.075": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.R2_TARGET_ALL.01.538.075",
+  "project": "le_manifest",
+  "date": "2026-03-02T22:47:35.000-08:00"
+ },
  "LE.AU_EAP.1.0.c1-87100-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.c1-87100-eap-fsl",
   "project": "le_manifest",
