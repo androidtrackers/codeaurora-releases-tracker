@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.3.0-42000-eap-fsl": {
+  "tag": "LE.AU_EAP.3.0-42000-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-03-05T22:32:52.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0_TARGET_ALL.01.576.420": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0_TARGET_ALL.01.576.420",
+  "project": "le_manifest",
+  "date": "2026-03-05T22:19:01.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.007": {
   "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.007",
   "project": "le_manifest",
