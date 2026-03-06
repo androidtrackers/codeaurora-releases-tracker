@@ -1,4 +1,14 @@
 {
+ "android-platform-15.0.0_r14": {
+  "tag": "android-platform-15.0.0_r14",
+  "project": "la_platform",
+  "date": "2026-03-05T09:48:38.000-08:00"
+ },
+ "android-platform-14.0.0_r25": {
+  "tag": "android-platform-14.0.0_r25",
+  "project": "la_platform",
+  "date": "2026-03-05T09:41:31.000-08:00"
+ },
  "studio-2025.3.2": {
   "tag": "studio-2025.3.2",
   "project": "la_platform",
