@@ -1,4 +1,14 @@
 {
+ "LA.UM.9.15.1.c27-04000-KAMORTA.0": {
+  "tag": "LA.UM.9.15.1.c27-04000-KAMORTA.0",
+  "project": "la_platform",
+  "date": "2026-03-13T00:38:27.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.040": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.1.C27.11.00.00.1063.040",
+  "project": "la_platform",
+  "date": "2026-03-13T00:08:53.000-07:00"
+ },
  "LA.UM.7.2.c25-12600-sdm660.0": {
   "tag": "LA.UM.7.2.c25-12600-sdm660.0",
   "project": "la_platform",
@@ -39303,6 +39313,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA_AU.VENDOR.14.0.0.1.r1-00026-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.1.r1-00026-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2026-03-13T07:26:14.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.026": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.026",
+  "project": "la_vendor",
+  "date": "2026-03-13T07:26:04.000+00:00"
  },
  "LA.VENDOR.14.3.0.r1-22900-lanai.QSSI16.0": {
   "tag": "LA.VENDOR.14.3.0.r1-22900-lanai.QSSI16.0",
