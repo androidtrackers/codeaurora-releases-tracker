@@ -1,4 +1,24 @@
 {
+ "LE.UM.5.3.1.c25-01600-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.c25-01600-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-03-16T09:39:25.000-07:00"
+ },
+ "LV.AU.0.3.0.c3-02400-gen3meta.0": {
+  "tag": "LV.AU.0.3.0.c3-02400-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2026-03-16T09:35:33.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.016": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.016",
+  "project": "le_manifest",
+  "date": "2026-03-16T09:20:48.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.3.0.C3_TARGET_ALL.01.731.024": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.3.0.C3_TARGET_ALL.01.731.024",
+  "project": "le_manifest",
+  "date": "2026-03-16T09:17:07.000-07:00"
+ },
  "LV.AU.0.2.2.c4-05500-gen3meta.0": {
   "tag": "LV.AU.0.2.2.c4-05500-gen3meta.0",
   "project": "le_manifest",
