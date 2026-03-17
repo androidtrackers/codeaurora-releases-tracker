@@ -39359,6 +39359,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.1.0.c25-02000-WAIPIO.QSSI13c31.0": {
+  "tag": "LA.VENDOR.1.0.c25-02000-WAIPIO.QSSI13c31.0",
+  "project": "la_vendor",
+  "date": "2026-03-16T22:13:16.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.020": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.020",
+  "project": "la_vendor",
+  "date": "2026-03-16T21:57:49.000-07:00"
+ },
  "LA.VENDOR.16.2.1.r1-08200-LAHAINA.0": {
   "tag": "LA.VENDOR.16.2.1.r1-08200-LAHAINA.0",
   "project": "la_vendor",
