@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R1_TARGET_ALL.01.707.019": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R1_TARGET_ALL.01.707.019",
+  "project": "le_manifest",
+  "date": "2026-03-18T09:37:04.000+00:00"
+ },
+ "OWRT.PRODUCT.2.2.r1-01900-SDX72_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.2.r1-01900-SDX72_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-03-18T09:32:15.000+00:00"
+ },
  "LE.UM.5.3.1.c26-01400-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.c26-01400-genericarmv8-64.0",
   "project": "le_manifest",
