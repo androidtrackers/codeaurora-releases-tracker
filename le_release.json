@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.3.0.r1-06100-sdx85.0": {
+  "tag": "OWRT.PRODUCT.3.0.r1-06100-sdx85.0",
+  "project": "le_manifest",
+  "date": "2026-03-24T11:31:05.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.061": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.061",
+  "project": "le_manifest",
+  "date": "2026-03-24T11:30:59.000+00:00"
+ },
  "LE.UM.2.3.6.c5-13200-9x07": {
   "tag": "LE.UM.2.3.6.c5-13200-9x07",
   "project": "le_manifest",
