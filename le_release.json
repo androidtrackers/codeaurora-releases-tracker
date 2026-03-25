@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.1.1.c1-25800-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.c1-25800-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-03-24T23:00:19.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.258": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.258",
+  "project": "le_manifest",
+  "date": "2026-03-24T22:35:46.000-07:00"
+ },
  "OWRT.PRODUCT.2.1.r2-01900-SDX35_IOT.0": {
   "tag": "OWRT.PRODUCT.2.1.r2-01900-SDX35_IOT.0",
   "project": "le_manifest",
