@@ -1,4 +1,34 @@
 {
+ "OWRT.PRODUCT.5.0.r1-01800-qmb415.0": {
+  "tag": "OWRT.PRODUCT.5.0.r1-01800-qmb415.0",
+  "project": "le_manifest",
+  "date": "2026-03-25T02:55:50.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.018": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.018",
+  "project": "le_manifest",
+  "date": "2026-03-25T02:18:50.000-07:00"
+ },
+ "LV.AU.0.5.1.r3-02400-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.1.r3-02400-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-03-25T08:49:21.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.024": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.024",
+  "project": "le_manifest",
+  "date": "2026-03-25T08:49:14.000+00:00"
+ },
+ "LY.AU.0.2.0.c1-05500-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-05500-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-03-25T08:49:07.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.055": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.055",
+  "project": "le_manifest",
+  "date": "2026-03-25T08:47:54.000+00:00"
+ },
  "LE.UM.7.4.1.1.c1-25800-sa525m-tele": {
   "tag": "LE.UM.7.4.1.1.c1-25800-sa525m-tele",
   "project": "le_manifest",
