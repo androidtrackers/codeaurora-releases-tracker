@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.263": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.263",
+  "project": "le_manifest",
+  "date": "2026-03-25T20:52:45.000-07:00"
+ },
  "OWRT.PRODUCT.5.0.r1-01800-qmb415.0": {
   "tag": "OWRT.PRODUCT.5.0.r1-01800-qmb415.0",
   "project": "le_manifest",
