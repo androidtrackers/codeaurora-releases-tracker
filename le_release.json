@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.019": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.019",
+  "project": "le_manifest",
+  "date": "2026-03-26T18:46:28.000-07:00"
+ },
  "LE.UM.7.4.1.2.r1-02500-sa525m-tele": {
   "tag": "LE.UM.7.4.1.2.r1-02500-sa525m-tele",
   "project": "le_manifest",
