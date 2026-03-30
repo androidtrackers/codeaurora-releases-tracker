@@ -1,4 +1,14 @@
 {
+ "LE.UM.1.2.c5-21300-9x07": {
+  "tag": "LE.UM.1.2.c5-21300-9x07",
+  "project": "le_manifest",
+  "date": "2026-03-30T01:24:54.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.1.2.C5_TARGET_ALL.01.249.213": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.1.2.C5_TARGET_ALL.01.249.213",
+  "project": "le_manifest",
+  "date": "2026-03-30T01:10:05.000-07:00"
+ },
  "OWRT.PRODUCT.5.0.r1-02000-qmb415.0": {
   "tag": "OWRT.PRODUCT.5.0.r1-02000-qmb415.0",
   "project": "le_manifest",
