@@ -39514,6 +39514,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.12.r1-02600-lanai.0": {
+  "tag": "LA.VENDOR.14.3.12.r1-02600-lanai.0",
+  "project": "la_vendor",
+  "date": "2026-03-30T20:40:10.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.12.R1.11.00.00.1397.026": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.12.R1.11.00.00.1397.026",
+  "project": "la_vendor",
+  "date": "2026-03-30T20:26:20.000-07:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r2-14300-gen3meta.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r2-14300-gen3meta.0",
+  "project": "la_vendor",
+  "date": "2026-03-31T02:24:03.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.143": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.143",
+  "project": "la_vendor",
+  "date": "2026-03-31T02:23:55.000+00:00"
+ },
  "LA.VENDOR.13.2.8.r1-04400-KAILUA.0": {
   "tag": "LA.VENDOR.13.2.8.r1-04400-KAILUA.0",
   "project": "la_vendor",
