@@ -1,4 +1,14 @@
 {
+ "LE.VM.1.0.r4-01400-genericarmv8-64.0": {
+  "tag": "LE.VM.1.0.r4-01400-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-04-01T08:51:57.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.1.0.R4_TARGET_ALL.01.763.014": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.0.R4_TARGET_ALL.01.763.014",
+  "project": "le_manifest",
+  "date": "2026-04-01T08:51:49.000+00:00"
+ },
  "LE.UM.6.3.6.r1-13900-SDX65.0": {
   "tag": "LE.UM.6.3.6.r1-13900-SDX65.0",
   "project": "le_manifest",
