@@ -1,4 +1,9 @@
 {
+ "LE.UM.7.2.1.c3-01700-sa415m": {
+  "tag": "LE.UM.7.2.1.c3-01700-sa415m",
+  "project": "le_manifest",
+  "date": "2026-04-07T23:15:11.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.7.2.1.C3_TARGET_ALL.01.664.017": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.7.2.1.C3_TARGET_ALL.01.664.017",
   "project": "le_manifest",
