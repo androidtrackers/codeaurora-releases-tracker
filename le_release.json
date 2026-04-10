@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C4_TARGET_ALL.01.722.013": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C4_TARGET_ALL.01.722.013",
+  "project": "le_manifest",
+  "date": "2026-04-10T00:56:48.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.060": {
   "tag": "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.060",
   "project": "le_manifest",

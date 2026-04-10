@@ -39749,6 +39749,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.C27.11.00.00.1321.015": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.C27.11.00.00.1321.015",
+  "project": "la_vendor",
+  "date": "2026-04-10T00:57:48.000-07:00"
+ },
  "LA.VENDOR.15.4.7.r1-02000-pakala.QISI15.0": {
   "tag": "LA.VENDOR.15.4.7.r1-02000-pakala.QISI15.0",
   "project": "la_vendor",
