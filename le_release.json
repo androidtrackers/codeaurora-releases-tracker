@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.4.3.r1-06800-QRB4210.0": {
+  "tag": "LE.UM.5.4.3.r1-06800-QRB4210.0",
+  "project": "le_manifest",
+  "date": "2026-04-11T14:18:33.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.4.3.R1_TARGET_ALL.01.644.068": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.4.3.R1_TARGET_ALL.01.644.068",
+  "project": "le_manifest",
+  "date": "2026-04-11T14:03:05.000-07:00"
+ },
  "LY.AU.0.1.0.r3-13200-gen4meta.0": {
   "tag": "LY.AU.0.1.0.r3-13200-gen4meta.0",
   "project": "le_manifest",
