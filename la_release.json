@@ -26219,6 +26219,36 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.QISI.13.0.R1.11.00.00.1316.029": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.13.0.R1.11.00.00.1316.029",
+  "project": "la_system",
+  "date": "2026-04-14T16:23:00.000+00:00"
+ },
+ "LA.QISI.13.0.r1-02900-qssi.0": {
+  "tag": "LA.QISI.13.0.r1-02900-qssi.0",
+  "project": "la_system",
+  "date": "2026-04-14T16:22:50.000+00:00"
+ },
+ "LA.QSSI.14.0.r3-03500-qssi.0": {
+  "tag": "LA.QSSI.14.0.r3-03500-qssi.0",
+  "project": "la_system",
+  "date": "2026-04-14T16:22:39.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.14.0.R3.14.00.00.1236.035": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.14.0.R3.14.00.00.1236.035",
+  "project": "la_system",
+  "date": "2026-04-14T16:22:08.000+00:00"
+ },
+ "LA_AU.QSSI.15.1.1.r1-03200-qssi.0": {
+  "tag": "LA_AU.QSSI.15.1.1.r1-03200-qssi.0",
+  "project": "la_system",
+  "date": "2026-04-14T15:50:22.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.15.1.1.R1.11.00.00.1422.032": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.15.1.1.R1.11.00.00.1422.032",
+  "project": "la_system",
+  "date": "2026-04-14T15:50:12.000+00:00"
+ },
  "LA.QSSI.16.0.c1-05700-qssi.0": {
   "tag": "LA.QSSI.16.0.c1-05700-qssi.0",
   "project": "la_system",
@@ -39808,6 +39838,26 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.13.2.1.r2-15300-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-15300-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2026-04-14T16:21:58.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.153": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.153",
+  "project": "la_vendor",
+  "date": "2026-04-14T16:21:50.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.147": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.R2.11.00.00.1092.147",
+  "project": "la_vendor",
+  "date": "2026-04-14T15:59:49.000+00:00"
+ },
+ "LA_AU.VENDOR.14.0.0.r2-14700-gen3meta.QSSI15.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.r2-14700-gen3meta.QSSI15.0",
+  "project": "la_vendor",
+  "date": "2026-04-14T15:49:06.000+00:00"
  },
  "LA.VENDOR.16.2.7.r1-02900-LAHAINA1.0": {
   "tag": "LA.VENDOR.16.2.7.r1-02900-LAHAINA1.0",
