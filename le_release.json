@@ -1,4 +1,29 @@
 {
+ "LE.UM.7.4.1.c3-30100-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.c3-30100-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-04-14T23:49:10.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.301": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.301",
+  "project": "le_manifest",
+  "date": "2026-04-14T23:24:52.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C2_TARGET_ALL.01.727.016": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C2_TARGET_ALL.01.727.016",
+  "project": "le_manifest",
+  "date": "2026-04-14T23:14:07.000-07:00"
+ },
+ "LE.VM.1.0.r1-11700-genericarmv8-64.0": {
+  "tag": "LE.VM.1.0.r1-11700-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-04-15T05:57:35.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.1.0.R1_TARGET_ALL.01.601.117": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.0.R1_TARGET_ALL.01.601.117",
+  "project": "le_manifest",
+  "date": "2026-04-15T05:57:28.000+00:00"
+ },
  "LY.AU.0.1.1.r4-02000-gen5meta.0": {
   "tag": "LY.AU.0.1.1.r4-02000-gen5meta.0",
   "project": "le_manifest",
