@@ -1,4 +1,9 @@
 {
+ "LE.UM.6.3.6.r1-14000-SDX65.0": {
+  "tag": "LE.UM.6.3.6.r1-14000-SDX65.0",
+  "project": "le_manifest",
+  "date": "2026-04-22T05:16:33.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.140": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.140",
   "project": "le_manifest",
