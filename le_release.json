@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.140": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.6.R1_TARGET_ALL.01.465.140",
+  "project": "le_manifest",
+  "date": "2026-04-22T04:54:11.000-07:00"
+ },
  "LE.UM.4.1.1.c20-01700-sa515m": {
   "tag": "LE.UM.4.1.1.c20-01700-sa515m",
   "project": "le_manifest",
