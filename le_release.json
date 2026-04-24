@@ -1,4 +1,24 @@
 {
+ "LE.AU_EAP.1.0.1.c7-00300-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c7-00300-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-04-24T01:19:48.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C7_TARGET_ALL.01.795.003": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C7_TARGET_ALL.01.795.003",
+  "project": "le_manifest",
+  "date": "2026-04-24T01:04:57.000-07:00"
+ },
+ "LV.AU.0.2.2.c3-06400-gen3meta.0": {
+  "tag": "LV.AU.0.2.2.c3-06400-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2026-04-24T00:59:56.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.064": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.064",
+  "project": "le_manifest",
+  "date": "2026-04-24T00:41:11.000-07:00"
+ },
  "LE.UM.6.3.3.r1-25700-genericarmv8-64.0": {
   "tag": "LE.UM.6.3.3.r1-25700-genericarmv8-64.0",
   "project": "le_manifest",
