@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R4_TARGET_ALL.01.800.022": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R4_TARGET_ALL.01.800.022",
+  "project": "le_manifest",
+  "date": "2026-04-29T18:12:33.000+00:00"
+ },
+ "LY.AU.0.1.1.r4-02200-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.r4-02200-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-04-29T18:12:22.000+00:00"
+ },
  "LE.UM.8.4.1.c1-00700-sa510m-tele": {
   "tag": "LE.UM.8.4.1.c1-00700-sa510m-tele",
   "project": "le_manifest",
