@@ -40199,6 +40199,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c25-04100-SMxx50.QSSI13c28.0": {
+  "tag": "LA.UM.9.12.c25-04100-SMxx50.QSSI13c28.0",
+  "project": "la_vendor",
+  "date": "2026-04-28T20:15:34.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.041": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.041",
+  "project": "la_vendor",
+  "date": "2026-04-28T20:03:32.000-07:00"
+ },
  "LA.VENDOR.12.4.r1-02400-NEOLA.QSSI14.0": {
   "tag": "LA.VENDOR.12.4.r1-02400-NEOLA.QSSI14.0",
   "project": "la_vendor",
