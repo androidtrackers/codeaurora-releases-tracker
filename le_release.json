@@ -1,4 +1,14 @@
 {
+ "LE.UM.8.4.1.c1-00700-sa510m-tele": {
+  "tag": "LE.UM.8.4.1.c1-00700-sa510m-tele",
+  "project": "le_manifest",
+  "date": "2026-04-29T12:29:59.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.007": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.007",
+  "project": "le_manifest",
+  "date": "2026-04-29T12:29:50.000+00:00"
+ },
  "LE.UM.7.3.1.r2-05300-genericarmv8-64.0": {
   "tag": "LE.UM.7.3.1.r2-05300-genericarmv8-64.0",
   "project": "le_manifest",
