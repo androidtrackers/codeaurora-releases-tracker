@@ -1,4 +1,24 @@
 {
+ "OWRT.PRODUCT.2.1.r1-17900-SDX35.0": {
+  "tag": "OWRT.PRODUCT.2.1.r1-17900-SDX35.0",
+  "project": "le_manifest",
+  "date": "2026-04-30T07:41:51.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R1_TARGET_ALL.01.552.179": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R1_TARGET_ALL.01.552.179",
+  "project": "le_manifest",
+  "date": "2026-04-30T07:41:44.000+00:00"
+ },
+ "OWRT.PRODUCT.2.1.1.r2-01100-SDX35_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.1.1.r2-01100-SDX35_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-04-30T06:32:03.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.011": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.011",
+  "project": "le_manifest",
+  "date": "2026-04-30T06:31:56.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R4_TARGET_ALL.01.800.022": {
   "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R4_TARGET_ALL.01.800.022",
   "project": "le_manifest",
