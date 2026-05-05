@@ -1,4 +1,29 @@
 {
+ "android-cts-14.0_r12": {
+  "tag": "android-cts-14.0_r12",
+  "project": "la_platform",
+  "date": "2026-05-04T16:34:52.000-07:00"
+ },
+ "android-cts-15.0_r8": {
+  "tag": "android-cts-15.0_r8",
+  "project": "la_platform",
+  "date": "2026-05-04T16:26:06.000-07:00"
+ },
+ "android-security-16.0.0_r6": {
+  "tag": "android-security-16.0.0_r6",
+  "project": "la_platform",
+  "date": "2026-05-04T09:46:19.000-07:00"
+ },
+ "android-security-15.0.0_r15": {
+  "tag": "android-security-15.0.0_r15",
+  "project": "la_platform",
+  "date": "2026-05-04T09:42:08.000-07:00"
+ },
+ "android-security-14.0.0_r27": {
+  "tag": "android-security-14.0.0_r27",
+  "project": "la_platform",
+  "date": "2026-05-04T09:39:38.000-07:00"
+ },
  "ub-automotive-master-20260424": {
   "tag": "ub-automotive-master-20260424",
   "project": "la_platform",
