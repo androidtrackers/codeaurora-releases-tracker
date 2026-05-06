@@ -1,4 +1,34 @@
 {
+ "LE.UM.3.2.3.c14-08600-SA2150p": {
+  "tag": "LE.UM.3.2.3.c14-08600-SA2150p",
+  "project": "le_manifest",
+  "date": "2026-05-05T21:07:53.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.3.2.3.C14_TARGET_ALL.01.380.086": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.3.C14_TARGET_ALL.01.380.086",
+  "project": "le_manifest",
+  "date": "2026-05-05T20:54:45.000-07:00"
+ },
+ "LE.UM.4.1.1.c11-16200-sa515m": {
+  "tag": "LE.UM.4.1.1.c11-16200-sa515m",
+  "project": "le_manifest",
+  "date": "2026-05-05T20:52:27.000-07:00"
+ },
+ "LE.AU_EAP.1.0.c13-10900-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c13-10900-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-05-05T20:42:06.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.4.1.1.C11_TARGET_ALL.01.373.162": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.4.1.1.C11_TARGET_ALL.01.373.162",
+  "project": "le_manifest",
+  "date": "2026-05-05T20:38:17.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C13_TARGET_ALL.01.372.109": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C13_TARGET_ALL.01.372.109",
+  "project": "le_manifest",
+  "date": "2026-05-05T20:28:46.000-07:00"
+ },
  "OWRT.PRODUCT.3.0.r1-06200-sdx85.0": {
   "tag": "OWRT.PRODUCT.3.0.r1-06200-sdx85.0",
   "project": "le_manifest",
