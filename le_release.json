@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.2.2.c3-06800-gen3meta.0": {
+  "tag": "LV.AU.0.2.2.c3-06800-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2026-05-07T15:20:10.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.068": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.2.2.C3_TARGET_ALL.01.751.068",
+  "project": "le_manifest",
+  "date": "2026-05-07T15:05:51.000-07:00"
+ },
  "LE.UM.3.2.1.c7-02600-sa415m": {
   "tag": "LE.UM.3.2.1.c7-02600-sa415m",
   "project": "le_manifest",
