@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.2.c1-21200-9x07": {
+  "tag": "LE.UM.7.4.2.c1-21200-9x07",
+  "project": "le_manifest",
+  "date": "2026-05-12T07:24:22.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.212": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.212",
+  "project": "le_manifest",
+  "date": "2026-05-12T01:02:51.000-07:00"
+ },
  "LE.UM.7.1.1.r1-19400-LASSEN.0": {
   "tag": "LE.UM.7.1.1.r1-19400-LASSEN.0",
   "project": "le_manifest",
