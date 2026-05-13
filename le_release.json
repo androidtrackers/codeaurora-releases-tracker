@@ -1,4 +1,24 @@
 {
+ "LV.AU.0.5.1.r3-03400-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.1.r3-03400-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-05-13T11:20:35.000+00:00"
+ },
+ "LY.AU.0.2.0.c1-07700-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-07700-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-05-13T11:20:27.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.034": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R3_TARGET_ALL.01.771.034",
+  "project": "le_manifest",
+  "date": "2026-05-13T11:20:20.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.077": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.077",
+  "project": "le_manifest",
+  "date": "2026-05-13T11:18:58.000+00:00"
+ },
  "LE.UM.7.4.2.c1-21200-9x07": {
   "tag": "LE.UM.7.4.2.c1-21200-9x07",
   "project": "le_manifest",
