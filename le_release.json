@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.291": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C1_TARGET_ALL.01.681.291",
+  "project": "le_manifest",
+  "date": "2026-05-15T02:34:34.000-07:00"
+ },
  "LV.AU.0.5.1.r3-03400-qtiquingvm.0": {
   "tag": "LV.AU.0.5.1.r3-03400-qtiquingvm.0",
   "project": "le_manifest",
