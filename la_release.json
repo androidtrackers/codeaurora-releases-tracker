@@ -40514,6 +40514,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.15.4.7.r1-02600-pakala.QISI16.0": {
+  "tag": "LA.VENDOR.15.4.7.r1-02600-pakala.QISI16.0",
+  "project": "la_vendor",
+  "date": "2026-05-17T20:42:00.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.7.R1.11.00.00.1466.026": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.7.R1.11.00.00.1466.026",
+  "project": "la_vendor",
+  "date": "2026-05-17T20:41:52.000+00:00"
+ },
  "LA.UM.9.14.1.c29-01000-QCM6490.QISI14c27.0": {
   "tag": "LA.UM.9.14.1.c29-01000-QCM6490.QISI14c27.0",
   "project": "la_vendor",
