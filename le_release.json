@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.044": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.044",
+  "project": "le_manifest",
+  "date": "2026-05-17T23:57:57.000-07:00"
+ },
  "OWRT.PRODUCT.2.1.1.r1-01900-SDX35.0": {
   "tag": "OWRT.PRODUCT.2.1.1.r1-01900-SDX35.0",
   "project": "le_manifest",
