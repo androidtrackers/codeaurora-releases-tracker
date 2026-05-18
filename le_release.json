@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.2.1.1.r1-01900-SDX35.0": {
+  "tag": "OWRT.PRODUCT.2.1.1.r1-01900-SDX35.0",
+  "project": "le_manifest",
+  "date": "2026-05-18T02:52:06.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R1_TARGET_ALL.01.752.019": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R1_TARGET_ALL.01.752.019",
+  "project": "le_manifest",
+  "date": "2026-05-18T02:51:57.000+00:00"
+ },
  "LE.VM.1.0.r4-02000-genericarmv8-64.0": {
   "tag": "LE.VM.1.0.r4-02000-genericarmv8-64.0",
   "project": "le_manifest",
