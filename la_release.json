@@ -40514,6 +40514,26 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.15.4.4.r1-03400-QCS8250.QISI15.0": {
+  "tag": "LA.VENDOR.15.4.4.r1-03400-QCS8250.QISI15.0",
+  "project": "la_vendor",
+  "date": "2026-05-18T00:47:54.000-07:00"
+ },
+ "LAW.VENDOR.14.1.r1-00200-KALPENI.QSSI16.0": {
+  "tag": "LAW.VENDOR.14.1.r1-00200-KALPENI.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2026-05-18T00:44:29.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.034": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.4.R1.11.00.00.1335.034",
+  "project": "la_vendor",
+  "date": "2026-05-18T00:32:19.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.002": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.002",
+  "project": "la_vendor",
+  "date": "2026-05-18T00:29:41.000-07:00"
+ },
  "LA.VENDOR.15.4.7.r1-02600-pakala.QISI16.0": {
   "tag": "LA.VENDOR.15.4.7.r1-02600-pakala.QISI16.0",
   "project": "la_vendor",
