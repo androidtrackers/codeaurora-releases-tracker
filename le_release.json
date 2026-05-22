@@ -1,4 +1,14 @@
 {
+ "CHSS.LNX_FSL.5.3-03800-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.3-03800-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-05-21T19:36:53.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3_TARGET_ALL.01.728.038": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3_TARGET_ALL.01.728.038",
+  "project": "le_manifest",
+  "date": "2026-05-21T19:23:38.000-07:00"
+ },
  "LE.UM.5.3.1.c27-01200-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.c27-01200-genericarmv8-64.0",
   "project": "le_manifest",
