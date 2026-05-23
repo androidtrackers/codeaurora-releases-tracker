@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.1.r6-00600-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.r6-00600-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-05-22T21:13:56.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R6_TARGET_ALL.01.802.006": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.R6_TARGET_ALL.01.802.006",
+  "project": "le_manifest",
+  "date": "2026-05-22T21:13:14.000+00:00"
+ },
  "CHSS.LNX_FSL.5.3-03800-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSL.5.3-03800-QCAAUTOHOSTHZ",
   "project": "le_manifest",
