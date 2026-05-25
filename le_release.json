@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.039": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.039",
+  "project": "le_manifest",
+  "date": "2026-05-24T23:10:56.000-07:00"
+ },
  "LE.AU_EAP.1.0.c25-02900-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.c25-02900-eap-fsl",
   "project": "le_manifest",
