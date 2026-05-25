@@ -1,4 +1,14 @@
 {
+ "LE.UM.6.3.3.r5-01600-genericarmv8-64.0": {
+  "tag": "LE.UM.6.3.3.r5-01600-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-05-25T11:56:02.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R5_TARGET_ALL.01.682.016": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R5_TARGET_ALL.01.682.016",
+  "project": "le_manifest",
+  "date": "2026-05-25T11:55:53.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.039": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.039",
   "project": "le_manifest",
