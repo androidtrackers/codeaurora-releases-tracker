@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.3.1.c25-01800-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.c25-01800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-05-26T06:36:44.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.018": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.018",
+  "project": "le_manifest",
+  "date": "2026-05-26T06:22:07.000-07:00"
+ },
  "LV.AU.0.5.0.r1-03900-qtiquingvm.0": {
   "tag": "LV.AU.0.5.0.r1-03900-qtiquingvm.0",
   "project": "le_manifest",
