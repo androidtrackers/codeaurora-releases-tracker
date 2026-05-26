@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.0.c1-08300-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-08300-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-05-26T04:28:56.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.083": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.083",
+  "project": "le_manifest",
+  "date": "2026-05-26T04:28:48.000+00:00"
+ },
  "LE.UM.6.3.3.r5-01600-genericarmv8-64.0": {
   "tag": "LE.UM.6.3.3.r5-01600-genericarmv8-64.0",
   "project": "le_manifest",
