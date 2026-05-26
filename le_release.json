@@ -1,4 +1,24 @@
 {
+ "LV.AU.0.5.0.r1-03900-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.0.r1-03900-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-05-26T08:15:20.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.039": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.039",
+  "project": "le_manifest",
+  "date": "2026-05-26T08:15:12.000+00:00"
+ },
+ "LE.AU_EAP.3.0.r1-01700-eap-fsl": {
+  "tag": "LE.AU_EAP.3.0.r1-01700-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-05-26T00:41:48.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.017": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.017",
+  "project": "le_manifest",
+  "date": "2026-05-26T00:18:39.000-07:00"
+ },
  "LY.AU.0.2.0.c1-08300-gen4meta.0": {
   "tag": "LY.AU.0.2.0.c1-08300-gen4meta.0",
   "project": "le_manifest",
