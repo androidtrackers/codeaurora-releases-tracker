@@ -40754,6 +40754,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.4.r1-08600-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.r1-08600-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2026-05-27T03:37:49.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.086": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.R1.11.00.00.1138.086",
+  "project": "la_vendor",
+  "date": "2026-05-27T03:21:08.000-07:00"
+ },
  "LA_AU.VENDOR.16.0.2.r6-01100-gen5_gvm.0": {
   "tag": "LA_AU.VENDOR.16.0.2.r6-01100-gen5_gvm.0",
   "project": "la_vendor",
