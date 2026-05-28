@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.0.c1-03400-gen4meta.0": {
+  "tag": "LY.AU.0.1.0.c1-03400-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-05-28T05:11:43.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.0.C1_TARGET_ALL.01.755.034": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.0.C1_TARGET_ALL.01.755.034",
+  "project": "le_manifest",
+  "date": "2026-05-28T04:55:28.000-07:00"
+ },
  "LV.AU.1.2.5.r1-04600-qtiquingvm.0": {
   "tag": "LV.AU.1.2.5.r1-04600-qtiquingvm.0",
   "project": "le_manifest",
