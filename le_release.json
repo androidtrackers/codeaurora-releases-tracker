@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.2.1.r2-02100-SDX35_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.1.r2-02100-SDX35_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-05-29T08:54:18.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R2_TARGET_ALL.01.713.021": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R2_TARGET_ALL.01.713.021",
+  "project": "le_manifest",
+  "date": "2026-05-29T08:54:10.000+00:00"
+ },
  "OWRT.PRODUCT.5.0.r1-02600-qmb415.0": {
   "tag": "OWRT.PRODUCT.5.0.r1-02600-qmb415.0",
   "project": "le_manifest",
