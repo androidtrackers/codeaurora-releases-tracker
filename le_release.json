@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.5.0.r1-02600-qmb415.0": {
+  "tag": "OWRT.PRODUCT.5.0.r1-02600-qmb415.0",
+  "project": "le_manifest",
+  "date": "2026-05-28T17:50:24.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.026": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.026",
+  "project": "le_manifest",
+  "date": "2026-05-28T17:34:17.000-07:00"
+ },
  "LY.AU.0.1.0.c1-03400-gen4meta.0": {
   "tag": "LY.AU.0.1.0.c1-03400-gen4meta.0",
   "project": "le_manifest",
