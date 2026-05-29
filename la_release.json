@@ -40764,6 +40764,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.12.4.r1-03400-NEOLA.QXSI16.0": {
+  "tag": "LA.VENDOR.12.4.r1-03400-NEOLA.QXSI16.0",
+  "project": "la_vendor",
+  "date": "2026-05-29T12:33:52.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.4.R1.11.00.00.1457.034": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.4.R1.11.00.00.1457.034",
+  "project": "la_vendor",
+  "date": "2026-05-29T12:33:43.000+00:00"
+ },
  "LA.VENDOR.16.2.0.r1-17000-kaanapali.0": {
   "tag": "LA.VENDOR.16.2.0.r1-17000-kaanapali.0",
   "project": "la_vendor",
