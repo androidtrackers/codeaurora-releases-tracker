@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.5.0.r1-04000-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.0.r1-04000-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-05-30T06:35:36.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.040": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.0.R1_TARGET_ALL.01.673.040",
+  "project": "le_manifest",
+  "date": "2026-05-30T06:35:26.000+00:00"
+ },
  "OWRT.PRODUCT.2.0.1.r2-04200-SDX75.0": {
   "tag": "OWRT.PRODUCT.2.0.1.r2-04200-SDX75.0",
   "project": "le_manifest",
