@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.065": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.065",
+  "project": "le_manifest",
+  "date": "2026-05-31T07:00:10.000+00:00"
+ },
+ "LE.VM.1.2.r1-06500-genericarmv8-64.0": {
+  "tag": "LE.VM.1.2.r1-06500-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-05-31T07:00:02.000+00:00"
+ },
  "LV.AU.0.5.0.r1-04000-qtiquingvm.0": {
   "tag": "LV.AU.0.5.0.r1-04000-qtiquingvm.0",
   "project": "le_manifest",
