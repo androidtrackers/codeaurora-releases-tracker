@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.5.0.r1-02700-qmb415.0": {
+  "tag": "OWRT.PRODUCT.5.0.r1-02700-qmb415.0",
+  "project": "le_manifest",
+  "date": "2026-06-02T22:22:10.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.027": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.027",
+  "project": "le_manifest",
+  "date": "2026-06-02T22:06:37.000-07:00"
+ },
  "LE.UM.7.1.1.r1-19900-LASSEN.0": {
   "tag": "LE.UM.7.1.1.r1-19900-LASSEN.0",
   "project": "le_manifest",
