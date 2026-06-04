@@ -40859,6 +40859,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.5.r1-07400-aldabra.0": {
+  "tag": "LA.VENDOR.16.2.5.r1-07400-aldabra.0",
+  "project": "la_vendor",
+  "date": "2026-06-04T04:46:49.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.5.R1.11.00.00.1473.074": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.5.R1.11.00.00.1473.074",
+  "project": "la_vendor",
+  "date": "2026-06-04T04:46:40.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r2-15800-DIVAR.QISI16.0": {
   "tag": "LA.VENDOR.13.2.1.r2-15800-DIVAR.QISI16.0",
   "project": "la_vendor",
