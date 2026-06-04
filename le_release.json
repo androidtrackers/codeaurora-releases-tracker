@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.0.C1_TARGET_ALL.01.766.013": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.0.C1_TARGET_ALL.01.766.013",
+  "project": "le_manifest",
+  "date": "2026-06-04T19:31:33.000+00:00"
+ },
+ "LV.AU.0.5.0.c1-01300-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.0.c1-01300-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-06-04T19:31:25.000+00:00"
+ },
  "LV.AU.0.5.2.r1-01900-qtiquingvm.0": {
   "tag": "LV.AU.0.5.2.r1-01900-qtiquingvm.0",
   "project": "le_manifest",
