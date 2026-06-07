@@ -1,4 +1,9 @@
 {
+ "studio-2026.1.1": {
+  "tag": "studio-2026.1.1",
+  "project": "la_platform",
+  "date": "2026-06-05T15:01:31.000-07:00"
+ },
  "android-platform-14.0.0_r28": {
   "tag": "android-platform-14.0.0_r28",
   "project": "la_platform",
