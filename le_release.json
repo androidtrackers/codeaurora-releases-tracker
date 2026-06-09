@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.1.c3-32600-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.c3-32600-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-06-08T21:38:06.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.326": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.C3_TARGET_ALL.01.605.326",
+  "project": "le_manifest",
+  "date": "2026-06-08T21:21:24.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.064": {
   "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.3.0.R1_TARGET_ALL.01.680.064",
   "project": "le_manifest",
