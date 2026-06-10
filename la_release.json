@@ -40894,6 +40894,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.0.r6-01100-kaanapali.0": {
+  "tag": "LA.VENDOR.16.2.0.r6-01100-kaanapali.0",
+  "project": "la_vendor",
+  "date": "2026-06-10T05:32:10.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R6.11.00.00.1496.011": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R6.11.00.00.1496.011",
+  "project": "la_vendor",
+  "date": "2026-06-10T05:32:01.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r1-14600-DIVAR.QSSI16.0": {
   "tag": "LA.VENDOR.13.2.1.r1-14600-DIVAR.QSSI16.0",
   "project": "la_vendor",
