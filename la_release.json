@@ -40934,6 +40934,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c25-04200-SMxx50.QSSI13c28.0": {
+  "tag": "LA.UM.9.12.c25-04200-SMxx50.QSSI13c28.0",
+  "project": "la_vendor",
+  "date": "2026-06-11T04:12:51.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.042": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.042",
   "project": "la_vendor",
