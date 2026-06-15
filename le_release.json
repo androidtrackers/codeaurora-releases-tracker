@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c5-14500-9x07": {
+  "tag": "LE.UM.2.3.6.c5-14500-9x07",
+  "project": "le_manifest",
+  "date": "2026-06-15T00:51:32.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C5_TARGET_ALL.01.468.145": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C5_TARGET_ALL.01.468.145",
+  "project": "le_manifest",
+  "date": "2026-06-15T00:35:14.000-07:00"
+ },
  "LE.UM.3.2.3.1-38400-SA2150p": {
   "tag": "LE.UM.3.2.3.1-38400-SA2150p",
   "project": "le_manifest",
