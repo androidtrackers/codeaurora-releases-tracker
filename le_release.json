@@ -1,4 +1,24 @@
 {
+ "OWRT.PRODUCT.2.0.1.r1-07800-SDX75.0": {
+  "tag": "OWRT.PRODUCT.2.0.1.r1-07800-SDX75.0",
+  "project": "le_manifest",
+  "date": "2026-06-16T10:30:24.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.078": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.0.1.R1_TARGET_ALL.01.613.078",
+  "project": "le_manifest",
+  "date": "2026-06-16T10:29:21.000+00:00"
+ },
+ "CHSS.LNX_FSL.5.4-01000-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.4-01000-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-06-16T02:46:19.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4_TARGET_ALL.01.793.010": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4_TARGET_ALL.01.793.010",
+  "project": "le_manifest",
+  "date": "2026-06-16T02:28:36.000-07:00"
+ },
  "LE.UM.5.4.3.r1-07100-QRB4210.0": {
   "tag": "LE.UM.5.4.3.r1-07100-QRB4210.0",
   "project": "le_manifest",
