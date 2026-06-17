@@ -1,4 +1,19 @@
 {
+ "android-vts-17.0_r1": {
+  "tag": "android-vts-17.0_r1",
+  "project": "la_platform",
+  "date": "2026-06-17T00:07:40.000+00:00"
+ },
+ "android-cts-17.0_r1": {
+  "tag": "android-cts-17.0_r1",
+  "project": "la_platform",
+  "date": "2026-06-17T00:05:59.000+00:00"
+ },
+ "android-17.0.0_r1": {
+  "tag": "android-17.0.0_r1",
+  "project": "la_platform",
+  "date": "2026-06-16T23:31:21.000+00:00"
+ },
  "LAW.UM.2.0.r1-29500-SW5100.0": {
   "tag": "LAW.UM.2.0.r1-29500-SW5100.0",
   "project": "la_platform",
@@ -40998,6 +41013,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.UM.9.14.1.c26-02600-QCM6490.QSSI13c29.0": {
+  "tag": "LA.UM.9.14.1.c26-02600-QCM6490.QSSI13c29.0",
+  "project": "la_vendor",
+  "date": "2026-06-17T07:16:25.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.C26.11.00.00.1313.026": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.C26.11.00.00.1313.026",
+  "project": "la_vendor",
+  "date": "2026-06-17T07:03:40.000-07:00"
  },
  "LA.UM.9.12.1.r2-04800-SMxx50.QSSI12.0": {
   "tag": "LA.UM.9.12.1.r2-04800-SMxx50.QSSI12.0",
