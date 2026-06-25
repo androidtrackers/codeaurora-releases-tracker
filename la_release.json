@@ -41269,6 +41269,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.16.0.1.r1-06300-gen4_gvm_gy.0": {
+  "tag": "LA_AU.VENDOR.16.0.1.r1-06300-gen4_gvm_gy.0",
+  "project": "la_vendor",
+  "date": "2026-06-25T16:25:38.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.1.R1.11.00.00.1351.063": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.1.R1.11.00.00.1351.063",
+  "project": "la_vendor",
+  "date": "2026-06-25T16:25:28.000+00:00"
+ },
  "LA_AU.VENDOR.16.0.2.r2-03500-gen5_gvm.0": {
   "tag": "LA_AU.VENDOR.16.0.2.r2-03500-gen5_gvm.0",
   "project": "la_vendor",
