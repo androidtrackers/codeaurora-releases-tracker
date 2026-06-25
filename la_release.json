@@ -41249,6 +41249,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.186": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.15.C26.11.00.00.1106.186",
+  "project": "la_vendor",
+  "date": "2026-06-24T17:54:53.000-07:00"
+ },
  "LA_AU.VENDOR.14.0.5.r1-05400-gen4_gvm.0": {
   "tag": "LA_AU.VENDOR.14.0.5.r1-05400-gen4_gvm.0",
   "project": "la_vendor",
