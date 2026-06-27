@@ -1,4 +1,19 @@
 {
+ "LAGL.AU.0.1.0.r1-00600-full-qtiquingvm.0.xml": {
+  "tag": "LAGL.AU.0.1.0.r1-00600-full-qtiquingvm.0.xml",
+  "project": "le_manifest",
+  "date": "2026-06-27T09:40:37.000-07:00"
+ },
+ "LE.UM.7.4.1.1.c7-00200-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.c7-00200-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-06-27T09:32:09.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C7_TARGET_ALL.01.814.002": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C7_TARGET_ALL.01.814.002",
+  "project": "le_manifest",
+  "date": "2026-06-27T09:14:56.000-07:00"
+ },
  "LV.AU.0.5.1.r1-07200-qtiquingvm.0": {
   "tag": "LV.AU.0.5.1.r1-07200-qtiquingvm.0",
   "project": "le_manifest",
