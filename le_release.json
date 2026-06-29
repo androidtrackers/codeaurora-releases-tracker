@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.1.r2-02200-gen5meta.0": {
+  "tag": "LY.AU.0.2.1.r2-02200-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-06-29T08:24:58.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.022": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.022",
+  "project": "le_manifest",
+  "date": "2026-06-29T08:22:45.000+00:00"
+ },
  "LE.UM.11.3.1.r1-02200-sa535m-tele": {
   "tag": "LE.UM.11.3.1.r1-02200-sa535m-tele",
   "project": "le_manifest",
