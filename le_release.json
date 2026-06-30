@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.068": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.068",
+  "project": "le_manifest",
+  "date": "2026-06-29T22:47:55.000+00:00"
+ },
+ "LE.VM.3.0.r1-06800-genericarmv8-64.0": {
+  "tag": "LE.VM.3.0.r1-06800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-06-29T22:47:46.000+00:00"
+ },
  "LE.UM.3.2.3.1.c6-01900-SA2150p": {
   "tag": "LE.UM.3.2.3.1.c6-01900-SA2150p",
   "project": "le_manifest",
