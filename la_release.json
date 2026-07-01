@@ -41414,6 +41414,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R5.11.00.00.1476.020": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R5.11.00.00.1476.020",
+  "project": "la_vendor",
+  "date": "2026-07-01T19:18:34.000+00:00"
+ },
+ "LA.VENDOR.16.2.0.r5-02000-kaanapali.0": {
+  "tag": "LA.VENDOR.16.2.0.r5-02000-kaanapali.0",
+  "project": "la_vendor",
+  "date": "2026-07-01T19:18:23.000+00:00"
+ },
  "LA.VENDOR.14.3.1.r1-04900-MANNAR.QSSI16.0": {
   "tag": "LA.VENDOR.14.3.1.r1-04900-MANNAR.QSSI16.0",
   "project": "la_vendor",
