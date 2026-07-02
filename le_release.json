@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.1.0.c19-11200-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c19-11200-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-07-02T05:28:31.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C19_TARGET_ALL.01.513.112": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C19_TARGET_ALL.01.513.112",
+  "project": "le_manifest",
+  "date": "2026-07-02T05:13:49.000-07:00"
+ },
  "CHSS.LNX_FSL.5.4.r1-00200-QCAAUTOHOSTHZ": {
   "tag": "CHSS.LNX_FSL.5.4.r1-00200-QCAAUTOHOSTHZ",
   "project": "le_manifest",
