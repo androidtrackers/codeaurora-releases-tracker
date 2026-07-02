@@ -1,4 +1,14 @@
 {
+ "CHSS.LNX_FSL.5.4.r1-00200-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.4.r1-00200-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-07-01T20:38:09.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4.R1_TARGET_ALL.01.808.002": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4.R1_TARGET_ALL.01.808.002",
+  "project": "le_manifest",
+  "date": "2026-07-01T20:25:38.000-07:00"
+ },
  "LE.UM.8.4.1.c1-02600-sa510m-tele": {
   "tag": "LE.UM.8.4.1.c1-02600-sa510m-tele",
   "project": "le_manifest",
