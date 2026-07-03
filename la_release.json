@@ -41444,6 +41444,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.162": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.162",
+  "project": "la_vendor",
+  "date": "2026-07-03T10:36:47.000+00:00"
+ },
+ "LA.VENDOR.13.2.1.r2-16200-DIVAR.QISI16.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-16200-DIVAR.QISI16.0",
+  "project": "la_vendor",
+  "date": "2026-07-03T10:36:36.000+00:00"
+ },
  "LA.VENDOR.15.4.7.r1-03700-pakala.QISI16.0": {
   "tag": "LA.VENDOR.15.4.7.r1-03700-pakala.QISI16.0",
   "project": "la_vendor",
