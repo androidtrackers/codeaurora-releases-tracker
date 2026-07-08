@@ -41454,6 +41454,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.0.r6-01200-kaanapali.0": {
+  "tag": "LA.VENDOR.16.2.0.r6-01200-kaanapali.0",
+  "project": "la_vendor",
+  "date": "2026-07-08T01:39:08.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R6.11.00.00.1496.012": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R6.11.00.00.1496.012",
+  "project": "la_vendor",
+  "date": "2026-07-08T01:38:58.000+00:00"
+ },
  "LA.VENDOR.14.3.11.r1-06800-ALISO.0": {
   "tag": "LA.VENDOR.14.3.11.r1-06800-ALISO.0",
   "project": "la_vendor",

@@ -1,4 +1,14 @@
 {
+ "LE.VM.2.1.r1-15800-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r1-15800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-07-08T01:39:44.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R1_TARGET_ALL.01.667.158": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R1_TARGET_ALL.01.667.158",
+  "project": "le_manifest",
+  "date": "2026-07-08T01:39:34.000+00:00"
+ },
  "OWRT.PRODUCT.2.0.r2-07100-SDX75.0": {
   "tag": "OWRT.PRODUCT.2.0.r2-07100-SDX75.0",
   "project": "le_manifest",
