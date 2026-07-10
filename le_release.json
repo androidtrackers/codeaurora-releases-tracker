@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.012": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.012",
+  "project": "le_manifest",
+  "date": "2026-07-10T14:21:54.000+00:00"
+ },
+ "OWRT.PRODUCT.2.1.1.r2-01200-SDX35_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.1.1.r2-01200-SDX35_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-07-10T14:21:45.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.VM.2.1.R2_TARGET_ALL.01.775.046": {
   "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R2_TARGET_ALL.01.775.046",
   "project": "le_manifest",
