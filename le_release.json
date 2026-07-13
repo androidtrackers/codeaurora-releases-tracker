@@ -1,4 +1,19 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1.1_TARGET_ALL.01.818.006": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1.1_TARGET_ALL.01.818.006",
+  "project": "le_manifest",
+  "date": "2026-07-12T23:54:58.000-07:00"
+ },
+ "LY.AU.0.1.1.c2-10700-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.c2-10700-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-07-13T05:42:02.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.107": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.107",
+  "project": "le_manifest",
+  "date": "2026-07-13T05:41:52.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.012": {
   "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.012",
   "project": "le_manifest",
