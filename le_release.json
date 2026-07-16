@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.1.c2-11100-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.c2-11100-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-07-16T08:11:53.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.111": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.111",
+  "project": "le_manifest",
+  "date": "2026-07-16T08:11:42.000+00:00"
+ },
  "LE.VM.3.0.r1-07400-genericarmv8-64.0": {
   "tag": "LE.VM.3.0.r1-07400-genericarmv8-64.0",
   "project": "le_manifest",
