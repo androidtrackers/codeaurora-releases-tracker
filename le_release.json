@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c7-01200-9x07": {
+  "tag": "LE.UM.2.3.6.c7-01200-9x07",
+  "project": "le_manifest",
+  "date": "2026-07-16T23:48:56.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.012": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.012",
+  "project": "le_manifest",
+  "date": "2026-07-16T23:29:52.000-07:00"
+ },
  "LY.AU.0.1.1.c2-11100-gen5meta.0": {
   "tag": "LY.AU.0.1.1.c2-11100-gen5meta.0",
   "project": "le_manifest",
