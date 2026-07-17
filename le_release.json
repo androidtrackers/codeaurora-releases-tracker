@@ -4,6 +4,16 @@
   "project": "le_manifest",
   "date": "2026-07-16T23:48:56.000-07:00"
  },
+ "LE.UM.6.3.3.r6-00700-genericarmv8-64.0": {
+  "tag": "LE.UM.6.3.3.r6-00700-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-07-17T06:47:47.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R6_TARGET_ALL.01.804.007": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R6_TARGET_ALL.01.804.007",
+  "project": "le_manifest",
+  "date": "2026-07-17T06:47:37.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.012": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.012",
   "project": "le_manifest",
