@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.3.1.c26-01600-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.c26-01600-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-07-20T11:22:52.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C26_TARGET_ALL.01.770.016": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C26_TARGET_ALL.01.770.016",
+  "project": "le_manifest",
+  "date": "2026-07-20T11:08:27.000-07:00"
+ },
  "LE.UM.7.4.1.1.c1-32500-sa525m-tele": {
   "tag": "LE.UM.7.4.1.1.c1-32500-sa525m-tele",
   "project": "le_manifest",
