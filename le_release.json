@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.020": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.020",
+  "project": "le_manifest",
+  "date": "2026-07-21T03:58:10.000-07:00"
+ },
  "LE.VM.2.1.r1-17000-genericarmv8-64.0": {
   "tag": "LE.VM.2.1.r1-17000-genericarmv8-64.0",
   "project": "le_manifest",
