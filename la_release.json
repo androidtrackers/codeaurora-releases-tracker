@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.019": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.019",
+  "project": "la_platform",
+  "date": "2026-07-21T05:33:37.000-07:00"
+ },
  "studio-2026.1.2": {
   "tag": "studio-2026.1.2",
   "project": "la_platform",
@@ -41688,6 +41693,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.1.0.c25-02900-WAIPIO.QSSI13c31.0": {
+  "tag": "LA.VENDOR.1.0.c25-02900-WAIPIO.QSSI13c31.0",
+  "project": "la_vendor",
+  "date": "2026-07-21T05:38:09.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.029": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.C25.13.00.00.1382.029",
+  "project": "la_vendor",
+  "date": "2026-07-21T05:11:52.000-07:00"
  },
  "LA_AU.VENDOR.14.0.0.1.r2-01000-sa8155_gvmq.0": {
   "tag": "LA_AU.VENDOR.14.0.0.1.r2-01000-sa8155_gvmq.0",
