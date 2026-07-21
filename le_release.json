@@ -1,4 +1,14 @@
 {
+ "LE.VM.2.1.r2-03800-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r2-03800-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-07-21T15:42:26.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R2_TARGET_ALL.01.775.038": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R2_TARGET_ALL.01.775.038",
+  "project": "le_manifest",
+  "date": "2026-07-21T15:42:16.000+00:00"
+ },
  "LE.UM.5.3.1.r2-07800-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.r2-07800-genericarmv8-64.0",
   "project": "le_manifest",

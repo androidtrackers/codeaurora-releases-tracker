@@ -41709,6 +41709,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.5.r1-07100-aldabra.0": {
+  "tag": "LA.VENDOR.16.2.5.r1-07100-aldabra.0",
+  "project": "la_vendor",
+  "date": "2026-07-21T15:41:23.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.5.R1.11.00.00.1473.071": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.5.R1.11.00.00.1473.071",
+  "project": "la_vendor",
+  "date": "2026-07-21T15:41:12.000+00:00"
+ },
  "LA.VENDOR.1.0.r2-16800-WAIPIO.QISI15.0": {
   "tag": "LA.VENDOR.1.0.r2-16800-WAIPIO.QISI15.0",
   "project": "la_vendor",
