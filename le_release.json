@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.4.2.c1-21900-9x07": {
+  "tag": "LE.UM.7.4.2.c1-21900-9x07",
+  "project": "le_manifest",
+  "date": "2026-07-22T00:42:40.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.219": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.219",
+  "project": "le_manifest",
+  "date": "2026-07-22T00:19:35.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C1_TARGET_ALL.01.774.072": {
   "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C1_TARGET_ALL.01.774.072",
   "project": "le_manifest",
