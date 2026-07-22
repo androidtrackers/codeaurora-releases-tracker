@@ -1,4 +1,9 @@
 {
+ "ub-automotive-master-20260720": {
+  "tag": "ub-automotive-master-20260720",
+  "project": "la_platform",
+  "date": "2026-07-21T14:39:56.000-07:00"
+ },
  "LA.UM.8.12.4.c25-01900-QCS8250.0": {
   "tag": "LA.UM.8.12.4.c25-01900-QCS8250.0",
   "project": "la_platform",
@@ -8,6 +13,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.12.4.C25.10.00.00.1410.019",
   "project": "la_platform",
   "date": "2026-07-21T05:33:37.000-07:00"
+ },
+ "studio-2026.1.3-rc01": {
+  "tag": "studio-2026.1.3-rc01",
+  "project": "la_platform",
+  "date": "2026-07-20T15:22:57.000-07:00"
  },
  "studio-2026.1.2": {
   "tag": "studio-2026.1.2",
