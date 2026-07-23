@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.5.0.r1-02900-qmb415.0": {
+  "tag": "OWRT.PRODUCT.5.0.r1-02900-qmb415.0",
+  "project": "le_manifest",
+  "date": "2026-07-23T00:37:34.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.029": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.5.0.R1_TARGET_ALL.01.776.029",
+  "project": "le_manifest",
+  "date": "2026-07-23T00:15:05.000-07:00"
+ },
  "LE.UM.5.3.1.r2-07900-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.r2-07900-genericarmv8-64.0",
   "project": "le_manifest",
