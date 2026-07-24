@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.124": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.124",
+  "project": "la_platform",
+  "date": "2026-07-24T05:53:43.000-07:00"
+ },
  "ub-automotive-master-20260720": {
   "tag": "ub-automotive-master-20260720",
   "project": "la_platform",
@@ -26499,6 +26504,26 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.16.0.r4-04600-qssi.0": {
+  "tag": "LA.QSSI.16.0.r4-04600-qssi.0",
+  "project": "la_system",
+  "date": "2026-07-24T10:44:28.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.16.0.R4.11.00.00.1413.046": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.16.0.R4.11.00.00.1413.046",
+  "project": "la_system",
+  "date": "2026-07-24T10:44:14.000+00:00"
+ },
+ "LA.QSSI.13.0.r4-04000-qssi.0": {
+  "tag": "LA.QSSI.13.0.r4-04000-qssi.0",
+  "project": "la_system",
+  "date": "2026-07-24T10:44:00.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.13.0.R4.11.00.00.1284.040": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.R4.11.00.00.1284.040",
+  "project": "la_system",
+  "date": "2026-07-24T10:43:46.000+00:00"
+ },
  "LA_AU.QSSI.14.0.0.c1-01100-qssi.0": {
   "tag": "LA_AU.QSSI.14.0.0.c1-01100-qssi.0",
   "project": "la_system",
@@ -41768,6 +41793,26 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.1.0.c27-02300-WAIPIO.QSSI13c34.0": {
+  "tag": "LA.VENDOR.1.0.c27-02300-WAIPIO.QSSI13c34.0",
+  "project": "la_vendor",
+  "date": "2026-07-24T04:35:49.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.1.0.C27.11.00.00.1524.023": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.1.0.C27.11.00.00.1524.023",
+  "project": "la_vendor",
+  "date": "2026-07-24T04:22:52.000-07:00"
+ },
+ "LA.VENDOR.13.2.9.r2-19200-KAILUA.QSSI16.0": {
+  "tag": "LA.VENDOR.13.2.9.r2-19200-KAILUA.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2026-07-24T10:42:44.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.9.R2.13.00.00.1282.192": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.9.R2.13.00.00.1282.192",
+  "project": "la_vendor",
+  "date": "2026-07-24T10:42:31.000+00:00"
  },
  "LA.UM.9.12.1.R2.11.00.00.1223": {
   "tag": "LA.UM.9.12.1.R2.11.00.00.1223",
