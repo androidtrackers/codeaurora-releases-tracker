@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.004": {
+  "tag": "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.004",
+  "project": "le_manifest",
+  "date": "2026-07-24T22:01:35.000-07:00"
+ },
  "LE.UM.5.3.1.c27-01400-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.c27-01400-genericarmv8-64.0",
   "project": "le_manifest",
