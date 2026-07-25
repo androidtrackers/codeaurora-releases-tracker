@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.3.1.r2-06000-genericarmv8-64.0": {
+  "tag": "LE.UM.7.3.1.r2-06000-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-07-25T07:07:39.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.3.1.R2_TARGET_ALL.01.635.060": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.3.1.R2_TARGET_ALL.01.635.060",
+  "project": "le_manifest",
+  "date": "2026-07-25T07:07:30.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.004": {
   "tag": "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.004",
   "project": "le_manifest",
