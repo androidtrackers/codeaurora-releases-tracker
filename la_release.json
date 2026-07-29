@@ -41859,6 +41859,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.14.0.0.1.r1-04200-sa8155_gvmq.0": {
+  "tag": "LA_AU.VENDOR.14.0.0.1.r1-04200-sa8155_gvmq.0",
+  "project": "la_vendor",
+  "date": "2026-07-29T06:32:52.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.042": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.14.0.0.1.R1.11.00.00.1385.042",
+  "project": "la_vendor",
+  "date": "2026-07-29T06:32:38.000+00:00"
+ },
  "LA_AU.VENDOR.15.0.0.2.r1-01100-sa8155_gvmq.0": {
   "tag": "LA_AU.VENDOR.15.0.0.2.r1-01100-sa8155_gvmq.0",
   "project": "la_vendor",
