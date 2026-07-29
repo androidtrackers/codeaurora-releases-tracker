@@ -1,4 +1,24 @@
 {
+ "CHSS.LNX_FSL.5.2.r1-00700-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.2.r1-00700-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-07-29T03:46:51.000-07:00"
+ },
+ "CHSS.LNX_FSL.5.4.1-00200-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.4.1-00200-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-07-29T03:40:24.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.R1_TARGET_ALL.01.763.007": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.R1_TARGET_ALL.01.763.007",
+  "project": "le_manifest",
+  "date": "2026-07-29T03:28:11.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4.1_TARGET_ALL.01.821.002": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.4.1_TARGET_ALL.01.821.002",
+  "project": "le_manifest",
+  "date": "2026-07-29T03:23:28.000-07:00"
+ },
  "LV.AU.0.5.1.r3-04500-qtiquingvm.0": {
   "tag": "LV.AU.0.5.1.r3-04500-qtiquingvm.0",
   "project": "le_manifest",
