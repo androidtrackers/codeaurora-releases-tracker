@@ -1,4 +1,14 @@
 {
+ "LE.UM.5.2.3.r1-11200-SDX12": {
+  "tag": "LE.UM.5.2.3.r1-11200-SDX12",
+  "project": "le_manifest",
+  "date": "2026-07-29T20:26:59.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.5.2.3.R1_TARGET_ALL.01.276.112": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.5.2.3.R1_TARGET_ALL.01.276.112",
+  "project": "le_manifest",
+  "date": "2026-07-29T20:12:47.000-07:00"
+ },
  "LE.AU_EAP.3.0.r1-02100-eap-fsl": {
   "tag": "LE.AU_EAP.3.0.r1-02100-eap-fsl",
   "project": "le_manifest",
