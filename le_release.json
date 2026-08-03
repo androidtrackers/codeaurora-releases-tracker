@@ -1,4 +1,19 @@
 {
+ "LE.UM.4.1.1.c14-11100-sa515m": {
+  "tag": "LE.UM.4.1.1.c14-11100-sa515m",
+  "project": "le_manifest",
+  "date": "2026-08-02T22:28:05.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.4.1.1.C14_TARGET_ALL.01.461.111": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.4.1.1.C14_TARGET_ALL.01.461.111",
+  "project": "le_manifest",
+  "date": "2026-08-02T22:12:57.000-07:00"
+ },
+ "LE.AU_EAP.1.0.c10-49500-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c10-49500-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-08-02T22:04:39.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C10_TARGET_ALL.01.308.495": {
   "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C10_TARGET_ALL.01.308.495",
   "project": "le_manifest",
