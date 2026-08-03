@@ -41939,6 +41939,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.0.r5-02500-kaanapali.0": {
+  "tag": "LA.VENDOR.16.2.0.r5-02500-kaanapali.0",
+  "project": "la_vendor",
+  "date": "2026-08-03T16:46:11.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R5.11.00.00.1476.025": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.0.R5.11.00.00.1476.025",
+  "project": "la_vendor",
+  "date": "2026-08-03T16:46:00.000+00:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.16.2.13.R1.11.00.00.1531.024": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.13.R1.11.00.00.1531.024",
   "project": "la_vendor",
