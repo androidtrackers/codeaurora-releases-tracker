@@ -41949,6 +41949,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LAW.VENDOR.14.1.r1-01000-KALPENI.QSSI16.0": {
+  "tag": "LAW.VENDOR.14.1.r1-01000-KALPENI.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2026-08-03T22:50:21.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.010": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.010",
+  "project": "la_vendor",
+  "date": "2026-08-03T22:35:29.000-07:00"
+ },
  "LA.VENDOR.16.2.0.r5-02500-kaanapali.0": {
   "tag": "LA.VENDOR.16.2.0.r5-02500-kaanapali.0",
   "project": "la_vendor",
