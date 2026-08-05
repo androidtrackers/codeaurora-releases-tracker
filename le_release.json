@@ -1,4 +1,14 @@
 {
+ "LE.UM.11.3.1.r1-03000-sa535m-tele": {
+  "tag": "LE.UM.11.3.1.r1-03000-sa535m-tele",
+  "project": "le_manifest",
+  "date": "2026-08-05T10:12:08.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.11.3.1.R1_TARGET_ALL.01.807.030": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.11.3.1.R1_TARGET_ALL.01.807.030",
+  "project": "le_manifest",
+  "date": "2026-08-05T10:11:58.000+00:00"
+ },
  "LE.UM.3.2.3.c17-10200-SA2150p": {
   "tag": "LE.UM.3.2.3.c17-10200-SA2150p",
   "project": "le_manifest",
