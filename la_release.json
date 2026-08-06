@@ -42029,6 +42029,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.131": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.131",
+  "project": "la_vendor",
+  "date": "2026-08-06T16:23:59.000+00:00"
+ },
+ "LA.VENDOR.14.3.7.r1-13100-lanai.QISI17.0": {
+  "tag": "LA.VENDOR.14.3.7.r1-13100-lanai.QISI17.0",
+  "project": "la_vendor",
+  "date": "2026-08-06T16:23:48.000+00:00"
+ },
  "LA.VENDOR.14.3.11.r1-07000-ALISO.0": {
   "tag": "LA.VENDOR.14.3.11.r1-07000-ALISO.0",
   "project": "la_vendor",
