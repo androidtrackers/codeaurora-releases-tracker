@@ -26539,6 +26539,11 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.QSSI.13.0.C28.13.00.00.1264.038": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.13.0.C28.13.00.00.1264.038",
+  "project": "la_system",
+  "date": "2026-08-10T11:12:13.000-07:00"
+ },
  "LA.QSSI.13.0.c28-03800-qssi.0": {
   "tag": "LA.QSSI.13.0.c28-03800-qssi.0",
   "project": "la_system",
