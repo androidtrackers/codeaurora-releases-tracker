@@ -42109,6 +42109,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.UM.9.12.c25-04800-SMxx50.QSSI13c28.0": {
+  "tag": "LA.UM.9.12.c25-04800-SMxx50.QSSI13c28.0",
+  "project": "la_vendor",
+  "date": "2026-08-10T23:40:17.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.048": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.12.C25.11.00.00.1263.048",
+  "project": "la_vendor",
+  "date": "2026-08-10T23:25:38.000-07:00"
+ },
  "LA.VENDOR.16.2.8.r1-03500-LAHAINA.0": {
   "tag": "LA.VENDOR.16.2.8.r1-03500-LAHAINA.0",
   "project": "la_vendor",
