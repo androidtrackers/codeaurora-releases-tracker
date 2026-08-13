@@ -1,4 +1,34 @@
 {
+ "LE.UM.2.3.6-62600-9x07": {
+  "tag": "LE.UM.2.3.6-62600-9x07",
+  "project": "le_manifest",
+  "date": "2026-08-13T09:47:05.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6_TARGET_ALL.01.288.626": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6_TARGET_ALL.01.288.626",
+  "project": "le_manifest",
+  "date": "2026-08-13T09:23:48.000-07:00"
+ },
+ "LE.UM.4.1.1.1.c3-00400-sa515m": {
+  "tag": "LE.UM.4.1.1.1.c3-00400-sa515m",
+  "project": "le_manifest",
+  "date": "2026-08-13T09:05:08.000-07:00"
+ },
+ "LE.UM.3.2.1.c7-03800-sa415m": {
+  "tag": "LE.UM.3.2.1.c7-03800-sa415m",
+  "project": "le_manifest",
+  "date": "2026-08-13T08:56:27.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.4.1.1.1.C3_TARGET_ALL.01.829.004": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.4.1.1.1.C3_TARGET_ALL.01.829.004",
+  "project": "le_manifest",
+  "date": "2026-08-13T08:46:26.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.038": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.1.C7_TARGET_ALL.01.596.038",
+  "project": "le_manifest",
+  "date": "2026-08-13T08:40:52.000-07:00"
+ },
  "OWRT.PRODUCT.2.0.1.r1-08000-SDX75.0": {
   "tag": "OWRT.PRODUCT.2.0.1.r1-08000-SDX75.0",
   "project": "le_manifest",
