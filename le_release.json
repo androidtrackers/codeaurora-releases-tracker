@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.1.1.r1-20400-LASSEN.0": {
+  "tag": "LE.UM.7.1.1.r1-20400-LASSEN.0",
+  "project": "le_manifest",
+  "date": "2026-08-17T22:42:06.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.1.1.R1_TARGET_ALL.01.484.204": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.1.1.R1_TARGET_ALL.01.484.204",
+  "project": "le_manifest",
+  "date": "2026-08-17T22:41:56.000+00:00"
+ },
  "LV.AU.1.2.5.r1-04800-qtiquingvm.0": {
   "tag": "LV.AU.1.2.5.r1-04800-qtiquingvm.0",
   "project": "le_manifest",
