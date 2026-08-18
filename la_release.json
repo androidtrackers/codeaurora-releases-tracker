@@ -26559,6 +26559,21 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LAW.QWSI.16.1.R1.11.00.00.1542.017": {
+  "tag": "AU_LINUX_ANDROID_LAW.QWSI.16.1.R1.11.00.00.1542.017",
+  "project": "la_system",
+  "date": "2026-08-17T21:54:49.000-07:00"
+ },
+ "LA.QSSI.14.1.r1-00800-qssi.0": {
+  "tag": "LA.QSSI.14.1.r1-00800-qssi.0",
+  "project": "la_system",
+  "date": "2026-08-17T21:49:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.14.1.R1.14.00.00.1541.008": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.14.1.R1.14.00.00.1541.008",
+  "project": "la_system",
+  "date": "2026-08-17T21:21:46.000-07:00"
+ },
  "LA.QSSI.12.0.r1-20700-qssi.0": {
   "tag": "LA.QSSI.12.0.r1-20700-qssi.0",
   "project": "la_system",
@@ -42288,6 +42303,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LAW.VENDOR.14.1.r1-01400-KALPENI.QSSI16.0": {
+  "tag": "LAW.VENDOR.14.1.r1-01400-KALPENI.QSSI16.0",
+  "project": "la_vendor",
+  "date": "2026-08-17T20:35:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.014": {
+  "tag": "AU_LINUX_ANDROID_LAW.VENDOR.14.1.R1.11.00.00.1540.014",
+  "project": "la_vendor",
+  "date": "2026-08-17T20:21:37.000-07:00"
  },
  "LA.VENDOR.12.2.r1-18600-NEOLA.0": {
   "tag": "LA.VENDOR.12.2.r1-18600-NEOLA.0",
