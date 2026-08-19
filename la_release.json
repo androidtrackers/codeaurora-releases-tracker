@@ -1,4 +1,9 @@
 {
+ "LA.UM.8.2.1.c25-13500-sdm660.0": {
+  "tag": "LA.UM.8.2.1.c25-13500-sdm660.0",
+  "project": "la_platform",
+  "date": "2026-08-19T02:29:07.000-07:00"
+ },
  "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.135": {
   "tag": "AU_LINUX_ANDROID_LA.UM.8.2.1.C25.10.00.00.836.135",
   "project": "la_platform",
