@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.5.0.c1-02700-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.0.c1-02700-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-08-20T14:58:02.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.0.C1_TARGET_ALL.01.766.027": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.0.C1_TARGET_ALL.01.766.027",
+  "project": "le_manifest",
+  "date": "2026-08-20T14:57:43.000+00:00"
+ },
  "LE.UM.7.4.1.1.c9-00900-sa525m-tele": {
   "tag": "LE.UM.7.4.1.1.c9-00900-sa525m-tele",
   "project": "le_manifest",
