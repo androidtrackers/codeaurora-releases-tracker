@@ -1,4 +1,9 @@
 {
+ "LE.UM.3.2.3.1-38900-SA2150p": {
+  "tag": "LE.UM.3.2.3.1-38900-SA2150p",
+  "project": "le_manifest",
+  "date": "2026-08-20T01:22:23.000-07:00"
+ },
  "LE.VM.2.1.r5-02300-genericarmv8-64.0": {
   "tag": "LE.VM.2.1.r5-02300-genericarmv8-64.0",
   "project": "le_manifest",
