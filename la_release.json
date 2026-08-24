@@ -42359,6 +42359,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "11.00.00.1359": {
+  "tag": "11.00.00.1359",
+  "project": "la_vendor",
+  "date": "2026-08-23T20:51:18.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.7.R1.11.00.00.1359.035": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.7.R1.11.00.00.1359.035",
+  "project": "la_vendor",
+  "date": "2026-08-23T20:36:38.000-07:00"
+ },
  "LA_AU.VENDOR.16.0.2.r2-04900-gen5_gvm.0": {
   "tag": "LA_AU.VENDOR.16.0.2.r2-04900-gen5_gvm.0",
   "project": "la_vendor",
