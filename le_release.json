@@ -1,4 +1,14 @@
 {
+ "LE.VM.1.2.r1-07100-genericarmv8-64.0": {
+  "tag": "LE.VM.1.2.r1-07100-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-08-24T10:39:27.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.071": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.2.R1_TARGET_ALL.01.657.071",
+  "project": "le_manifest",
+  "date": "2026-08-24T10:39:15.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LV.AU.0.5.4.R1_TARGET_ALL.01.834.019": {
   "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.4.R1_TARGET_ALL.01.834.019",
   "project": "le_manifest",
