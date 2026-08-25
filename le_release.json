@@ -1,4 +1,24 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.042": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.042",
+  "project": "le_manifest",
+  "date": "2026-08-25T17:32:02.000+00:00"
+ },
+ "LE.UM.8.4.1.c1-04200-sa510m-tele": {
+  "tag": "LE.UM.8.4.1.c1-04200-sa510m-tele",
+  "project": "le_manifest",
+  "date": "2026-08-25T17:31:51.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R5_TARGET_ALL.01.786.032": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R5_TARGET_ALL.01.786.032",
+  "project": "le_manifest",
+  "date": "2026-08-25T17:29:26.000+00:00"
+ },
+ "LE.VM.2.1.r5-03200-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r5-03200-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-08-25T17:26:45.000+00:00"
+ },
  "LE.UM.6.3.3.r5-01700-genericarmv8-64.0": {
   "tag": "LE.UM.6.3.3.r5-01700-genericarmv8-64.0",
   "project": "le_manifest",
