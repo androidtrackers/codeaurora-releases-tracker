@@ -26579,6 +26579,26 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA.QSSI.14.0.r3-03900-qssi.0": {
+  "tag": "LA.QSSI.14.0.r3-03900-qssi.0",
+  "project": "la_system",
+  "date": "2026-08-26T10:37:29.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.14.0.R3.14.00.00.1236.039": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.14.0.R3.14.00.00.1236.039",
+  "project": "la_system",
+  "date": "2026-08-26T10:37:13.000+00:00"
+ },
+ "LA_AU.QSSI.14.1.1.r1-04000-qssi.0": {
+  "tag": "LA_AU.QSSI.14.1.1.r1-04000-qssi.0",
+  "project": "la_system",
+  "date": "2026-08-26T02:39:11.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.14.1.1.R1.11.00.00.1395.040": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.14.1.1.R1.11.00.00.1395.040",
+  "project": "la_system",
+  "date": "2026-08-26T02:09:18.000-07:00"
+ },
  "LA.QSSI.16.0.r4-04900-qssi.0": {
   "tag": "LA.QSSI.16.0.r4-04900-qssi.0",
   "project": "la_system",
@@ -42518,6 +42538,36 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.169": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.13.2.1.R2.11.00.00.1017.169",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:36:59.000+00:00"
+ },
+ "LA.VENDOR.13.2.1.r2-16900-DIVAR.QSSI14.0": {
+  "tag": "LA.VENDOR.13.2.1.r2-16900-DIVAR.QSSI14.0",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:36:44.000+00:00"
+ },
+ "LA.VENDOR.12.4.r1-04900-NEOLA.QXSI16.0": {
+  "tag": "LA.VENDOR.12.4.r1-04900-NEOLA.QXSI16.0",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:26:05.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.12.4.R1.11.00.00.1457.049": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.12.4.R1.11.00.00.1457.049",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:25:50.000+00:00"
+ },
+ "LA.VENDOR.14.3.4.c1-21200-ANORAK.0": {
+  "tag": "LA.VENDOR.14.3.4.c1-21200-ANORAK.0",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:19:43.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.212": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.4.C1.11.00.00.1204.212",
+  "project": "la_vendor",
+  "date": "2026-08-26T10:19:28.000+00:00"
  },
  "AU_LINUX_ANDROID_LA.UM.9.15.2.C29.11.00.00.1480.018": {
   "tag": "AU_LINUX_ANDROID_LA.UM.9.15.2.C29.11.00.00.1480.018",
