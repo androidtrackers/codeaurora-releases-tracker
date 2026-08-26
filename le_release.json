@@ -1,4 +1,19 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.063": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.2.R1_TARGET_ALL.01.761.063",
+  "project": "le_manifest",
+  "date": "2026-08-26T01:00:32.000-07:00"
+ },
+ "LE.AU_EAP.3.0.r1-02200-eap-fsl": {
+  "tag": "LE.AU_EAP.3.0.r1-02200-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-08-25T22:31:20.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.022": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.022",
+  "project": "le_manifest",
+  "date": "2026-08-25T22:16:03.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.042": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.8.4.1.C1_TARGET_ALL.01.801.042",
   "project": "le_manifest",
