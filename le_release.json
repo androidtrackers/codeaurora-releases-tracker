@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.005": {
+  "tag": "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.005",
+  "project": "le_manifest",
+  "date": "2026-08-26T21:53:12.000-07:00"
+ },
  "LE.UM.6.3.6.r1-14100-SDX65.0": {
   "tag": "LE.UM.6.3.6.r1-14100-SDX65.0",
   "project": "le_manifest",
