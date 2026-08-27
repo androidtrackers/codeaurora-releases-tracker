@@ -1,4 +1,29 @@
 {
+ "LV.AU.0.4.1-68700-qtiquingvm.0": {
+  "tag": "LV.AU.0.4.1-68700-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-08-27T10:48:24.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.4.1_TARGET_ALL.01.583.687": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.4.1_TARGET_ALL.01.583.687",
+  "project": "le_manifest",
+  "date": "2026-08-27T10:48:13.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.084": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.084",
+  "project": "le_manifest",
+  "date": "2026-08-27T03:39:33.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R2_TARGET_ALL.01.781.018": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R2_TARGET_ALL.01.781.018",
+  "project": "le_manifest",
+  "date": "2026-08-27T10:22:28.000+00:00"
+ },
+ "OWRT.PRODUCT.2.2.r2-01800-SDX72_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.2.r2-01800-SDX72_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-08-27T10:22:16.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.005": {
   "tag": "AU_LINUX_EMBEDDED_LE.TELAF_SIMU.1.0_TARGET_ALL.01.819.005",
   "project": "le_manifest",
