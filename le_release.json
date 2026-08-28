@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.3.0.c3-02900-gen3meta.0": {
+  "tag": "LV.AU.0.3.0.c3-02900-gen3meta.0",
+  "project": "le_manifest",
+  "date": "2026-08-28T05:15:18.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.3.0.C3_TARGET_ALL.01.731.029": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.3.0.C3_TARGET_ALL.01.731.029",
+  "project": "le_manifest",
+  "date": "2026-08-28T04:59:44.000-07:00"
+ },
  "LE.AU_EAP.1.0.1.c4-02100-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.1.c4-02100-eap-fsl",
   "project": "le_manifest",
