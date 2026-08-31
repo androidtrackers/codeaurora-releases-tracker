@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c7-02200-9x07": {
+  "tag": "LE.UM.2.3.6.c7-02200-9x07",
+  "project": "le_manifest",
+  "date": "2026-08-30T22:53:49.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.022": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C7_TARGET_ALL.01.716.022",
+  "project": "le_manifest",
+  "date": "2026-08-30T22:38:17.000-07:00"
+ },
  "LE.VM.2.1.r5-03500-genericarmv8-64.0": {
   "tag": "LE.VM.2.1.r5-03500-genericarmv8-64.0",
   "project": "le_manifest",
