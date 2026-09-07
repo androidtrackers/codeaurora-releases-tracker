@@ -1,4 +1,14 @@
 {
+ "LA.UM.8.3.c25-13000-sdm845.0": {
+  "tag": "LA.UM.8.3.c25-13000-sdm845.0",
+  "project": "la_platform",
+  "date": "2026-09-07T07:47:21.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.130": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.130",
+  "project": "la_platform",
+  "date": "2026-09-07T07:16:05.000-07:00"
+ },
  "LA.UM.7.2.c25-12800-sdm660.0": {
   "tag": "LA.UM.7.2.c25-12800-sdm660.0",
   "project": "la_platform",
@@ -42748,6 +42758,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.7.r1-13900-lanai.QISI15.0": {
+  "tag": "LA.VENDOR.14.3.7.r1-13900-lanai.QISI15.0",
+  "project": "la_vendor",
+  "date": "2026-09-07T13:33:24.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.139": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.139",
+  "project": "la_vendor",
+  "date": "2026-09-07T13:33:12.000+00:00"
  },
  "LA.VENDOR.16.2.7.r1-06500-LAHAINA1.0": {
   "tag": "LA.VENDOR.16.2.7.r1-06500-LAHAINA1.0",
