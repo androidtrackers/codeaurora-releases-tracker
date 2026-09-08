@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.1.0.c13-12000-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.c13-12000-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-09-07T22:34:58.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C13_TARGET_ALL.01.372.120": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.C13_TARGET_ALL.01.372.120",
+  "project": "le_manifest",
+  "date": "2026-09-07T22:19:21.000-07:00"
+ },
  "LE.UM.7.3.1.r2-06300-genericarmv8-64.0": {
   "tag": "LE.UM.7.3.1.r2-06300-genericarmv8-64.0",
   "project": "le_manifest",
