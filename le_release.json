@@ -1,4 +1,14 @@
 {
+ "LV.AU.0.5.1.r1-09700-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.1.r1-09700-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-09-09T06:38:50.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R1_TARGET_ALL.01.737.097": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.1.R1_TARGET_ALL.01.737.097",
+  "project": "le_manifest",
+  "date": "2026-09-09T06:38:35.000+00:00"
+ },
  "LE.AU_EAP.1.0.c13-12000-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.c13-12000-eap-fsl",
   "project": "le_manifest",
