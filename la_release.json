@@ -1,4 +1,9 @@
 {
+ "ndk-r30": {
+  "tag": "ndk-r30",
+  "project": "la_platform",
+  "date": "2026-09-10T11:35:44.000-07:00"
+ },
  "android-platform-15.0.0_r19": {
   "tag": "android-platform-15.0.0_r19",
   "project": "la_platform",
