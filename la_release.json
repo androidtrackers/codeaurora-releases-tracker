@@ -1,4 +1,14 @@
 {
+ "android-platform-15.0.0_r20": {
+  "tag": "android-platform-15.0.0_r20",
+  "project": "la_platform",
+  "date": "2026-09-10T13:37:51.000-07:00"
+ },
+ "android-platform-14.0.0_r31": {
+  "tag": "android-platform-14.0.0_r31",
+  "project": "la_platform",
+  "date": "2026-09-10T13:22:38.000-07:00"
+ },
  "ndk-r30": {
   "tag": "ndk-r30",
   "project": "la_platform",
