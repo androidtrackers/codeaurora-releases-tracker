@@ -26674,6 +26674,26 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "LA_AU.QSSI.15.1.1.r1-04300-qssi.0": {
+  "tag": "LA_AU.QSSI.15.1.1.r1-04300-qssi.0",
+  "project": "la_system",
+  "date": "2026-09-18T07:14:46.000-07:00"
+ },
+ "LA_AU.QSSI.17.0.0.r1-02800-qssi.0": {
+  "tag": "LA_AU.QSSI.17.0.0.r1-02800-qssi.0",
+  "project": "la_system",
+  "date": "2026-09-18T06:51:40.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.15.1.1.R1.11.00.00.1422.043": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.15.1.1.R1.11.00.00.1422.043",
+  "project": "la_system",
+  "date": "2026-09-18T06:44:32.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.17.0.0.R1.11.00.00.1494.028": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.17.0.0.R1.11.00.00.1494.028",
+  "project": "la_system",
+  "date": "2026-09-18T06:23:04.000-07:00"
+ },
  "LA_AU.QSSI.16.1.1.r1-03900-qssi.0": {
   "tag": "LA_AU.QSSI.16.1.1.r1-03900-qssi.0",
   "project": "la_system",
