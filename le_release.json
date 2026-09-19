@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C1_TARGET_ALL.01.556.156": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C1_TARGET_ALL.01.556.156",
+  "project": "le_manifest",
+  "date": "2026-09-19T01:58:11.000-07:00"
+ },
  "LE.UM.6.3.3.r6-01100-genericarmv8-64.0": {
   "tag": "LE.UM.6.3.3.r6-01100-genericarmv8-64.0",
   "project": "le_manifest",
