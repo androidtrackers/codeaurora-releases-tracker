@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C11_TARGET_ALL.01.842.003": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C11_TARGET_ALL.01.842.003",
+  "project": "le_manifest",
+  "date": "2026-09-24T22:19:23.000-07:00"
+ },
  "OWRT.PRODUCT.2.1.r1-18100-SDX35.0": {
   "tag": "OWRT.PRODUCT.2.1.r1-18100-SDX35.0",
   "project": "le_manifest",
