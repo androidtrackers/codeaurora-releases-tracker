@@ -1,4 +1,14 @@
 {
+ "OWRT.PRODUCT.2.1.r2-02500-SDX35_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.1.r2-02500-SDX35_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-09-28T06:12:24.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R2_TARGET_ALL.01.713.025": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.R2_TARGET_ALL.01.713.025",
+  "project": "le_manifest",
+  "date": "2026-09-28T06:11:42.000+00:00"
+ },
  "LE.UM.5.3.1.r2-08100-genericarmv8-64.0": {
   "tag": "LE.UM.5.3.1.r2-08100-genericarmv8-64.0",
   "project": "le_manifest",
