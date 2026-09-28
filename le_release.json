@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.1.1.c2-15900-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.c2-15900-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-09-28T11:42:02.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.159": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.159",
+  "project": "le_manifest",
+  "date": "2026-09-28T11:41:49.000+00:00"
+ },
  "OWRT.PRODUCT.2.1.r2-02500-SDX35_IOT.0": {
   "tag": "OWRT.PRODUCT.2.1.r2-02500-SDX35_IOT.0",
   "project": "le_manifest",
