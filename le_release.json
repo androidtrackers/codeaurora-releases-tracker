@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R2_TARGET_ALL.01.781.021": {
+  "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.2.R2_TARGET_ALL.01.781.021",
+  "project": "le_manifest",
+  "date": "2026-09-28T15:42:38.000+00:00"
+ },
+ "OWRT.PRODUCT.2.2.r2-02100-SDX72_IOT.0": {
+  "tag": "OWRT.PRODUCT.2.2.r2-02100-SDX72_IOT.0",
+  "project": "le_manifest",
+  "date": "2026-09-28T15:42:26.000+00:00"
+ },
  "LY.AU.0.1.1.c2-15900-gen5meta.0": {
   "tag": "LY.AU.0.1.1.c2-15900-gen5meta.0",
   "project": "le_manifest",
