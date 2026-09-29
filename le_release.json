@@ -1,4 +1,24 @@
 {
+ "LY.AU.0.2.0.c1-13100-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-13100-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-09-29T10:26:13.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.131": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.131",
+  "project": "le_manifest",
+  "date": "2026-09-29T10:26:01.000+00:00"
+ },
+ "LE.UM.3.2.3.c22-16400-SA2150p": {
+  "tag": "LE.UM.3.2.3.c22-16400-SA2150p",
+  "project": "le_manifest",
+  "date": "2026-09-29T02:19:45.000-07:00"
+ },
+ "LE.UM.4.1.1.c19-16500-sa515m": {
+  "tag": "LE.UM.4.1.1.c19-16500-sa515m",
+  "project": "le_manifest",
+  "date": "2026-09-29T02:15:29.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.3.2.3.C22_TARGET_ALL.01.512.164": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.3.C22_TARGET_ALL.01.512.164",
   "project": "le_manifest",
