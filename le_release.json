@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.046": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.046",
+  "project": "le_manifest",
+  "date": "2026-09-30T15:56:02.000+00:00"
+ },
  "LE.UM.7.4.1.1.c1-36600-sa525m-tele": {
   "tag": "LE.UM.7.4.1.1.c1-36600-sa525m-tele",
   "project": "le_manifest",
