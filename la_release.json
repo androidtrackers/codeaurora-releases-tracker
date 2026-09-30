@@ -43259,6 +43259,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.8.r1-05900-LAHAINA.0": {
+  "tag": "LA.VENDOR.16.2.8.r1-05900-LAHAINA.0",
+  "project": "la_vendor",
+  "date": "2026-09-29T19:28:44.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.8.R1.11.00.00.1525.059": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.8.R1.11.00.00.1525.059",
+  "project": "la_vendor",
+  "date": "2026-09-29T19:12:02.000-07:00"
+ },
  "LA_AU.VENDOR.13.0.0.r2-07900-gen3meta.0": {
   "tag": "LA_AU.VENDOR.13.0.0.r2-07900-gen3meta.0",
   "project": "la_vendor",
