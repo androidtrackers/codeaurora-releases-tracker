@@ -1,4 +1,19 @@
 {
+ "LE.VM.3.0.r1-09900-genericarmv8-64.0": {
+  "tag": "LE.VM.3.0.r1-09900-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-10-01T10:02:43.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.099": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.099",
+  "project": "le_manifest",
+  "date": "2026-10-01T10:02:29.000+00:00"
+ },
+ "LE.UM.3.2.3.1.c3-06600-SA2150p": {
+  "tag": "LE.UM.3.2.3.1.c3-06600-SA2150p",
+  "project": "le_manifest",
+  "date": "2026-10-01T02:19:21.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.3.2.3.1.C3_TARGET_ALL.01.620.066": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.3.2.3.1.C3_TARGET_ALL.01.620.066",
   "project": "le_manifest",
