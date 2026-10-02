@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.088": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.R2_TARGET_ALL.01.648.088",
+  "project": "le_manifest",
+  "date": "2026-10-02T12:06:08.000-07:00"
+ },
  "LE.UM.4.1.1.1.c1-07900-sa515m": {
   "tag": "LE.UM.4.1.1.1.c1-07900-sa515m",
   "project": "le_manifest",
