@@ -1,4 +1,9 @@
 {
+ "android-security-17.0.0_r1": {
+  "tag": "android-security-17.0.0_r1",
+  "project": "la_platform",
+  "date": "2026-10-07T03:48:52.000+00:00"
+ },
  "LA.UM.8.2.1.c25-13800-sdm660.0": {
   "tag": "LA.UM.8.2.1.c25-13800-sdm660.0",
   "project": "la_platform",
@@ -133,11 +138,6 @@
   "tag": "android-security-16.0.0_r8",
   "project": "la_platform",
   "date": "2026-09-08T14:18:57.000-07:00"
- },
- "android-security-17.0.0_r1": {
-  "tag": "android-security-17.0.0_r1",
-  "project": "la_platform",
-  "date": "2026-09-08T10:37:28.000-07:00"
  },
  "LA.UM.7.2.c28-01300-8x98.0": {
   "tag": "LA.UM.7.2.c28-01300-8x98.0",
@@ -43433,6 +43433,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.14.3.11.r1-07700-ALISO.0": {
+  "tag": "LA.VENDOR.14.3.11.r1-07700-ALISO.0",
+  "project": "la_vendor",
+  "date": "2026-10-07T12:20:00.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.11.R1.11.00.00.1327.077": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.11.R1.11.00.00.1327.077",
+  "project": "la_vendor",
+  "date": "2026-10-07T12:19:44.000+00:00"
  },
  "LA.VENDOR.15.4.5.r1-07500-WAIPIO.QISI16.0": {
   "tag": "LA.VENDOR.15.4.5.r1-07500-WAIPIO.QISI16.0",
