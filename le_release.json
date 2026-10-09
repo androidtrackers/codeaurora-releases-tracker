@@ -1,4 +1,14 @@
 {
+ "LE.AU_EAP.1.0.1.c2-04900-eap-fsl": {
+  "tag": "LE.AU_EAP.1.0.1.c2-04900-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-10-08T23:52:48.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.049": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.1.0.1.C2_TARGET_ALL.01.622.049",
+  "project": "le_manifest",
+  "date": "2026-10-08T23:37:48.000-07:00"
+ },
  "LE.UM.3.2.3.1.c3-06900-SA2150p": {
   "tag": "LE.UM.3.2.3.1.c3-06900-SA2150p",
   "project": "le_manifest",
