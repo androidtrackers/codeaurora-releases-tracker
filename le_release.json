@@ -1,4 +1,14 @@
 {
+ "PRPL.PRODUCT.2.0.r2-01300-sdx85.0": {
+  "tag": "PRPL.PRODUCT.2.0.r2-01300-sdx85.0",
+  "project": "le_manifest",
+  "date": "2026-10-12T05:15:23.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_PRPL.PRODUCT.2.0.R2_TARGET_ALL.01.830.013": {
+  "tag": "AU_LINUX_EMBEDDED_PRPL.PRODUCT.2.0.R2_TARGET_ALL.01.830.013",
+  "project": "le_manifest",
+  "date": "2026-10-12T05:15:11.000+00:00"
+ },
  "LE.UM.7.3.1.r2-06500-genericarmv8-64.0": {
   "tag": "LE.UM.7.3.1.r2-06500-genericarmv8-64.0",
   "project": "le_manifest",
