@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.3.0.r1-01400-sa2390.0": {
+  "tag": "LY.AU.0.3.0.r1-01400-sa2390.0",
+  "project": "le_manifest",
+  "date": "2026-10-13T18:11:52.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.3.0.R1_TARGET_ALL.01.845.014": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.3.0.R1_TARGET_ALL.01.845.014",
+  "project": "le_manifest",
+  "date": "2026-10-13T18:11:39.000+00:00"
+ },
  "PRPL.PRODUCT.2.0.r2-01300-sdx85.0": {
   "tag": "PRPL.PRODUCT.2.0.r2-01300-sdx85.0",
   "project": "le_manifest",
