@@ -43504,6 +43504,11 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.C27.11.00.00.1321.023": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.C27.11.00.00.1321.023",
+  "project": "la_vendor",
+  "date": "2026-10-13T03:52:26.000-07:00"
+ },
  "LA.VENDOR.14.3.0.c2-01100-lanai.QSSI16.0": {
   "tag": "LA.VENDOR.14.3.0.c2-01100-lanai.QSSI16.0",
   "project": "la_vendor",
