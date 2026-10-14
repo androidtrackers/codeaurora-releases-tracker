@@ -1,4 +1,14 @@
 {
+ "android-platform-15.0.0_r21": {
+  "tag": "android-platform-15.0.0_r21",
+  "project": "la_platform",
+  "date": "2026-10-14T15:55:41.000+00:00"
+ },
+ "android-platform-14.0.0_r32": {
+  "tag": "android-platform-14.0.0_r32",
+  "project": "la_platform",
+  "date": "2026-10-14T14:13:41.000+00:00"
+ },
  "android-security-17.0.0_r1": {
   "tag": "android-security-17.0.0_r1",
   "project": "la_platform",
