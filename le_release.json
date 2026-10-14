@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.103": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.103",
+  "project": "le_manifest",
+  "date": "2026-10-14T20:58:40.000+00:00"
+ },
+ "LE.VM.3.0.r1-10300-genericarmv8-64.0": {
+  "tag": "LE.VM.3.0.r1-10300-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-10-14T20:58:23.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.017": {
   "tag": "AU_LINUX_EMBEDDED_OWRT.PRODUCT.2.1.1.R2_TARGET_ALL.01.762.017",
   "project": "le_manifest",
