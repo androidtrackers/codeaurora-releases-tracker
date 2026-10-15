@@ -1,4 +1,24 @@
 {
+ "LE.VM.2.1.r1-20100-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r1-20100-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-10-15T02:50:03.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R1_TARGET_ALL.01.667.201": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R1_TARGET_ALL.01.667.201",
+  "project": "le_manifest",
+  "date": "2026-10-15T02:49:50.000+00:00"
+ },
+ "LE.VM.2.1.r5-04000-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r5-04000-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-10-15T00:53:42.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R5_TARGET_ALL.01.786.040": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R5_TARGET_ALL.01.786.040",
+  "project": "le_manifest",
+  "date": "2026-10-15T00:53:30.000+00:00"
+ },
  "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.103": {
   "tag": "AU_LINUX_EMBEDDED_LE.VM.3.0.R1_TARGET_ALL.01.760.103",
   "project": "le_manifest",
