@@ -1,4 +1,14 @@
 {
+ "LE.UM.7.2.1.c1-13100-sa415m": {
+  "tag": "LE.UM.7.2.1.c1-13100-sa415m",
+  "project": "le_manifest",
+  "date": "2026-10-21T05:14:06.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.2.1.C1_TARGET_ALL.01.587.131": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.2.1.C1_TARGET_ALL.01.587.131",
+  "project": "le_manifest",
+  "date": "2026-10-21T04:58:05.000-07:00"
+ },
  "LE.AU_EAP.1.0.1.c3-02600-eap-fsl": {
   "tag": "LE.AU_EAP.1.0.1.c3-02600-eap-fsl",
   "project": "le_manifest",
