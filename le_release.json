@@ -1,4 +1,14 @@
 {
+ "LE.VM.1.0.r1-12000-genericarmv8-64.0": {
+  "tag": "LE.VM.1.0.r1-12000-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-10-22T06:26:15.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.1.0.R1_TARGET_ALL.01.601.120": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.1.0.R1_TARGET_ALL.01.601.120",
+  "project": "le_manifest",
+  "date": "2026-10-22T06:26:03.000+00:00"
+ },
  "LY.AU.0.3.0-03100-gen5meta.0": {
   "tag": "LY.AU.0.3.0-03100-gen5meta.0",
   "project": "le_manifest",
