@@ -1,4 +1,9 @@
 {
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.0.R3_TARGET_ALL.01.704.156": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.0.R3_TARGET_ALL.01.704.156",
+  "project": "le_manifest",
+  "date": "2026-10-23T21:52:52.000-07:00"
+ },
  "LE.UM.7.1.1.r1-21800-LASSEN.0": {
   "tag": "LE.UM.7.1.1.r1-21800-LASSEN.0",
   "project": "le_manifest",
