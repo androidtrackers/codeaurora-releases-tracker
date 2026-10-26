@@ -1,4 +1,14 @@
 {
+ "LE.UM.2.3.6.c8-02000-9x07": {
+  "tag": "LE.UM.2.3.6.c8-02000-9x07",
+  "project": "le_manifest",
+  "date": "2026-10-25T22:41:02.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C8_TARGET_ALL.01.769.020": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.2.3.6.C8_TARGET_ALL.01.769.020",
+  "project": "le_manifest",
+  "date": "2026-10-25T22:26:59.000-07:00"
+ },
  "LV.AU.0.5.1.r1-11100-qtiquingvm.0": {
   "tag": "LV.AU.0.5.1.r1-11100-qtiquingvm.0",
   "project": "le_manifest",
