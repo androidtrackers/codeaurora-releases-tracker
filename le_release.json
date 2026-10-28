@@ -1,4 +1,19 @@
 {
+ "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.030": {
+  "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.030",
+  "project": "le_manifest",
+  "date": "2026-10-27T21:59:15.000-07:00"
+ },
+ "LE.UM.7.4.1.1.c4-03400-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.c4-03400-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-10-27T21:30:20.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C4_TARGET_ALL.01.747.034": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C4_TARGET_ALL.01.747.034",
+  "project": "le_manifest",
+  "date": "2026-10-27T21:09:35.000-07:00"
+ },
  "LE.UM.11.3.1.r1-03600-sa535m-tele": {
   "tag": "LE.UM.11.3.1.r1-03600-sa535m-tele",
   "project": "le_manifest",
