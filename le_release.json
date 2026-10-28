@@ -1,4 +1,9 @@
 {
+ "LE.AU_EAP.3.0.r1-03000-eap-fsl": {
+  "tag": "LE.AU_EAP.3.0.r1-03000-eap-fsl",
+  "project": "le_manifest",
+  "date": "2026-10-27T22:16:01.000-07:00"
+ },
  "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.030": {
   "tag": "AU_LINUX_EMBEDDED_LE.AU_EAP.3.0.R1_TARGET_ALL.01.606.030",
   "project": "le_manifest",
