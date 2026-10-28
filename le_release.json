@@ -1,4 +1,14 @@
 {
+ "LE.UM.11.3.1.r1-03600-sa535m-tele": {
+  "tag": "LE.UM.11.3.1.r1-03600-sa535m-tele",
+  "project": "le_manifest",
+  "date": "2026-10-28T02:21:25.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.11.3.1.R1_TARGET_ALL.01.807.036": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.11.3.1.R1_TARGET_ALL.01.807.036",
+  "project": "le_manifest",
+  "date": "2026-10-28T02:21:12.000+00:00"
+ },
  "LE.AU_EAP.3.0.r1-02900-eap-fsl": {
   "tag": "LE.AU_EAP.3.0.r1-02900-eap-fsl",
   "project": "le_manifest",
