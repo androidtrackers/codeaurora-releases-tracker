@@ -1,4 +1,24 @@
 {
+ "LY.AU.0.2.0.c1-13600-gen4meta.0": {
+  "tag": "LY.AU.0.2.0.c1-13600-gen4meta.0",
+  "project": "le_manifest",
+  "date": "2026-10-29T06:42:15.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.136": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.0.C1_TARGET_ALL.01.767.136",
+  "project": "le_manifest",
+  "date": "2026-10-29T06:42:01.000+00:00"
+ },
+ "LE.UM.7.4.1.1.c8-02200-sa525m-tele": {
+  "tag": "LE.UM.7.4.1.1.c8-02200-sa525m-tele",
+  "project": "le_manifest",
+  "date": "2026-10-28T23:16:10.000-07:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C8_TARGET_ALL.01.825.022": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.1.1.C8_TARGET_ALL.01.825.022",
+  "project": "le_manifest",
+  "date": "2026-10-28T22:56:54.000-07:00"
+ },
  "LE.AU_EAP.3.0.r1-03000-eap-fsl": {
   "tag": "LE.AU_EAP.3.0.r1-03000-eap-fsl",
   "project": "le_manifest",
