@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.1.r4-02100-gen5meta.0": {
+  "tag": "LY.AU.0.2.1.r4-02100-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-10-29T11:30:17.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R4_TARGET_ALL.01.841.021": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R4_TARGET_ALL.01.841.021",
+  "project": "le_manifest",
+  "date": "2026-10-29T11:30:03.000+00:00"
+ },
  "LE.UM.6.3.6.r1-15800-SDX65.0": {
   "tag": "LE.UM.6.3.6.r1-15800-SDX65.0",
   "project": "le_manifest",
