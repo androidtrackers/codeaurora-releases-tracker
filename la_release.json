@@ -26779,6 +26779,31 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.16.1.1.R1.11.00.00.1465.045": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.16.1.1.R1.11.00.00.1465.045",
+  "project": "la_system",
+  "date": "2026-10-30T02:54:32.000-07:00"
+ },
+ "LA.QSSI.14.1.r1-01000-qssi.0": {
+  "tag": "LA.QSSI.14.1.r1-01000-qssi.0",
+  "project": "la_system",
+  "date": "2026-10-30T02:52:01.000-07:00"
+ },
+ "LAW.QWSI.16.1.r1-02600-qssi.0": {
+  "tag": "LAW.QWSI.16.1.r1-02600-qssi.0",
+  "project": "la_system",
+  "date": "2026-10-30T02:38:05.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.QSSI.14.1.R1.14.00.00.1541.010": {
+  "tag": "AU_LINUX_ANDROID_LA.QSSI.14.1.R1.14.00.00.1541.010",
+  "project": "la_system",
+  "date": "2026-10-30T02:15:58.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LAW.QWSI.16.1.R1.11.00.00.1542.026": {
+  "tag": "AU_LINUX_ANDROID_LAW.QWSI.16.1.R1.11.00.00.1542.026",
+  "project": "la_system",
+  "date": "2026-10-30T02:09:16.000-07:00"
+ },
  "LA.QSSI.16.0.r1-16200-qssi.0": {
   "tag": "LA.QSSI.16.0.r1-16200-qssi.0",
   "project": "la_system",
