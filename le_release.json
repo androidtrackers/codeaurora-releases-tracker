@@ -1,4 +1,14 @@
 {
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.177": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C2_TARGET_ALL.01.783.177",
+  "project": "le_manifest",
+  "date": "2026-10-30T01:22:24.000+00:00"
+ },
+ "LY.AU.0.1.1.c2-17700-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.c2-17700-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-10-30T01:22:10.000+00:00"
+ },
  "LY.AU.0.1.1.c4-02600-gen5meta.0": {
   "tag": "LY.AU.0.1.1.c4-02600-gen5meta.0",
   "project": "le_manifest",
