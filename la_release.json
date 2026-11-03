@@ -1,4 +1,24 @@
 {
+ "android-security-14.0.0_r31": {
+  "tag": "android-security-14.0.0_r31",
+  "project": "la_platform",
+  "date": "2026-11-02T13:21:41.000-08:00"
+ },
+ "android-security-15.0.0_r19": {
+  "tag": "android-security-15.0.0_r19",
+  "project": "la_platform",
+  "date": "2026-11-02T11:26:54.000-08:00"
+ },
+ "android-security-16.0.0_r10": {
+  "tag": "android-security-16.0.0_r10",
+  "project": "la_platform",
+  "date": "2026-11-02T11:06:50.000-08:00"
+ },
+ "android-security-17.0.0_r3": {
+  "tag": "android-security-17.0.0_r3",
+  "project": "la_platform",
+  "date": "2026-11-02T10:13:59.000-08:00"
+ },
  "android-platform-15.0.0_r21": {
   "tag": "android-platform-15.0.0_r21",
   "project": "la_platform",
