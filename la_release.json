@@ -1,4 +1,9 @@
 {
+ "studio-2026.2.2": {
+  "tag": "studio-2026.2.2",
+  "project": "la_platform",
+  "date": "2026-11-03T09:20:27.000-08:00"
+ },
  "android-security-14.0.0_r31": {
   "tag": "android-security-14.0.0_r31",
   "project": "la_platform",
@@ -26799,6 +26804,11 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.QISI.11.0.C26.11.00.00.1490.006": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.11.0.C26.11.00.00.1490.006",
+  "project": "la_system",
+  "date": "2026-11-03T23:22:59.000-08:00"
+ },
  "LA.QSSI.14.0.r3-04300-qssi.0": {
   "tag": "LA.QSSI.14.0.r3-04300-qssi.0",
   "project": "la_system",
@@ -43938,6 +43948,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.UM.9.14.1.c30-01700-QCM6490.QISI14c28.0": {
+  "tag": "LA.UM.9.14.1.c30-01700-QCM6490.QISI14c28.0",
+  "project": "la_vendor",
+  "date": "2026-11-03T23:18:45.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.UM.9.14.1.C30.11.00.00.1535.017": {
+  "tag": "AU_LINUX_ANDROID_LA.UM.9.14.1.C30.11.00.00.1535.017",
+  "project": "la_vendor",
+  "date": "2026-11-03T22:58:09.000-08:00"
  },
  "LA.VENDOR.1.0.r1-30800-WAIPIO.QSSI16.0": {
   "tag": "LA.VENDOR.1.0.r1-30800-WAIPIO.QSSI16.0",
