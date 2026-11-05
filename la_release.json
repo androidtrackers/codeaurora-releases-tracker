@@ -1,4 +1,14 @@
 {
+ "android-cts-14.0_r14": {
+  "tag": "android-cts-14.0_r14",
+  "project": "la_platform",
+  "date": "2026-11-04T09:39:44.000-08:00"
+ },
+ "android-cts-15.0_r10": {
+  "tag": "android-cts-15.0_r10",
+  "project": "la_platform",
+  "date": "2026-11-04T09:13:22.000-08:00"
+ },
  "LA.UM.8.3.c25-14500-sdm845.0": {
   "tag": "LA.UM.8.3.c25-14500-sdm845.0",
   "project": "la_platform",
@@ -8,6 +18,11 @@
   "tag": "AU_LINUX_ANDROID_LA.UM.8.3.C25.10.00.00.815.145",
   "project": "la_platform",
   "date": "2026-11-04T03:59:42.000-08:00"
+ },
+ "studio-2026.2.3-alpha01": {
+  "tag": "studio-2026.2.3-alpha01",
+  "project": "la_platform",
+  "date": "2026-11-04T00:11:36.000-08:00"
  },
  "studio-2026.2.2": {
   "tag": "studio-2026.2.2",
@@ -43993,6 +44008,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "LA.VENDOR.16.2.1.r1-11800-LAHAINA.0": {
+  "tag": "LA.VENDOR.16.2.1.r1-11800-LAHAINA.0",
+  "project": "la_vendor",
+  "date": "2026-11-05T20:04:23.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.1.R1.11.00.00.1348.118": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.1.R1.11.00.00.1348.118",
+  "project": "la_vendor",
+  "date": "2026-11-05T20:04:06.000+00:00"
  },
  "LA.VENDOR.16.2.7.r1-08200-LAHAINA1.0": {
   "tag": "LA.VENDOR.16.2.7.r1-08200-LAHAINA1.0",
