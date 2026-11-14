@@ -26859,6 +26859,21 @@
   "project": "la_platform",
   "date": "2011-09-29T09:03:59.000-07:00"
  },
+ "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.063": {
+  "tag": "AU_LINUX_ANDROID_LA.QISI.15.0.R1.11.00.00.1330.063",
+  "project": "la_system",
+  "date": "2026-11-14T13:50:32.000+00:00"
+ },
+ "LA.QISI.15.0.r1-06300-qssi.0": {
+  "tag": "LA.QISI.15.0.r1-06300-qssi.0",
+  "project": "la_system",
+  "date": "2026-11-14T13:48:50.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.QSSI.17.0.0.R1.11.00.00.1494.038": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.QSSI.17.0.0.R1.11.00.00.1494.038",
+  "project": "la_system",
+  "date": "2026-11-14T05:14:43.000-08:00"
+ },
  "LA_AU.QSSI.16.1.1.r1-04600-qssi.0": {
   "tag": "LA_AU.QSSI.16.1.1.r1-04600-qssi.0",
   "project": "la_system",
@@ -44118,6 +44133,16 @@
   "tag": "AU_LINUX_ANDROID_LA.QSSI.11.0.R1.11.00.00.668.056",
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.080": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.080",
+  "project": "la_vendor",
+  "date": "2026-11-14T13:51:12.000+00:00"
+ },
+ "LA.VENDOR.15.4.5.r1-08000-WAIPIO.QISI16.0": {
+  "tag": "LA.VENDOR.15.4.5.r1-08000-WAIPIO.QISI16.0",
+  "project": "la_vendor",
+  "date": "2026-11-14T13:49:06.000+00:00"
  },
  "LA_AU.VENDOR.17.0.1.r1-04500-gvm.0": {
   "tag": "LA_AU.VENDOR.17.0.1.r1-04500-gvm.0",
