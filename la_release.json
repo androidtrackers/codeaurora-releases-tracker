@@ -44134,6 +44134,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.14.3.7.r1-15000-lanai.QISI16.0": {
+  "tag": "LA.VENDOR.14.3.7.r1-15000-lanai.QISI16.0",
+  "project": "la_vendor",
+  "date": "2026-11-15T13:12:03.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.150": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.14.3.7.R1.11.00.00.1228.150",
+  "project": "la_vendor",
+  "date": "2026-11-15T13:11:44.000+00:00"
+ },
  "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.080": {
   "tag": "AU_LINUX_ANDROID_LA.VENDOR.15.4.5.R1.11.00.00.1384.080",
   "project": "la_vendor",
