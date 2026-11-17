@@ -44154,6 +44154,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA.VENDOR.16.2.8.r1-07000-LAHAINA.0": {
+  "tag": "LA.VENDOR.16.2.8.r1-07000-LAHAINA.0",
+  "project": "la_vendor",
+  "date": "2026-11-16T19:31:48.000-08:00"
+ },
+ "AU_LINUX_ANDROID_LA.VENDOR.16.2.8.R1.11.00.00.1525.070": {
+  "tag": "AU_LINUX_ANDROID_LA.VENDOR.16.2.8.R1.11.00.00.1525.070",
+  "project": "la_vendor",
+  "date": "2026-11-16T19:15:40.000-08:00"
+ },
  "LA_AU.VENDOR.14.0.6.r1-02000-sa8155_gvmq.0": {
   "tag": "LA_AU.VENDOR.14.0.6.r1-02000-sa8155_gvmq.0",
   "project": "la_vendor",
