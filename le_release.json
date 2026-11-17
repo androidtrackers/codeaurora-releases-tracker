@@ -1,4 +1,29 @@
 {
+ "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.2.R2_TARGET_ALL.01.703.007": {
+  "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.2.2.R2_TARGET_ALL.01.703.007",
+  "project": "le_manifest",
+  "date": "2026-11-16T23:56:50.000-08:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.232": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.7.4.2.C1_TARGET_ALL.01.602.232",
+  "project": "le_manifest",
+  "date": "2026-11-16T23:45:32.000-08:00"
+ },
+ "LE.VM.2.1.r6-01100-genericarmv8-64.0": {
+  "tag": "LE.VM.2.1.r6-01100-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-11-17T07:29:47.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.VM.2.1.R6_TARGET_ALL.01.854.011": {
+  "tag": "AU_LINUX_EMBEDDED_LE.VM.2.1.R6_TARGET_ALL.01.854.011",
+  "project": "le_manifest",
+  "date": "2026-11-17T07:29:31.000+00:00"
+ },
+ "CHSS.LNX_FSL.5.3-06400-QCAAUTOHOSTHZ": {
+  "tag": "CHSS.LNX_FSL.5.3-06400-QCAAUTOHOSTHZ",
+  "project": "le_manifest",
+  "date": "2026-11-16T22:39:21.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3_TARGET_ALL.01.728.064": {
   "tag": "AU_LINUX_EMBEDDED_CHSS.LNX_FSL.5.3_TARGET_ALL.01.728.064",
   "project": "le_manifest",
