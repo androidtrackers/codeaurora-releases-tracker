@@ -1,4 +1,34 @@
 {
+ "LY.AU.0.1.1.c4-03800-gen5meta.0": {
+  "tag": "LY.AU.0.1.1.c4-03800-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-11-20T09:34:41.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C4_TARGET_ALL.01.839.038": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.1.1.C4_TARGET_ALL.01.839.038",
+  "project": "le_manifest",
+  "date": "2026-11-20T09:34:25.000+00:00"
+ },
+ "LV.AU.0.5.3.r1-01200-qtiquingvm.0": {
+  "tag": "LV.AU.0.5.3.r1-01200-qtiquingvm.0",
+  "project": "le_manifest",
+  "date": "2026-11-20T09:34:09.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LV.AU.0.5.3.R1_TARGET_ALL.01.820.012": {
+  "tag": "AU_LINUX_EMBEDDED_LV.AU.0.5.3.R1_TARGET_ALL.01.820.012",
+  "project": "le_manifest",
+  "date": "2026-11-20T09:33:53.000+00:00"
+ },
+ "LE.UM.6.3.3.r1-26300-genericarmv8-64.0": {
+  "tag": "LE.UM.6.3.3.r1-26300-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-11-20T08:27:50.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R1_TARGET_ALL.01.427.263": {
+  "tag": "AU_LINUX_EMBEDDED_LE.UM.6.3.3.R1_TARGET_ALL.01.427.263",
+  "project": "le_manifest",
+  "date": "2026-11-20T08:27:34.000+00:00"
+ },
  "LE.UM.7.1.1.r1-22500-LASSEN.0": {
   "tag": "LE.UM.7.1.1.r1-22500-LASSEN.0",
   "project": "le_manifest",
