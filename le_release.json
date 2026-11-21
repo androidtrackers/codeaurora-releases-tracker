@@ -1,4 +1,14 @@
 {
+ "LY.AU.0.2.1.r2-05800-gen5meta.0": {
+  "tag": "LY.AU.0.2.1.r2-05800-gen5meta.0",
+  "project": "le_manifest",
+  "date": "2026-11-21T04:19:53.000+00:00"
+ },
+ "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.058": {
+  "tag": "AU_LINUX_EMBEDDED_LY.AU.0.2.1.R2_TARGET_ALL.01.812.058",
+  "project": "le_manifest",
+  "date": "2026-11-21T04:19:38.000+00:00"
+ },
  "LV.AU.1.2.5.r1-05200-qtiquingvm.0": {
   "tag": "LV.AU.1.2.5.r1-05200-qtiquingvm.0",
   "project": "le_manifest",
