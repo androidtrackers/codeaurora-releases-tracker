@@ -1,4 +1,9 @@
 {
+ "LE.UM.5.3.1.c25-02400-genericarmv8-64.0": {
+  "tag": "LE.UM.5.3.1.c25-02400-genericarmv8-64.0",
+  "project": "le_manifest",
+  "date": "2026-11-24T06:03:20.000-08:00"
+ },
  "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.024": {
   "tag": "AU_LINUX_EMBEDDED_LE.UM.5.3.1.C25_TARGET_ALL.01.715.024",
   "project": "le_manifest",
