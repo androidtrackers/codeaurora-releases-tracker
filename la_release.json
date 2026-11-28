@@ -44404,6 +44404,16 @@
   "project": "la_system",
   "date": "2020-09-16T02:55:57.000-07:00"
  },
+ "LA_AU.VENDOR.16.0.1.1.r1-10400-gen4_gvm_gy.0": {
+  "tag": "LA_AU.VENDOR.16.0.1.1.r1-10400-gen4_gvm_gy.0",
+  "project": "la_vendor",
+  "date": "2026-11-28T07:26:00.000+00:00"
+ },
+ "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.1.1.R1.11.00.00.1500.104": {
+  "tag": "AU_LINUX_ANDROID_LA_AU.VENDOR.16.0.1.1.R1.11.00.00.1500.104",
+  "project": "la_vendor",
+  "date": "2026-11-28T07:25:43.000+00:00"
+ },
  "LA.VENDOR.13.2.1.r2-18800-DIVAR.QISI15.0": {
   "tag": "LA.VENDOR.13.2.1.r2-18800-DIVAR.QISI15.0",
   "project": "la_vendor",
